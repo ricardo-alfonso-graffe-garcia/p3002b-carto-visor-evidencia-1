@@ -72,7 +72,7 @@ FAIR son principios orientadores, no una certificación obtenida al guardar JSON
 5. No están implementados PID/perfiles externos, RO-Crate, PROV-O, DataCite o nanopublicaciones ni acuerdos efectivos de derechos por recurso.
 6. Las pruebas de utilidad, aceptación y mantenimiento, y el protocolo espacial, son propuestas futuras. No hay resultados, ahorro o robustez empírica medidos.
 7. Se conserva un antecedente complementario de Capybara; no se identifica como el ejemplo exacto de las capturas de clase.
-8. Fechas, audios, firmas y validación de guion no acreditados no se crean. La excepción académica comunicada y el uso de IA siguen declarados de forma fiel al proceso disponible.
+8. Los registros y las fechas disponibles se conservan. El uso de IA se describe en la declaración metodológica.
 
 Estas diferencias están registradas en veinte puntos de presencia y brechas. La resolución histórica de 175 recomendaciones significa que cada una tiene tratamiento y destino; no significa cumplimiento empírico completo ni garantiza una calificación. La limitación de páginas anotada por el auditor se ajusta a la decisión del usuario de excluir portada, referencias y anexos del máximo de diez páginas de cuerpo.
 

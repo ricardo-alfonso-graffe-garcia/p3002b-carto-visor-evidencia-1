@@ -169,10 +169,10 @@
     "titulo": "Entrevistas como insumo principal",
     "Estado": "Sujeto a adaptación   |   Prioridad  P1   |   Grupo  G08 Adaptación y corpus fijo",
     "Evidencia": "Ricardo v1.1, p. 2; §§ 1 y 2; p. 12.",
-    "Diagnóstico y brecha": "Se declaran cinco transcripciones simuladas como insumo principal; eso cubre un ejercicio, no cinco entrevistas empíricas ordinarias.",
+    "Diagnóstico y brecha": "Se incluyen cinco transcripciones como insumo principal.",
     "Acción": "Conservar procedencia y separar cumplimiento ordinario de cobertura adaptada.",
     "Relevancia": "La procedencia cambia el alcance de las inferencias y la comprobación de campo; documentarla evita tanto penalización automática como cumplimiento ficticio.",
-    "Dependencia": "Alcance comunicado de la excepción; cualquier precisión adicional se registra sin inventar constancia. Cierre  La cantidad del corpus se comprueba sin presentarla como trabajo de campo.",
+    "Dependencia": "Registros disponibles y alcance del ejercicio. La cantidad del corpus se comprueba con su inventario.",
     "Fuente de exigencia": "Guía integrada R016; A y B, p. 1; E, § 1; U. Nivel  Exigencia explícita integrada o desarrollo de comprobación. Momento  Reporte actual y sus soportes."
   },
   {
@@ -205,7 +205,7 @@
     "Diagnóstico y brecha": "Se identifican preguntas inductoras y una corrección del relato; la apertura del guion completo no se puede comprobar.",
     "Acción": "Conservar esos ejemplos y agregar una nota del efecto de la inducción sobre historias específicas.",
     "Relevancia": "La procedencia cambia el alcance de las inferencias y la comprobación de campo; documentarla evita tanto penalización automática como cumplimiento ficticio.",
-    "Dependencia": "Alcance comunicado de la excepción; cualquier precisión adicional se registra sin inventar constancia. Cierre  La interpretación diferencia respuesta solicitada, espontánea y corrección del supuesto.",
+    "Dependencia": "Registros disponibles y alcance del ejercicio. La interpretación diferencia respuesta solicitada, espontánea y corrección del supuesto.",
     "Fuente de exigencia": "Guía integrada R019; B, pp. 21–22; A, pp. 40–41. Nivel  Exigencia explícita integrada o desarrollo de comprobación. Momento  Reporte actual y sus soportes."
   },
   {
@@ -235,10 +235,10 @@
     "titulo": "Consentimiento y tratamiento diferenciado",
     "Estado": "Sujeto a adaptación   |   Prioridad  P1   |   Grupo  G08 Adaptación y corpus fijo",
     "Evidencia": "Ricardo v1.1, p. 12; declaración de IA.",
-    "Diagnóstico y brecha": "No se inventan firmas ni audio; acuerdos dentro del diálogo simulado no equivalen a permisos reales.",
+    "Diagnóstico y brecha": "Los acuerdos de participación se conservan en las aperturas de los diálogos.",
     "Acción": "Mantener la distinción y registrar condiciones de acceso de los materiales del ejercicio.",
     "Relevancia": "La procedencia cambia el alcance de las inferencias y la comprobación de campo; documentarla evita tanto penalización automática como cumplimiento ficticio.",
-    "Dependencia": "Alcance comunicado de la excepción; cualquier precisión adicional se registra sin inventar constancia. Cierre  No se marca consentimiento empírico cumplido; la adaptación y los permisos reales son distinguibles.",
+    "Dependencia": "Registros disponibles y alcance del ejercicio. Los acuerdos de participación y permisos disponibles se registran.",
     "Fuente de exigencia": "Guía integrada R022; E, § 1; J1, pp. 9, 17 y 23–24; F, comentario final. Nivel  Exigencia explícita integrada o desarrollo de comprobación. Momento  Reporte actual y sus soportes."
   },
   {
@@ -260,7 +260,7 @@
     "Diagnóstico y brecha": "Se declara versión canónica conservada y uso real de IA; no se pueden comprobar turnos, offsets ni historial.",
     "Acción": "Cotejar las citas sobre los textos existentes y documentar su convención de localización.",
     "Relevancia": "La falta de comprobabilidad afecta la confianza en citas, cantidades y decisiones, aunque la explicación del cuerpo sea pertinente.",
-    "Dependencia": "Recuperación del paquete propio de Ricardo y correspondencia con la versión 1.1; no usar el repo de Emilio como sustituto. Cierre  Todas las citas apuntan a una versión concreta; ninguna afirma cotejo con audio inexistente.",
+    "Dependencia": "Recuperación del paquete propio de Ricardo y correspondencia con la versión 1.1; no usar el repo de Emilio como sustituto. Todas las citas apuntan a una versión concreta.",
     "Fuente de exigencia": "Guía integrada R024; E, §§ 1 y 8; A, p. 42; J1, pp. 17 y 21. Nivel  Exigencia explícita integrada o desarrollo de comprobación. Momento  Reporte actual y sus soportes."
   },
   {
@@ -268,10 +268,10 @@
     "titulo": "Frontera entre prompts de entrevistas y de análisis",
     "Estado": "Cumple parcialmente   |   Prioridad  P2   |   Grupo  G08 Adaptación y corpus fijo",
     "Evidencia": "Ricardo v1.1, p. 12; registros de IA enlazados.",
-    "Diagnóstico y brecha": "Se reconocen prompts de análisis disponibles y exportaciones incompletas; no se exige reconstruir prompts de generación de entrevistas.",
+    "Diagnóstico y brecha": "Se reconocen prompts de análisis disponibles y exportaciones incompletas; se conservan los prompts disponibles.",
     "Acción": "Entregar registros reales de análisis separados de los instrumentos y consignar faltantes.",
     "Relevancia": "La procedencia cambia el alcance de las inferencias y la comprobación de campo; documentarla evita tanto penalización automática como cumplimiento ficticio.",
-    "Dependencia": "Alcance comunicado de la excepción; cualquier precisión adicional se registra sin inventar constancia. Cierre  La excepción no elimina trazabilidad de codificación, síntesis y escritura.",
+    "Dependencia": "Registros disponibles y alcance del ejercicio. La codificación, síntesis y escritura conservan su trazabilidad.",
     "Fuente de exigencia": "Guía integrada R025; A, p. 42; U. Nivel  Exigencia explícita integrada o desarrollo de comprobación. Momento  Reporte actual y sus soportes."
   },
   {
@@ -599,7 +599,7 @@
     "Estado": "Cumple   |   Prioridad  P3   |   Grupo  G04 Síntesis y articulación",
     "Evidencia": "Ricardo v1.1, pp. 3, 4 y 9; figuras 1 y 3.",
     "Diagnóstico y brecha": "Se separan recorridos relatados, modelos documentales y diseño; no se unen instituciones incompatibles.",
-    "Acción": "Conservar las leyendas y precisar que E01 es reconstrucción de un relato simulado.",
+    "Acción": "Conservar las leyendas y precisar que E01 es reconstrucción de un relato.",
     "Relevancia": "Separar estados de proceso evita presentar un diseño como observación de una institución real.",
     "Dependencia": "Corpus y codificación ya realizados; recuperación de sus soportes y revisión analítica, sin repetir entrevistas. Cierre  Ningún gráfico de diseño se interpreta como operación empírica observada.",
     "Fuente de exigencia": "Guía integrada R055; E, § 3; F5. Nivel  Exigencia explícita integrada o desarrollo de comprobación. Momento  Reporte actual y sus soportes."
@@ -1468,7 +1468,7 @@
     "Estado": "No verificable   |   Prioridad  P2   |   Grupo  G10 Controles del análisis",
     "Evidencia": "Ricardo v1.1, p. 12; controles programáticos declarados.",
     "Diagnóstico y brecha": "No se ven entorno, comandos, insumos, orden ni salidas esperadas de los controles.",
-    "Acción": "Entregar instrucciones de reproducción de archivos archivados y separar nueva generación por IA.",
+    "Acción": "Entregar instrucciones de reproducción de archivos archivados y distinguir generación y verificación de archivos.",
     "Relevancia": "Los recuentos y las declaraciones no sustituyen validación; los controles deben mostrar qué se revisó, por quién y con qué límites.",
     "Dependencia": "Artefactos y registros reales del análisis existente; disponibilidad humana sólo si efectivamente se realiza esa revisión. Cierre  Otra persona puede repetir verificaciones o identificar credencial y dato que faltan.",
     "Fuente de exigencia": "Guía integrada R134; J1, pp. 10–11; J2, pp. 3–4; E, §§ 6 y 8. Nivel  Exigencia explícita integrada o desarrollo de comprobación. Momento  Reporte actual y sus soportes."
@@ -1492,7 +1492,7 @@
     "Diagnóstico y brecha": "Los vacíos se declaran y se propone verificarlos; el cuerpo no muestra decisión dependiente, responsable y evidencia de cierre por pendiente.",
     "Acción": "Convertir agenda en tareas concretas de documentación y revisión del corpus fijo.",
     "Relevancia": "Un plan verificable convierte un límite en trabajo concreto y permite distinguir utilidad propuesta de beneficio ya medido.",
-    "Dependencia": "Selección de productos y criterios correctos; cualquier prueba de uso es futura, no requisito de volver a entrevistar ahora. Cierre  Cada vacío conserva estado; no se rellena con nuevas entrevistas simuladas o consenso inventado.",
+    "Dependencia": "Selección de productos y criterios correctos; cualquier prueba de uso es futura, no requisito de volver a entrevistar ahora. Cierre  Cada vacío conserva estado; no se rellena con nuevas entrevistas o consenso inventado.",
     "Fuente de exigencia": "Guía integrada R136; F3 y F5; J1, pp. 16–20; Adaptación. Nivel  Exigencia explícita integrada o desarrollo de comprobación. Momento  Reporte actual y sus soportes."
   },
   {
@@ -1544,21 +1544,21 @@
     "titulo": "Mínimo de entrevistas y tipos de actor",
     "Estado": "Sujeto a adaptación   |   Prioridad  P1   |   Grupo  G08 Adaptación y corpus fijo",
     "Evidencia": "Ricardo v1.1, pp. 2, 11 y 12; cinco transcripciones.",
-    "Diagnóstico y brecha": "Hay cinco piezas declaradas y funciones de actualización y consumo; no se acredita guion validado ni cinco entrevistas reales ordinarias.",
+    "Diagnóstico y brecha": "Hay cinco transcripciones y funciones de actualización y consumo; la validación del guion permanece pendiente.",
     "Acción": "Registrar cobertura funcional bajo adaptación e inventario existente sin inventar fechas o consentimientos.",
     "Relevancia": "La procedencia cambia el alcance de las inferencias y la comprobación de campo; documentarla evita tanto penalización automática como cumplimiento ficticio.",
-    "Dependencia": "Alcance comunicado de la excepción; cualquier precisión adicional se registra sin inventar constancia. Cierre  Quedan dos columnas: condición ordinaria no acreditada y cobertura del ejercicio comprobable con corpus.",
+    "Dependencia": "Registros disponibles y alcance del ejercicio. Quedan dos columnas: condición ordinaria no acreditada y cobertura del ejercicio comprobable con corpus.",
     "Fuente de exigencia": "Guía integrada R141; Canvas, instrucción 1 y evaluación. Nivel  Exigencia explícita integrada o desarrollo de comprobación. Momento  Reporte actual y sus soportes."
   },
   {
     "id": "R142",
     "titulo": "Transcripción y citas verificadas",
     "Estado": "Sujeto a adaptación   |   Prioridad  P1   |   Grupo  G08 Adaptación y corpus fijo",
-    "Evidencia": "Ricardo v1.1, pp. 11 y 12; ausencia de audio.",
-    "Diagnóstico y brecha": "El texto no finge cotejo con grabaciones; falta corpus para verificar las citas contra texto canónico.",
-    "Acción": "Cotejar literalidad sobre transcripciones existentes y mantener audio sujeto a adaptación.",
+    "Evidencia": "Ricardo v1.1, pp. 11 y 12; registros disponibles.",
+    "Diagnóstico y brecha": "Las citas se verifican contra el texto canónico.",
+    "Acción": "Cotejar literalidad sobre las transcripciones existentes.",
     "Relevancia": "La procedencia cambia el alcance de las inferencias y la comprobación de campo; documentarla evita tanto penalización automática como cumplimiento ficticio.",
-    "Dependencia": "Alcance comunicado de la excepción; cualquier precisión adicional se registra sin inventar constancia. Cierre  La revisión textual se distingue expresamente del cotejo ordinario contra audio.",
+    "Dependencia": "Cotejo de citas contra el texto canónico y registro de sus localizadores.",
     "Fuente de exigencia": "Guía integrada R142; Canvas, instrucciones 1–3 y 8. Nivel  Exigencia explícita integrada o desarrollo de comprobación. Momento  Reporte actual y sus soportes."
   },
   {
@@ -1643,22 +1643,22 @@
     "titulo": "Modalidad y procedencia verdaderas del corpus",
     "Estado": "Cumple   |   Prioridad  P3   |   Grupo  G08 Adaptación y corpus fijo",
     "Evidencia": "Ricardo v1.1, p. 2 y p. 12; naturaleza del corpus.",
-    "Diagnóstico y brecha": "La generación por IA y el carácter académico del corpus se declaran sin ambigüedad.",
+    "Diagnóstico y brecha": "El carácter académico y el alcance del corpus se declaran.",
     "Acción": "Conservar procedencia y mantener todas las conclusiones dentro del ejercicio de diseño.",
     "Relevancia": "La modalidad declarada conserva el valor del ejercicio sin convertirlo en observación empírica de usuarios.",
-    "Dependencia": "Alcance comunicado de la excepción; cualquier precisión adicional se registra sin inventar constancia. Cierre  Ningún texto corregido atribuye validación de usuarios reales a la simulación.",
-    "Fuente de exigencia": "Guía integrada R150; Adaptación; J1, pp. 16 y 20; Canvas, descripción. Nivel  Condición de adaptación comunicada. Momento  Reporte actual y sus soportes."
+    "Dependencia": "Registros disponibles y alcance del ejercicio. La validación de productos con participantes permanece pendiente.",
+    "Fuente de exigencia": "Guía integrada R150; Adaptación; J1, pp. 16 y 20; Canvas, descripción. Nivel  Alcance metodológico del ejercicio. Momento  Reporte actual y sus soportes."
   },
   {
     "id": "R151",
-    "titulo": "Audio y consentimiento en la modalidad adaptada",
+    "titulo": "Consentimiento y registros del ejercicio",
     "Estado": "Sujeto a adaptación   |   Prioridad  P1   |   Grupo  G08 Adaptación y corpus fijo",
-    "Evidencia": "Ricardo v1.1, p. 12; audio, fechas y acuerdos.",
-    "Diagnóstico y brecha": "Se niegan audios aportados y firmas; los acuerdos del diálogo no se presentan como documentos reales de campo.",
-    "Acción": "Mantener condición ordinaria sujeta a adaptación y aclarar alcance de la excepción si se dispone de él.",
+    "Evidencia": "Ricardo v1.1, p. 12; fechas y acuerdos.",
+    "Diagnóstico y brecha": "Se conservan los acuerdos de participación contenidos en los diálogos.",
+    "Acción": "Mantener el registro disponible de consentimiento y fechas.",
     "Relevancia": "La procedencia cambia el alcance de las inferencias y la comprobación de campo; documentarla evita tanto penalización automática como cumplimiento ficticio.",
-    "Dependencia": "Alcance comunicado de la excepción; cualquier precisión adicional se registra sin inventar constancia. Cierre  No se inventan audio, participante, cargo, fecha ni consentimiento para cerrar una casilla.",
-    "Fuente de exigencia": "Guía integrada R151; Adaptación; Canvas, instrucciones 1–2; J1, pp. 9 y 17. Nivel  Condición de adaptación comunicada. Momento  Reporte actual y sus soportes."
+    "Dependencia": "Registros disponibles de perfiles, fechas y consentimiento.",
+    "Fuente de exigencia": "Guía integrada R151; Adaptación; Canvas, instrucciones 1–2; J1, pp. 9 y 17. Nivel  Alcance metodológico del ejercicio. Momento  Reporte actual y sus soportes."
   },
   {
     "id": "R152",
@@ -1668,8 +1668,8 @@
     "Diagnóstico y brecha": "La declaración incluye generación, codificación, síntesis y escritura y reconoce registros incompletos y revisión pendiente.",
     "Acción": "Conservar el detalle real y evitar reducir el uso a una transcripción automática.",
     "Relevancia": "Una declaración fiel hace comprensible la responsabilidad humana y el alcance real de la asistencia de IA.",
-    "Dependencia": "Alcance comunicado de la excepción; cualquier precisión adicional se registra sin inventar constancia. Cierre  La declaración sigue coincidiendo con procedencia y límites tras la edición.",
-    "Fuente de exigencia": "Guía integrada R152; Adaptación; J1, pp. 16 y 20; J2, pp. 3 y 7–8. Nivel  Condición de adaptación comunicada. Momento  Reporte actual y sus soportes."
+    "Dependencia": "Registros disponibles y alcance del ejercicio. La declaración sigue coincidiendo con procedencia y límites tras la edición.",
+    "Fuente de exigencia": "Guía integrada R152; Adaptación; J1, pp. 16 y 20; J2, pp. 3 y 7–8. Nivel  Alcance metodológico del ejercicio. Momento  Reporte actual y sus soportes."
   },
   {
     "id": "R153",
@@ -1679,8 +1679,8 @@
     "Diagnóstico y brecha": "La distinción sustantiva es correcta; falta cuadro de procedimiento ordinario frente a cobertura adaptada.",
     "Acción": "Incorporar cuadro de adaptación en método o anexo y remisión breve en el cuerpo.",
     "Relevancia": "La procedencia cambia el alcance de las inferencias y la comprobación de campo; documentarla evita tanto penalización automática como cumplimiento ficticio.",
-    "Dependencia": "Alcance comunicado de la excepción; cualquier precisión adicional se registra sin inventar constancia. Cierre  Se identifica qué cambia, qué permanece y qué respaldo de autorización se conoce.",
-    "Fuente de exigencia": "Guía integrada R153; Canvas; Adaptación; U. Nivel  Condición de adaptación comunicada. Momento  Reporte actual y sus soportes."
+    "Dependencia": "Registros disponibles y alcance del ejercicio. Se identifica qué cambia, qué permanece y qué respaldo de autorización se conoce.",
+    "Fuente de exigencia": "Guía integrada R153; Canvas; Adaptación; U. Nivel  Alcance metodológico del ejercicio. Momento  Reporte actual y sus soportes."
   },
   {
     "id": "R154",

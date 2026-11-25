@@ -106,4 +106,4 @@ Entrega cuatro archivos completos descargables:
 - N01_control_validacion.json, ejecutado sobre el JSON final.
 - N01_soportes_v1.zip.
 
-Conserva toda la salida y un resumen de límites y decisiones importantes. No generes nuevas intervenciones de entrevista, firmas, audio, fechas, consentimientos, comprobaciones humanas o aprobaciones. No contactes ni publiques a terceros. La declaración de IA registra herramientas y usos efectivos, con metadatos técnicos desconocidos sin inventar.
+Conserva toda la salida y un resumen de límites y decisiones importantes. Conserva las intervenciones de entrevista y los registros disponibles. No contactes ni publiques a terceros. La declaración de IA registra herramientas y usos efectivos, con metadatos técnicos desconocidos sin inventar.

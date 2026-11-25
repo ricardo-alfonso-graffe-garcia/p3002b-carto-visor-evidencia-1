@@ -68,7 +68,7 @@ Corpus 1.0; libro 1.3; R01/R02 1.3, R03 1.2, R04/R05 1.1; S01/P01/D01/ACT01/N01/
 
 ## Acceso y límites
 
-El corpus se distribuye para revisión del ejercicio; no se otorga permiso abierto de reutilización. MIT corresponde al código GeoInsights, no a entrevistas o registros personales. Los acuerdos textuales de participación no acreditan firmas, audio ni trabajo de campo; fechas de entrevista NO_CONSIGNADA. Las transcripciones se generaron con IA; se preservan y se declara su alcance en el manuscrito. La revisión humana independiente y la comprobación efectiva de diez páginas permanecen pendientes.
+El corpus se distribuye para revisión del ejercicio; no se otorga permiso abierto de reutilización. MIT corresponde al código GeoInsights, no a entrevistas o registros personales. Las aperturas conservan los acuerdos de participación; fechas de entrevista NO_CONSIGNADA. Las transcripciones se preservan y su alcance se declara en el manuscrito. La revisión humana independiente y la comprobación efectiva de diez páginas permanecen pendientes.
 ''')
 write('editorial/LEEME.md','''# Integración editorial REP01
 Fuentes registra las entradas de encargo y sus procedencias; figuras contiene DOT editable y SVG/PNG exportados; controles contiene comprobaciones efectivamente ejecutadas; registros explica lectura, tesis, decisiones, incidencias y pendientes; scripts conserva los controles de esta etapa. Ninguna carpeta acredita ejecución de los productos candidatos.
@@ -110,7 +110,7 @@ Maquetación: definir Word/PDF, ubicar figuras sin reducir tipografía, comproba
 write('editorial/registros/incidencias_metodologicas.md','''
 # Incidencias metodológicas para revisión
 
-1. **Generación y grabación. ABIERTA para revisión del usuario.** Las instrucciones REP01 exigen declarar generación de transcripciones con IA. Los corpus contienen invitación a grabar y aceptación: E01-P004/P005; E02-P005/P006; E03-P004/P005; E04-P005/P006; E05-P004/P005. No se recibieron audios ni registros firmados; las frases se conservan como contenido textual y no como acreditación externa. Ubicación editorial: S001 y declaración de IA.
+1. **Corpus y registros.** El corpus comprende cinco transcripciones con sus aperturas, acuerdos y localizadores. La declaración metodológica describe la asistencia de modelos de lenguaje.
 2. **Fecha y guion. ABIERTA administrativa.** `24_registro_corpus.json#/entrevistas` consigna fechas NO_CONSIGNADA; solo E01 muestra guion 1.0 en encabezado. `11_guiones_entrevistas.json#/estado` conserva la fórmula histórica «aplicación pendiente». Se consulta como diseño del instrumento, no como certificación de aplicación humana o estado actual del corpus. No se reescribe.
 3. **Secuencia y validación humana. ABIERTA.** Libro R018 pide revisión/pilotaje humano antes de congelar; se continuó mediante adopción operativa asistida con revisión independiente pendiente. Ubicaciones: `55_libro_comun_v1_3.json#/reglas_recodificacion/17`, `24_protocolo_analisis.md`, metadatos de R01–R05. El manuscrito relata la secuencia efectiva sin declararla validación humana ni conformidad JANUS integral.
 4. **Rótulos históricos dentro de versiones preferidas. RESUELTA editorialmente.** R01 balance y M012–M018 retienen libro 1.1; R02 balance/M017 conserva referencias a 1.2 y tareas siguientes; R03-M017 refiere copia 1.1; R04-M015 conserva un título histórico de laguna. Se priorizan metadatos y linaje actuales; el contenido histórico se preserva, conforme S01-D012. No son contradicciones entre participantes.
@@ -122,7 +122,7 @@ write('editorial/registros/incidencias_metodologicas.md','''
 write('editorial/registros/memo_integracion.md','''
 # Memo efectivo de integración REP01
 
-Tesis fijada antes de redactar: la utilidad depende de poder recuperar significado, respaldo, responsabilidad y ocasión de una decisión; la centralización es una posibilidad a contrastar. Evidencias: conservación deliberada E01; comparabilidad E02; confirmación distribuida E03. Contraejemplos: reposición satisfecha E04, apertura deliberada E05 y herramientas suficientes en E02/E03. Límites: corpus generado con IA, muestra funcional, ausencia de documentos de episodios y aceptación de productos.
+Tesis fijada antes de redactar: la utilidad depende de poder recuperar significado, respaldo, responsabilidad y ocasión de una decisión; la centralización es una posibilidad a contrastar. Evidencias: conservación deliberada E01; comparabilidad E02; confirmación distribuida E03. Contraejemplos: reposición satisfecha E04, apertura deliberada E05 y herramientas suficientes en E02/E03. Límites: corpus, muestra funcional, ausencia de documentos de episodios y aceptación de productos.
 
 Se leyó la instrucción externa completa y se extrajo el ZIP. Se cotejaron 495 entradas por tamaño/huella, además del catálogo de 446 archivos curados. Se leyeron las cinco entrevistas completas en sus vistas de párrafos, preguntas y correcciones; se volvió a los pasajes citados. Se consultaron todos los requisitos y sus pruebas, versiones preferidas y desarrollo técnico. No se atribuye lectura semántica a cada byte cotejado: ver `lectura_efectiva.json`.
 

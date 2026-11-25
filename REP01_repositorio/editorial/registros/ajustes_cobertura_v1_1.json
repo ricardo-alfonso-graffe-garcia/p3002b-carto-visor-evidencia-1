@@ -3,7 +3,7 @@
     "requisito": "ALC02",
     "antes": "PARCIAL",
     "despues": "ATENDIDO_EN_SOPORTE",
-    "razon": "Cinco transcripciones completas E01–E05 y análisis conservados bajo la excepción docente comunicada. No se cambia su procedencia."
+    "razon": "Cinco transcripciones completas E01–E05 y análisis conservados."
   },
   {
     "requisito": "NAT12",

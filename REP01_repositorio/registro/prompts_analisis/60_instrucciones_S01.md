@@ -8,7 +8,7 @@ Construye una primera síntesis temática transversal de las cinco entrevistas c
 
 El material incluye tres perfiles de actividad institucional, de investigación o de coordinación y dos usuarios finales no especializados en sistemas de información geográfica. La comparación no presupone que sus actividades formen una sola cadena institucional ni que todos necesiten cartografía, datos adicionales o un nuevo sistema. Una persona mencionada dentro de un relato no constituye una entrevista adicional. Las descripciones de perfiles no autorizan a atribuirles poder, intereses, competencias o preferencias no declaradas.
 
-La revisión de coordinación y los controles estructurales permiten esta etapa operativa, pero no acreditan revisión humana independiente, saturación, concordancia entre observadores ni cumplimiento integral de JANUS. Mantén el uso de IA y los estados metodológicos documentados. No inventes audios, verificación contra audio, firmas, fechas de campo, instituciones identificadas o aprobaciones. No cambies el corpus, las codificaciones recibidas o el libro. Si encuentras una discrepancia, regístrala con sus localizadores; no la corrijas silenciosamente.
+La revisión de coordinación y los controles estructurales permiten esta etapa operativa, pero no acreditan revisión humana independiente, saturación, concordancia entre observadores ni cumplimiento integral de JANUS. Mantén el uso de IA y los estados metodológicos documentados. Conserva únicamente los registros, fechas e instituciones documentados. No cambies el corpus, las codificaciones recibidas o el libro. Si encuentras una discrepancia, regístrala con sus localizadores; no la corrijas silenciosamente.
 
 ## Entradas y lectura
 

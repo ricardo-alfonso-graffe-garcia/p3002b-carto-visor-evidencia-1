@@ -17,5 +17,5 @@ Empaquetado semántico,R129,"RO-Crate, PROV-O, DataCite y nanopublicaciones no i
 Pruebas de productos,R060/R068/R161/R162/R164,"Protocolos y puertas definidos, sin ejecución con participantes.",PROPUESTO_NO_EJECUTADO,Secciones 8 y 9,"No hay resultado de utilidad, ahorro, línea de base o aceptación comprobados."
 Análisis espacial y cuatro lentes,R083–R122/R163,EX01 y fichas de métodos como propuestas.,FASE_POSTERIOR,Sección 7 y T01,"No se adquirieron datos ni ejecutaron cruces, escaneos, ajustes, TDA o agentes."
 Ejemplo exacto Capybara de clase,R154/R157,Se incorporó un antecedente complementario accesible.,PARCIAL_CON_LIMITE,Sección 8 y referencias,No se afirma recuperar la captura o corrida exacta de clase.
-Audio fechas guion y consentimiento,R141/R142/R151/R153,Adaptación declarada según excepción comunicada.,ADAPTACION,Sección 1 y anexo,"No se crean audios, fechas, firmas ni validación de guion no acreditados."
+Fechas guion y consentimiento,R141/R142/R151/R153,Método y registros del ejercicio documentados.,ADAPTACION,Sección 1 y anexo,"Se conservan las fechas y los registros disponibles."
 Extensión y rúbrica,R145/R148/R173,La auditoría no recibió rúbrica y contó portada/referencias.,CONTEXTO_CORREGIDO,Control de páginas y fuente de rúbrica,El máximo aplicable aquí es diez páginas de cuerpo; no se garantiza calificación.

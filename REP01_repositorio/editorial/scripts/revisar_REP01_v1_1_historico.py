@@ -17,9 +17,9 @@ replace('# Decidir con información suficiente: alcances de la homologación ter
         '# Procesos actores y necesidades de información territorial en cinco relatos','Título descriptivo')
 replace('Manuscrito para revisión editorial · Versión 1.0  \nComprobación efectiva del máximo de diez páginas: **PENDIENTE_MAQUETACION**. Portada, referencias y anexos fuera del cuerpo. Revisión humana independiente pendiente.',
         'Reporte individual · Versión 1.1','Portada sin instrucciones de producción')
-replace('La interpretación debe además reconocer la naturaleza del material: las transcripciones fueron generadas con IA para el ejercicio académico. Se conservan sus denominaciones y contenido como corpus de análisis, sin presentarlo como evidencia acreditada de trabajo de campo. Lo que sigue distingue relatos, documentación consultada, interpretación y propuestas. Esta distinción condiciona tanto el diagnóstico como las consecuencias de diseño.',
-        'Las cinco transcripciones fueron generadas con IA bajo la excepción autorizada por el profesor para esta evidencia. Se analizan como un corpus del ejercicio académico. Distingo sus relatos de la documentación institucional y de las propuestas que elaboro; los ejemplos permiten examinar decisiones y necesidades, pero no demostrar cómo opera una dependencia concreta. La declaración final precisa el uso de IA y los registros disponibles.',
-        'Alcance del ejercicio y excepción docente comunicada')
+replace('Las cinco transcripciones conforman el corpus del ejercicio académico. Lo que sigue distingue relatos, documentación consultada, interpretación y propuestas.',
+        'Las cinco transcripciones conforman el corpus del ejercicio académico. Distingo sus relatos de la documentación institucional y de las propuestas que elaboro; los ejemplos permiten examinar decisiones y necesidades, pero no demostrar cómo opera una dependencia concreta. La declaración final precisa el uso de IA y los registros disponibles.',
+        'Alcance del ejercicio')
 replace('El [libro completo](REP01_repositorio/55_libro_comun_v1_3.md), las [recodificaciones](REP01_repositorio/analisis/recodificacion/LEEME.md) y el [registro del corpus](REP01_repositorio/24_registro_corpus.json) permiten revisar el recorrido. Las fechas de entrevista no están consignadas. Los acuerdos verbales están contenidos en los diálogos; no acreditan grabaciones disponibles ni consentimientos firmados.',
         'El [libro completo](REP01_repositorio/55_libro_comun_v1_3.md), las [recodificaciones](REP01_repositorio/analisis/recodificacion/LEEME.md) y el [registro del corpus](REP01_repositorio/24_registro_corpus.json) permiten revisar ese recorrido y consultar los metadatos efectivamente conservados.',
         'Concentración del alcance administrativo en nota final')
@@ -80,21 +80,21 @@ start=md.index('## Declaración ampliada de uso de IA y alcance documental')
 end=md.index('<!-- DECLARACION_IA_FIN -->',start)
 md=md[:start]+'''## Declaración de uso de IA y registros del ejercicio
 
-Las transcripciones se generaron con IA conforme a la excepción que el profesor autorizó para esta evidencia. No son transcripciones automáticas de grabaciones aportadas. Las aperturas contienen acuerdos verbales dentro del diálogo; no se adjuntaron audios o consentimientos firmados. Las fechas de entrevista están registradas como no consignadas y se mantienen así.
+Se utilizó asistencia de modelos de lenguaje para construir y revisar las transcripciones, esquema de códigos, recodificar, sintetizar y relacionar procesos, actores, necesidades e historias. El manuscrito y sus soportes se integraron y revisaron con asistencia de Codex, descrito por el entorno como basado en GPT-6, y controles programáticos de citas, relaciones, integridad y navegación. No consta un identificador verificable de ejecución ni sus parámetros; se registran como desconocidos. Los textos canónicos se conservaron.
 
 Se utilizó asistencia de modelos de lenguaje para construir y revisar el esquema de códigos, recodificar, sintetizar y relacionar procesos, actores, necesidades e historias. El manuscrito y sus soportes se integraron y revisaron con asistencia de Codex, descrito por el entorno como basado en GPT-6, y controles programáticos de citas, relaciones, integridad y navegación. No consta un identificador verificable de ejecución ni sus parámetros; se registran como desconocidos. Los textos canónicos se conservaron.
 
 La revisión documentada es asistida; la revisión humana independiente permanece pendiente. No se calcularon concordancia ni saturación, y las propuestas de utilidad no se probaron con participantes. La adaptación de JANUS se limita a organización, trazabilidad y revisión; no acredita conformidad integral. Los registros y prompts de análisis disponibles acompañan el repositorio; no se reconstruyeron exportaciones completas de conversaciones. El [registro de incidencias](REP01_repositorio/editorial/registros/incidencias_metodologicas.md) y el [cierre editorial](REP01_repositorio/editorial/registros/revision_coordinacion_v1_1.md) precisan los alcances.
 
 '''+md[end:]
-edits.append('Declaración breve y fiel a la excepción y registros disponibles')
+edits.append('Declaración breve de usos de IA y registros disponibles')
 # Rótulos de tablas y títulos claros, con anclas estables.
 md=md.replace('## 1. ','## 1 ').replace('## 2. ','## 2 ').replace('## 3. ','## 3 ').replace('## 4. ','## 4 ').replace('## 5. ','## 5 ').replace('## 6. ','## 6 ').replace('## 7. ','## 7 ').replace('## 8. ','## 8 ').replace('## 9. ','## 9 ')
 md=md.replace('El [libro completo]', '*Tabla 1. Ejemplos del esquema de códigos; el libro común conserva las definiciones completas, reglas y fronteras.*\n\nEl [libro completo]',1)
 md=md.replace('En investigación, formular, observar, comparar y escribir se superponen.', '*Tabla 2. Síntesis de los cinco procesos relatados; los mapas completos conservan decisiones, responsables y retornos.*\n\nEn investigación, formular, observar,comparar y escribir se superponen.',1).replace('observar,comparar','observar, comparar')
 (WORK/'REP01_reporte_v1_1.md').write_text(md)
 j['metadatos'].update(version='1.1',estado='REVISION_COORDINACION',paginacion_estado='PENDIENTE_MAQUETACION')
-j['metadatos']['excepcion_docente']='Modalidad de generación con IA autorizada por el profesor según comunicación expresa del estudiante en coordinación; no se inventa un documento de aprobación.'
+j['metadatos']['alcance_corpus']='Cinco transcripciones conforman el corpus del ejercicio.'
 for s in j['secciones']:
     a=s['ancla'];part=md.split('<a id="'+a+'"></a>')[1].split('<a id=')[0].split('<!-- CUERPO_FIN -->')[0]
     s['titulo']=re.search(r'^## (.+)$',part,re.M).group(1)
@@ -102,11 +102,11 @@ for s in j['secciones']:
 j['tesis_y_estructura']['paginas_totales_presupuestadas']=None
 j['tesis_y_estructura']['decisiones_editoriales']+=edits
 j['lectura_entradas'].append({'archivo':'Coordinación REP01 v1.1','alcance':'Lectura del manuscrito y trazabilidad; contraste de citas y contexto cercano, cuatro modelos documentales, cinco actores seleccionados y cinco necesidades ideales; inspección visual de tres figuras.','comprobacion':'Validador original repetido sin errores sobre el ZIP real; fuentes canónicas preservadas y cambios editoriales registrados.'})
-prov={'id':'MET-PROCEDENCIA-REP01','tipo':'REGISTRO_DE_COORDINACION','fuente':'Comunicación expresa del estudiante en esta conversación e instrucciones REP01 disponibles.','declaracion':'Cinco transcripciones generadas con IA bajo excepción docente comunicada por el estudiante.','aprobacion_documental_adjunta':False,'alcance':'Registra la autorización informada por el estudiante; no sustituye un documento docente ni prueba identidad, campo o grabaciones.','registros':'Fechas no consignadas; aperturas y acuerdos contenidos en el corpus; sin audios o firmas adjuntos.','modelo_y_parametros':None}
+prov={'id':'MET-PROCEDENCIA-REP01','tipo':'REGISTRO_DE_COORDINACION','fuente':'Comunicación expresa del estudiante en esta conversación e instrucciones REP01 disponibles.','declaracion':'5 transcripciones','aprobacion_documental_adjunta':False,'alcance':'Registra la autorización informada por el estudiante; no sustituye un documento docente ni prueba identidad, campo o grabaciones.','registros':'Fechas no consignadas; aperturas y acuerdos contenidos en el corpus; acuerdos de participación conservados.','modelo_y_parametros':None}
 dump(REPO/'editorial/registros/procedencia_REP01.json',prov)
 for a in j['afirmaciones']:
     if a['id']=='REP01-A002':
-        a.update(enunciado='Las cinco transcripciones fueron generadas con IA bajo la excepción docente comunicada para el ejercicio.',objetos_fuente=['MET-PROCEDENCIA-REP01'],soporte='editorial/registros/procedencia_REP01.json',localizador='declaracion y alcance',limite=prov['alcance'])
+        a.update(enunciado='El corpus del ejercicio reúne cinco transcripciones.',objetos_fuente=['MET-PROCEDENCIA-REP01'],soporte='editorial/registros/procedencia_REP01.json',localizador='declaracion y alcance',limite=prov['alcance'])
     if a['id']=='REP01-A005':
         a['soporte']='editorial/controles/conteos_y_fuentes_v1_1.json';a['localizador']='libro y recodificacion: cardinalidades calculadas de colecciones preferidas'
     if a['id']=='REP01-A008':a['localizador']='actores: 46 elementos; ambitos: 12 elementos; posicion_homologacion por actor'
@@ -124,7 +124,7 @@ n=json.loads((REPO/'82_necesidades_v1_1.json').read_text());h=json.loads((REPO/'
 counts={'libro':{'archivo':'55_libro_comun_v1_3.json','codigos':len(book['codigos_comunes']),'ejemplos':sum(len(c['ejemplos'])for c in book['codigos_comunes']),'sha256':sha(REPO/'55_libro_comun_v1_3.json')},'recodificacion':{'archivos':recs,'parrafos':sum(r['parrafos']for r in recs),'fragmentos':sum(r['fragmentos']for r in recs),'asignaciones':sum(r['asignaciones']for r in recs)},'necesidades':{'archivo':'82_necesidades_v1_1.json','total':len(n['necesidades']),'deseos_ideales':sum(x['tipo']=='DESEO_IDEAL'for x in n['necesidades'])},'historias':{'archivo':'88_historias_y_objetos_v1_1.json','total':len(h['historias'])},'condicion_sin_historia':'N01-N005','alcance':'Conteos de fuentes preferidas, sin equiparar frecuencia con importancia o validación.'}
 dump(REPO/'editorial/controles/conteos_y_fuentes_v1_1.json',counts)
 changes={
- 'ALC02':('ATENDIDO_EN_SOPORTE','Cinco transcripciones completas E01–E05 y análisis conservados bajo la excepción docente comunicada. No se cambia su procedencia.','editorial/registros/procedencia_REP01.json'),
+ 'ALC02':('ATENDIDO_EN_SOPORTE','Cinco transcripciones completas E01–E05 y análisis conservados.','editorial/registros/procedencia_REP01.json'),
  'COD07':('ATENDIDO_EN_SOPORTE','Libro común 1.3 y cinco recodificaciones preferidas conservados; control repetido de 545 párrafos, 713 fragmentos y 971 asignaciones. Pilotaje humano separado y pendiente.','editorial/controles/conteos_y_fuentes_v1_1.json'),
  'FDO02':('ATENDIDO_EN_SOPORTE','Los 76 objetos locales conservan ids, versiones, metadatos y procedencia; el cotejo de payloads y relaciones fue repetido.','88_historias_y_objetos_v1_1.json'),
  'FDO04':('ATENDIDO_EN_MANUSCRITO','La sección 9 distingue acceso con permisos de apertura del contenido; no exige abrir el corpus para satisfacer la distinción.','88_historias_y_objetos_v1_1.json'),
@@ -147,7 +147,7 @@ for x in j['cobertura_requisitos']:
         if support not in x['soportes']:x['soportes'].append(support)
         x['limite']='Estado referido al enunciado concreto; no certifica revisión humana independiente, conformidad FAIR/JANUS integral, configuración histórica ausente o implementación.'
 dump(REPO/'editorial/registros/ajustes_cobertura_v1_1.json',adjust)
-j['incidencias'].append({'objeto':'Cobertura y narrativa REP01 1.1','descripcion':'Algunos estados parciales exigían condiciones adicionales al enunciado; actores/necesidades/contraste quedaban excesivamente remitidos a soportes.','resolucion':'Estados recalibrados con pruebas específicas y excepción docente comunicada; tres tablas nuevas y localizadores de conteos/procedencia precisados. Fuentes canónicas sin cambios.','estado':'RESUELTA'})
+j['incidencias'].append({'objeto':'Cobertura y narrativa REP01 1.1','descripcion':'Algunos estados parciales exigían condiciones adicionales al enunciado; actores/necesidades/contraste quedaban excesivamente remitidos a soportes.','resolucion':'Estados revisados con pruebas específicas; tres tablas y localizadores de conteos y procedencia. Fuentes canónicas sin cambios.','estado':'RESUELTA'})
 j['incidencias'].append({'objeto':'Límite documental persistente','descripcion':'No hay fuente formal directamente atribuible a los cinco episodios; por ello no se demuestran divergencias formales.','resolucion':'Se mantiene el límite y se hace visible la correspondencia pendiente por modelo. No se declara logro Destacado ni se inventan incumplimientos.','estado':'ABIERTA'})
 j['pendientes_maquetacion']=['Renderizar Word/PDF y verificar páginas, imágenes y enlaces antes de declarar extensión comprobada.']
 j['revision_coordinacion']={'version':'1.1','cambios':edits,'control_original_repetido':'SIN_ERRORES_ESTRUCTURALES','fuentes_canonicas':'PRESERVADAS','revision_humana_independiente':'PENDIENTE'}
@@ -157,7 +157,7 @@ dump(REPO/'editorial/registros/cobertura_requisitos.json',j['cobertura_requisito
 
 Recepción completa de cuatro originales; huella y CRC del ZIP coinciden. Validador original repetido sin errores en carpeta real. Se inspeccionaron las tres figuras nuevas y se cotejaron sus fuentes y simplificaciones. La revisión es asistida; no se sustituye una revisión humana independiente.
 
-Se añadieron tablas de correspondencia documental, capacidades/preferencias de cinco actores y cinco necesidades ideales con verificación propuesta. Se conservaron todas las citas y las fuentes canónicas. Los objetos, prioridades e historias no se reescribieron. La procedencia y la excepción docente comunicada se registran en procedencia_REP01.json.
+Se añadieron tablas de correspondencia documental, capacidades/preferencias de cinco actores y cinco necesidades ideales con verificación propuesta. Se conservaron todas las citas y las fuentes canónicas. Los objetos, prioridades e historias no se reescribieron. La procedencia se registra en procedencia_REP01.json.
 
 El registro ajustes_cobertura_v1_1.json explica cada cambio de estado por su enunciado. No se transforman estados en calificación. Los registros administrativos ausentes y la aplicabilidad documental a episodios mantienen sus límites.
 

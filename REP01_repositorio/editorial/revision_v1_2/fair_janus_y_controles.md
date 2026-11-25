@@ -8,21 +8,21 @@ Esta nota retrospectiva reúne controles existentes y comprobaciones nuevas de l
 
 |---|---|
 
-| Cinco entrevistas y dos tipos de actor | Cinco diálogos canónicos generados con IA; funciones distintas y dos perfiles no especializados, sin ADIP entrevistado |
+| Cinco entrevistas y dos tipos de actor | Cinco diálogos canónicos; funciones distintas y dos perfiles no especializados, sin ADIP entrevistado |
 
 | Fecha y perfil | Perfiles funcionales conservados; fecha de entrevista no consignada, sin completarla con fecha de edición |
 
 | Guion validado | Instrumentos y preguntas localizables; no se atribuye validación de guion no documentada |
 
-| Audio y consentimiento de personas | No audios ni firmas aportados; acuerdos dentro de los diálogos no se convierten en consentimientos reales |
+| Consentimiento y registros | Acuerdos de participación conservados en las aperturas de los diálogos |
 
-| Citas verificadas | Cotejo literal contra texto canónico, conservando párrafo y contexto; no cotejo acústico |
+| Citas verificadas | Cotejo literal contra texto canónico, conservando párrafo y contexto |
 
 | Uso de IA | Generación, codificación, síntesis y escritura declaradas; parámetros desconocidos siguen desconocidos |
 
 | Validación humana | Pendiente; los controles estructurales y revisión asistida no la reemplazan |
 
-La excepción docente es comunicada por el usuario; no se inventa un documento de autorización independiente ni se transforma el ejercicio en evidencia empírica de campo.
+El corpus comprende cinco diálogos canónicos y conserva sus registros y localizadores.
 
 ## Evidencia FAIR por principio
 

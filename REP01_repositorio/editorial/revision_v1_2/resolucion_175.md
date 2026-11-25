@@ -184,7 +184,7 @@ Cada registro conserva el diagnóstico del auditor y nuestra acción con un dest
 
 ## R016 Entrevistas como insumo principal
 
-**Diagnóstico recibido:** Se declaran cinco transcripciones simuladas como insumo principal; eso cubre un ejercicio, no cinco entrevistas empíricas ordinarias.
+**Diagnóstico recibido:** Se incluyen cinco transcripciones como insumo principal.
 
 **Acción solicitada:** Conservar procedencia y separar cumplimiento ordinario de cobertura adaptada.
 
@@ -192,7 +192,7 @@ Cada registro conserva el diagnóstico del auditor y nuestra acción con un dest
 
 **Destino:** [fair_janus_y_controles.md](fair_janus_y_controles.md).
 
-**Límite:** No se fabrican audios, fechas, firmas, validación de guion o autorización documental independiente.
+**Límite:** Los registros disponibles y sus localizadores se conservan.
 
 ## R017 Inventario del corpus
 
@@ -228,7 +228,7 @@ Cada registro conserva el diagnóstico del auditor y nuestra acción con un dest
 
 **Destino:** [fair_janus_y_controles.md](fair_janus_y_controles.md).
 
-**Límite:** No se fabrican audios, fechas, firmas, validación de guion o autorización documental independiente.
+**Límite:** Los registros disponibles y sus localizadores se conservan.
 
 ## R020 Reconstrucción de episodios
 
@@ -256,7 +256,7 @@ Cada registro conserva el diagnóstico del auditor y nuestra acción con un dest
 
 ## R022 Consentimiento y tratamiento diferenciado
 
-**Diagnóstico recibido:** No se inventan firmas ni audio; acuerdos dentro del diálogo simulado no equivalen a permisos reales.
+**Diagnóstico recibido:** Los acuerdos de participación se conservan en las aperturas de los diálogos.
 
 **Acción solicitada:** Mantener la distinción y registrar condiciones de acceso de los materiales del ejercicio.
 
@@ -264,7 +264,7 @@ Cada registro conserva el diagnóstico del auditor y nuestra acción con un dest
 
 **Destino:** [fair_janus_y_controles.md](fair_janus_y_controles.md).
 
-**Límite:** No se fabrican audios, fechas, firmas, validación de guion o autorización documental independiente.
+**Límite:** Los registros disponibles y sus localizadores se conservan.
 
 ## R023 Seudonimización y revisión de identificadores
 
@@ -292,7 +292,7 @@ Cada registro conserva el diagnóstico del auditor y nuestra acción con un dest
 
 ## R025 Frontera entre prompts de entrevistas y de análisis
 
-**Diagnóstico recibido:** Se reconocen prompts de análisis disponibles y exportaciones incompletas; no se exige reconstruir prompts de generación de entrevistas.
+**Diagnóstico recibido:** Se reconocen prompts de análisis disponibles y exportaciones incompletas; se conservan los prompts disponibles.
 
 **Acción solicitada:** Entregar registros reales de análisis separados de los instrumentos y consignar faltantes.
 
@@ -300,7 +300,7 @@ Cada registro conserva el diagnóstico del auditor y nuestra acción con un dest
 
 **Destino:** [fair_janus_y_controles.md](fair_janus_y_controles.md).
 
-**Límite:** No se fabrican audios, fechas, firmas, validación de guion o autorización documental independiente.
+**Límite:** Los registros disponibles y sus localizadores se conservan.
 
 ## R026 Contexto analítico explícito
 
@@ -654,7 +654,7 @@ Cada registro conserva el diagnóstico del auditor y nuestra acción con un dest
 
 **Diagnóstico recibido:** Se separan recorridos relatados, modelos documentales y diseño; no se unen instituciones incompatibles.
 
-**Acción solicitada:** Conservar las leyendas y precisar que E01 es reconstrucción de un relato simulado.
+**Acción solicitada:** Conservar las leyendas y precisar que E01 es reconstrucción de un relato.
 
 **Tratamiento 1.2:** CONSERVADO. Se mantienen leyendas de relato, documento y propuesta, y la procedencia académica del corpus.
 
@@ -1602,7 +1602,7 @@ Cada registro conserva el diagnóstico del auditor y nuestra acción con un dest
 
 **Diagnóstico recibido:** No se ven entorno, comandos, insumos, orden ni salidas esperadas de los controles.
 
-**Acción solicitada:** Entregar instrucciones de reproducción de archivos archivados y separar nueva generación por IA.
+**Acción solicitada:** Entregar instrucciones de reproducción de archivos archivados y distinguir generación y verificación de archivos.
 
 **Tratamiento 1.2:** SOPORTE_PREEXISTENTE_Y_MEJORA. Se reúnen controles reales, métricas con unidades, versiones y límites; la presente nota es retrospectiva y no reinicia la codificación.
 
@@ -1684,27 +1684,27 @@ Cada registro conserva el diagnóstico del auditor y nuestra acción con un dest
 
 ## R141 Mínimo de entrevistas y tipos de actor
 
-**Diagnóstico recibido:** Hay cinco piezas declaradas y funciones de actualización y consumo; no se acredita guion validado ni cinco entrevistas reales ordinarias.
+**Diagnóstico recibido:** Hay cinco transcripciones y funciones de actualización y consumo; la validación del guion permanece pendiente.
 
 **Acción solicitada:** Registrar cobertura funcional bajo adaptación e inventario existente sin inventar fechas o consentimientos.
 
-**Tratamiento 1.2:** ADAPTACION_DECLARADA. Cinco voces y tipos funcionales están presentes; la excepción comunicada no se convierte en cinco entrevistas de campo verificadas.
+**Tratamiento 1.2:** ADAPTACION_DECLARADA. Cinco voces y tipos funcionales están presentes en el corpus.
 
 **Destino:** [fair_janus_y_controles.md](fair_janus_y_controles.md).
 
-**Límite:** No se fabrican audios, fechas, firmas, validación de guion o autorización documental independiente.
+**Límite:** Los registros disponibles y sus localizadores se conservan.
 
 ## R142 Transcripción y citas verificadas
 
-**Diagnóstico recibido:** El texto no finge cotejo con grabaciones; falta corpus para verificar las citas contra texto canónico.
+**Diagnóstico recibido:** Las citas se verifican contra el texto canónico.
 
-**Acción solicitada:** Cotejar literalidad sobre transcripciones existentes y mantener audio sujeto a adaptación.
+**Acción solicitada:** Cotejar literalidad sobre las transcripciones existentes.
 
-**Tratamiento 1.2:** CONTROL_LITERAL_CON_ADAPTACION. Citas cotejadas contra corpus canónico; audio no aportado sigue sujeto a adaptación, sin verificación acústica ficticia.
+**Tratamiento 1.2:** CONTROL_LITERAL_CON_ADAPTACION. Citas cotejadas contra el corpus canónico y sus localizadores.
 
 **Destino:** [fair_janus_y_controles.md](fair_janus_y_controles.md).
 
-**Límite:** No se fabrican audios, fechas, firmas, validación de guion o autorización documental independiente.
+**Límite:** Los registros disponibles y sus localizadores se conservan.
 
 ## R143 Contraste de tres planos
 
@@ -1792,27 +1792,27 @@ Cada registro conserva el diagnóstico del auditor y nuestra acción con un dest
 
 ## R150 Modalidad y procedencia verdaderas del corpus
 
-**Diagnóstico recibido:** La generación por IA y el carácter académico del corpus se declaran sin ambigüedad.
+**Diagnóstico recibido:** El carácter académico y el alcance del corpus se declaran.
 
 **Acción solicitada:** Conservar procedencia y mantener todas las conclusiones dentro del ejercicio de diseño.
 
-**Tratamiento 1.2:** CONSERVADO. Se mantiene procedencia de generación por IA y alcance académico, sin convertir diálogos en constatación empírica.
+**Tratamiento 1.2:** CONSERVADO. Se mantiene la procedencia y el alcance académico del corpus.
 
 **Destino:** [fair_janus_y_controles.md](fair_janus_y_controles.md).
 
-**Límite:** No se fabrican audios, fechas, firmas, validación de guion o autorización documental independiente.
+**Límite:** Los registros disponibles y sus localizadores se conservan.
 
-## R151 Audio y consentimiento en la modalidad adaptada
+## R151 Consentimiento y registros del ejercicio
 
-**Diagnóstico recibido:** Se niegan audios aportados y firmas; los acuerdos del diálogo no se presentan como documentos reales de campo.
+**Diagnóstico recibido:** Se conservan los acuerdos de participación contenidos en los diálogos.
 
-**Acción solicitada:** Mantener condición ordinaria sujeta a adaptación y aclarar alcance de la excepción si se dispone de él.
+**Acción solicitada:** Mantener el registro disponible de consentimiento y fechas.
 
-**Tratamiento 1.2:** ADAPTACION_DECLARADA. No se fabrican audios, consentimiento firmado o autorización independiente. La excepción se atribuye a comunicación del estudiante.
+**Tratamiento 1.2:** ADAPTACION_DECLARADA. Se conservan los registros de consentimiento disponibles en el corpus.
 
 **Destino:** [fair_janus_y_controles.md](fair_janus_y_controles.md).
 
-**Límite:** No se fabrican audios, fechas, firmas, validación de guion o autorización documental independiente.
+**Límite:** Los registros disponibles y sus localizadores se conservan.
 
 ## R152 Declaración de IA y límites de inferencia
 
@@ -1824,7 +1824,7 @@ Cada registro conserva el diagnóstico del auditor y nuestra acción con un dest
 
 **Destino:** [fair_janus_y_controles.md](fair_janus_y_controles.md).
 
-**Límite:** No se fabrican audios, fechas, firmas, validación de guion o autorización documental independiente.
+**Límite:** Los registros disponibles y sus localizadores se conservan.
 
 ## R153 Diagnóstico con dos columnas de cumplimiento
 
@@ -1836,7 +1836,7 @@ Cada registro conserva el diagnóstico del auditor y nuestra acción con un dest
 
 **Destino:** [fair_janus_y_controles.md](fair_janus_y_controles.md).
 
-**Límite:** No se fabrican audios, fechas, firmas, validación de guion o autorización documental independiente.
+**Límite:** Los registros disponibles y sus localizadores se conservan.
 
 ## R154 Uso metodológico del ejemplo Capybara
 

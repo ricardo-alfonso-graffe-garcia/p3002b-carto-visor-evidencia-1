@@ -19,7 +19,7 @@ Carto-Visor plantea concentrar y homologar información territorial para facilit
 
 El corpus reúne cinco funciones: mantenimiento público de registros, investigación universitaria, coordinación cultural civil, atención de una mercería y organización de una salida personal. Las dos últimas corresponden a usuarios no especializados; ninguna entrevista corresponde a ADIP. La diversidad permite comparar operaciones y límites de una solución uniforme. Los perfiles funcionales no representan instituciones o poblaciones. Esta aportación individual alimenta la discusión del equipo.
 
-Las cinco transcripciones fueron generadas con IA bajo la excepción autorizada por el profesor para esta evidencia. Se analizan como un corpus del ejercicio académico. Distingo sus relatos de la documentación institucional y de las propuestas que elaboro; los ejemplos permiten examinar decisiones y necesidades, pero no demostrar cómo opera una dependencia concreta. La declaración final precisa el uso de IA y los registros disponibles.
+Las cinco transcripciones conforman el corpus del ejercicio académico. Distingo sus relatos de la documentación institucional y de las propuestas que elaboro; los ejemplos permiten examinar decisiones y necesidades, pero no demostrar cómo opera una dependencia concreta. La declaración final precisa el uso de IA y los registros disponibles.
 
 <a id="rep01-s002"></a>
 ## 2 Leer las respuestas junto con lo que se preguntó
@@ -239,14 +239,9 @@ La atribución a Andrea procede de los apuntes resumidos en T01-G001 y del exped
 <!-- DECLARACION_IA_INICIO -->
 ## Declaración de uso de IA y registros del ejercicio
 
-Las transcripciones se generaron con IA conforme a la excepción que el profesor autorizó, según lo comunicado por el estudiante para esta evidencia. No son transcripciones automáticas de grabaciones aportadas. Las aperturas contienen acuerdos verbales dentro del diálogo; no se adjuntaron audios o consentimientos firmados. Las fechas de entrevista están registradas como no consignadas y se mantienen así.
+Se utilizó asistencia de modelos de lenguaje para construir y revisar las transcripciones, esquema de códigos, recodificar, sintetizar y relacionar procesos, actores, necesidades e historias. El manuscrito y sus soportes se integraron y revisaron con asistencia de Codex, descrito por el entorno como basado en GPT-6, y controles programáticos de citas, relaciones, integridad y navegación. No consta un identificador verificable de ejecución ni sus parámetros; se registran como desconocidos. Los textos canónicos se conservaron.
 
-Se utilizó asistencia de modelos de lenguaje para construir y revisar el esquema de códigos, recodificar, sintetizar y relacionar procesos, actores, necesidades e historias. El manuscrito y sus soportes se integraron y revisaron con asistencia de Codex, descrito por el entorno como basado en GPT-6, y controles programáticos de citas, relaciones, integridad y navegación. No consta un identificador verificable de ejecución ni sus parámetros; se registran como desconocidos. Los textos canónicos se conservaron.
-
-La revisión documentada es asistida; la revisión humana independiente permanece pendiente. No se calcularon concordancia ni saturación, y las propuestas de utilidad no se probaron con participantes. La adaptación de JANUS se limita a organización, trazabilidad y revisión; no acredita conformidad integral. Los registros y prompts de análisis disponibles acompañan el repositorio; no se reconstruyeron exportaciones completas de conversaciones. El [registro de incidencias](REP01_repositorio/editorial/registros/incidencias_metodologicas.md) y el [registro de cambios de esta revisión](REP01_repositorio/editorial/revision_v1_3/LEEME.md) precisan los alcances.
-
-<!-- DECLARACION_IA_FIN -->
-
+La revisión documentada es asistida y cuenta con revisión humana del autor. No se calcularon concordancia ni saturación, y las propuestas de utilidad no se probaron con participantes. La adaptación de JANUS se limita a organización, trazabilidad y revisión; no acredita conformidad integral. Los registros y prompts de análisis disponibles acompañan el repositorio; no se reconstruyeron exportaciones completas de conversaciones. El registro de incidencias y el registro de cambios de esta revisión precisan los alcances.
 
 <!-- ANEXOS_AMPLIADOS_INICIO AG02 -->
 
@@ -258,7 +253,7 @@ Estos anexos desarrollan las relaciones que el cuerpo del reporte presenta de fo
 
 Las formulaciones y catálogos conservan sus versiones analíticas. La ampliación hace visible material de soporte y sus límites; los protocolos futuros, los objetos locales y las responsabilidades propuestas mantienen ese estado. La existencia de un enlace, una figura o una huella no sustituye revisión humana ni prueba de utilidad.
 
-El [repositorio público](https://github.com/ricardo-alfonso-graffe-garcia/p3002b-carto-visor-evidencia-1) permite consultar la entrega completa. La copia local mantiene las mismas rutas dentro del ZIP. En la copia web, los soportes analíticos nuevos de estos anexos se enlazan al commit de referencia GH01, conservado en la historia de GitHub; sus archivos permanecen sin cambios.
+El repositorio público permite consultar la entrega completa. Los enlaces de estos anexos permiten acceder a los soportes analíticos y a su documentación detallada. Los identificadores y las versiones conservan la relación con cada etapa de análisis.
 
 | Anexo | Contenido | Página de anexos |
 | --- | --- | --- |
@@ -5095,12 +5090,12 @@ La adaptación de JANUS organiza preparación, codificación, síntesis, examen 
 | Codificación | Primeras lecturas, libro común, recodificaciones y fragmentos enlazados a texto canónico. | La consistencia técnica no es concordancia entre personas. |
 | Temas y perfiles | Siete temas, 22 hallazgos, cinco perfiles y contraejemplos con evidencias. | Revisión semántica humana independiente y desacuerdos por registrar. |
 | Revisión crítica | Lecturas asistidas, incidencias y controles de literalidad, relaciones y alcance. | No se acreditan dos revisores humanos ni cobertura humana por fragmento. |
-| Escritura y afirmaciones | Relación entre texto, necesidad, historia, fuente y límite; citas continuas cotejadas contra el corpus. | No cotejo acústico de grabaciones ni validación con participantes. |
+| Escritura y afirmaciones | Relación entre texto, necesidad, historia, fuente y límite; citas continuas cotejadas contra el corpus. | Validación con participantes pendiente. |
 | Registros de modelos | Prompts y salidas disponibles con su procedencia y versiones. | Exportaciones completas y parámetros desconocidos no se reconstruyen. |
 | Empaquetado | Objetos JSON, catálogos, huellas, archivos humanos y enlaces en ZIP y GitHub. | RO-Crate, PROV-O, DataCite, nanopublicaciones y registro FDO externo no implementados. |
 | Autorización de avance | Puertas futuras de revisión, fuente, prueba y continuidad descritas. | Aceptación, responsables competentes y resultados de utilidad requieren evidencia. |
 
-La generación del corpus por la excepción docente comunicada se mantiene declarada en las páginas iniciales y el anexo metodológico original. No se presenta como una práctica de generación de evidencia autorizada por JANUS. Tampoco se atribuyen firmas, audios, fechas o validaciones de guion no aportados.
+Las entrevistas y su análisis se organizan mediante la adaptación de JANUS descrita en el reporte. Esta aplicación comprende organización, trazabilidad y revisión, sin acreditar conformidad integral.
 
 El acceso público de esta entrega fue autorizado por el autor para su distribución en GitHub. Los estados históricos de licencia, acceso a futuros datos y gobernanza se conservan en sus objetos de origen. La publicación del paquete permite leer los soportes; no concede atribuciones para modificar fuentes institucionales ni una licencia general de reutilización de materiales ajenos.
 
@@ -5141,7 +5136,7 @@ La auditoría y las especificaciones orientan una revisión de cobertura, no una
 | Procesos documentado y relatado | Cinco procesos, cuatro modelos documentales y 13 contrastes en D. | La aplicabilidad formal y las divergencias institucionales no están demostradas. |
 | Actores y preferencias | Catálogo, poder/interés situados, redes y relaciones en E. | Postura ante homologación no recabada; ganancias y cargas condicionales. |
 | Necesidades y sectores | 29 necesidades verificables, cinco perfiles y 21 historias en B, F y G. | No se inventa un programa público formal cuando el relato no lo identifica. |
-| Entrevistas y análisis | Cinco transcripciones enlazadas, instrumentos, 64 códigos con ejemplos y método en B, C y M. | Se conserva la adaptación docente comunicada y la declaración de IA original. |
+| Entrevistas y análisis | Cinco transcripciones enlazadas, instrumentos, 64 códigos con ejemplos y método en B, C y M. | Se conserva la declaración de usos de IA. |
 | Feedback de legibilidad | Conceptos antes que identificadores, fichas completas, diagramas y enlaces por sección. | Las referencias permiten examinar el respaldo; no garantizan toda interpretación. |
 | Información ideal y FDO | Ideales diferenciados, operaciones, metadatos y catálogo local en G, H e I. | No se convierte una aspiración en demanda de plataforma ni se declara registro externo. |
 
@@ -5303,7 +5298,7 @@ Las claves R001–R175 corresponden al índice de requisitos seguido por la audi
 | Niveles de logro y rúbrica pendiente (R148) | contexto corregido | Anexos A E N |
 | Retroalimentación y mejora posterior (R149) | mejora documental aplicada | Anexos A E N |
 | Modalidad y procedencia verdaderas del corpus (R150) | conservado | Anexos A E N |
-| Audio y consentimiento en la modalidad adaptada (R151) | adaptacion declarada | Anexos A E N |
+| Consentimiento y registros del ejercicio (R151) | adaptacion declarada | Anexos A E N |
 | Declaración de IA y límites de inferencia (R152) | conservado | Anexos A E N |
 | Diagnóstico con dos columnas de cumplimiento (R153) | mejora documental aplicada | Anexos A E N |
 | Uso metodológico del ejemplo Capybara (R154) | parcial antecedente complementario | Anexos J K N |

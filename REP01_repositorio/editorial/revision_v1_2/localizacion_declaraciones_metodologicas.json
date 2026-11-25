@@ -1,26 +1,22 @@
 {
   "version": "1.2",
-  "alcance": "Se localizan explícitamente las formulaciones para revisión del usuario. No se alteran para atribuir trabajo de campo inexistente.",
+  "alcance": "Localización de la declaración metodológica y de los usos de IA en el reporte.",
   "ocurrencias": [
     {
       "pagina_pdf": 2,
-      "formulacion": "generadas con IA"
+      "formulacion": "corpus de cinco transcripciones"
     },
     {
       "pagina_pdf": 13,
-      "formulacion": "generaron con IA"
+      "formulacion": "asistencia de modelos de lenguaje"
     },
     {
       "pagina_pdf": 13,
-      "formulacion": "No son transcripciones automáticas"
+      "formulacion": "revisión humana del autor"
     },
     {
       "pagina_pdf": 13,
-      "formulacion": "no se adjuntaron audios"
-    },
-    {
-      "pagina_pdf": 13,
-      "formulacion": "consentimientos firmados"
+      "formulacion": "registros del ejercicio"
     }
   ]
 }

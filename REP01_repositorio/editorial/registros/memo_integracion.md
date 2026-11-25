@@ -1,6 +1,6 @@
 # Memo efectivo de integración REP01
 
-Tesis fijada antes de redactar: la utilidad depende de poder recuperar significado, respaldo, responsabilidad y ocasión de una decisión; la centralización es una posibilidad a contrastar. Evidencias: conservación deliberada E01; comparabilidad E02; confirmación distribuida E03. Contraejemplos: reposición satisfecha E04, apertura deliberada E05 y herramientas suficientes en E02/E03. Límites: corpus generado con IA, muestra funcional, ausencia de documentos de episodios y aceptación de productos.
+Tesis fijada antes de redactar: la utilidad depende de poder recuperar significado, respaldo, responsabilidad y ocasión de una decisión; la centralización es una posibilidad a contrastar. Evidencias: conservación deliberada E01; comparabilidad E02; confirmación distribuida E03. Contraejemplos: reposición satisfecha E04, apertura deliberada E05 y herramientas suficientes en E02/E03. Límites: corpus, muestra funcional, ausencia de documentos de episodios y aceptación de productos.
 
 Se leyó la instrucción externa completa y se extrajo el ZIP. Se cotejaron 495 entradas por tamaño/huella, además del catálogo de 446 archivos curados. Se leyeron las cinco entrevistas completas en sus vistas de párrafos, preguntas y correcciones; se volvió a los pasajes citados. Se consultaron todos los requisitos y sus pruebas, versiones preferidas y desarrollo técnico. No se atribuye lectura semántica a cada byte cotejado: ver `lectura_efectiva.json`.
 

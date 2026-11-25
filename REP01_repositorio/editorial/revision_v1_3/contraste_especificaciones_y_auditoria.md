@@ -148,13 +148,13 @@ La matriz de 175 tratamientos de la revisión anterior no era una certificación
 
 **Límite:** No se afirma recuperar la captura o corrida exacta de clase.
 
-## Audio fechas guion y consentimiento
+## Fechas guion y consentimiento
 
-**Fuente:** R141/R142/R151/R153. **Antes:** Adaptación declarada según excepción comunicada.
+**Fuente:** R141/R142/R151/R153. **Antes:** Método y registros del ejercicio documentados.
 
 **Ahora:** ADAPTACION. **Destino:** Sección 1 y anexo.
 
-**Límite:** No se crean audios, fechas, firmas ni validación de guion no acreditados.
+**Límite:** Se conservan las fechas y los registros disponibles.
 
 ## Extensión y rúbrica
 

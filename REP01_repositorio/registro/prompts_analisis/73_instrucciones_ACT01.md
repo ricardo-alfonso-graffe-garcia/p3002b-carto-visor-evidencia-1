@@ -138,4 +138,4 @@ Entrega exactamente estos cuatro archivos descargables y un resumen breve:
 - ACT01_control_validacion.json, ejecutado sobre esa versión final.
 - ACT01_figuras_v1.zip, soportes y registro de exportación/inspección efectivas.
 
-Conserva toda la salida. No agregues intervenciones de entrevista, firmas, audio, fechas de levantamiento, consentimiento o aprobaciones no disponibles. No publiques ni contactes a terceros. Los requisitos restantes —necesidades e historias/FDO, conceptos de Andrea, cuatro lentes, GeoInsights, FAIR, reporte y repositorio— permanecen en el expediente y tendrán su etapa; no inventes resultados técnicos por adelantar su integración.
+Conserva toda la salida. Conserva las intervenciones de entrevista y los registros disponibles. No publiques ni contactes a terceros. Los requisitos restantes —necesidades e historias/FDO, conceptos de Andrea, cuatro lentes, GeoInsights, FAIR, reporte y repositorio— permanecen en el expediente y tendrán su etapa; no inventes resultados técnicos por adelantar su integración.

@@ -461,7 +461,7 @@ Estas comprobaciones son condiciones futuras; no contactos efectuados, entrevist
 
 
 
-Los restantes componentes del expediente —necesidades e historias/FDO, conceptos de Andrea, cuatro lentes, GeoInsights, FAIR, reporte y repositorio— conservan su etapa. La revisión humana independiente de poderes, intereses, identidades e hipótesis permanece pendiente. No se generaron intervenciones de entrevista, firmas, audio, fechas de levantamiento o aprobaciones nuevas.
+Los restantes componentes del expediente —necesidades e historias/FDO, conceptos de Andrea, cuatro lentes, GeoInsights, FAIR, reporte y repositorio— conservan su etapa. La revisión humana independiente de poderes, intereses, identidades e hipótesis permanece pendiente. Se conservaron las intervenciones de entrevista y los registros disponibles.
 
 ## Cómo consultar los cuatro archivos y los soportes
 

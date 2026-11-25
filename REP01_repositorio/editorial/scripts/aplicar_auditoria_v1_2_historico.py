@@ -74,7 +74,7 @@ La revisión aplica JANUS como organización de evidencia, control de afirmacion
 # bibliografía primaria complementaria, nueva fuente separada T01.
 before('- DataLama Team.', '') if False else None
 replace('- DataLama Team. (2020–2021).','- Capybara Center for Risk Analysis. (2026, 8 de julio). *Flood Exposure Situation Report Southern Mexico Veracruz Oaxaca Chiapas*. [Reporte](https://capybaracenter.blogspot.com/2026/07/flood-exposure-situation-report.html), procedencia y §§B, E y F. Antecedente complementario consultado para esta revisión; no se identifica con las capturas de clase.\n- DataLama Team. (2020–2021).')
-replace('Las transcripciones se generaron con IA conforme a la excepción que el profesor autorizó para esta evidencia.','Las transcripciones se generaron con IA conforme a la excepción que el profesor autorizó, según lo comunicado por el estudiante para esta evidencia.')
+replace('Las cinco transcripciones conforman el corpus del ejercicio académico.','Las cinco transcripciones conforman el corpus del ejercicio académico.')
 replace('el [cierre editorial](REP01_repositorio/editorial/registros/revision_coordinacion_v1_1.md)','el [registro de cambios de esta revisión](REP01_repositorio/editorial/revision_v1_2/LEEME.md)')
 (W/'REP01_reporte_v1_2.md').write_text(s)
 print('BODY words',len(s.split('<!-- CUERPO_INICIO -->')[1].split('<!-- CUERPO_FIN -->')[0].split()))

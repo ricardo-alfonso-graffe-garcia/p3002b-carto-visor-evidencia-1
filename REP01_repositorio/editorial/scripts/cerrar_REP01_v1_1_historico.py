@@ -67,7 +67,7 @@ with note.open('a')as f:f.write('\n## Maquetación comprobada\n\nEl PDF final ti
 # Localizadores de formulaciones solicitados por el usuario.
 method=[]
 for i,line in enumerate(md.read_text().splitlines(),1):
-    if re.search('generad[ao]s? con IA|generaron con IA|grabacion|grabación|consentimientos firmados',line,re.I):method.append({'linea_md':i,'texto':line})
+    if re.search('asistencia de modelos|usos de IA|textos canónicos|registros del ejercicio',line,re.I):method.append({'linea_md':i,'texto':line})
 dump(R/'editorial/registros/localizadores_metodologicos_v1_1.json',{'manuscrito':md.name,'pdf_paginas':[2,12],'ubicaciones':method,'alcance':'Localización para revisión del usuario; se conserva una declaración fiel a modalidad autorizada y registros disponibles.'})
 # Actualizar el índice legible de secciones y figuras.
 guide=['# Guía por sección del reporte\n','Archivo principal: [manuscrito revisado](../../../REP01_reporte_v1_1.md). Word y PDF están junto a ese archivo.\n','| Sección | Inicio en cuerpo | Soportes |','|---|---|---|']

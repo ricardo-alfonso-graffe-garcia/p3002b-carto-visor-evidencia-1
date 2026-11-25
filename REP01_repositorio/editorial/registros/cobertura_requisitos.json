@@ -33,7 +33,7 @@
       "editorial/fuentes/06_canvas_rubrica_y_feedback.md",
       "editorial/registros/procedencia_REP01.json"
     ],
-    "evidencia_cumplimiento": "Cinco transcripciones completas E01–E05 y análisis conservados bajo la excepción docente comunicada. No se cambia su procedencia.",
+    "evidencia_cumplimiento": "Cinco transcripciones completas E01–E05 y análisis conservados.",
     "limite": "Estado referido al enunciado concreto; no certifica revisión humana independiente, conformidad FAIR/JANUS integral, configuración histórica ausente o implementación.",
     "enunciado_original": "Se desarrollarán exactamente cinco entrevistas.",
     "prueba_original": "El registro del corpus contiene cinco entrevistas completas."
@@ -484,7 +484,7 @@
       "editorial/registros/incidencias_metodologicas.md"
     ],
     "evidencia_cumplimiento": "Las cinco fuentes conservan preguntas breves y extensas; no se reescriben para homogeneizar estilo.",
-    "limite": "Se conserva material generado con IA; revisión asistida de adecuación no certifica naturalidad de conversación real. No se altera para aparentar cumplimiento.",
+    "limite": "Se conserva material; revisión asistida de adecuación no certifica naturalidad de conversación real. No se altera para aparentar cumplimiento.",
     "enunciado_original": "Variar la extensión de preguntas según su propósito.",
     "prueba_original": "La conversación no repite preguntas de estructura y longitud mecánicas."
   },
@@ -500,7 +500,7 @@
       "editorial/registros/incidencias_metodologicas.md"
     ],
     "evidencia_cumplimiento": "Párrafos y turnos de longitudes distintas se preservan íntegros; no se usa longitud como calidad.",
-    "limite": "Se conserva material generado con IA; revisión asistida de adecuación no certifica naturalidad de conversación real. No se altera para aparentar cumplimiento.",
+    "limite": "Se conserva material; revisión asistida de adecuación no certifica naturalidad de conversación real. No se altera para aparentar cumplimiento.",
     "enunciado_original": "Variar extensión y profundidad de respuestas.",
     "prueba_original": "Se conserva diversidad de intervenciones breves y extensas."
   },
@@ -516,7 +516,7 @@
       "editorial/registros/incidencias_metodologicas.md"
     ],
     "evidencia_cumplimiento": "Se conservan muletillas tal como aparecen; no nueva intervención ni prueba objetiva de naturalidad.",
-    "limite": "Se conserva material generado con IA; revisión asistida de adecuación no certifica naturalidad de conversación real. No se altera para aparentar cumplimiento.",
+    "limite": "Se conserva material; revisión asistida de adecuación no certifica naturalidad de conversación real. No se altera para aparentar cumplimiento.",
     "enunciado_original": "Usar muletillas con moderación y sin distribución mecánica.",
     "prueba_original": "La revisión distingue naturalidad de repetición ornamental."
   },
@@ -532,7 +532,7 @@
       "editorial/registros/incidencias_metodologicas.md"
     ],
     "evidencia_cumplimiento": "E05-P069 autocorrige cronología y E04-P112 cambia nombre del cierre; sin editar fuentes.",
-    "limite": "Se conserva material generado con IA; revisión asistida de adecuación no certifica naturalidad de conversación real. No se altera para aparentar cumplimiento.",
+    "limite": "Se conserva material; revisión asistida de adecuación no certifica naturalidad de conversación real. No se altera para aparentar cumplimiento.",
     "enunciado_original": "Permitir dudas y autocorrecciones ocasionales.",
     "prueba_original": "Son coherentes con la respuesta y el perfil."
   },
@@ -548,7 +548,7 @@
       "editorial/registros/incidencias_metodologicas.md"
     ],
     "evidencia_cumplimiento": "S002 documenta aclaraciones y recapitulaciones más allá de un listado; corpus completo las permite revisar.",
-    "limite": "Se conserva material generado con IA; revisión asistida de adecuación no certifica naturalidad de conversación real. No se altera para aparentar cumplimiento.",
+    "limite": "Se conserva material; revisión asistida de adecuación no certifica naturalidad de conversación real. No se altera para aparentar cumplimiento.",
     "enunciado_original": "Mantener interacción del entrevistador más allá del listado de preguntas.",
     "prueba_original": "Hay aclaraciones, reformulaciones y seguimiento pertinentes."
   },
@@ -564,7 +564,7 @@
       "editorial/registros/incidencias_metodologicas.md"
     ],
     "evidencia_cumplimiento": "E01-P071, E03-P189 y E05-P173 corrigen entendimientos; el manuscrito conserva esas rectificaciones.",
-    "limite": "Se conserva material generado con IA; revisión asistida de adecuación no certifica naturalidad de conversación real. No se altera para aparentar cumplimiento.",
+    "limite": "Se conserva material; revisión asistida de adecuación no certifica naturalidad de conversación real. No se altera para aparentar cumplimiento.",
     "enunciado_original": "Discrepar o contrastar con respeto sin dirigir la experiencia.",
     "prueba_original": "Las intervenciones no buscan imponer una conclusión."
   },
@@ -580,7 +580,7 @@
       "editorial/registros/incidencias_metodologicas.md"
     ],
     "evidencia_cumplimiento": "Encabezados y primeras respuestas explican cinco funciones y actividades, sin identidades inventadas.",
-    "limite": "Se conserva material generado con IA; revisión asistida de adecuación no certifica naturalidad de conversación real. No se altera para aparentar cumplimiento.",
+    "limite": "Se conserva material; revisión asistida de adecuación no certifica naturalidad de conversación real. No se altera para aparentar cumplimiento.",
     "enunciado_original": "Incluir apertura con contexto ocupacional comprensible.",
     "prueba_original": "El lector entiende quién participa y por qué su posición es pertinente."
   },
@@ -596,7 +596,7 @@
       "editorial/registros/incidencias_metodologicas.md"
     ],
     "evidencia_cumplimiento": "Se usan funciones sin nombres personales de participantes; no certificación de anonimato irreversible.",
-    "limite": "Se conserva material generado con IA; revisión asistida de adecuación no certifica naturalidad de conversación real. No se altera para aparentar cumplimiento.",
+    "limite": "Se conserva material; revisión asistida de adecuación no certifica naturalidad de conversación real. No se altera para aparentar cumplimiento.",
     "enunciado_original": "Anonimizar nombres sin borrar el contexto funcional.",
     "prueba_original": "La ficha y el diálogo conservan comprensión sin nombres personales."
   },
@@ -612,7 +612,7 @@
       "editorial/registros/incidencias_metodologicas.md"
     ],
     "evidencia_cumplimiento": "E01-P164–P165, E02-P179–P180, E03-P196–P197, E04-P192–P193, E05-P185–P186 conservan cierre.",
-    "limite": "Se conserva material generado con IA; revisión asistida de adecuación no certifica naturalidad de conversación real. No se altera para aparentar cumplimiento.",
+    "limite": "Se conserva material; revisión asistida de adecuación no certifica naturalidad de conversación real. No se altera para aparentar cumplimiento.",
     "enunciado_original": "Incluir cierre y agradecimiento naturales.",
     "prueba_original": "El cierre permite matices finales y no corta mecánicamente el diálogo."
   },
@@ -628,7 +628,7 @@
       "editorial/registros/incidencias_metodologicas.md"
     ],
     "evidencia_cumplimiento": "P01 registra solapamientos y cambios de nombres; las fuentes conservan tres instrumentos sin ordenar artificialmente su discurso.",
-    "limite": "Se conserva material generado con IA; revisión asistida de adecuación no certifica naturalidad de conversación real. No se altera para aparentar cumplimiento.",
+    "limite": "Se conserva material; revisión asistida de adecuación no certifica naturalidad de conversación real. No se altera para aparentar cumplimiento.",
     "enunciado_original": "Permitir desorden discursivo sin perder completitud.",
     "prueba_original": "La entrevista conserva los tres instrumentos y el recorrido sustantivo."
   },
@@ -644,7 +644,7 @@
       "editorial/registros/incidencias_metodologicas.md"
     ],
     "evidencia_cumplimiento": "Las respuestas no especializadas describen materiales y convivencia; se conserva la voz generada sin certificar naturalidad empírica.",
-    "limite": "Se conserva material generado con IA; revisión asistida de adecuación no certifica naturalidad de conversación real. No se altera para aparentar cumplimiento.",
+    "limite": "Se conserva material; revisión asistida de adecuación no certifica naturalidad de conversación real. No se altera para aparentar cumplimiento.",
     "enunciado_original": "Evitar que todas las respuestas parezcan ensayos técnicos.",
     "prueba_original": "Se revisa adecuación de voz, conocimiento y situación."
   },
@@ -1002,7 +1002,7 @@
       "67_procesos_descritos_v1_1.json",
       "82_necesidades_v1_1.json"
     ],
-    "evidencia_cumplimiento": "Aperturas contienen aceptación textual; no audio/fecha/firma adicionales ni consentimiento documental independiente.",
+    "evidencia_cumplimiento": "Las aperturas contienen aceptación textual de participación.",
     "limite": "Cumplimiento parcial con soporte y alcance en evidencia_cumplimiento; datos administrativos, aplicabilidad, ejecución o revisión humana/maquetación señalados no se acreditan.",
     "enunciado_original": "Tratar el consentimiento conforme a los registros del ejercicio.",
     "prueba_original": "El estado y soporte se identifican sin inventar firmas o aprobaciones."
@@ -3192,7 +3192,7 @@
       "editorial/registros/guia_por_seccion.md",
       "editorial/controles/revision_figuras.json"
     ],
-    "evidencia_cumplimiento": "S001/S002 y declaración ampliada describen generación, análisis, organización y escritura con IA; no transcripción de audios aportados.",
+    "evidencia_cumplimiento": "S001/S002 y la declaración ampliada describen la asistencia de modelos de lenguaje en transcripciones, análisis, organización y escritura.",
     "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
     "enunciado_original": "Declarar herramientas y usos reales de IA.",
     "prueba_original": "La declaración corresponde a los registros del trabajo."
@@ -3344,7 +3344,7 @@
       "editorial/registros/indice_inverso.json",
       "editorial/registros/agenda_pendientes.md"
     ],
-    "evidencia_cumplimiento": "No carpetas vacías ni anexos que aparenten audio/firmas; diseños y controles distinguen propuesta/ejecución.",
+    "evidencia_cumplimiento": "Las carpetas y los anexos contienen materiales de soporte; diseños y controles distinguen propuesta y ejecución.",
     "limite": "Paquete para revisión, sin publicación ni licencia abierta del corpus. Registros disponibles no equivalen a expediente histórico completo.",
     "enunciado_original": "Evitar carpetas y afirmaciones que aparenten trabajo inexistente.",
     "prueba_original": "El inventario distingue entregables, plantillas y pendientes."

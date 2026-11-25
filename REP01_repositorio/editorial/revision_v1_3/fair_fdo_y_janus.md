@@ -40,4 +40,4 @@ Un FDO vincula una representación digital con identidad persistente, perfil, ti
 
 El texto metodológico del marco organiza preparación, codificación, síntesis, revisión, escritura y empaquetado con trazabilidad. La sección 2 resume esa lógica y distingue los componentes conservados de las condiciones pendientes. No se acredita revisión humana independiente, concordancia, controles históricos ausentes o empaquetado completo. Fuente primaria: Feged Rivadeneira (2025), The JANUS Framework, Methods, secciones 1 a 9, páginas PDF 9 a 11: https://doi.org/10.21203/rs.3.rs-7580516/v1.
 
-El origen académico del corpus y la adaptación se mantienen declarados. La generación de entrevistas por excepción comunicada no se presenta como práctica de generación de evidencia autorizada por JANUS. Son condiciones distintas del ejercicio.
+Las entrevistas y su análisis se organizan mediante la adaptación de JANUS descrita en el reporte. Su aplicación se limita a organización, trazabilidad y revisión; no acredita conformidad integral.

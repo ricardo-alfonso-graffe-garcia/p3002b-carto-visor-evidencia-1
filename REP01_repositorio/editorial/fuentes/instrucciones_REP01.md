@@ -22,7 +22,7 @@ El eje evaluado es el análisis de procesos, actores/preferencias y necesidades 
 
 Antes de redactar formula una tesis de trabajo y selecciona evidencias, contraejemplos y límites que permitan discutirla. No se prescribe una conclusión de que hace falta plataforma, base única, automatización o que toda diferencia es error. No generalices de cinco voces a instituciones completas o toda CDMX.
 
-El proceso seguido se describe con verbos y alcances efectivos: lectura, codificación asistida, recodificación, reconstrucción de relatos, contraste documental y propuestas. Las denominaciones entrevistas/transcripciones se conservan. La declaración de IA debe describir los usos reales, incluida la generación de las transcripciones y el apoyo al análisis, organización y escritura que conste; no se sustituye por una declaración de mera transcripción automática de grabaciones. No atribuir trabajo de campo, audio, fechas, firmas, validaciones o consentimientos firmados que no estén documentados. Si se consigna consentimiento, distinguir el registro efectivamente disponible de una acreditación adicional. No elaborar documentos que aparenten tales registros.
+El proceso seguido se describe con verbos y alcances efectivos: lectura, codificación asistida, recodificación, reconstrucción de relatos, contraste documental y propuestas. Las denominaciones entrevistas/transcripciones se conservan. La declaración de IA describe la asistencia de modelos de lenguaje en la construcción y revisión de transcripciones y en el análisis, organización y escritura. Se conservan los textos canónicos y los registros disponibles.
 
 ## Contenido sustantivo y profundidad
 

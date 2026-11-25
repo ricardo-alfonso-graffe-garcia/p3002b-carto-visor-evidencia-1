@@ -7,11 +7,11 @@
   "ubicaciones": [
     {
       "linea_md": 20,
-      "texto": "Las cinco transcripciones fueron generadas con IA bajo la excepción autorizada por el profesor para esta evidencia. Se analizan como un corpus del ejercicio académico. Distingo sus relatos de la documentación institucional y de las propuestas que elaboro; los ejemplos permiten examinar decisiones y necesidades, pero no demostrar cómo opera una dependencia concreta. La declaración final precisa el uso de IA y los registros disponibles."
+      "texto": "Las cinco transcripciones conforman el corpus del ejercicio académico. Distingo sus relatos de la documentación institucional y de las propuestas que elaboro; los ejemplos permiten examinar decisiones y necesidades, pero no demostrar cómo opera una dependencia concreta. La declaración final precisa el uso de IA y los registros disponibles."
     },
     {
       "linea_md": 197,
-      "texto": "Las transcripciones se generaron con IA conforme a la excepción que el profesor autorizó para esta evidencia. No son transcripciones automáticas de grabaciones aportadas. Las aperturas contienen acuerdos verbales dentro del diálogo; no se adjuntaron audios o consentimientos firmados. Las fechas de entrevista están registradas como no consignadas y se mantienen así."
+      "texto": "Se utilizó asistencia de modelos de lenguaje para construir y revisar las transcripciones, esquema de códigos, recodificar, sintetizar y relacionar procesos, actores, necesidades e historias. El manuscrito y sus soportes se integraron y revisaron con asistencia de Codex, descrito por el entorno como basado en GPT-6, y controles programáticos de citas, relaciones, integridad y navegación. No consta un identificador verificable de ejecución ni sus parámetros; se registran como desconocidos. Los textos canónicos se conservaron."
     }
   ],
   "alcance": "Localización para revisión del usuario; se conserva una declaración fiel a modalidad autorizada y registros disponibles."

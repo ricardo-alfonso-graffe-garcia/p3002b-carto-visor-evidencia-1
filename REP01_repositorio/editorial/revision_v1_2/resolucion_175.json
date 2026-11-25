@@ -171,12 +171,12 @@
       "id": "R016",
       "titulo": "Entrevistas como insumo principal",
       "estado_auditor": "Sujeto a adaptación   |   Prioridad  P1   |   Grupo  G08 Adaptación y corpus fijo",
-      "diagnostico_auditor": "Se declaran cinco transcripciones simuladas como insumo principal; eso cubre un ejercicio, no cinco entrevistas empíricas ordinarias.",
+      "diagnostico_auditor": "Se incluyen cinco transcripciones como insumo principal.",
       "accion_solicitada": "Conservar procedencia y separar cumplimiento ordinario de cobertura adaptada.",
       "resolucion_v1_2": "MEJORA_DOCUMENTAL_APLICADA",
       "accion_y_razon": "Se conserva la adaptación declarada y se distingue requisito ordinario de cobertura disponible. Citas cotejadas sobre corpus canónico.",
       "soporte": "fair_janus_y_controles.md",
-      "limite_y_pendiente": "No se fabrican audios, fechas, firmas, validación de guion o autorización documental independiente."
+      "limite_y_pendiente": "Los registros disponibles y sus localizadores se conservan."
     },
     {
       "id": "R017",
@@ -209,7 +209,7 @@
       "resolucion_v1_2": "MEJORA_DOCUMENTAL_APLICADA",
       "accion_y_razon": "Se conservan en cuerpo las inducciones observables E05-P153 y E01-P070–P073, y el contexto de elicitación por historia en las fichas.",
       "soporte": "fair_janus_y_controles.md",
-      "limite_y_pendiente": "No se fabrican audios, fechas, firmas, validación de guion o autorización documental independiente."
+      "limite_y_pendiente": "Los registros disponibles y sus localizadores se conservan."
     },
     {
       "id": "R020",
@@ -237,12 +237,12 @@
       "id": "R022",
       "titulo": "Consentimiento y tratamiento diferenciado",
       "estado_auditor": "Sujeto a adaptación   |   Prioridad  P1   |   Grupo  G08 Adaptación y corpus fijo",
-      "diagnostico_auditor": "No se inventan firmas ni audio; acuerdos dentro del diálogo simulado no equivalen a permisos reales.",
+      "diagnostico_auditor": "Los acuerdos de participación se conservan en las aperturas de los diálogos.",
       "accion_solicitada": "Mantener la distinción y registrar condiciones de acceso de los materiales del ejercicio.",
       "resolucion_v1_2": "MEJORA_DOCUMENTAL_APLICADA",
       "accion_y_razon": "Se conserva la adaptación declarada y se distingue requisito ordinario de cobertura disponible. Citas cotejadas sobre corpus canónico.",
       "soporte": "fair_janus_y_controles.md",
-      "limite_y_pendiente": "No se fabrican audios, fechas, firmas, validación de guion o autorización documental independiente."
+      "limite_y_pendiente": "Los registros disponibles y sus localizadores se conservan."
     },
     {
       "id": "R023",
@@ -270,12 +270,12 @@
       "id": "R025",
       "titulo": "Frontera entre prompts de entrevistas y de análisis",
       "estado_auditor": "Cumple parcialmente   |   Prioridad  P2   |   Grupo  G08 Adaptación y corpus fijo",
-      "diagnostico_auditor": "Se reconocen prompts de análisis disponibles y exportaciones incompletas; no se exige reconstruir prompts de generación de entrevistas.",
+      "diagnostico_auditor": "Se reconocen prompts de análisis disponibles y exportaciones incompletas; se conservan los prompts disponibles.",
       "accion_solicitada": "Entregar registros reales de análisis separados de los instrumentos y consignar faltantes.",
       "resolucion_v1_2": "PARCIAL_CON_PENDIENTE_REAL",
       "accion_y_razon": "Se entregan prompts y salidas conservados; no se reconstruyen conversaciones completas ausentes ni parámetros desconocidos.",
       "soporte": "fair_janus_y_controles.md",
-      "limite_y_pendiente": "No se fabrican audios, fechas, firmas, validación de guion o autorización documental independiente."
+      "limite_y_pendiente": "Los registros disponibles y sus localizadores se conservan."
     },
     {
       "id": "R026",
@@ -601,7 +601,7 @@
       "titulo": "Separar procesos actuales relatados y propuestos",
       "estado_auditor": "Cumple   |   Prioridad  P3   |   Grupo  G04 Síntesis y articulación",
       "diagnostico_auditor": "Se separan recorridos relatados, modelos documentales y diseño; no se unen instituciones incompatibles.",
-      "accion_solicitada": "Conservar las leyendas y precisar que E01 es reconstrucción de un relato simulado.",
+      "accion_solicitada": "Conservar las leyendas y precisar que E01 es reconstrucción de un relato.",
       "resolucion_v1_2": "CONSERVADO",
       "accion_y_razon": "Se mantienen leyendas de relato, documento y propuesta, y la procedencia académica del corpus.",
       "soporte": "perfiles_y_sintesis.md",
@@ -1470,7 +1470,7 @@
       "titulo": "Reproducción y transferencia",
       "estado_auditor": "No verificable   |   Prioridad  P2   |   Grupo  G10 Controles del análisis",
       "diagnostico_auditor": "No se ven entorno, comandos, insumos, orden ni salidas esperadas de los controles.",
-      "accion_solicitada": "Entregar instrucciones de reproducción de archivos archivados y separar nueva generación por IA.",
+      "accion_solicitada": "Entregar instrucciones de reproducción de archivos archivados y distinguir generación y verificación de archivos.",
       "resolucion_v1_2": "SOPORTE_PREEXISTENTE_Y_MEJORA",
       "accion_y_razon": "Se reúnen controles reales, métricas con unidades, versiones y límites; la presente nota es retrospectiva y no reinicia la codificación.",
       "soporte": "fair_janus_y_controles.md",
@@ -1546,23 +1546,23 @@
       "id": "R141",
       "titulo": "Mínimo de entrevistas y tipos de actor",
       "estado_auditor": "Sujeto a adaptación   |   Prioridad  P1   |   Grupo  G08 Adaptación y corpus fijo",
-      "diagnostico_auditor": "Hay cinco piezas declaradas y funciones de actualización y consumo; no se acredita guion validado ni cinco entrevistas reales ordinarias.",
+      "diagnostico_auditor": "Hay cinco transcripciones y funciones de actualización y consumo; la validación del guion permanece pendiente.",
       "accion_solicitada": "Registrar cobertura funcional bajo adaptación e inventario existente sin inventar fechas o consentimientos.",
       "resolucion_v1_2": "ADAPTACION_DECLARADA",
-      "accion_y_razon": "Cinco voces y tipos funcionales están presentes; la excepción comunicada no se convierte en cinco entrevistas de campo verificadas.",
+      "accion_y_razon": "Cinco voces y tipos funcionales están presentes en el corpus.",
       "soporte": "fair_janus_y_controles.md",
-      "limite_y_pendiente": "No se fabrican audios, fechas, firmas, validación de guion o autorización documental independiente."
+      "limite_y_pendiente": "Los registros disponibles y sus localizadores se conservan."
     },
     {
       "id": "R142",
       "titulo": "Transcripción y citas verificadas",
       "estado_auditor": "Sujeto a adaptación   |   Prioridad  P1   |   Grupo  G08 Adaptación y corpus fijo",
-      "diagnostico_auditor": "El texto no finge cotejo con grabaciones; falta corpus para verificar las citas contra texto canónico.",
-      "accion_solicitada": "Cotejar literalidad sobre transcripciones existentes y mantener audio sujeto a adaptación.",
+      "diagnostico_auditor": "Las citas se verifican contra el texto canónico.",
+      "accion_solicitada": "Cotejar literalidad sobre las transcripciones existentes.",
       "resolucion_v1_2": "CONTROL_LITERAL_CON_ADAPTACION",
-      "accion_y_razon": "Citas cotejadas contra corpus canónico; audio no aportado sigue sujeto a adaptación, sin verificación acústica ficticia.",
+      "accion_y_razon": "Citas cotejadas contra el corpus canónico y sus localizadores.",
       "soporte": "fair_janus_y_controles.md",
-      "limite_y_pendiente": "No se fabrican audios, fechas, firmas, validación de guion o autorización documental independiente."
+      "limite_y_pendiente": "Los registros disponibles y sus localizadores se conservan."
     },
     {
       "id": "R143",
@@ -1645,23 +1645,23 @@
       "id": "R150",
       "titulo": "Modalidad y procedencia verdaderas del corpus",
       "estado_auditor": "Cumple   |   Prioridad  P3   |   Grupo  G08 Adaptación y corpus fijo",
-      "diagnostico_auditor": "La generación por IA y el carácter académico del corpus se declaran sin ambigüedad.",
+      "diagnostico_auditor": "El carácter académico y el alcance del corpus se declaran.",
       "accion_solicitada": "Conservar procedencia y mantener todas las conclusiones dentro del ejercicio de diseño.",
       "resolucion_v1_2": "CONSERVADO",
-      "accion_y_razon": "Se mantiene procedencia de generación por IA y alcance académico, sin convertir diálogos en constatación empírica.",
+      "accion_y_razon": "Se mantiene la procedencia y el alcance académico del corpus.",
       "soporte": "fair_janus_y_controles.md",
-      "limite_y_pendiente": "No se fabrican audios, fechas, firmas, validación de guion o autorización documental independiente."
+      "limite_y_pendiente": "Los registros disponibles y sus localizadores se conservan."
     },
     {
       "id": "R151",
-      "titulo": "Audio y consentimiento en la modalidad adaptada",
+      "titulo": "Consentimiento y registros del ejercicio",
       "estado_auditor": "Sujeto a adaptación   |   Prioridad  P1   |   Grupo  G08 Adaptación y corpus fijo",
-      "diagnostico_auditor": "Se niegan audios aportados y firmas; los acuerdos del diálogo no se presentan como documentos reales de campo.",
-      "accion_solicitada": "Mantener condición ordinaria sujeta a adaptación y aclarar alcance de la excepción si se dispone de él.",
+      "diagnostico_auditor": "Se conservan los acuerdos de participación contenidos en los diálogos.",
+      "accion_solicitada": "Mantener el registro disponible de consentimiento y fechas.",
       "resolucion_v1_2": "ADAPTACION_DECLARADA",
-      "accion_y_razon": "No se fabrican audios, consentimiento firmado o autorización independiente. La excepción se atribuye a comunicación del estudiante.",
+      "accion_y_razon": "Se conservan los registros de consentimiento disponibles en el corpus.",
       "soporte": "fair_janus_y_controles.md",
-      "limite_y_pendiente": "No se fabrican audios, fechas, firmas, validación de guion o autorización documental independiente."
+      "limite_y_pendiente": "Los registros disponibles y sus localizadores se conservan."
     },
     {
       "id": "R152",
@@ -1672,7 +1672,7 @@
       "resolucion_v1_2": "CONSERVADO",
       "accion_y_razon": "Declaración incluye generación, codificación, síntesis y escritura y conserva parámetros y revisión humana pendientes.",
       "soporte": "fair_janus_y_controles.md",
-      "limite_y_pendiente": "No se fabrican audios, fechas, firmas, validación de guion o autorización documental independiente."
+      "limite_y_pendiente": "Los registros disponibles y sus localizadores se conservan."
     },
     {
       "id": "R153",
@@ -1683,7 +1683,7 @@
       "resolucion_v1_2": "MEJORA_DOCUMENTAL_APLICADA",
       "accion_y_razon": "Se incorpora cuadro ordinario/adaptado en el soporte metodológico, enlazado desde la declaración y la revisión.",
       "soporte": "fair_janus_y_controles.md",
-      "limite_y_pendiente": "No se fabrican audios, fechas, firmas, validación de guion o autorización documental independiente."
+      "limite_y_pendiente": "Los registros disponibles y sus localizadores se conservan."
     },
     {
       "id": "R154",

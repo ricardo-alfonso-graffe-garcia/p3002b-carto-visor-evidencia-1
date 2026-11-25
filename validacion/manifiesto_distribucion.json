@@ -15,8 +15,8 @@
     },
     {
       "ruta": "107_revision_explicita_REP01_v1_3.md",
-      "bytes": 6025,
-      "sha256": "dfddae7db047e2facc5b3dd93610aea99b29c85a8dd777d92facb5909465db14"
+      "bytes": 5957,
+      "sha256": "a86424db5052b0324936184952bc47adf903920d349b4ae6ec00e5c79dcfe4da"
     },
     {
       "ruta": "INICIO.html",
@@ -25,13 +25,13 @@
     },
     {
       "ruta": "P3002B_Evidencia1_Ricardo_Graffe.docx",
-      "bytes": 2375754,
-      "sha256": "13ec63b7bf679849fa1797c72f10c5a91c19a0771431a1df9120bc225826db3f"
+      "bytes": 2266635,
+      "sha256": "a8e8963646356437e4896d27fd6d0456fc0e5161b46bf966df8f37eb5e148648"
     },
     {
       "ruta": "P3002B_Evidencia1_Ricardo_Graffe.pdf",
-      "bytes": 4024509,
-      "sha256": "265eb87fc9e55bc748683561691866460f0d3ef3c06bbb25f9ecafbad23d80cc"
+      "bytes": 5351590,
+      "sha256": "ef552fbe7c2a668628910d1778ef87e689c1b9f81ac2944cd21e80160133fec7"
     },
     {
       "ruta": "README.md",
@@ -45,8 +45,8 @@
     },
     {
       "ruta": "REP01_reporte_v1_3.md",
-      "bytes": 673468,
-      "sha256": "3461fb54a7c4ddf08433e106e5df06281865d4165f9f1772787d3a7d8791d671"
+      "bytes": 672498,
+      "sha256": "aeed615fbd55a683c52f55de56c350fc4088984fd8465077a43aa8c6c108f7a1"
     },
     {
       "ruta": "REP01_repositorio/11_guion_base_y_adaptaciones.md",
@@ -65,8 +65,8 @@
     },
     {
       "ruta": "REP01_repositorio/24_protocolo_analisis.md",
-      "bytes": 11167,
-      "sha256": "0881636a296136a856a646196a53170a3092fb372bd38516b77a614846adb78c"
+      "bytes": 11110,
+      "sha256": "3d42358caa554ec5045e18c72800e57882cdd889fa6a6d599aa54b1fb6bcbf54"
     },
     {
       "ruta": "REP01_repositorio/24_registro_corpus.json",
@@ -120,8 +120,8 @@
     },
     {
       "ruta": "REP01_repositorio/76_actores_y_preferencias_v1_1.md",
-      "bytes": 99119,
-      "sha256": "ad3d1d1f789575902b0f678de2bf986447c9198f16fda541459eec66d41528f5"
+      "bytes": 99088,
+      "sha256": "1c80f866857f9207e15f43134d5c4943ce99d67ed8c4269f6d241480db3f7ddf"
     },
     {
       "ruta": "REP01_repositorio/81_revision_N01.md",
@@ -175,8 +175,8 @@
     },
     {
       "ruta": "REP01_repositorio/LEEME.md",
-      "bytes": 6563,
-      "sha256": "93894d97d9debf3c228865f6a0698abc0dee84e214ce755bf7e0cf3019f14d16"
+      "bytes": 6509,
+      "sha256": "9da75333c74d484af5f3eecbc58068f3f9ea96fa7a7b15df0cf1332f25a95266"
     },
     {
       "ruta": "REP01_repositorio/README.md",
@@ -2580,8 +2580,8 @@
     },
     {
       "ruta": "REP01_repositorio/editorial/fuentes/instrucciones_REP01.md",
-      "bytes": 20662,
-      "sha256": "1f3e29dc4b4baed540130f543c5f59fb55f37d21b746811862553e98fe069567"
+      "bytes": 20353,
+      "sha256": "c86001430ee6103dcb11be590aac9b040d5e4ace3b31312838d575c8605a1292"
     },
     {
       "ruta": "REP01_repositorio/editorial/fuentes/registro_entradas.json",
@@ -2605,8 +2605,8 @@
     },
     {
       "ruta": "REP01_repositorio/editorial/registros/ajustes_cobertura_v1_1.json",
-      "bytes": 4796,
-      "sha256": "479df7132b77a3a093d61b6d794250114cee221e932ff7f3aa7699db0bf84fb1"
+      "bytes": 4729,
+      "sha256": "682bc9fbf2b947511253dca801ae0c1c83b254629cbd7c3de4291f9e808d3427"
     },
     {
       "ruta": "REP01_repositorio/editorial/registros/bibliografia_consultada.json",
@@ -2615,13 +2615,13 @@
     },
     {
       "ruta": "REP01_repositorio/editorial/registros/cobertura_requisitos.csv",
-      "bytes": 101841,
-      "sha256": "a4891ed72f21c92b3a35ec667fd77307aebc3d927066ac10f3320f7e751475a6"
+      "bytes": 101338,
+      "sha256": "1c36b37dc115f234d9a5ca48449e3057862741f68dac06cfa104f9aafe47e31f"
     },
     {
       "ruta": "REP01_repositorio/editorial/registros/cobertura_requisitos.json",
-      "bytes": 164140,
-      "sha256": "f814d6347554d1121a048b776542dd852cce1260218906d875ede432414ebf6c"
+      "bytes": 163846,
+      "sha256": "ac227603fb7ca4b6390b21ce9eda6444add950d6fdeb58d4e64673bfd010e14b"
     },
     {
       "ruta": "REP01_repositorio/editorial/registros/guia_por_seccion.md",
@@ -2630,8 +2630,8 @@
     },
     {
       "ruta": "REP01_repositorio/editorial/registros/incidencias_metodologicas.md",
-      "bytes": 3413,
-      "sha256": "18a0df1cd3fcc959ea582dd2e61828141a30ff81b3a807115c5ce4648defa4ca"
+      "bytes": 1125,
+      "sha256": "6d3c1c34ec523bb228ada42d69741b62ee97e0df74e5ad067164d1eab8d1859b"
     },
     {
       "ruta": "REP01_repositorio/editorial/registros/indice_inverso.json",
@@ -2645,23 +2645,23 @@
     },
     {
       "ruta": "REP01_repositorio/editorial/registros/localizadores_metodologicos_v1_1.json",
-      "bytes": 1168,
-      "sha256": "db2c543a7b21197ba2d7d9f36035d9ed34a11bdacddd73a211b4b1b68625c8e8"
+      "bytes": 1234,
+      "sha256": "f64aae1fc644c419a280596c42bede1dcdfa1ceec10eb1699ec550caad56d582"
     },
     {
       "ruta": "REP01_repositorio/editorial/registros/memo_integracion.md",
-      "bytes": 2312,
-      "sha256": "c91a6861dde6e0911614f1033642d188dea114d9e6e19841f33fad623949ee92"
+      "bytes": 2296,
+      "sha256": "479873339ec491476165ded7dd8b10e30f90bcb8bc3e73f870c32faa520d54aa"
     },
     {
       "ruta": "REP01_repositorio/editorial/registros/procedencia_REP01.json",
-      "bytes": 633,
-      "sha256": "a34abe9cf48068d4ba1c5a916e0e92fe69ee55fff474e2a98b1475c1657dacb5"
+      "bytes": 334,
+      "sha256": "44320eed4da76ca3e7d860b6c1a9b1e9cd2dc0f5aef407b75faf8cdfbcaaa950"
     },
     {
       "ruta": "REP01_repositorio/editorial/registros/revision_coordinacion_v1_1.md",
-      "bytes": 1863,
-      "sha256": "bf97600e7ce2e1fb39acff69cf35af82be21b174ab75ece0977650191f702553"
+      "bytes": 1827,
+      "sha256": "5cc3100cff693f5a36e0367ca4235da3b2d57e1d5c8f32c1e8a6588b19c3abb8"
     },
     {
       "ruta": "REP01_repositorio/editorial/revision_v1_2/Anexo_visual_perfiles_y_recorrido_v1_2.docx",
@@ -2685,13 +2685,13 @@
     },
     {
       "ruta": "REP01_repositorio/editorial/revision_v1_2/auditoria_175_fichas_fuente.json",
-      "bytes": 190722,
-      "sha256": "de2ad4be07b51400a247c0aa733dea1bb23c20e0e47b07b0b4d97cf9307d681d"
+      "bytes": 189425,
+      "sha256": "1e5903024c87082908b569fbc92fbc1fd1171339ecbe4dc3d9580bd4d549e5e3"
     },
     {
       "ruta": "REP01_repositorio/editorial/revision_v1_2/auditoria_externa_recibida.docx",
-      "bytes": 107339,
-      "sha256": "da87f733a4066ef9e2476a40f4f82d7aa4ba5fd949655ed643f34fbd278538ee"
+      "bytes": 106892,
+      "sha256": "c50f3959c73af47b97600fe6b00a961d9b9c4cb58e8def3d99701fd1f6db8e3a"
     },
     {
       "ruta": "REP01_repositorio/editorial/revision_v1_2/contratos_y_metadatos.md",
@@ -2710,8 +2710,8 @@
     },
     {
       "ruta": "REP01_repositorio/editorial/revision_v1_2/fair_janus_y_controles.md",
-      "bytes": 7490,
-      "sha256": "79cda1bdb5fb3c71176452947ebbd18163ca3f30a7acdecb42a3a6e60ccaf35e"
+      "bytes": 7326,
+      "sha256": "3d81c8a6fbe0b92290c4cd112ea5b76fcb859d250ad717707ccad2bd79f11d31"
     },
     {
       "ruta": "REP01_repositorio/editorial/revision_v1_2/fichas_historias.md",
@@ -2735,8 +2735,8 @@
     },
     {
       "ruta": "REP01_repositorio/editorial/revision_v1_2/localizacion_declaraciones_metodologicas.json",
-      "bytes": 613,
-      "sha256": "4198889e207d0d1d7ba56cf16d8f43db6d987ceb906be6a1e58bf46bf5c807af"
+      "bytes": 500,
+      "sha256": "0ab1add3cd9d239943783bb532106d665585f2e5b6e545883f6376a54abbaf9c"
     },
     {
       "ruta": "REP01_repositorio/editorial/revision_v1_2/perfiles_y_sintesis.md",
@@ -2780,18 +2780,18 @@
     },
     {
       "ruta": "REP01_repositorio/editorial/revision_v1_2/resolucion_175.csv",
-      "bytes": 111050,
-      "sha256": "3cc1efa908e7e9e2e9895db3f6efc3a38353772ba04a9dd5e8155ac11d1ceae9"
+      "bytes": 109849,
+      "sha256": "3bbf8f9a2adaa28d1c9b9c1fba9728a67ba3b2b92468904b6a571195ddea3142"
     },
     {
       "ruta": "REP01_repositorio/editorial/revision_v1_2/resolucion_175.json",
-      "bytes": 152277,
-      "sha256": "1b03615329486989278bb9fd5aec19cc80b40e493319a3a4071a2f401e56d9e8"
+      "bytes": 151252,
+      "sha256": "ca972eb2bb1e1a6d6aceb8501b65df1cf1845dc5321ca5a3a5bd80fd6e77bf83"
     },
     {
       "ruta": "REP01_repositorio/editorial/revision_v1_2/resolucion_175.md",
-      "bytes": 120315,
-      "sha256": "a00b5b02e2ba55d6255be4c1382ab642b0df687a940ed31e5052b78dfcb0741d"
+      "bytes": 119290,
+      "sha256": "563412783c7ceb7f244d61575d24c3c8bcb3c8ef90803fb2487aaf53969f4ebd"
     },
     {
       "ruta": "REP01_repositorio/editorial/revision_v1_2/resumen_controles.json",
@@ -2815,18 +2815,18 @@
     },
     {
       "ruta": "REP01_repositorio/editorial/revision_v1_3/brechas_y_presencia.csv",
-      "bytes": 4565,
-      "sha256": "6f8c536333543ba5de20e331963803e3bcb0b3db32231f334a3299a0f72efe12"
+      "bytes": 4512,
+      "sha256": "3b465073d79fc142d10e629131bfd9ae835e52834a8d6bc9ee796ccc43a3ec61"
     },
     {
       "ruta": "REP01_repositorio/editorial/revision_v1_3/brechas_y_presencia.json",
-      "bytes": 7518,
-      "sha256": "b865ef31484704cdcfad1ad5b780b8c6b0fc15155715fafe37fc11f43683c8e1"
+      "bytes": 7486,
+      "sha256": "b1704c1aaa00c6852135d939e2c3a398800f53644334bc6177308dcbdf47bad5"
     },
     {
       "ruta": "REP01_repositorio/editorial/revision_v1_3/contraste_especificaciones_y_auditoria.md",
-      "bytes": 6471,
-      "sha256": "38d4cefe2aeb746f0d0e196f0571291c38d7143dd3e0241812fb857a8cb87ca3"
+      "bytes": 6439,
+      "sha256": "8258b4288ca62734784a85a53d2c577b5550f94cec327e624f05c54dd674eead"
     },
     {
       "ruta": "REP01_repositorio/editorial/revision_v1_3/controles_adicionales_v1_3.json",
@@ -2835,8 +2835,8 @@
     },
     {
       "ruta": "REP01_repositorio/editorial/revision_v1_3/delta_sobre_175_recomendaciones.json",
-      "bytes": 45794,
-      "sha256": "af3c029e5877a4b78fc6968918aa126c01371b9eb2753179fecf79e2f3f7635d"
+      "bytes": 45787,
+      "sha256": "62b506c0c5cc5503a3042acd538192fe00b4c2c94ce0516b29250dfdae525be2"
     },
     {
       "ruta": "REP01_repositorio/editorial/revision_v1_3/ejemplo_objeto_local_orientado_a_fdo.json",
@@ -2850,8 +2850,8 @@
     },
     {
       "ruta": "REP01_repositorio/editorial/revision_v1_3/fair_fdo_y_janus.md",
-      "bytes": 4124,
-      "sha256": "68bc34703b7fe7b38efe5e9203da04c5eae79d89d69cd1a5fb1f322c0c960d4f"
+      "bytes": 4076,
+      "sha256": "d50ce665f72f6836881bb625f5570562046fd146fbb534a6c5d42af4baa8563d"
     },
     {
       "ruta": "REP01_repositorio/editorial/revision_v1_3/localizadores_de_contenido_explicito.json",
@@ -2905,8 +2905,8 @@
     },
     {
       "ruta": "REP01_repositorio/editorial/scripts/aplicar_auditoria_v1_2_historico.py",
-      "bytes": 19888,
-      "sha256": "26fbc0062bc3ecd96e49b866979391c5dc2ee3aa84cda6f7b862242721a067a0"
+      "bytes": 19768,
+      "sha256": "722d7ac3b25c594b10d84f0ae90a75556d3f76add4c9ae4125ea2251eb61d95d"
     },
     {
       "ruta": "REP01_repositorio/editorial/scripts/atlas_perfiles_v1_2_historico.py",
@@ -2915,8 +2915,8 @@
     },
     {
       "ruta": "REP01_repositorio/editorial/scripts/cerrar_REP01_v1_1_historico.py",
-      "bytes": 13377,
-      "sha256": "709d16c4385b5a8d417b17bf719c023e69d9be66b7c0b25f7d4e2e152191763e"
+      "bytes": 13368,
+      "sha256": "acbd68af5695d202945771eeccc432bbb035a956f93a946e1e082082658b141f"
     },
     {
       "ruta": "REP01_repositorio/editorial/scripts/cerrar_entrega.py",
@@ -2930,8 +2930,8 @@
     },
     {
       "ruta": "REP01_repositorio/editorial/scripts/empaquetar_revision_v1_3_historico.py",
-      "bytes": 9321,
-      "sha256": "7c71d55171ddd7c22f2442c108e703791c3cdda7d0fd6c619ed6a82d7ad6518d"
+      "bytes": 9253,
+      "sha256": "2e32bb3d4199cfa951f114b7144f6423d4cea5b83a34b36c9f4c838888e36d3a"
     },
     {
       "ruta": "REP01_repositorio/editorial/scripts/explicitar_reporte_v1_3_historico.py",
@@ -2965,33 +2965,33 @@
     },
     {
       "ruta": "REP01_repositorio/editorial/scripts/preparar_rep01_historico.py",
-      "bytes": 17308,
-      "sha256": "df2dbb9ceef4272152d67e9a787b26b53d2c3361a394d6bb87a3bcfd36f186a9"
+      "bytes": 16973,
+      "sha256": "15a8990b840032df83dc57e16bcf742f4f30a5b05b798a5db65c6b6a71b9cf46"
     },
     {
       "ruta": "REP01_repositorio/editorial/scripts/resolver_auditoria_v1_2_historico.py",
-      "bytes": 18286,
-      "sha256": "240f8790ec80f01af5dd590a4ae92d93dd93da49fe8df86f4845575c31db1f21"
+      "bytes": 17991,
+      "sha256": "be7e7b9220e80b012228e1b643935611aaa8d0e8e3fc8f5b4067e7f433465ac2"
     },
     {
       "ruta": "REP01_repositorio/editorial/scripts/revisar_REP01_v1_1_historico.py",
-      "bytes": 25147,
-      "sha256": "6ec7424c721487385bd0a4233d49e1f106f937ae8af89e988c1741070b2821aa"
+      "bytes": 24500,
+      "sha256": "24ddc6c90d5a16667536b0d1868f28759834b17ca96c22c0007db9e7555aa600"
     },
     {
       "ruta": "REP01_repositorio/editorial/scripts/soportes_auditoria_v1_2_historico.py",
-      "bytes": 44963,
-      "sha256": "606187eb82b9386a1a5238e2ac994bdc8bd8cac1f38fd7fbc3655b574b51cce0"
+      "bytes": 44799,
+      "sha256": "521c53af945dc9396c77e16ecfefc86add082d5af2ade783a89d92e192e811ec"
     },
     {
       "ruta": "REP01_repositorio/editorial/scripts/soportes_explicitos_v1_3_historico.py",
-      "bytes": 14077,
-      "sha256": "39f48080993e63f1d966b5971bf34fd544433a2eb4472133a25a07b907e47124"
+      "bytes": 13997,
+      "sha256": "62d7d99b3eae7ebc4a8c250884a10ae46eae062a33089b4a0bd1ce18ffd516d6"
     },
     {
       "ruta": "REP01_repositorio/editorial/scripts/trazar_rep01_historico.py",
-      "bytes": 64597,
-      "sha256": "ad7a00a499319d14ef40ab6af1a38f10462fffda4b27e90a6d559a82d67486af"
+      "bytes": 64319,
+      "sha256": "891d3f20f7ea4b4a4de7c31d99a9f323cee67872f09d9a5293aa439d22227ff1"
     },
     {
       "ruta": "REP01_repositorio/editorial/scripts/validar_reporte.py",
@@ -3095,8 +3095,8 @@
     },
     {
       "ruta": "REP01_repositorio/registro/prompts_analisis/60_instrucciones_S01.md",
-      "bytes": 15363,
-      "sha256": "59677a6a8f2fb9d141d9e5773152ad98cf902d75dcbd5b92a66c36dce0bd4ba1"
+      "bytes": 15319,
+      "sha256": "d9b406b29096ca398313f3d1df96a49de76d5e396663baa62dd717e1face39a0"
     },
     {
       "ruta": "REP01_repositorio/registro/prompts_analisis/64_instrucciones_P01.md",
@@ -3110,13 +3110,13 @@
     },
     {
       "ruta": "REP01_repositorio/registro/prompts_analisis/73_instrucciones_ACT01.md",
-      "bytes": 21418,
-      "sha256": "cdf61cba779bf30802d3be2b0b333690aa8767b3b1ab8807256edb44efc4cc2f"
+      "bytes": 21361,
+      "sha256": "88cf1cfaca96d07fab7a42ef6212c685de2fb8c67ba5e3ed155232b8eb7f860e"
     },
     {
       "ruta": "REP01_repositorio/registro/prompts_analisis/78_instrucciones_N01.md",
-      "bytes": 19213,
-      "sha256": "15f1320a828d9bc31a82531947581ac34b1489718d2604e8a0e9817f62381ff0"
+      "bytes": 19157,
+      "sha256": "4dc55d853e77ef56530780a9a6e69aac50b57323a76e108b20fc1659601f455e"
     },
     {
       "ruta": "REP01_repositorio/registro/prompts_analisis/84_instrucciones_HU01.md",
@@ -3430,18 +3430,18 @@
     },
     {
       "ruta": "REP01_trazabilidad_v1_3.json",
-      "bytes": 365305,
-      "sha256": "fa49caa4ba50c558887fce01dc1efc4bfce22ce6529dcc98706009bc327a35db"
+      "bytes": 364641,
+      "sha256": "3ffc9c7aba8f1f452456bb6a07ebeb43321760242328887e4e57a9a700d1e16c"
     },
     {
       "ruta": "en_linea/P3002B_Evidencia1_Ricardo_Graffe.docx",
-      "bytes": 2375754,
-      "sha256": "13ec63b7bf679849fa1797c72f10c5a91c19a0771431a1df9120bc225826db3f"
+      "bytes": 2266635,
+      "sha256": "a8e8963646356437e4896d27fd6d0456fc0e5161b46bf966df8f37eb5e148648"
     },
     {
       "ruta": "en_linea/P3002B_Evidencia1_Ricardo_Graffe.pdf",
-      "bytes": 4024509,
-      "sha256": "265eb87fc9e55bc748683561691866460f0d3ef3c06bbb25f9ecafbad23d80cc"
+      "bytes": 5351590,
+      "sha256": "ef552fbe7c2a668628910d1778ef87e689c1b9f81ac2944cd21e80160133fec7"
     },
     {
       "ruta": "en_linea/README.md",

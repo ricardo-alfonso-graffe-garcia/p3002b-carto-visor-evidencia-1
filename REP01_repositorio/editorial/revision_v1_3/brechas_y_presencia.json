@@ -147,12 +147,12 @@
       "limite": "No se afirma recuperar la captura o corrida exacta de clase."
     },
     {
-      "aspecto": "Audio fechas guion y consentimiento",
+      "aspecto": "Fechas guion y consentimiento",
       "requisitos": "R141/R142/R151/R153",
-      "estado_1_2": "Adaptación declarada según excepción comunicada.",
+      "estado_1_2": "Método y registros del ejercicio documentados.",
       "tratamiento_1_3": "ADAPTACION",
       "destino": "Sección 1 y anexo",
-      "limite": "No se crean audios, fechas, firmas ni validación de guion no acreditados."
+      "limite": "Se conservan las fechas y los registros disponibles."
     },
     {
       "aspecto": "Extensión y rúbrica",

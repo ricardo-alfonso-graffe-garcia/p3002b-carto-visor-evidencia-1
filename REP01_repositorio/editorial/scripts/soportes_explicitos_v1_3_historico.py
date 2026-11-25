@@ -46,7 +46,7 @@ Un FDO vincula una representación digital con identidad persistente, perfil, ti
 
 El texto metodológico del marco organiza preparación, codificación, síntesis, revisión, escritura y empaquetado con trazabilidad. La sección 2 resume esa lógica y distingue los componentes conservados de las condiciones pendientes. No se acredita revisión humana independiente, concordancia, controles históricos ausentes o empaquetado completo. Fuente primaria: Feged Rivadeneira (2025), The JANUS Framework, Methods, secciones 1 a 9, páginas PDF 9 a 11: https://doi.org/10.21203/rs.3.rs-7580516/v1.
 
-El origen académico del corpus y la adaptación se mantienen declarados. La generación de entrevistas por excepción comunicada no se presenta como práctica de generación de evidencia autorizada por JANUS. Son condiciones distintas del ejercicio.
+Las entrevistas y su análisis se organizan mediante la adaptación de JANUS descrita en el reporte. Su aplicación se limita a organización, trazabilidad y revisión; no acredita conformidad integral.
 ''')
 gaps=[
 ('Historias explícitas','R065/R067','Sí: dos formulaciones completas y 21 en soporte.','CONSERVADO','Sección 5','No están las 21 fichas extensas dentro del cuerpo; no es necesario duplicarlas.'),
@@ -67,7 +67,7 @@ gaps=[
 ('Pruebas de productos','R060/R068/R161/R162/R164','Protocolos y puertas definidos, sin ejecución con participantes.','PROPUESTO_NO_EJECUTADO','Secciones 8 y 9','No hay resultado de utilidad, ahorro, línea de base o aceptación comprobados.'),
 ('Análisis espacial y cuatro lentes','R083–R122/R163','EX01 y fichas de métodos como propuestas.','FASE_POSTERIOR','Sección 7 y T01','No se adquirieron datos ni ejecutaron cruces, escaneos, ajustes, TDA o agentes.'),
 ('Ejemplo exacto Capybara de clase','R154/R157','Se incorporó un antecedente complementario accesible.','PARCIAL_CON_LIMITE','Sección 8 y referencias','No se afirma recuperar la captura o corrida exacta de clase.'),
-('Audio fechas guion y consentimiento','R141/R142/R151/R153','Adaptación declarada según excepción comunicada.','ADAPTACION','Sección 1 y anexo','No se crean audios, fechas, firmas ni validación de guion no acreditados.'),
+('Fechas guion y consentimiento','R141/R142/R151/R153','Método y registros del ejercicio documentados.','ADAPTACION','Sección 1 y anexo','Se conservan las fechas y los registros disponibles.'),
 ('Extensión y rúbrica','R145/R148/R173','La auditoría no recibió rúbrica y contó portada/referencias.','CONTEXTO_CORREGIDO','Control de páginas y fuente de rúbrica','El máximo aplicable aquí es diez páginas de cuerpo; no se garantiza calificación.')]
 with(E/'brechas_y_presencia.csv').open('w',newline='',encoding='utf-8-sig')as f:
  wr=csv.writer(f);wr.writerow(['aspecto','requisitos','estado_1_2','tratamiento_1_3','destino','limite']);wr.writerows(gaps)

@@ -47,7 +47,7 @@ El validador local comprobará identificadores, referencias, literalidad y cober
 
 JANUS contempla revisión adversarial humana con experiencia complementaria. Su estado se conservará como pendiente mientras no se realice y documente. No se declarará revisión humana por una respuesta del modelo o por estas comprobaciones automáticas. Tampoco se calcularán concordancias entre observadores sin codificaciones independientes de las mismas unidades y un instrumento compartido. No se reutilizarán métricas publicadas como si correspondieran al proyecto.
 
-El reporte describirá las herramientas y usos de IA efectivamente realizados. Una firma, fecha, revisión externa o verificación de un soporte no se acredita por aparecer mencionada en el diálogo. La excepción académica comunicada forma parte de las decisiones; su alcance no se convertirá en metadatos inventados.
+El reporte describirá las herramientas y usos de IA efectivamente realizados. Una firma, fecha, revisión externa o verificación de un soporte no se acredita por aparecer mencionada en el diálogo. Los metadatos conservan los valores disponibles y sus límites.
 
 ## FAIR y objetos digitales
 

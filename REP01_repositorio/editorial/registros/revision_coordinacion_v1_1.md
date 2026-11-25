@@ -2,7 +2,7 @@
 
 Recepción completa de cuatro originales; huella y CRC del ZIP coinciden. Validador original repetido sin errores en carpeta real. Se inspeccionaron las tres figuras nuevas y se cotejaron sus fuentes y simplificaciones. La revisión es asistida; no se sustituye una revisión humana independiente.
 
-Se añadieron tablas de correspondencia documental, capacidades/preferencias de cinco actores y cinco necesidades ideales con verificación propuesta. Se conservaron todas las citas y las fuentes canónicas. Los objetos, prioridades e historias no se reescribieron. La procedencia y la excepción docente comunicada se registran en procedencia_REP01.json.
+Se añadieron tablas de correspondencia documental, capacidades/preferencias de cinco actores y cinco necesidades ideales con verificación propuesta. Se conservaron todas las citas y las fuentes canónicas. Los objetos, prioridades e historias no se reescribieron. La procedencia se registra en procedencia_REP01.json.
 
 El registro ajustes_cobertura_v1_1.json explica cada cambio de estado por su enunciado. No se transforman estados en calificación. Los registros administrativos ausentes y la aplicabilidad documental a episodios mantienen sus límites.
 

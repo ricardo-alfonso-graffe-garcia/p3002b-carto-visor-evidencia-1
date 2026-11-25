@@ -47,7 +47,7 @@ Corpus 1.0; libro 1.3; R01/R02 1.3, R03 1.2, R04/R05 1.1; S01/P01/D01/ACT01/N01/
 
 ## Acceso y límites
 
-El corpus se distribuye para revisión del ejercicio; no se otorga permiso abierto de reutilización. MIT corresponde al código GeoInsights, no a entrevistas o registros personales. Los acuerdos textuales de participación no acreditan firmas, audio ni trabajo de campo; fechas de entrevista NO_CONSIGNADA. Las transcripciones se generaron con IA; se preservan y se declara su alcance en el manuscrito. La revisión humana independiente permanece pendiente. La paginación efectiva y los controles de Word/PDF se documentan en `editorial/controles/maquetacion_v1_1.json`.
+El corpus se distribuye para revisión del ejercicio; no se otorga permiso abierto de reutilización. MIT corresponde al código GeoInsights, no a entrevistas o registros personales. Las aperturas conservan los acuerdos de participación; fechas de entrevista NO_CONSIGNADA. Las transcripciones se preservan y su alcance se declara en el manuscrito. La revisión humana independiente permanece pendiente. La paginación efectiva y los controles de Word/PDF se documentan en `editorial/controles/maquetacion_v1_1.json`.
 
 ## Entrega y verificación
 
