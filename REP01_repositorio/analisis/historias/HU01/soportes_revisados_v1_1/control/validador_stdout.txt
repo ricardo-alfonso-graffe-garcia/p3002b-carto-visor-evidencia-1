@@ -1,0 +1,1 @@
+{"estado": "SIN_ERRORES_ESTRUCTURALES", "errores": 0, "salida": "output/P3002B_expediente_v1/analisis/historias/HU01/soportes_revisados_v1_1/control/HU01_control_validacion.json"}

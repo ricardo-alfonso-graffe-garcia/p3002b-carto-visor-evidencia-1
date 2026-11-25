@@ -1,0 +1,32 @@
+{
+  "fecha": "2026-11-25",
+  "cambios": [
+    {
+      "objeto": "T01-P001.actividad_humana",
+      "antes": "La técnica interpreta correspondencia y firma alcance de su revisión. Colega aporta otra lectura sin autorizar toda decisión; fuente mediada debe mantenerse atribuida al equipo. Conversar cuando aparece información nueva. No ejecutar contacto o cambio en bases desde T01.",
+      "resolucion": "Explicitar alcance; no requisito de firma inferido."
+    },
+    {
+      "objeto": "T01-A010",
+      "antes": {
+        "id": "T01-A010",
+        "afirmacion": "La presentación oficial del Marco Geoestadístico le asigna finalidad estadística y distingue su delimitación de la definición jurídica de límites.",
+        "fuentes": [
+          "T01-F014"
+        ],
+        "localizadores": "Presentación y correspondencia de límites, extracto oficial indexado",
+        "alcance": "Afirmación acotada al pasaje leído; diseño metodológico, sin resultado territorial.",
+        "aplicacion_local": "Considerar como REFERENCIA analítica opcional, con jurisdicción separada.",
+        "limites": "Solo lectura del texto indexado; no archivo cartográfico, edición ni derecho de uso de un payload inspeccionado."
+      },
+      "resolucion": "Fuente oficial directamente leída F041; alcance histórico/metodológico acotado."
+    },
+    {
+      "objeto": "diagrama arquitectura",
+      "resolucion": "Añadido retorno T01-M006 → T01-M004 ya existente en el JSON; no nueva responsabilidad o flujo institucional."
+    }
+  ],
+  "criterios_y_portafolio": "Tres candidatos y doce criterios propuestos conservados; sin ensayos de producto.",
+  "fuentes": "20 referencias externas de alcance consultado recontrastadas; 14 fuentes de código cotejadas por huella; seis fallos de recuperación originales permanecen. F014 sigue como texto indexado.",
+  "revision_humana_independiente": "PENDIENTE"
+}

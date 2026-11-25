@@ -1,0 +1,1701 @@
+[
+  {
+    "producto": "T01-P001",
+    "historia": "HU01-H001",
+    "necesidad": "N01-N001",
+    "titulo_necesidad": "Alcance y finalidad de la revisión",
+    "estado_original": "ATENDIDA_EN_EPISODIO",
+    "tipo": "NECESIDAD_ACTUAL",
+    "codigos": [
+      "C001"
+    ],
+    "evidencias": [
+      "N01-V0001",
+      "N01-V0002",
+      "N01-V0003",
+      "N01-V0004"
+    ],
+    "evidencia_que_limita": [
+      "N01-V0005"
+    ],
+    "limites": "No organiza visitas ni decide actividades. El encargo no cambió en el episodio.",
+    "localizadores": [
+      {
+        "evidencia": "N01-V0001",
+        "referencia": "E01-P013",
+        "preguntas": [
+          "E01-P012"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0002",
+        "referencia": "E01-P019",
+        "preguntas": [
+          "E01-P018"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0003",
+        "referencia": "E01-P085",
+        "preguntas": [
+          "E01-P084"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0004",
+        "referencia": "E01-P087",
+        "preguntas": [
+          "E01-P086"
+        ],
+        "voz": "Participante"
+      }
+    ],
+    "alcance": "Relación analítica; referencias canónicas del mismo corpus no son corroboraciones independientes."
+  },
+  {
+    "producto": "T01-P001",
+    "historia": "HU01-H001",
+    "necesidad": "N01-N002",
+    "titulo_necesidad": "Identidad del espacio y sentido de la diferencia de acceso",
+    "estado_original": "ATENDIDA_EN_EPISODIO",
+    "tipo": "NECESIDAD_ACTUAL",
+    "codigos": [
+      "C002",
+      "C003",
+      "C004",
+      "C005",
+      "C006",
+      "C007",
+      "C008",
+      "C014"
+    ],
+    "evidencias": [
+      "N01-V0006",
+      "N01-V0007",
+      "N01-V0008",
+      "N01-V0009",
+      "N01-V0010",
+      "N01-V0011",
+      "N01-V0012",
+      "N01-V0013"
+    ],
+    "evidencia_que_limita": [
+      "N01-V0014",
+      "N01-V0015",
+      "N01-V0016",
+      "N01-V0017",
+      "N01-V0018"
+    ],
+    "limites": "El punto representa el sitio y no una puerta levantada con precisión; la primera intención de moverlo no se ejecutó.",
+    "localizadores": [
+      {
+        "evidencia": "N01-V0006",
+        "referencia": "E01-P031",
+        "preguntas": [
+          "E01-P030"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0007",
+        "referencia": "E01-P033",
+        "preguntas": [
+          "E01-P032"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0008",
+        "referencia": "E01-P063",
+        "preguntas": [
+          "E01-P062"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0009",
+        "referencia": "E01-P065",
+        "preguntas": [
+          "E01-P064"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0010",
+        "referencia": "E01-P067",
+        "preguntas": [
+          "E01-P066"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0011",
+        "referencia": "E01-P105",
+        "preguntas": [
+          "E01-P104"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0012",
+        "referencia": "E01-P107",
+        "preguntas": [
+          "E01-P106"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0013",
+        "referencia": "E01-P109",
+        "preguntas": [
+          "E01-P108"
+        ],
+        "voz": "Participante"
+      }
+    ],
+    "alcance": "Relación analítica; referencias canónicas del mismo corpus no son corroboraciones independientes."
+  },
+  {
+    "producto": "T01-P001",
+    "historia": "HU01-H002",
+    "necesidad": "N01-N003",
+    "titulo_necesidad": "Copia consultada y alcance de lo entregado",
+    "estado_original": "ATENDIDA_EN_EPISODIO",
+    "tipo": "NECESIDAD_ACTUAL",
+    "codigos": [
+      "C009",
+      "C010",
+      "C012",
+      "C008"
+    ],
+    "evidencias": [
+      "N01-V0009",
+      "N01-V0019",
+      "N01-V0020",
+      "N01-V0021",
+      "N01-V0022",
+      "N01-V0023",
+      "N01-V0024",
+      "N01-V0025"
+    ],
+    "evidencia_que_limita": [
+      "N01-V0026",
+      "N01-V0027"
+    ],
+    "limites": "No es actualizar automáticamente todas las bases ni enviar cada intercambio interno.",
+    "localizadores": [
+      {
+        "evidencia": "N01-V0009",
+        "referencia": "E01-P065",
+        "preguntas": [
+          "E01-P064"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0019",
+        "referencia": "E01-P073",
+        "preguntas": [
+          "E01-P072"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0020",
+        "referencia": "E01-P075",
+        "preguntas": [
+          "E01-P074"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0021",
+        "referencia": "E01-P077",
+        "preguntas": [
+          "E01-P076"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0022",
+        "referencia": "E01-P079",
+        "preguntas": [
+          "E01-P078"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0023",
+        "referencia": "E01-P093",
+        "preguntas": [
+          "E01-P092"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0024",
+        "referencia": "E01-P095",
+        "preguntas": [
+          "E01-P094"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0025",
+        "referencia": "E01-P153",
+        "preguntas": [
+          "E01-P152"
+        ],
+        "voz": "Participante"
+      }
+    ],
+    "alcance": "Relación analítica; referencias canónicas del mismo corpus no son corroboraciones independientes."
+  },
+  {
+    "producto": "T01-P001",
+    "historia": "HU01-H003",
+    "necesidad": "N01-N004",
+    "titulo_necesidad": "Explicación recuperable del último cambio pertinente",
+    "estado_original": "NO_APLICA_AL_IDEAL",
+    "tipo": "DESEO_IDEAL",
+    "codigos": [
+      "C016",
+      "C009",
+      "C012",
+      "C017",
+      "C030",
+      "C018"
+    ],
+    "evidencias": [
+      "N01-V0028",
+      "N01-V0029",
+      "N01-V0030",
+      "N01-V0031",
+      "N01-V0032",
+      "N01-V0033",
+      "N01-V0034",
+      "N01-V0035",
+      "N01-V0036",
+      "N01-V0037",
+      "N01-V0038"
+    ],
+    "evidencia_que_limita": [
+      "N01-V0039",
+      "N01-V0040",
+      "N01-V0041",
+      "N01-V0042",
+      "N01-V0043"
+    ],
+    "limites": "La carpeta es soporte imaginado, no carencia de este caso; una observación nueva puede requerir conversación. No registrar todo lo que se desconoce.",
+    "localizadores": [
+      {
+        "evidencia": "N01-V0028",
+        "referencia": "E01-P121",
+        "preguntas": [
+          "E01-P120"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0029",
+        "referencia": "E01-P123",
+        "preguntas": [
+          "E01-P122"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0030",
+        "referencia": "E01-P125",
+        "preguntas": [
+          "E01-P124"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0031",
+        "referencia": "E01-P127",
+        "preguntas": [
+          "E01-P126"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0032",
+        "referencia": "E01-P129",
+        "preguntas": [
+          "E01-P128"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0033",
+        "referencia": "E01-P131",
+        "preguntas": [
+          "E01-P130"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0034",
+        "referencia": "E01-P133",
+        "preguntas": [
+          "E01-P132"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0035",
+        "referencia": "E01-P137",
+        "preguntas": [
+          "E01-P136"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0036",
+        "referencia": "E01-P139",
+        "preguntas": [
+          "E01-P138"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0037",
+        "referencia": "E01-P141",
+        "preguntas": [
+          "E01-P140"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0038",
+        "referencia": "E01-P145",
+        "preguntas": [
+          "E01-P144"
+        ],
+        "voz": "Participante"
+      }
+    ],
+    "alcance": "Relación analítica; referencias canónicas del mismo corpus no son corroboraciones independientes."
+  },
+  {
+    "producto": "T01-P002",
+    "historia": "HU01-H004",
+    "necesidad": "N01-N006",
+    "titulo_necesidad": "Unidad y relaciones que hacen comparables las salidas",
+    "estado_original": "ATENDIDA_EN_EPISODIO",
+    "tipo": "NECESIDAD_ACTUAL",
+    "codigos": [
+      "C024",
+      "C025",
+      "C019",
+      "C023",
+      "C014"
+    ],
+    "evidencias": [
+      "N01-V0044",
+      "N01-V0045",
+      "N01-V0046",
+      "N01-V0047",
+      "N01-V0048",
+      "N01-V0049",
+      "N01-V0050",
+      "N01-V0051",
+      "N01-V0052",
+      "N01-V0053",
+      "N01-V0054"
+    ],
+    "evidencia_que_limita": [
+      "N01-V0055",
+      "N01-V0056",
+      "N01-V0057",
+      "N01-V0058"
+    ],
+    "limites": "Distancia y tiempo siguen importando situadamente. Un mapa sin explicación no establece relación social o causa de elección.",
+    "localizadores": [
+      {
+        "evidencia": "N01-V0044",
+        "referencia": "E02-P028",
+        "preguntas": [
+          "E02-P027"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0045",
+        "referencia": "E02-P075",
+        "preguntas": [
+          "E02-P074"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0046",
+        "referencia": "E02-P076",
+        "preguntas": [
+          "E02-P074"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0047",
+        "referencia": "E02-P078",
+        "preguntas": [
+          "E02-P077"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0048",
+        "referencia": "E02-P079",
+        "preguntas": [
+          "E02-P077"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0049",
+        "referencia": "E02-P081",
+        "preguntas": [
+          "E02-P080"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0050",
+        "referencia": "E02-P082",
+        "preguntas": [
+          "E02-P080"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0051",
+        "referencia": "E02-P088",
+        "preguntas": [
+          "E02-P087"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0052",
+        "referencia": "E02-P092",
+        "preguntas": [
+          "E02-P091"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0053",
+        "referencia": "E02-P093",
+        "preguntas": [
+          "E02-P091"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0054",
+        "referencia": "E02-P097",
+        "preguntas": [
+          "E02-P095"
+        ],
+        "voz": "Participante"
+      }
+    ],
+    "alcance": "Relación analítica; referencias canónicas del mismo corpus no son corroboraciones independientes."
+  },
+  {
+    "producto": "T01-P002",
+    "historia": "HU01-H005",
+    "necesidad": "N01-N007",
+    "titulo_necesidad": "Respaldo y alcance de las afirmaciones de investigación",
+    "estado_original": "ATENDIDA_EN_EPISODIO",
+    "tipo": "NECESIDAD_ACTUAL",
+    "codigos": [
+      "C009",
+      "C008",
+      "C023",
+      "C027",
+      "C028",
+      "C026",
+      "C021"
+    ],
+    "evidencias": [
+      "N01-V0059",
+      "N01-V0060",
+      "N01-V0061",
+      "N01-V0062",
+      "N01-V0057",
+      "N01-V0063",
+      "N01-V0064",
+      "N01-V0065",
+      "N01-V0066",
+      "N01-V0067",
+      "N01-V0068",
+      "N01-V0069",
+      "N01-V0070",
+      "N01-V0071",
+      "N01-V0072",
+      "N01-V0073"
+    ],
+    "evidencia_que_limita": [
+      "N01-V0074",
+      "N01-V0075",
+      "N01-V0076",
+      "N01-V0077"
+    ],
+    "limites": "Una narración posterior tiene valor propio. La responsabilidad académica es del equipo y la objeción externa no lo sustituye.",
+    "localizadores": [
+      {
+        "evidencia": "N01-V0059",
+        "referencia": "E02-P060",
+        "preguntas": [
+          "E02-P059"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0060",
+        "referencia": "E02-P061",
+        "preguntas": [
+          "E02-P059"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0061",
+        "referencia": "E02-P065",
+        "preguntas": [
+          "E02-P063"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0062",
+        "referencia": "E02-P066",
+        "preguntas": [
+          "E02-P063"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0057",
+        "referencia": "E02-P083",
+        "preguntas": [
+          "E02-P080"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0063",
+        "referencia": "E02-P117",
+        "preguntas": [
+          "E02-P114"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0064",
+        "referencia": "E02-P119",
+        "preguntas": [
+          "E02-P118"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0065",
+        "referencia": "E02-P120",
+        "preguntas": [
+          "E02-P118"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0066",
+        "referencia": "E02-P122",
+        "preguntas": [
+          "E02-P121"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0067",
+        "referencia": "E02-P123",
+        "preguntas": [
+          "E02-P121"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0068",
+        "referencia": "E02-P125",
+        "preguntas": [
+          "E02-P124"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0069",
+        "referencia": "E02-P127",
+        "preguntas": [
+          "E02-P126"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0070",
+        "referencia": "E02-P160",
+        "preguntas": [
+          "E02-P158"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0071",
+        "referencia": "E02-P170",
+        "preguntas": [
+          "E02-P169"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0072",
+        "referencia": "E02-P171",
+        "preguntas": [
+          "E02-P169"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0073",
+        "referencia": "E02-P178",
+        "preguntas": [
+          "E02-P177"
+        ],
+        "voz": "Participante"
+      }
+    ],
+    "alcance": "Relación analítica; referencias canónicas del mismo corpus no son corroboraciones independientes."
+  },
+  {
+    "producto": "T01-P002",
+    "historia": "HU01-H005",
+    "necesidad": "N01-N008",
+    "titulo_necesidad": "Alternativas conocidas y posibles antes de explicar una elección",
+    "estado_original": "CARENCIA_DECLARADA",
+    "tipo": "NECESIDAD_ACTUAL",
+    "codigos": [
+      "C015",
+      "C023"
+    ],
+    "evidencias": [
+      "N01-V0078",
+      "N01-V0079",
+      "N01-V0080",
+      "N01-V0081",
+      "N01-V0082",
+      "N01-V0072"
+    ],
+    "evidencia_que_limita": [
+      "N01-V0056",
+      "N01-V0050",
+      "N01-V0071"
+    ],
+    "limites": "No se conoce un conjunto exhaustivo de opciones ni una causa única. Abordar el asunto o renunciar a la afirmación depende de qué se quiera sostener.",
+    "localizadores": [
+      {
+        "evidencia": "N01-V0078",
+        "referencia": "E02-P070",
+        "preguntas": [
+          "E02-P069"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0079",
+        "referencia": "E02-P071",
+        "preguntas": [
+          "E02-P069"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0080",
+        "referencia": "E02-P131",
+        "preguntas": [
+          "E02-P128"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0081",
+        "referencia": "E02-P167",
+        "preguntas": [
+          "E02-P166"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0082",
+        "referencia": "E02-P168",
+        "preguntas": [
+          "E02-P166"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0072",
+        "referencia": "E02-P171",
+        "preguntas": [
+          "E02-P169"
+        ],
+        "voz": "Participante"
+      }
+    ],
+    "alcance": "Relación analítica; referencias canónicas del mismo corpus no son corroboraciones independientes."
+  },
+  {
+    "producto": "T01-P002",
+    "historia": "HU01-H006",
+    "necesidad": "N01-N009",
+    "titulo_necesidad": "Contraste de una segunda ocasión del mismo caso",
+    "estado_original": "NO_APLICA_AL_IDEAL",
+    "tipo": "DESEO_IDEAL",
+    "codigos": [
+      "C029",
+      "C024",
+      "C030",
+      "C031",
+      "C017",
+      "C009"
+    ],
+    "evidencias": [
+      "N01-V0083",
+      "N01-V0084",
+      "N01-V0080",
+      "N01-V0085",
+      "N01-V0086",
+      "N01-V0087",
+      "N01-V0088",
+      "N01-V0089",
+      "N01-V0090",
+      "N01-V0091",
+      "N01-V0092",
+      "N01-V0093",
+      "N01-V0094",
+      "N01-V0095",
+      "N01-V0096",
+      "N01-V0070",
+      "N01-V0097"
+    ],
+    "evidencia_que_limita": [
+      "N01-V0098",
+      "N01-V0074",
+      "N01-V0081",
+      "N01-V0071"
+    ],
+    "limites": "Requiere interés y disponibilidad de quien comparta; carga anticipada no es rechazo recabado. No toda decisión se recuerda explícitamente ni el relato posterior es registro defectuoso.",
+    "localizadores": [
+      {
+        "evidencia": "N01-V0083",
+        "referencia": "E02-P129",
+        "preguntas": [
+          "E02-P128"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0084",
+        "referencia": "E02-P130",
+        "preguntas": [
+          "E02-P128"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0080",
+        "referencia": "E02-P131",
+        "preguntas": [
+          "E02-P128"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0085",
+        "referencia": "E02-P133",
+        "preguntas": [
+          "E02-P132"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0086",
+        "referencia": "E02-P134",
+        "preguntas": [
+          "E02-P132"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0087",
+        "referencia": "E02-P135",
+        "preguntas": [
+          "E02-P132"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0088",
+        "referencia": "E02-P137",
+        "preguntas": [
+          "E02-P136"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0089",
+        "referencia": "E02-P140",
+        "preguntas": [
+          "E02-P139"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0090",
+        "referencia": "E02-P141",
+        "preguntas": [
+          "E02-P139"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0091",
+        "referencia": "E02-P143",
+        "preguntas": [
+          "E02-P142"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0092",
+        "referencia": "E02-P145",
+        "preguntas": [
+          "E02-P144"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0093",
+        "referencia": "E02-P146",
+        "preguntas": [
+          "E02-P144"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0094",
+        "referencia": "E02-P148",
+        "preguntas": [
+          "E02-P147"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0095",
+        "referencia": "E02-P150",
+        "preguntas": [
+          "E02-P149"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0096",
+        "referencia": "E02-P159",
+        "preguntas": [
+          "E02-P158"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0070",
+        "referencia": "E02-P160",
+        "preguntas": [
+          "E02-P158"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0097",
+        "referencia": "E02-P162",
+        "preguntas": [
+          "E02-P161"
+        ],
+        "voz": "Participante"
+      }
+    ],
+    "alcance": "Relación analítica; referencias canónicas del mismo corpus no son corroboraciones independientes."
+  },
+  {
+    "producto": "T01-P003",
+    "historia": "HU01-H007",
+    "necesidad": "N01-N010",
+    "titulo_necesidad": "Compromisos compartidos que permiten anunciar la serie",
+    "estado_original": "ATENDIDA_EN_EPISODIO",
+    "tipo": "NECESIDAD_ACTUAL",
+    "codigos": [
+      "C034",
+      "C035",
+      "C037",
+      "C039",
+      "C042",
+      "C020"
+    ],
+    "evidencias": [
+      "N01-V0099",
+      "N01-V0100",
+      "N01-V0101",
+      "N01-V0102",
+      "N01-V0103",
+      "N01-V0104",
+      "N01-V0105",
+      "N01-V0106",
+      "N01-V0107",
+      "N01-V0108",
+      "N01-V0109",
+      "N01-V0110",
+      "N01-V0111",
+      "N01-V0112",
+      "N01-V0113"
+    ],
+    "evidencia_que_limita": [
+      "N01-V0114",
+      "N01-V0115",
+      "N01-V0116",
+      "N01-V0117",
+      "N01-V0118",
+      "N01-V0119"
+    ],
+    "limites": "Interés en volver y compatibilidad horaria son distintos. No determina horario favorito de la comunidad ni compromete sola salón, equipo o contenido.",
+    "localizadores": [
+      {
+        "evidencia": "N01-V0099",
+        "referencia": "E03-P016",
+        "preguntas": [
+          "E03-P015"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0100",
+        "referencia": "E03-P018",
+        "preguntas": [
+          "E03-P017"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0101",
+        "referencia": "E03-P019",
+        "preguntas": [
+          "E03-P017"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0102",
+        "referencia": "E03-P037",
+        "preguntas": [
+          "E03-P035"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0103",
+        "referencia": "E03-P065",
+        "preguntas": [
+          "E03-P064"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0104",
+        "referencia": "E03-P066",
+        "preguntas": [
+          "E03-P064"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0105",
+        "referencia": "E03-P068",
+        "preguntas": [
+          "E03-P067"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0106",
+        "referencia": "E03-P069",
+        "preguntas": [
+          "E03-P067"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0107",
+        "referencia": "E03-P081",
+        "preguntas": [
+          "E03-P079"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0108",
+        "referencia": "E03-P123",
+        "preguntas": [
+          "E03-P122"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0109",
+        "referencia": "E03-P124",
+        "preguntas": [
+          "E03-P122"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0110",
+        "referencia": "E03-P126",
+        "preguntas": [
+          "E03-P125"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0111",
+        "referencia": "E03-P129",
+        "preguntas": [
+          "E03-P128"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0112",
+        "referencia": "E03-P132",
+        "preguntas": [
+          "E03-P131"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0113",
+        "referencia": "E03-P134",
+        "preguntas": [
+          "E03-P133"
+        ],
+        "voz": "Participante"
+      }
+    ],
+    "alcance": "Relación analítica; referencias canónicas del mismo corpus no son corroboraciones independientes."
+  },
+  {
+    "producto": "T01-P003",
+    "historia": "HU01-H007",
+    "necesidad": "N01-N011",
+    "titulo_necesidad": "Condiciones del salón para leer, conversar y recibir",
+    "estado_original": "ATENDIDA_EN_EPISODIO",
+    "tipo": "NECESIDAD_ACTUAL",
+    "codigos": [
+      "C040",
+      "C037",
+      "C042",
+      "C032"
+    ],
+    "evidencias": [
+      "N01-V0120",
+      "N01-V0121",
+      "N01-V0122",
+      "N01-V0123",
+      "N01-V0124",
+      "N01-V0125",
+      "N01-V0126",
+      "N01-V0108",
+      "N01-V0127"
+    ],
+    "evidencia_que_limita": [
+      "N01-V0128",
+      "N01-V0129",
+      "N01-V0114",
+      "N01-V0117"
+    ],
+    "limites": "No busca el mejor salón de la ciudad, silencio absoluto, medición acústica o aforo técnico. Con otro propósito la revisión puede cambiar.",
+    "localizadores": [
+      {
+        "evidencia": "N01-V0120",
+        "referencia": "E03-P056",
+        "preguntas": [
+          "E03-P055"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0121",
+        "referencia": "E03-P057",
+        "preguntas": [
+          "E03-P055"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0122",
+        "referencia": "E03-P059",
+        "preguntas": [
+          "E03-P058"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0123",
+        "referencia": "E03-P060",
+        "preguntas": [
+          "E03-P058"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0124",
+        "referencia": "E03-P062",
+        "preguntas": [
+          "E03-P061"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0125",
+        "referencia": "E03-P063",
+        "preguntas": [
+          "E03-P061"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0126",
+        "referencia": "E03-P085",
+        "preguntas": [
+          "E03-P084"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0108",
+        "referencia": "E03-P123",
+        "preguntas": [
+          "E03-P122"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0127",
+        "referencia": "E03-P127",
+        "preguntas": [
+          "E03-P125"
+        ],
+        "voz": "Participante"
+      }
+    ],
+    "alcance": "Relación analítica; referencias canónicas del mismo corpus no son corroboraciones independientes."
+  },
+  {
+    "producto": "T01-P003",
+    "historia": "HU01-H008",
+    "necesidad": "N01-N012",
+    "titulo_necesidad": "Referencia de llegada útil para quien llega por primera vez",
+    "estado_original": "ATENDIDA_EN_EPISODIO",
+    "tipo": "NECESIDAD_ACTUAL",
+    "codigos": [
+      "C041",
+      "C037",
+      "C010",
+      "C027"
+    ],
+    "evidencias": [
+      "N01-V0130",
+      "N01-V0131",
+      "N01-V0132",
+      "N01-V0133"
+    ],
+    "evidencia_que_limita": [
+      "N01-V0134",
+      "N01-V0135"
+    ],
+    "limites": "La dirección sola no aclaraba esa puerta. La necesidad se atribuye a coordinar una indicación adecuada, no como voz directa de todo asistente.",
+    "localizadores": [
+      {
+        "evidencia": "N01-V0130",
+        "referencia": "E03-P075",
+        "preguntas": [
+          "E03-P073"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0131",
+        "referencia": "E03-P077",
+        "preguntas": [
+          "E03-P076"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0132",
+        "referencia": "E03-P078",
+        "preguntas": [
+          "E03-P076"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0133",
+        "referencia": "E03-P174",
+        "preguntas": [
+          "E03-P173"
+        ],
+        "voz": "Participante"
+      }
+    ],
+    "alcance": "Relación analítica; referencias canónicas del mismo corpus no son corroboraciones independientes."
+  },
+  {
+    "producto": "T01-P003",
+    "historia": "HU01-H008",
+    "necesidad": "N01-N013",
+    "titulo_necesidad": "Alcance de la participación y autonomía de cada sesión",
+    "estado_original": "PARCIAL_DECLARADA",
+    "tipo": "NECESIDAD_ACTUAL",
+    "codigos": [
+      "C033",
+      "C036",
+      "C010",
+      "C044"
+    ],
+    "evidencias": [
+      "N01-V0136",
+      "N01-V0130",
+      "N01-V0137",
+      "N01-V0138",
+      "N01-V0139",
+      "N01-V0140",
+      "N01-V0141",
+      "N01-V0142",
+      "N01-V0143",
+      "N01-V0144"
+    ],
+    "evidencia_que_limita": [
+      "N01-V0145",
+      "N01-V0146",
+      "N01-V0147"
+    ],
+    "limites": "La necesidad comunicativa sigue parcialmente abierta para otra convocatoria. No prueba confusión general, obligación de productos o preferencia uniforme de asistentes.",
+    "localizadores": [
+      {
+        "evidencia": "N01-V0136",
+        "referencia": "E03-P074",
+        "preguntas": [
+          "E03-P073"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0130",
+        "referencia": "E03-P075",
+        "preguntas": [
+          "E03-P073"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0137",
+        "referencia": "E03-P094",
+        "preguntas": [
+          "E03-P092"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0138",
+        "referencia": "E03-P096",
+        "preguntas": [
+          "E03-P095"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0139",
+        "referencia": "E03-P098",
+        "preguntas": [
+          "E03-P097"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0140",
+        "referencia": "E03-P099",
+        "preguntas": [
+          "E03-P097"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0141",
+        "referencia": "E03-P101",
+        "preguntas": [
+          "E03-P100"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0142",
+        "referencia": "E03-P102",
+        "preguntas": [
+          "E03-P100"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0143",
+        "referencia": "E03-P184",
+        "preguntas": [
+          "E03-P183"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0144",
+        "referencia": "E03-P187",
+        "preguntas": [
+          "E03-P186"
+        ],
+        "voz": "Participante"
+      }
+    ],
+    "alcance": "Relación analítica; referencias canónicas del mismo corpus no son corroboraciones independientes."
+  },
+  {
+    "producto": "T01-P003",
+    "historia": "HU01-H010",
+    "necesidad": "N01-N015",
+    "titulo_necesidad": "Estado de cierre y propuestas todavía no comprometidas",
+    "estado_original": "ATENDIDA_EN_EPISODIO",
+    "tipo": "NECESIDAD_ACTUAL",
+    "codigos": [
+      "C045",
+      "C010",
+      "C034",
+      "C015"
+    ],
+    "evidencias": [
+      "N01-V0157",
+      "N01-V0158",
+      "N01-V0159",
+      "N01-V0160",
+      "N01-V0161",
+      "N01-V0162",
+      "N01-V0163",
+      "N01-V0156",
+      "N01-V0164"
+    ],
+    "evidencia_que_limita": [
+      "N01-V0147",
+      "N01-V0135"
+    ],
+    "limites": "Interés en volver no es programación. No conocer significado total de la actividad no impide valorar lo observado.",
+    "localizadores": [
+      {
+        "evidencia": "N01-V0157",
+        "referencia": "E03-P050",
+        "preguntas": [
+          "E03-P048"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0158",
+        "referencia": "E03-P106",
+        "preguntas": [
+          "E03-P105"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0159",
+        "referencia": "E03-P107",
+        "preguntas": [
+          "E03-P105"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0160",
+        "referencia": "E03-P108",
+        "preguntas": [
+          "E03-P105"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0161",
+        "referencia": "E03-P110",
+        "preguntas": [
+          "E03-P109"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0162",
+        "referencia": "E03-P111",
+        "preguntas": [
+          "E03-P109"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0163",
+        "referencia": "E03-P116",
+        "preguntas": [
+          "E03-P112"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0156",
+        "referencia": "E03-P194",
+        "preguntas": [
+          "E03-P193"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0164",
+        "referencia": "E03-P195",
+        "preguntas": [
+          "E03-P193"
+        ],
+        "voz": "Participante"
+      }
+    ],
+    "alcance": "Relación analítica; referencias canónicas del mismo corpus no son corroboraciones independientes."
+  },
+  {
+    "producto": "T01-P003",
+    "historia": "HU01-H011",
+    "necesidad": "N01-N016",
+    "titulo_necesidad": "Acuerdos e interlocución recuperables al retomar el espacio",
+    "estado_original": "NO_APLICA_AL_IDEAL",
+    "tipo": "DESEO_IDEAL",
+    "codigos": [
+      "C017",
+      "C009",
+      "C060",
+      "C030",
+      "C031",
+      "C027"
+    ],
+    "evidencias": [
+      "N01-V0111",
+      "N01-V0112",
+      "N01-V0165",
+      "N01-V0166",
+      "N01-V0167",
+      "N01-V0168",
+      "N01-V0169",
+      "N01-V0170",
+      "N01-V0171",
+      "N01-V0172",
+      "N01-V0173",
+      "N01-V0174"
+    ],
+    "evidencia_que_limita": [
+      "N01-V0175",
+      "N01-V0176",
+      "N01-V0134",
+      "N01-V0154",
+      "N01-V0177"
+    ],
+    "limites": "Sirve especialmente si varias personas retoman; requiere notas fáciles de mantener y revalidación con anfitriones, sin explicarles su lugar desde una nota antigua. No perfiles individuales.",
+    "localizadores": [
+      {
+        "evidencia": "N01-V0111",
+        "referencia": "E03-P129",
+        "preguntas": [
+          "E03-P128"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0112",
+        "referencia": "E03-P132",
+        "preguntas": [
+          "E03-P131"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0165",
+        "referencia": "E03-P156",
+        "preguntas": [
+          "E03-P155"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0166",
+        "referencia": "E03-P158",
+        "preguntas": [
+          "E03-P155"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0167",
+        "referencia": "E03-P160",
+        "preguntas": [
+          "E03-P159"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0168",
+        "referencia": "E03-P161",
+        "preguntas": [
+          "E03-P159"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0169",
+        "referencia": "E03-P163",
+        "preguntas": [
+          "E03-P162"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0170",
+        "referencia": "E03-P164",
+        "preguntas": [
+          "E03-P162"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0171",
+        "referencia": "E03-P168",
+        "preguntas": [
+          "E03-P167"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0172",
+        "referencia": "E03-P169",
+        "preguntas": [
+          "E03-P167"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0173",
+        "referencia": "E03-P171",
+        "preguntas": [
+          "E03-P170"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0174",
+        "referencia": "E03-P172",
+        "preguntas": [
+          "E03-P170"
+        ],
+        "voz": "Participante"
+      }
+    ],
+    "alcance": "Relación analítica; referencias canónicas del mismo corpus no son corroboraciones independientes."
+  },
+  {
+    "producto": "T01-P003",
+    "historia": "HU01-H012",
+    "necesidad": "N01-N017",
+    "titulo_necesidad": "Ritmos de uso para orientar otra propuesta cultural",
+    "estado_original": "NO_APLICA_AL_IDEAL",
+    "tipo": "DESEO_IDEAL",
+    "codigos": [
+      "C046",
+      "C009",
+      "C060"
+    ],
+    "evidencias": [
+      "N01-V0178",
+      "N01-V0179",
+      "N01-V0180",
+      "N01-V0181",
+      "N01-V0182"
+    ],
+    "evidencia_que_limita": [
+      "N01-V0168",
+      "N01-V0170",
+      "N01-V0174",
+      "N01-V0154"
+    ],
+    "limites": "No es una verdad permanente del espacio. Una descripción no sustituye visita ni conversación, ni disponibilidad equivale a disposición a participar.",
+    "localizadores": [
+      {
+        "evidencia": "N01-V0178",
+        "referencia": "E03-P150",
+        "preguntas": [
+          "E03-P149"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0179",
+        "referencia": "E03-P151",
+        "preguntas": [
+          "E03-P149"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0180",
+        "referencia": "E03-P153",
+        "preguntas": [
+          "E03-P152"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0181",
+        "referencia": "E03-P154",
+        "preguntas": [
+          "E03-P152"
+        ],
+        "voz": "Participante"
+      },
+      {
+        "evidencia": "N01-V0182",
+        "referencia": "E03-P157",
+        "preguntas": [
+          "E03-P155"
+        ],
+        "voz": "Participante"
+      }
+    ],
+    "alcance": "Relación analítica; referencias canónicas del mismo corpus no son corroboraciones independientes."
+  }
+]

@@ -1,0 +1,12 @@
+digraph G {
+graph [rankdir=LR, bgcolor="white", pad="0.4", nodesep="0.45", ranksep="1.0", fontname="DejaVu Sans", fontsize=22, labelloc=t, label="Papeles previstos por la ficha del prototipo\nSon previsiones documentales; no actuaciones verificadas\nACT01-AMB012\nAzul continuo: relación relatada · Violeta discontinuo: atribución documental\nÁmbar punteado: hipótesis (solo en figura separada)"];
+node [shape=box, style="rounded,filled", fillcolor="#edf5f8", color="#467187", fontname="DejaVu Sans", fontsize=17, margin="0.18,0.12"];
+edge [fontname="DejaVu Sans", fontsize=13, arrowsize=0.8];
+"ACT01-A034" [label="Área ADIP de monitoreo\nelectrónico y procesamiento\nestadístico (ficha)\n(ACT01-A034)", fillcolor="#f0eafb"];
+"ACT01-A035" [label="Contraparte de validación del\nprototipo ADIP prevista en la\nficha\n(ACT01-A035)", fillcolor="#f0eafb"];
+"ACT01-A036" [label="Apoyo técnico ADIP para accesos\nprevisto en la ficha\n(ACT01-A036)", fillcolor="#f0eafb"];
+"ACT01-A037" [label="Secretaría de Seguridad\nCiudadana: fuente de Cuadrantes\n(ACT01-A037)", fillcolor="#f0eafb"];
+"ACT01-A034" -> "ACT01-A035" [id="ACT01-R042", label="Validación prevista en\nficha del cliente\nACT01-R042", color="#7852a5", fontcolor="#64408d", style="dashed"];
+"ACT01-A036" -> "ACT01-A034" [id="ACT01-R043", label="Apoyo de accesos previsto\nen ficha\nACT01-R043", color="#7852a5", fontcolor="#64408d", style="dashed"];
+"ACT01-A037" -> "ACT01-A034" [id="ACT01-R044", label="Fuente prevista para\nprototipo\nACT01-R044", color="#7852a5", fontcolor="#64408d", style="dashed"];
+}

@@ -1,0 +1,18 @@
+digraph G {
+graph [bgcolor="white", pad="0.25", nodesep="0.30", ranksep="0.42", fontname="DejaVu Sans", fontsize=16];
+node [shape=box, style="rounded,filled", fillcolor="#edf4f6", color="#507084", penwidth=1.3, fontname="DejaVu Sans", fontsize=15, margin="0.18,0.12"];
+edge [color="#435a69", fontname="DejaVu Sans", fontsize=12, arrowsize=0.8];
+
+rankdir=TB;
+a [label="Registro territorial\nEntender el último cambio\nE01-P137 · N01-N004"];
+b [label="Historia de retomar\nLugar, revisión, respaldo y duda\nHU01-H003 · M003"];
+c [label="Comprobación futura\nExplicar y decidir si consultar\nHU01-K004",fillcolor="#fff4dd"];
+d [label="Investigación de compras\nSegunda ocasión contrastante\nE02-P143 · N01-N009"];
+e [label="Historia de contrastar\nOcasión, propósito y procedencia\nHU01-H006 · M006"];
+f [label="Comprobación futura\nPrecisar o reducir una afirmación\nHU01-K008",fillcolor="#fff4dd"];
+{rank=same; a; d;}
+{rank=same; b; e;}
+{rank=same; c; f;}
+a -> b -> c;
+d -> e -> f;
+}

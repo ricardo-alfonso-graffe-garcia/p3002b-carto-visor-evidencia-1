@@ -1,0 +1,378 @@
+{
+  "control": "Maquetación REP01 1.1",
+  "estado": "COMPROBADA_ASISTIDA",
+  "pdf": "P3002B_Evidencia1_Ricardo_Graffe.pdf",
+  "pdf_sha256": "b7956ef5ec9a836a4a084a9702246651346fe678abc6db229b79409bda3e5088",
+  "docx": "P3002B_Evidencia1_Ricardo_Graffe.docx",
+  "docx_sha256": "ea1b24c2bb1df879502c9d8e9f0394f2c19ebd0d196465934336a1310c359ee6",
+  "paginas_totales": 12,
+  "paginas_cuerpo": 9,
+  "detalle_cuerpo": [
+    {
+      "pagina_pdf": 2,
+      "pagina_cuerpo": 1
+    },
+    {
+      "pagina_pdf": 3,
+      "pagina_cuerpo": 2
+    },
+    {
+      "pagina_pdf": 4,
+      "pagina_cuerpo": 3
+    },
+    {
+      "pagina_pdf": 5,
+      "pagina_cuerpo": 4
+    },
+    {
+      "pagina_pdf": 6,
+      "pagina_cuerpo": 5
+    },
+    {
+      "pagina_pdf": 7,
+      "pagina_cuerpo": 6
+    },
+    {
+      "pagina_pdf": 8,
+      "pagina_cuerpo": 7
+    },
+    {
+      "pagina_pdf": 9,
+      "pagina_cuerpo": 8
+    },
+    {
+      "pagina_pdf": 10,
+      "pagina_cuerpo": 9
+    }
+  ],
+  "secciones": [
+    {
+      "id": "REP01-S001",
+      "pagina_pdf_inicio": 2,
+      "pagina_cuerpo_inicio": 1
+    },
+    {
+      "id": "REP01-S002",
+      "pagina_pdf_inicio": 2,
+      "pagina_cuerpo_inicio": 1
+    },
+    {
+      "id": "REP01-S003",
+      "pagina_pdf_inicio": 3,
+      "pagina_cuerpo_inicio": 2
+    },
+    {
+      "id": "REP01-S004",
+      "pagina_pdf_inicio": 4,
+      "pagina_cuerpo_inicio": 3
+    },
+    {
+      "id": "REP01-S005",
+      "pagina_pdf_inicio": 5,
+      "pagina_cuerpo_inicio": 4
+    },
+    {
+      "id": "REP01-S006",
+      "pagina_pdf_inicio": 7,
+      "pagina_cuerpo_inicio": 6
+    },
+    {
+      "id": "REP01-S007",
+      "pagina_pdf_inicio": 8,
+      "pagina_cuerpo_inicio": 7
+    },
+    {
+      "id": "REP01-S008",
+      "pagina_pdf_inicio": 8,
+      "pagina_cuerpo_inicio": 7
+    },
+    {
+      "id": "REP01-S009",
+      "pagina_pdf_inicio": 9,
+      "pagina_cuerpo_inicio": 8
+    }
+  ],
+  "figuras": [
+    {
+      "id": "REP01-F001",
+      "pagina_pdf": 3
+    },
+    {
+      "id": "REP01-F002",
+      "pagina_pdf": 7
+    },
+    {
+      "id": "REP01-F003",
+      "pagina_pdf": 9
+    }
+  ],
+  "revision_visual": {
+    "estado": "REALIZADA_ASISTIDA",
+    "paginas_pdf": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "resultado": "Sin cortes, superposiciones, glifos ausentes o filas truncadas visibles; tablas repetidas con encabezado. Se corrigieron regla de título y espacio provocado por figura vertical.",
+    "renderes": [
+      {
+        "pagina": 1,
+        "sha256": "9ba015cce810124d6089ca661252c4fd2c2864a4b4799338553b53e03bcd198e"
+      },
+      {
+        "pagina": 2,
+        "sha256": "6987b1871270758d3ab090eb7942a5c0da27589549bbce5db548ef3442d6bccb"
+      },
+      {
+        "pagina": 3,
+        "sha256": "f8fd25d9ed4534b1a981b12dcf2368256ca28fed46c11792733fb42e0e918beb"
+      },
+      {
+        "pagina": 4,
+        "sha256": "cb92b7d2762e8c43697b176b11dbe0315f03811e2b21b9fdba19fb84a2689ba3"
+      },
+      {
+        "pagina": 5,
+        "sha256": "0304f23f991ac775a8eadfcfb4f083017633c82f16927d6de49dd9bf9e02ff9e"
+      },
+      {
+        "pagina": 6,
+        "sha256": "10d5207d6db3a0ab58692799d7f71ef42354c594b329956c58b021396346e831"
+      },
+      {
+        "pagina": 7,
+        "sha256": "a0530bb9e7dbb402a265d4592cc3745110859083832c1fba17cea56d9e935463"
+      },
+      {
+        "pagina": 8,
+        "sha256": "30d649e5c9f779709ce2a86555acc669b86b0edb19189705bf462baf7f230d71"
+      },
+      {
+        "pagina": 9,
+        "sha256": "28e840688f74b8f97ead72d22fc1d962cb413481ec8f8d1811463f18e168e02a"
+      },
+      {
+        "pagina": 10,
+        "sha256": "21221422b67b4261e72909090185b2e89f69ab04a8c193abdbe2cb4efcd33f25"
+      },
+      {
+        "pagina": 11,
+        "sha256": "fc01c7cae0a18a73a8ec7bd1b989e41b944b271a0f2de1abfbb40836e802a729"
+      },
+      {
+        "pagina": 12,
+        "sha256": "a20bf04f3d3563c3d343abb9d3954b243ce0360f6ed74684b78e07c952ebf42c"
+      }
+    ]
+  },
+  "citas_pdf": {
+    "total": 7,
+    "literalidad_normalizando_solo_espacios": "COINCIDE"
+  },
+  "enlaces_pdf": [
+    {
+      "pagina_pdf": 2,
+      "tipo": "ARCHIVO_RELATIVO",
+      "destino": "REP01_repositorio/corpus/E01/E01_texto_con_localizadores.txt"
+    },
+    {
+      "pagina_pdf": 3,
+      "tipo": "ARCHIVO_RELATIVO",
+      "destino": "REP01_repositorio/24_registro_corpus.json"
+    },
+    {
+      "pagina_pdf": 3,
+      "tipo": "ARCHIVO_RELATIVO",
+      "destino": "REP01_repositorio/analisis/recodificacion/LEEME.md"
+    },
+    {
+      "pagina_pdf": 3,
+      "tipo": "ARCHIVO_RELATIVO",
+      "destino": "REP01_repositorio/55_libro_comun_v1_3.md"
+    },
+    {
+      "pagina_pdf": 4,
+      "tipo": "ARCHIVO_RELATIVO",
+      "destino": "REP01_repositorio/72_contraste_documental_v1_1.md"
+    },
+    {
+      "pagina_pdf": 4,
+      "tipo": "ARCHIVO_RELATIVO",
+      "destino": "REP01_repositorio/67_procesos_descritos_v1_1.md"
+    },
+    {
+      "pagina_pdf": 5,
+      "tipo": "ARCHIVO_RELATIVO",
+      "destino": "REP01_repositorio/corpus/E02/E02_texto_con_localizadores.txt"
+    },
+    {
+      "pagina_pdf": 5,
+      "tipo": "ARCHIVO_RELATIVO",
+      "destino": "REP01_repositorio/76_actores_y_preferencias_v1_1.md"
+    },
+    {
+      "pagina_pdf": 5,
+      "tipo": "ARCHIVO_RELATIVO",
+      "destino": "REP01_repositorio/corpus/E03/E03_texto_con_localizadores.txt"
+    },
+    {
+      "pagina_pdf": 6,
+      "tipo": "ARCHIVO_RELATIVO",
+      "destino": "REP01_repositorio/corpus/E02/E02_texto_con_localizadores.txt"
+    },
+    {
+      "pagina_pdf": 6,
+      "tipo": "ARCHIVO_RELATIVO",
+      "destino": "REP01_repositorio/corpus/E01/E01_texto_con_localizadores.txt"
+    },
+    {
+      "pagina_pdf": 7,
+      "tipo": "ARCHIVO_RELATIVO",
+      "destino": "REP01_repositorio/88_historias_y_objetos_v1_1.md"
+    },
+    {
+      "pagina_pdf": 7,
+      "tipo": "ARCHIVO_RELATIVO",
+      "destino": "REP01_repositorio/88_historias_y_objetos_v1_1.md"
+    },
+    {
+      "pagina_pdf": 7,
+      "tipo": "ARCHIVO_RELATIVO",
+      "destino": "REP01_repositorio/82_necesidades_v1_1.md"
+    },
+    {
+      "pagina_pdf": 7,
+      "tipo": "ARCHIVO_RELATIVO",
+      "destino": "REP01_repositorio/corpus/E05/E05_texto_con_localizadores.txt"
+    },
+    {
+      "pagina_pdf": 7,
+      "tipo": "ARCHIVO_RELATIVO",
+      "destino": "REP01_repositorio/corpus/E04/E04_texto_con_localizadores.txt"
+    },
+    {
+      "pagina_pdf": 8,
+      "tipo": "ARCHIVO_RELATIVO",
+      "destino": "REP01_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/lentes.md"
+    },
+    {
+      "pagina_pdf": 8,
+      "tipo": "ARCHIVO_RELATIVO",
+      "destino": "REP01_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/alternativas_agregacion.md"
+    },
+    {
+      "pagina_pdf": 8,
+      "tipo": "ARCHIVO_RELATIVO",
+      "destino": "REP01_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/alternativas_agregacion.md"
+    },
+    {
+      "pagina_pdf": 8,
+      "tipo": "ARCHIVO_RELATIVO",
+      "destino": "REP01_repositorio/editorial/registros/agenda_pendientes.md"
+    },
+    {
+      "pagina_pdf": 9,
+      "tipo": "ARCHIVO_RELATIVO",
+      "destino": "REP01_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/arquitectura.md"
+    },
+    {
+      "pagina_pdf": 9,
+      "tipo": "ARCHIVO_RELATIVO",
+      "destino": "REP01_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/productos.md"
+    },
+    {
+      "pagina_pdf": 11,
+      "tipo": "ARCHIVO_RELATIVO",
+      "destino": "REP01_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/lentes.md"
+    },
+    {
+      "pagina_pdf": 11,
+      "tipo": "URL",
+      "destino": "https://kepler-mapper.scikit-tda.org/en/latest/theory.html"
+    },
+    {
+      "pagina_pdf": 11,
+      "tipo": "URL",
+      "destino": "https://www.uio.no/studier/emner/sv/iss/SGO9010/openshaw1983.pdf"
+    },
+    {
+      "pagina_pdf": 11,
+      "tipo": "URL",
+      "destino": "https://www.inegi.org.mx/contenidos/inegi/spc/doc/bibliografia/CL_SMC_2020.pdf"
+    },
+    {
+      "pagina_pdf": 11,
+      "tipo": "URL",
+      "destino": "https://disp.web.uniroma1.it/sites/default/files/Harley%20-%20deconstructing%20the%20map.pdf"
+    },
+    {
+      "pagina_pdf": 11,
+      "tipo": "URL",
+      "destino": "https://www.jasss.org/23/2/7.html"
+    },
+    {
+      "pagina_pdf": 11,
+      "tipo": "URL",
+      "destino": "https://www.gofair.foundation/fair-principles"
+    },
+    {
+      "pagina_pdf": 11,
+      "tipo": "URL",
+      "destino": "https://assets-eu.researchsquare.com/files/rs-7580516/v1_covered_40ebb8ea-a7f4-4df6-b171-567fdac1a355.pdf"
+    },
+    {
+      "pagina_pdf": 11,
+      "tipo": "URL",
+      "destino": "https://assets-eu.researchsquare.com/files/rs-7580516/v1_covered_40ebb8ea-a7f4-4df6-b171-567fdac1a355.pdf"
+    },
+    {
+      "pagina_pdf": 11,
+      "tipo": "URL",
+      "destino": "https://doi.org/10.21203/rs.3.rs-7580516/v1"
+    },
+    {
+      "pagina_pdf": 11,
+      "tipo": "ARCHIVO_RELATIVO",
+      "destino": "REP01_repositorio/analisis/referencias/GeoInsights/README.md"
+    },
+    {
+      "pagina_pdf": 11,
+      "tipo": "URL",
+      "destino": "https://github.com/data-lama/covid_geoinsights_pipeline/tree/ab60b86a6a87bca0dd370c7c4af3ada4185d187e"
+    },
+    {
+      "pagina_pdf": 11,
+      "tipo": "ARCHIVO_RELATIVO",
+      "destino": "REP01_repositorio/72_contraste_documental_v1_1.md"
+    },
+    {
+      "pagina_pdf": 11,
+      "tipo": "ARCHIVO_RELATIVO",
+      "destino": "REP01_repositorio/72_contraste_documental_v1_1.md"
+    },
+    {
+      "pagina_pdf": 12,
+      "tipo": "ARCHIVO_RELATIVO",
+      "destino": "REP01_repositorio/editorial/registros/revision_coordinacion_v1_1.md"
+    },
+    {
+      "pagina_pdf": 12,
+      "tipo": "ARCHIVO_RELATIVO",
+      "destino": "REP01_repositorio/editorial/registros/incidencias_metodologicas.md"
+    }
+  ],
+  "limites": [
+    "La inspección es asistida, no humana independiente.",
+    "El PDF congela la paginación comprobada; DOCX puede repaginarse en otro equipo.",
+    "Los enlaces locales pueden requerir autorización del visor PDF y extracción completa del ZIP."
+  ]
+}

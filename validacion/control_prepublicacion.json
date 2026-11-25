@@ -1,0 +1,26 @@
+{
+  "estado": "SIN_ERRORES",
+  "conteos": {
+    "referencias_relativas": 464,
+    "referencias_github": 30,
+    "hipervinculos_word": 84,
+    "archivos_con_huella": 0
+  },
+  "errores": [],
+  "alcance": "Resolución de destinos y huellas locales, incluidos los destinos web equivalentes. No consulta servidores externos ni sustituye validación humana.",
+  "pdf": {
+    "local": {
+      "anotaciones_totales": 49,
+      "enlaces_locales": 37,
+      "enlaces_web_a_soportes": 0,
+      "repositorio_en_portada": true
+    },
+    "web": {
+      "anotaciones_totales": 49,
+      "enlaces_locales": 0,
+      "enlaces_web_a_soportes": 37,
+      "repositorio_en_portada": true
+    }
+  },
+  "preservacion": "Texto original del Word íntegro; sólo se añade enlace. Páginas 2 a 13 de ambos PDF y Word renderizados idénticas píxel a píxel a 1.3. Inspección asistida de las portadas."
+}

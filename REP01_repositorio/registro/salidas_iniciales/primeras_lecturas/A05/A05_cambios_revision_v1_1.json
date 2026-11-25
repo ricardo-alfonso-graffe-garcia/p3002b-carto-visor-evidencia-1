@@ -1,0 +1,13 @@
+{
+  "version_recibida": "1",
+  "version_copia_lectura": "1.1",
+  "cambios": [
+    {
+      "objeto": "explicacion_ejercicio_ideal",
+      "anterior": "“Hablar a gusto”",
+      "nuevo": "“hablar a gusto”",
+      "fuente": "E05-P138",
+      "motivo": "La fuente del participante usa minúscula en esa expresión; se preserva literalidad. El JSON no cambia."
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "HU01-H019",
+  "titulo": "Mirar y elegir leyendo con orientación puntual",
+  "formulacion": "Como persona que explora libros con una amistad, quiero leer candidatos y precio y preguntar por una sección si no la encuentro, para decidir si comprar conservando el descubrimiento y la elección propia.",
+  "actores": [
+    "ACT01-A024"
+  ],
+  "perfil": "HU01-P005",
+  "necesidades": [
+    "N01-N026",
+    "N01-N027"
+  ],
+  "entrevistas": [
+    "E05"
+  ],
+  "tipo": "ACTUAL_A_PRESERVAR",
+  "contexto": "Se exploró juntos y por separado. La amistad preguntó por una sección y el personal orientó; no eligió libro. Se compró uno, pero volver sin comprar también habría sido buena tarde.",
+  "objetivo": "leer candidatos y precio y preguntar por una sección si no la encuentro",
+  "beneficio_o_decision": "decidir si comprar conservando el descubrimiento y la elección propia",
+  "restricciones": [
+    "No es calidad objetiva ni demanda general de recomendación. Volver sin comprar también habría sido buena tarde; lectura posterior en casa es otra actividad.",
+    "La necesidad se atribuye a la exploración compartida que relata esta voz, sin hacer de la amistad o del personal una voz entrevistada independiente."
+  ],
+  "preservar": [
+    "Descubrir en destino",
+    "Leer antes de elegir",
+    "Compartir sin aprobación requerida",
+    "Preguntar a quien está en el lugar",
+    "Explorar por separado y compartir después"
+  ],
+  "evidencias": [
+    "N01-V0296",
+    "N01-V0297",
+    "N01-V0298",
+    "N01-V0299",
+    "N01-V0300",
+    "N01-V0301",
+    "N01-V0302",
+    "N01-V0303",
+    "N01-V0304",
+    "N01-V0305",
+    "N01-V0306",
+    "N01-V0307",
+    "N01-V0308",
+    "N01-V0309",
+    "N01-V0310",
+    "N01-V0311",
+    "N01-V0312",
+    "N01-V0313",
+    "N01-V0314",
+    "N01-V0315",
+    "N01-V0293"
+  ],
+  "limites": "No constan títulos ni precios; no son necesarios para atribuir el criterio.; Nombre de sección y funciones totales del personal no determinados.. Las formulaciones son derivaciones analíticas, no citas ni compromisos de participantes. La pertinencia de un producto sigue por validar.",
+  "criterios": [
+    {
+      "id": "HU01-K025",
+      "dado": "se exploran candidatos sin título predeterminado",
+      "cuando": "se leen páginas y revisa el precio",
+      "entonces": "se decide por la propia experiencia de lectura o no comprar, distinguiendo interés por tema de ganas de seguir leyendo",
+      "origen": "ADAPTADO_DE_CRITERIO_N01",
+      "criterios_n01": [
+        "N01-K026"
+      ],
+      "estado": "PROPUESTO_NO_EJECUTADO",
+      "limites": "Adaptación analítica de N01-K026. Observable N01 de origen PROPUESTA_ANALITICA; Dado/Cuando/Entonces y el cotejo son propuestas del análisis, no aceptación recabada. No es calidad objetiva ni demanda general de recomendación. Volver sin comprar también habría sido buena tarde; lectura posterior en casa es otra actividad. Soportes originales no aportados; no se ejecutó esta comprobación."
+    },
+    {
+      "id": "HU01-K026",
+      "dado": "surge una duda sobre dónde está una sección",
+      "cuando": "se recibe orientación puntual del personal",
+      "entonces": "se reconoce dónde seguir mirando y la elección de título permanece con quien explora",
+      "origen": "ADAPTADO_DE_CRITERIO_N01",
+      "criterios_n01": [
+        "N01-K027"
+      ],
+      "estado": "PROPUESTO_NO_EJECUTADO",
+      "limites": "Adaptación analítica de N01-K027. Observable N01 de origen PROPUESTA_ANALITICA; Dado/Cuando/Entonces y el cotejo son propuestas del análisis, no aceptación recabada. La necesidad se atribuye a la exploración compartida que relata esta voz, sin hacer de la amistad o del personal una voz entrevistada independiente. Soportes originales no aportados; no se ejecutó esta comprobación."
+    }
+  ],
+  "prioridad": {
+    "nivel": "PENDIENTE",
+    "ambito": "E05: actividad actual: Mirar y elegir leyendo con orientación puntual",
+    "origen": "ANALISIS_CONDICIONAL",
+    "razon": "N026 alta al decidir una compra emergente; N027 media y solo si surge duda de orientación. Nivel conjunto pendiente: no convertir orientación en condición de toda exploración. Importancia expresada: No hay priorización comparable explícita de esta pieza por la persona. El nivel asignado es del análisis.",
+    "limites": "Orden local parcial y condicional al momento señalado. No ranking urbano, cartera implementable, aceptación ADIP ni factibilidad comprobada."
+  },
+  "perfil_metadatos": "HU01-M019",
+  "metaalgoritmo": [
+    {
+      "id": "HU01-OP078",
+      "nombre": "Explorar con margen",
+      "entrada": "Estantes, libros e intereses propios",
+      "operacion": "Propuesta: Mirar juntos o por separado sin exigir título o compra previa.",
+      "salida": "Candidatos que llaman atención",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP079",
+      "nombre": "Resolver orientación si surge",
+      "entrada": "Sección buscada y pregunta",
+      "operacion": "Propuesta: Preguntar al personal y usar indicación sin delegar elección del libro.",
+      "salida": "Lugar para seguir mirando",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP080",
+      "nombre": "Examinar lectura y precio",
+      "entrada": "Contraportadas, páginas y precio del candidato",
+      "operacion": "Propuesta: Distinguir tema atractivo de ganas de seguir leyendo y revisar condición de compra.",
+      "salida": "Interés propio con precio conocido",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP081",
+      "nombre": "Decidir y compartir",
+      "entrada": "Experiencia de lectura y precio",
+      "operacion": "Propuesta: Elegir comprar o no y compartir sin pedir aprobación; no usar compra como éxito único.",
+      "salida": "Decisión emergente compatible con buena tarde",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    }
+  ]
+}

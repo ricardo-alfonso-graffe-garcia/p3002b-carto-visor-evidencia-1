@@ -1,0 +1,105 @@
+{
+  "id": "HU01-H010",
+  "titulo": "Cerrar una serie sin prometer otra",
+  "formulacion": "Como persona que coordina el cierre cultural, quiero distinguir la serie terminada, las ideas anotadas y los acuerdos aún no asumidos, para comunicar interés sin fechas o avisos individuales que no puedo comprometer.",
+  "actores": [
+    "ACT01-A012"
+  ],
+  "perfil": "HU01-P003",
+  "necesidades": [
+    "N01-N015"
+  ],
+  "entrevistas": [
+    "E03"
+  ],
+  "tipo": "ACTUAL_A_PRESERVAR",
+  "contexto": "El cierre incluyó conversación posterior con anfitriones y equipo. La idea de leer textos propios se guardó como propuesta; terminar es un resultado válido.",
+  "objetivo": "distinguir la serie terminada, las ideas anotadas y los acuerdos aún no asumidos",
+  "beneficio_o_decision": "comunicar interés sin fechas o avisos individuales que no puedo comprometer",
+  "restricciones": [
+    "Interés en volver no es programación. No conocer significado total de la actividad no impide valorar lo observado."
+  ],
+  "preservar": [
+    "Distinguir idea y compromiso",
+    "No prometer seguimiento inexistente",
+    "Admitir que la actividad termine"
+  ],
+  "evidencias": [
+    "N01-V0157",
+    "N01-V0158",
+    "N01-V0159",
+    "N01-V0160",
+    "N01-V0161",
+    "N01-V0162",
+    "N01-V0163",
+    "N01-V0156",
+    "N01-V0164",
+    "N01-V0147",
+    "N01-V0135"
+  ],
+  "limites": "No se conoce una nueva programación ni efecto posterior de la serie.. Las formulaciones son derivaciones analíticas, no citas ni compromisos de participantes. La pertinencia de un producto sigue por validar.",
+  "criterios": [
+    {
+      "id": "HU01-K014",
+      "dado": "se ha cerrado la serie y existen ideas o interés para después",
+      "cuando": "se comunica lo acordado",
+      "entonces": "se identifica qué terminó y qué es propuesta sin fecha, sin prometer repetición o avisos individuales no asumidos",
+      "origen": "ADAPTADO_DE_CRITERIO_N01",
+      "criterios_n01": [
+        "N01-K015"
+      ],
+      "estado": "PROPUESTO_NO_EJECUTADO",
+      "limites": "Adaptación analítica de N01-K015. Observable N01 de origen PROPUESTA_ANALITICA; Dado/Cuando/Entonces y el cotejo son propuestas del análisis, no aceptación recabada. Interés en volver no es programación. No conocer significado total de la actividad no impide valorar lo observado. Soportes originales no aportados; no se ejecutó esta comprobación."
+    }
+  ],
+  "prioridad": {
+    "nivel": "MEDIA",
+    "ambito": "E03: actividad actual: Cerrar una serie sin prometer otra",
+    "origen": "ANALISIS_CONDICIONAL",
+    "razon": "Media al cerrar y valorar lo realizado; no transforma continuidad en obligación ni comentario favorable en impacto. Importancia expresada: No hay priorización comparable explícita de esta pieza por la persona. El nivel asignado es del análisis.",
+    "limites": "Orden local parcial y condicional al momento señalado. No ranking urbano, cartera implementable, aceptación ADIP ni factibilidad comprobada."
+  },
+  "perfil_metadatos": "HU01-M010",
+  "metaalgoritmo": [
+    {
+      "id": "HU01-OP039",
+      "nombre": "Reunir cierre y comentarios",
+      "entrada": "Serie acordada y comentarios voluntarios",
+      "operacion": "Propuesta: Distinguir lo realizado de lo no conocido sobre experiencias totales.",
+      "salida": "Balance situado",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP040",
+      "nombre": "Separar estados de futuro",
+      "entrada": "Interés de anfitriones, equipo e idea individual",
+      "operacion": "Propuesta: Comprobar qué es propuesta, qué está acordado y qué no tiene fecha.",
+      "salida": "Estados explícitos",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP041",
+      "nombre": "Preparar devolución",
+      "entrada": "Balance y acuerdos reales",
+      "operacion": "Propuesta: Explicar fin de serie y canal habitual si surgiera otra actividad.",
+      "salida": "Mensaje sin promesas no asumidas",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP042",
+      "nombre": "Confirmar y cerrar",
+      "entrada": "Devolución contrastada con alcance de acuerdos",
+      "operacion": "Propuesta: Decidir comunicar cierre e interés condicionado sin programar repetición.",
+      "salida": "Cierre propio sin impacto supuesto",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    }
+  ]
+}

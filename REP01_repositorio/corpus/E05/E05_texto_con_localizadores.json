@@ -1,0 +1,2014 @@
+{
+  "entrevista": "E05",
+  "version_transcripcion": "1",
+  "archivo_origen": "E05_transcripcion_v1.docx",
+  "library_file_id_origen": "libfile_fde3_f-a46f94a32cc081919cc1b14567ddc1b2_6c45573f28988191995a53873b532314",
+  "sha256_origen": "f8ecccb57bd7103362a09c0153d072937ab330ebdabc55086caf32fe442f44a8",
+  "perfil": "P05",
+  "usuario_final_no_especializado": true,
+  "paquete_preparacion_asociado": "E05 1.0; guion 1.0 con ajuste de aplicación 1.1",
+  "guion_declarado_en_encabezado": null,
+  "fecha_entrevista": null,
+  "fecha_revision": "2026-11-24",
+  "estado": "recibida y revisada editorialmente; versión de referencia para análisis; sin cambios de contenido",
+  "parrafos": [
+    {
+      "id": "P001",
+      "texto": "Transcripción E05",
+      "turno": null
+    },
+    {
+      "id": "P003",
+      "texto": "Perfil funcional: persona que vive en la Ciudad de México y organiza actividades y gestiones de su vida cotidiana; participa como usuario final personal, sin especialización en cartografía o análisis de datos.",
+      "turno": null
+    },
+    {
+      "id": "P004",
+      "texto": "Entrevistador: Mi papel en esta conversación es conocer cómo organizas algunas actividades cotidianas y cómo decides qué hacer. El propósito académico es comprender esas experiencias, incluida la información sobre lugares que pueda intervenir en ellas. Me es muy importante comentarte que tu participación es completamente voluntaria: puedes dejar una pregunta sin responder o terminar la conversación cuando quieras. También, si bien lo consideras y no tienes problema con ello, voy a grabar esta sesión de tal forma de poder continuar con la transcripción para el propósito académico que te comentaba ahorita. ¿Te parece bien participar y tienes algún problema con esto que te estoy diciendo, en particular lo de la grabación?",
+      "turno": "E05-T001"
+    },
+    {
+      "id": "P005",
+      "texto": "Participante: Sí, sí, super bien. No tengo ningún problema con nada de lo que me dijiste. Más bien, feliz de ayudarte a ti y a tu equipo.",
+      "turno": "E05-T002"
+    },
+    {
+      "id": "P006",
+      "texto": "Entrevistador: Para empezar, cuéntame un poco de ti en relación con esto. ¿Qué cosas organizas habitualmente?",
+      "turno": "E05-T003"
+    },
+    {
+      "id": "P007",
+      "texto": "Participante: Vivo en la Ciudad de México y organizo mis pendientes, las compras que voy necesitando y los planes para ver a otras personas. Hay cosas que hago casi sin pensarlas y otras para las que sí tengo que sentarme un momento a ver cuándo caben.",
+      "turno": "E05-T004"
+    },
+    {
+      "id": "P008",
+      "texto": "No llevo toda la semana acomodada desde el principio. Si algo tiene una hora acordada, lo aparto. Lo demás lo voy poniendo alrededor. También dejo cosas sin decidir, sobre todo cuando son planes para descansar.",
+      "turno": "E05-T004"
+    },
+    {
+      "id": "P009",
+      "texto": "Entrevistador: ¿Recuerdas alguna actividad reciente que nos permita ver cómo haces eso? Puede ser algo sencillo que haya salido como esperabas.",
+      "turno": "E05-T005"
+    },
+    {
+      "id": "P010",
+      "texto": "Participante: Fui a una librería con una amistad y después nos sentamos a tomar algo. Esa salida la propuse yo. Quería buscar un libro para leer, pero también tenía ganas de ver a esa persona. Habíamos dicho varias veces que nos viéramos y no habíamos concretado.",
+      "turno": "E05-T006"
+    },
+    {
+      "id": "P011",
+      "texto": "Entrevistador: ¿Ya tenías un libro en mente?",
+      "turno": "E05-T007"
+    },
+    {
+      "id": "P012",
+      "texto": "Participante: No un título. Había terminado uno y quería encontrar el siguiente viendo qué había. A veces tengo recomendaciones apuntadas, pero esa vez no iba detrás de una. Quería entrar, mirar y leer un poco antes de escoger.",
+      "turno": "E05-T008"
+    },
+    {
+      "id": "P013",
+      "texto": "Entrevistador: Entonces, ¿qué habría hecho que sintieras que la salida había valido la pena?",
+      "turno": "E05-T009"
+    },
+    {
+      "id": "P014",
+      "texto": "Participante: Poder mirar sin sentir que tenía que salir corriendo y pasar un rato con esa persona. Si encontraba un libro, mejor. Pero podía volver sin comprar y aun así haber pasado una buena tarde.",
+      "turno": "E05-T010"
+    },
+    {
+      "id": "P015",
+      "texto": "Entrevistador: Me sirve esa distinción. Había una intención de buscar, aunque la compra podía quedar abierta.",
+      "turno": "E05-T011"
+    },
+    {
+      "id": "P016",
+      "texto": "Participante: Sí. De hecho, si me hubiera propuesto conseguir un título específico, probablemente habría organizado otra cosa. Habría preguntado primero si lo tenían.",
+      "turno": "E05-T012"
+    },
+    {
+      "id": "P017",
+      "texto": "Entrevistador: Antes de reconstruir la salida, quisiera ubicar a quienes tuvieron algo que ver. ¿Quiénes participaron o influyeron en lo que ocurrió?",
+      "turno": "E05-T013"
+    },
+    {
+      "id": "P018",
+      "texto": "Participante: Mi amistad y yo, principalmente. Después, la persona que nos atendió en la librería, porque le preguntamos por una sección. Y quien nos recibió en el lugar donde tomamos algo.",
+      "turno": "E05-T014"
+    },
+    {
+      "id": "P019",
+      "texto": "No se me ocurre alguien más que haya intervenido directamente.",
+      "turno": "E05-T014"
+    },
+    {
+      "id": "P020",
+      "texto": "Entrevistador: Vamos a probar un recurso verbal con esas personas. Si pensaras en una imagen, un objeto o una comparación para expresar el papel de cada quien, ¿qué te vendría a la cabeza? Lo que importa es cómo lo explicarías tú.",
+      "turno": "E05-T015"
+    },
+    {
+      "id": "P021",
+      "texto": "Participante: ¿Como decir a qué se parecen?",
+      "turno": "E05-T016"
+    },
+    {
+      "id": "P022",
+      "texto": "Entrevistador: Sí, si eso te resulta cómodo. Una comparación que te ayude a contar qué hacía esa persona en la situación. No tiene que describir su personalidad completa.",
+      "turno": "E05-T017"
+    },
+    {
+      "id": "P023",
+      "texto": "Participante: Mi amistad sería como el otro extremo de una cuerda que estamos acomodando entre las dos partes. Yo podía decir “vamos”, pero faltaba que del otro lado hubiera espacio y ganas. Fuimos aflojando o ajustando hasta que encontramos una tarde.",
+      "turno": "E05-T018"
+    },
+    {
+      "id": "P024",
+      "texto": "Entrevistador: ¿Qué estaban ajustando concretamente?",
+      "turno": "E05-T019"
+    },
+    {
+      "id": "P025",
+      "texto": "Participante: Cuándo podíamos coincidir y qué tanto queríamos hacer. Yo propuse librería y luego tomar algo. Esa persona dijo que sí a la librería, pero que lo de después lo viéramos ahí. Y a mí me pareció bien.",
+      "turno": "E05-T020"
+    },
+    {
+      "id": "P026",
+      "texto": "La cuerda no es porque hubiera tensión o estuviéramos discutiendo. Más bien porque un plan con alguien no se acomoda de un solo lado.",
+      "turno": "E05-T020"
+    },
+    {
+      "id": "P027",
+      "texto": "Entrevistador: ¿Y una vez que estuvieron en la librería seguía funcionando esa comparación?",
+      "turno": "E05-T021"
+    },
+    {
+      "id": "P028",
+      "texto": "Participante: Un poco. Por ejemplo, no mirábamos siempre los mismos estantes. Cada quien se iba por su lado y luego nos acercábamos a enseñar algo. No había que ir pegados todo el tiempo para estar haciendo el plan juntos.",
+      "turno": "E05-T022"
+    },
+    {
+      "id": "P029",
+      "texto": "Entrevistador: ¿Qué imagen usarías para tu propia participación?",
+      "turno": "E05-T023"
+    },
+    {
+      "id": "P030",
+      "texto": "Participante: Un separador de libro, curiosamente. Porque aparté un espacio para hacer eso. Si no lo hubiera propuesto, seguramente habría seguido diciendo que algún día quería ir.",
+      "turno": "E05-T024"
+    },
+    {
+      "id": "P031",
+      "texto": "Entrevistador: ¿El separador también representa que llevabas la organización durante la salida?",
+      "turno": "E05-T025"
+    },
+    {
+      "id": "P032",
+      "texto": "Participante: No tanto. Yo abrí el espacio, pero no fui dirigiendo todo. Ya estando ahí, cada quien decidió qué mirar. Y el lugar para tomar algo lo escogimos entre ambos. El separador me sirve más para ese primer momento de decir: esto sí lo quiero hacer y le voy a dar un lugar.",
+      "turno": "E05-T026"
+    },
+    {
+      "id": "P033",
+      "texto": "Entrevistador: Entiendo. Había interpretado una conducción más continua de la que estás describiendo.",
+      "turno": "E05-T027"
+    },
+    {
+      "id": "P034",
+      "texto": "Participante: Sí, no hice un recorrido para la otra persona.",
+      "turno": "E05-T028"
+    },
+    {
+      "id": "P035",
+      "texto": "Entrevistador: ¿Y la persona de la librería?",
+      "turno": "E05-T029"
+    },
+    {
+      "id": "P036",
+      "texto": "Participante: Como una señal que te orienta dentro del lugar. Sabíamos más o menos qué queríamos mirar, pero no dónde estaba acomodado.",
+      "turno": "E05-T030"
+    },
+    {
+      "id": "P037",
+      "texto": "Entrevistador: ¿Qué hizo para que la recuerdes así?",
+      "turno": "E05-T031"
+    },
+    {
+      "id": "P038",
+      "texto": "Participante: Le preguntamos dónde podíamos encontrar cierto tipo de libros y nos indicó una parte de la librería. Después nos dejó mirar. A mí eso me acomodó. No necesitaba que eligiera por mí.",
+      "turno": "E05-T032"
+    },
+    {
+      "id": "P039",
+      "texto": "No sé todo lo que le tocaba hacer ahí. Lo que vi fue esa ayuda: le preguntamos y nos ubicó.",
+      "turno": "E05-T032"
+    },
+    {
+      "id": "P040",
+      "texto": "Entrevistador: La comparación está ligada a esa intervención concreta.",
+      "turno": "E05-T033"
+    },
+    {
+      "id": "P041",
+      "texto": "Participante: Exactamente. Si me hubiera recomendado algo y hubiéramos conversado más, a lo mejor pensaría en otra comparación, pero no pasó eso.",
+      "turno": "E05-T034"
+    },
+    {
+      "id": "P042",
+      "texto": "Entrevistador: Nos falta quien les recibió después.",
+      "turno": "E05-T035"
+    },
+    {
+      "id": "P043",
+      "texto": "Participante: Esa persona sería como quien te abre un espacio en la mesa. Preguntamos si podíamos sentarnos en una mesa que vimos y nos dijo que sí. Fue muy breve.",
+      "turno": "E05-T036"
+    },
+    {
+      "id": "P044",
+      "texto": "Entrevistador: ¿Qué parte de eso influyó en la decisión de quedarse?",
+      "turno": "E05-T037"
+    },
+    {
+      "id": "P045",
+      "texto": "Participante: Que sí había dónde sentarnos. Ya habíamos visto lo que ofrecían y nos parecía bien, pero queríamos sentarnos a conversar. Si no hubiera habido mesa, habríamos seguido caminando o terminado la salida. No lo teníamos tan decidido como para esperar.",
+      "turno": "E05-T038"
+    },
+    {
+      "id": "P046",
+      "texto": "Entrevistador: Volvamos al recorrido. Tú puedes elegir dónde empieza este episodio y dónde termina. ¿Cuál sería el comienzo?",
+      "turno": "E05-T039"
+    },
+    {
+      "id": "P047",
+      "texto": "Participante: Para mí empieza cuando terminé el libro anterior y pensé que quería ir a mirar otro. Aunque ahí todavía no había salida. La salida empezó a tomar forma cuando le escribí a mi amistad.",
+      "turno": "E05-T040"
+    },
+    {
+      "id": "P048",
+      "texto": "Entrevistador: Podemos conservar esos dos momentos: la idea y cuando comenzaste a convertirla en un acuerdo. Cuéntame cómo pasó.",
+      "turno": "E05-T041"
+    },
+    {
+      "id": "P049",
+      "texto": "Participante: Primero pensé en ir por mi cuenta. Luego recordé que teníamos pendiente vernos y le mandé un mensaje con la idea. No puse todo decidido. Le pregunté si le gustaría acompañarme a una librería una tarde.",
+      "turno": "E05-T042"
+    },
+    {
+      "id": "P050",
+      "texto": "Me respondió que sí y empezamos a ver cuándo. Hubo una primera opción que no nos acomodó y encontramos otra. Ya con eso propuse la librería. Yo había entrado antes y recordaba que me había gustado mirar ahí.",
+      "turno": "E05-T042"
+    },
+    {
+      "id": "P051",
+      "texto": "Entrevistador: ¿Por qué esa experiencia anterior fue suficiente para proponerla?",
+      "turno": "E05-T043"
+    },
+    {
+      "id": "P052",
+      "texto": "Participante: Porque sabía más o menos qué clase de salida podía hacer ahí. Recordaba que había varios estantes para recorrer y que podía detenerme a revisar libros. No recordaba títulos ni precios concretos. Tampoco estaba suponiendo que todo siguiera igual, pero sí tenía una referencia de lo que podía encontrar.",
+      "turno": "E05-T044"
+    },
+    {
+      "id": "P053",
+      "texto": "Entrevistador: ¿Buscaste algo antes de acordarlo?",
+      "turno": "E05-T045"
+    },
+    {
+      "id": "P054",
+      "texto": "Participante: Sí, revisé la información del lugar para ver el horario. No quería proponer una hora y luego descubrir que ya estuviera cerrado.",
+      "turno": "E05-T046"
+    },
+    {
+      "id": "P055",
+      "texto": "Entrevistador: ¿Dónde lo revisaste y qué tomaste de ahí?",
+      "turno": "E05-T047"
+    },
+    {
+      "id": "P056",
+      "texto": "Participante: En la página del propio lugar. Busqué el horario que aparecía y vi que la tarde que estábamos considerando quedaba dentro. También aparecían fotos, pero no me puse a revisarlas mucho. Yo ya tenía una idea del espacio.",
+      "turno": "E05-T048"
+    },
+    {
+      "id": "P057",
+      "texto": "Entrevistador: ¿Cómo decidiste que podías apoyarte en ese horario?",
+      "turno": "E05-T049"
+    },
+    {
+      "id": "P058",
+      "texto": "Participante: Era la información que el lugar publicaba sobre sí mismo y no vi algo que me hiciera dudar. Además, no pensábamos llegar justo antes de la hora de cierre que aparecía. Con eso me pareció suficiente.",
+      "turno": "E05-T050"
+    },
+    {
+      "id": "P059",
+      "texto": "No llamé para confirmar. Si hubiera sido un viaje para recoger algo que necesitaba, tal vez sí habría preguntado directamente. Para esta salida me bastó.",
+      "turno": "E05-T050"
+    },
+    {
+      "id": "P060",
+      "texto": "Entrevistador: ¿Tu amistad revisó también esa información?",
+      "turno": "E05-T051"
+    },
+    {
+      "id": "P061",
+      "texto": "Participante: No sé. Yo le mandé el nombre del lugar, la referencia para encontrarlo y la hora que proponía. Me respondió que le acomodaba. No le pregunté qué había revisado de su lado.",
+      "turno": "E05-T052"
+    },
+    {
+      "id": "P062",
+      "texto": "Entrevistador: ¿Qué quedó acordado en ese intercambio?",
+      "turno": "E05-T053"
+    },
+    {
+      "id": "P063",
+      "texto": "Participante: El día, una hora para encontrarnos y la entrada de la librería como punto de encuentro. Lo de tomar algo quedó como posibilidad. No elegimos el segundo lugar.",
+      "turno": "E05-T054"
+    },
+    {
+      "id": "P064",
+      "texto": "Entrevistador: ¿Por qué dejar esa parte para después?",
+      "turno": "E05-T055"
+    },
+    {
+      "id": "P065",
+      "texto": "Participante: Porque no sabíamos cuánto íbamos a querer estar en la librería ni si después tendríamos ganas. No me hacía falta asegurar toda la tarde.",
+      "turno": "E05-T056"
+    },
+    {
+      "id": "P066",
+      "texto": "Además, si nos poníamos a escoger desde antes dónde sentarnos, ya era otra conversación de mensajes. Para mí lo importante era concretar que nos viéramos.",
+      "turno": "E05-T056"
+    },
+    {
+      "id": "P067",
+      "texto": "Entrevistador: ¿Hubo algo más entre ese acuerdo y salir de casa?",
+      "turno": "E05-T057"
+    },
+    {
+      "id": "P068",
+      "texto": "Participante: Revisé qué otras cosas tenía ese día y dejé un margen para llegar. También pensé si necesitaba llevar algo, pero no había mucho: mis cosas habituales y espacio para un libro si encontraba uno.",
+      "turno": "E05-T058"
+    },
+    {
+      "id": "P069",
+      "texto": "Ahora que lo pienso, lo de revisar mis pendientes no fue al final. Lo hice mientras acordábamos el día. No dije que sí y después vi si podía.",
+      "turno": "E05-T058"
+    },
+    {
+      "id": "P070",
+      "texto": "Entrevistador: Entonces esa revisión y los mensajes fueron ocurriendo juntos.",
+      "turno": "E05-T059"
+    },
+    {
+      "id": "P071",
+      "texto": "Participante: Sí. Yo veía mis pendientes, respondía, esperaba a que la otra persona revisara lo suyo. No fue una lista de pasos que terminé uno por uno.",
+      "turno": "E05-T060"
+    },
+    {
+      "id": "P072",
+      "texto": "Entrevistador: ¿Y al acercarse la salida?",
+      "turno": "E05-T061"
+    },
+    {
+      "id": "P073",
+      "texto": "Participante: Nos confirmamos que seguía en pie. Después cada quien salió desde donde estaba. Yo calculé mi llegada con base en lo que suelo tardar por esa zona. No hice una búsqueda especial del camino.",
+      "turno": "E05-T062"
+    },
+    {
+      "id": "P074",
+      "texto": "Llegué un poco antes y entré. Le escribí que ya estaba dentro y que me quedaría mirando cerca de la entrada. Cuando llegó, nos encontramos ahí.",
+      "turno": "E05-T062"
+    },
+    {
+      "id": "P075",
+      "texto": "Entrevistador: Habían acordado encontrarse en la entrada y tú entraste. ¿Cómo tomaste esa decisión?",
+      "turno": "E05-T063"
+    },
+    {
+      "id": "P076",
+      "texto": "Participante: Vi que podía entrar a mirar y seguir pendiente de su llegada. No tenía mucho sentido quedarme afuera. Pero sí avisé, porque de otro modo podía llegar y no verme.",
+      "turno": "E05-T064"
+    },
+    {
+      "id": "P077",
+      "texto": "Entrevistador: ¿El mensaje cambió el punto de encuentro?",
+      "turno": "E05-T065"
+    },
+    {
+      "id": "P078",
+      "texto": "Participante: Lo precisó. Seguía siendo la librería. No me fui hasta el fondo ni cambié de lugar sin decir nada.",
+      "turno": "E05-T066"
+    },
+    {
+      "id": "P079",
+      "texto": "Entrevistador: Continúa desde que se encontraron.",
+      "turno": "E05-T067"
+    },
+    {
+      "id": "P080",
+      "texto": "Participante: Nos saludamos y empezamos a mirar. Al principio sí caminamos juntos. Luego vimos que a cada quien le llamaban la atención cosas distintas y nos separamos un poco.",
+      "turno": "E05-T068"
+    },
+    {
+      "id": "P081",
+      "texto": "Yo tomé varios libros, leí lo de atrás y abrí algunos. Uno me interesó por el tema, pero cuando leí unas páginas no me dieron ganas de seguir. Otro me gustó más. Lo tuve un rato en la mano mientras seguía mirando.",
+      "turno": "E05-T068"
+    },
+    {
+      "id": "P082",
+      "texto": "En algún momento mi amistad preguntó por una sección que no encontrábamos. Ahí intervino la persona que atendía. Fuimos hacia donde nos indicó y después volvimos a separarnos.",
+      "turno": "E05-T068"
+    },
+    {
+      "id": "P083",
+      "texto": "Entrevistador: Cuando dices que un libro te dio ganas de seguir, ¿qué reconociste?",
+      "turno": "E05-T069"
+    },
+    {
+      "id": "P084",
+      "texto": "Participante: Que estaba leyendo y quería pasar a la página siguiente. Con el primero me interesaba la idea, pero la manera de contar no me estaba atrapando. Con el otro sí.",
+      "turno": "E05-T070"
+    },
+    {
+      "id": "P085",
+      "texto": "También revisé el precio antes de decidir. No iba a comprarlo solo porque ya lo hubiera llevado en la mano un rato.",
+      "turno": "E05-T070"
+    },
+    {
+      "id": "P086",
+      "texto": "Entrevistador: ¿Buscaste reseñas o le pediste una opinión a alguien?",
+      "turno": "E05-T071"
+    },
+    {
+      "id": "P087",
+      "texto": "Participante: No busqué reseñas. Le enseñé el libro a mi amistad y le conté de qué iba, pero no lo conocía. La decisión la tomé leyendo ahí. Para eso quería ir.",
+      "turno": "E05-T072"
+    },
+    {
+      "id": "P088",
+      "texto": "Entrevistador: Su presencia era parte de la salida, aunque no fuera la fuente para elegir el libro.",
+      "turno": "E05-T073"
+    },
+    {
+      "id": "P089",
+      "texto": "Participante: Sí. Me gustó enseñárselo, pero no necesitaba que me dijera que sí lo comprara.",
+      "turno": "E05-T074"
+    },
+    {
+      "id": "P090",
+      "texto": "Entrevistador: ¿Cómo pasaron de mirar libros a decidir salir?",
+      "turno": "E05-T075"
+    },
+    {
+      "id": "P091",
+      "texto": "Participante: Yo ya tenía el que quería y mi amistad había terminado de mirar lo que le interesaba. Nos preguntamos si queríamos seguir un rato más. Ninguna de las dos partes tenía algo pendiente ahí, así que pagué y salimos.",
+      "turno": "E05-T076"
+    },
+    {
+      "id": "P092",
+      "texto": "Afuera retomamos lo de tomar algo. Todavía teníamos ganas de conversar, entonces buscamos cerca.",
+      "turno": "E05-T076"
+    },
+    {
+      "id": "P093",
+      "texto": "Entrevistador: ¿Qué significaba “cerca” en ese momento?",
+      "turno": "E05-T077"
+    },
+    {
+      "id": "P094",
+      "texto": "Participante: Que no se volviera otro traslado. Un lugar al que pudiéramos llegar caminando un poco, sin tener que reorganizarnos. No tenía una distancia exacta en mente.",
+      "turno": "E05-T078"
+    },
+    {
+      "id": "P095",
+      "texto": "Había visto algunos lugares al llegar, pero no sabía cuáles tenían mesa. Caminamos, miramos uno y nos pareció que podía servir.",
+      "turno": "E05-T078"
+    },
+    {
+      "id": "P096",
+      "texto": "Entrevistador: ¿Qué miraron antes de entrar?",
+      "turno": "E05-T079"
+    },
+    {
+      "id": "P097",
+      "texto": "Participante: Que hubiera dónde sentarse y que ofrecieran algo que nos apeteciera. Nos acercamos a ver lo que tenían. Desde afuera se veía una mesa libre; ya dentro preguntamos si podíamos usarla.",
+      "turno": "E05-T080"
+    },
+    {
+      "id": "P098",
+      "texto": "También escuché cómo estaba el ambiente. Podíamos hablar sin tener que levantar mucho la voz. Eso terminó de convencerme.",
+      "turno": "E05-T080"
+    },
+    {
+      "id": "P099",
+      "texto": "Entrevistador: ¿Era algo que habías buscado antes de salir?",
+      "turno": "E05-T081"
+    },
+    {
+      "id": "P100",
+      "texto": "Participante: No. Lo decidí ahí. No había pensado “necesito un lugar con tal nivel de ruido”. Pero cuando íbamos a sentarnos, claro que importó poder escucharnos.",
+      "turno": "E05-T082"
+    },
+    {
+      "id": "P101",
+      "texto": "Entrevistador: ¿Y dónde termina para ti el episodio?",
+      "turno": "E05-T083"
+    },
+    {
+      "id": "P102",
+      "texto": "Participante: Cuando nos despedimos después de tomar algo. Cada quien siguió su camino. Para mí no termina cuando compré el libro, porque todavía estábamos haciendo el plan de vernos.",
+      "turno": "E05-T084"
+    },
+    {
+      "id": "P103",
+      "texto": "Entrevistador: ¿Hubo algo después que consideres parte de organizarlo o cerrarlo?",
+      "turno": "E05-T085"
+    },
+    {
+      "id": "P104",
+      "texto": "Participante: No mucho. Al llegar saqué el libro de la bolsa y lo dejé donde suelo poner lo que estoy leyendo. No hicimos una evaluación de la salida ni nada así.",
+      "turno": "E05-T086"
+    },
+    {
+      "id": "P105",
+      "texto": "Después sí empecé a leerlo, pero eso ya lo siento como otra actividad.",
+      "turno": "E05-T086"
+    },
+    {
+      "id": "P106",
+      "texto": "Entrevistador: Si ahora dividieras todo lo que contaste en partes, ¿cómo lo harías? Puedes ponerles los nombres que te resulten naturales.",
+      "turno": "E05-T087"
+    },
+    {
+      "id": "P107",
+      "texto": "Participante: La primera sería “hacerle espacio”. Ahí pongo las ganas de ir y revisar cuándo podía.",
+      "turno": "E05-T088"
+    },
+    {
+      "id": "P108",
+      "texto": "Después, “ponernos de acuerdo”: los mensajes, escoger la librería y saber dónde encontrarnos.",
+      "turno": "E05-T088"
+    },
+    {
+      "id": "P109",
+      "texto": "Luego diría “ir y mirar”. Aunque ahí también entra llegar y encontrarnos. No sé si lo separaría.",
+      "turno": "E05-T088"
+    },
+    {
+      "id": "P110",
+      "texto": "Entrevistador: Puedes dejarlo junto si así lo viviste.",
+      "turno": "E05-T089"
+    },
+    {
+      "id": "P111",
+      "texto": "Participante: Sí, lo dejaría junto. Y la última sería “seguir un rato o volver”. En esa parte decidimos que sí queríamos tomar algo y luego ya nos despedimos.",
+      "turno": "E05-T090"
+    },
+    {
+      "id": "P112",
+      "texto": "Pero la primera y la segunda se enciman. Mientras nos poníamos de acuerdo yo le estaba haciendo espacio. No son cajones separados.",
+      "turno": "E05-T090"
+    },
+    {
+      "id": "P113",
+      "texto": "Entrevistador: Quedarían “hacerle espacio”, “ponernos de acuerdo”, “ir y mirar” y “seguir un rato o volver”, con ese cruce al principio.",
+      "turno": "E05-T091"
+    },
+    {
+      "id": "P114",
+      "texto": "Participante: Sí. Y “seguir un rato o volver” no quiere decir que siempre tenga que haber algo después. Esa vez hubo.",
+      "turno": "E05-T092"
+    },
+    {
+      "id": "P115",
+      "texto": "Entrevistador: Dentro de esas partes, ¿qué dependía de ti y qué quedaba fuera de tus manos?",
+      "turno": "E05-T093"
+    },
+    {
+      "id": "P116",
+      "texto": "Participante: De mí dependía proponer, revisar mis tiempos, salir y avisar dónde estaba. También decidir qué libro me interesaba y si quería comprarlo.",
+      "turno": "E05-T094"
+    },
+    {
+      "id": "P117",
+      "texto": "No dependía de mí cuándo podía la otra persona, qué libros habría ni si después encontraríamos mesa. Algunas cosas las podíamos averiguar; otras las fuimos viendo.",
+      "turno": "E05-T094"
+    },
+    {
+      "id": "P118",
+      "texto": "Entrevistador: ¿Hubo alguna de esas cosas abiertas que te incomodara?",
+      "turno": "E05-T095"
+    },
+    {
+      "id": "P119",
+      "texto": "Participante: No. Sabía lo suficiente para salir. No saber qué libro iba a encontrar era parte de las ganas de ir.",
+      "turno": "E05-T096"
+    },
+    {
+      "id": "P120",
+      "texto": "Entrevistador: Me gustaría quedarme ahí un momento. Para decidir salir, ¿qué era lo que sí necesitabas tener claro?",
+      "turno": "E05-T097"
+    },
+    {
+      "id": "P121",
+      "texto": "Participante: Que la otra persona sí pudiera, que tuviéramos un punto para encontrarnos y que la librería estuviera abierta según la información que revisé. También que yo tuviera tiempo para hacer la salida sin estar pensando en irme desde que llegara.",
+      "turno": "E05-T098"
+    },
+    {
+      "id": "P122",
+      "texto": "Lo demás podía resolverse ahí.",
+      "turno": "E05-T098"
+    },
+    {
+      "id": "P123",
+      "texto": "Entrevistador: ¿Cómo distinguías algo que convenía resolver antes de algo que podías dejar abierto?",
+      "turno": "E05-T099"
+    },
+    {
+      "id": "P124",
+      "texto": "Participante: Pensaba en qué podía hacer que ni siquiera nos encontráramos o que el plan no pudiera empezar. Eso sí había que acordarlo. En cambio, escoger el libro era lo que iba a hacer allá.",
+      "turno": "E05-T100"
+    },
+    {
+      "id": "P125",
+      "texto": "Y sentarnos después era algo que podía pasar o no. No haber elegido una cafetería no me impedía ir a la librería.",
+      "turno": "E05-T100"
+    },
+    {
+      "id": "P126",
+      "texto": "Entrevistador: ¿Hay ocasiones en que organizas una salida parecida de otra manera?",
+      "turno": "E05-T101"
+    },
+    {
+      "id": "P127",
+      "texto": "Participante: Sí. Si quiero conseguir algo concreto, pregunto antes. O si tengo poco tiempo, hago solo eso y no agrego otra parada.",
+      "turno": "E05-T102"
+    },
+    {
+      "id": "P128",
+      "texto": "También puedo ir sin compañía. En ese caso no hay tantos mensajes, pero igual veo si me cabe en el día. Y si voy a un lugar que no conozco, reviso mejor dónde está la entrada o cómo se reconoce. Aquí ya había ido una vez.",
+      "turno": "E05-T102"
+    },
+    {
+      "id": "P129",
+      "texto": "Entrevistador: Cuando no conoces una entrada, ¿qué te ayuda a reconocerla?",
+      "turno": "E05-T103"
+    },
+    {
+      "id": "P130",
+      "texto": "Participante: Una foto de la fachada a veces. O una indicación sencilla de la persona con la que voy, si conoce el lugar. No siempre necesito revisar todo el trayecto. A veces lo que me falta es saber qué buscar al llegar.",
+      "turno": "E05-T104"
+    },
+    {
+      "id": "P131",
+      "texto": "Entrevistador: En esta salida concreta, entonces, ¿en qué momentos importó dónde estaban las cosas?",
+      "turno": "E05-T105"
+    },
+    {
+      "id": "P132",
+      "texto": "Participante: Al elegir la librería, porque tampoco quería proponer algo que nos costara mucho acomodar a las dos partes. No era el único lugar posible, pero quedaba razonable para el plan que estábamos haciendo.",
+      "turno": "E05-T106"
+    },
+    {
+      "id": "P133",
+      "texto": "Después importó el punto de encuentro. Y al salir importó que pudiéramos sentarnos cerca. Dentro de la librería, lo de ubicar la sección se resolvió preguntando.",
+      "turno": "E05-T106"
+    },
+    {
+      "id": "P134",
+      "texto": "Entrevistador: ¿Saber con más precisión los trayectos habría cambiado algo?",
+      "turno": "E05-T107"
+    },
+    {
+      "id": "P135",
+      "texto": "Participante: No creo. Ya sabía cómo llegar de una manera que me servía. Quizá habría visto otra opción, pero no tenía una duda que me estuviera deteniendo.",
+      "turno": "E05-T108"
+    },
+    {
+      "id": "P136",
+      "texto": "Entrevistador: Hasta ahora aparece una forma de organizarte que te alcanzó para hacer la salida. Quisiera pasar a un ejercicio distinto: pensando en otra ocasión parecida, ¿hay algo que te gustaría poder saber, aunque no conozcas una fuente que lo ofrezca?",
+      "turno": "E05-T109"
+    },
+    {
+      "id": "P137",
+      "texto": "Participante: Para la librería no se me ocurre mucho más. Si voy a mirar, tampoco quiero revisar desde antes todos los libros.",
+      "turno": "E05-T110"
+    },
+    {
+      "id": "P138",
+      "texto": "Para lo de sentarnos después, quizá me gustaría saber cómo se siente un lugar para conversar. Porque ves una foto y puede gustarte, pero no sabes si vas a poder hablar a gusto.",
+      "turno": "E05-T110"
+    },
+    {
+      "id": "P139",
+      "texto": "Entrevistador: ¿Qué entra para ti en “hablar a gusto”?",
+      "turno": "E05-T111"
+    },
+    {
+      "id": "P140",
+      "texto": "Participante: Poder escuchar a la otra persona sin esforzarme todo el tiempo. Tener dónde apoyar lo que llevamos y no estar sintiendo que estorbamos desde que nos sentamos.",
+      "turno": "E05-T112"
+    },
+    {
+      "id": "P141",
+      "texto": "Lo de estorbar es una impresión mía, claro. No digo que sepamos qué piensa quien trabaja ahí. A veces simplemente hay mucho movimiento y yo prefiero otro lugar.",
+      "turno": "E05-T112"
+    },
+    {
+      "id": "P142",
+      "texto": "Entrevistador: ¿Estás pensando en algo que pasó esa tarde o en otras ocasiones?",
+      "turno": "E05-T113"
+    },
+    {
+      "id": "P143",
+      "texto": "Participante: Más en otras ocasiones. Esa tarde sí encontramos dónde conversar. No nos tuvimos que cambiar ni nada. Me vino a la cabeza porque preguntaste qué me gustaría saber.",
+      "turno": "E05-T114"
+    },
+    {
+      "id": "P144",
+      "texto": "Entrevistador: Gracias por aclararlo. Imagina que pudieras consultar esa información a tu manera. ¿Cómo te la encontrarías y qué harías primero?",
+      "turno": "E05-T115"
+    },
+    {
+      "id": "P145",
+      "texto": "Participante: Me imagino una nota corta con algunos lugares de la zona en la que ya estoy. Primero miraría si puedo llegar caminando sin hacer otro plan. Luego leería qué ha visto alguien ahí: si pudo conversar, si había mesas, en qué momento fue.",
+      "turno": "E05-T116"
+    },
+    {
+      "id": "P146",
+      "texto": "No necesitaría una pantalla llena de cosas. Incluso podría ser una nota que yo fuera guardando con lugares a los que ya entré.",
+      "turno": "E05-T116"
+    },
+    {
+      "id": "P147",
+      "texto": "Entrevistador: ¿Qué habría dentro de una nota de un lugar?",
+      "turno": "E05-T117"
+    },
+    {
+      "id": "P148",
+      "texto": "Participante: El nombre para reconocerlo, cómo encontrarlo y dos o tres cosas que me ayuden a acordarme. Por ejemplo, “pudimos conversar”, “mesas pequeñas”, “había mucho movimiento”. Pero también tendría que decir cuándo lo vimos, aunque fuera de manera general.",
+      "turno": "E05-T118"
+    },
+    {
+      "id": "P149",
+      "texto": "Si leo que alguien estuvo una mañana, no asumiría que en la tarde se siente igual.",
+      "turno": "E05-T118"
+    },
+    {
+      "id": "P150",
+      "texto": "Entrevistador: ¿Cómo usarías eso desde el principio? Supongamos que sales de la librería y quieren seguir conversando.",
+      "turno": "E05-T119"
+    },
+    {
+      "id": "P151",
+      "texto": "Participante: Primero le preguntaría a mi amistad si quiere sentarse y cuánto rato tiene. Si sí, vería qué tengo anotado cerca. Si hay un lugar que recuerdo que nos puede servir, lo propondría.",
+      "turno": "E05-T120"
+    },
+    {
+      "id": "P152",
+      "texto": "Ya al llegar miraría cómo está. La nota me ayudaría a elegir hacia dónde caminar, pero si ese día no hay dónde sentarnos, pues no hay.",
+      "turno": "E05-T120"
+    },
+    {
+      "id": "P153",
+      "texto": "Entrevistador: ¿Preferirías ver los lugares en una lista, ubicados en un mapa o de otra forma?",
+      "turno": "E05-T121"
+    },
+    {
+      "id": "P154",
+      "texto": "Participante: Para mis propias notas, una lista me serviría. Si hay uno que no ubico, entonces sí querría ver dónde queda. Pero no empezaría necesariamente por un mapa. Primero quiero entender por qué guardé ese lugar.",
+      "turno": "E05-T122"
+    },
+    {
+      "id": "P155",
+      "texto": "Entrevistador: ¿Y si la información viniera de alguien más?",
+      "turno": "E05-T123"
+    },
+    {
+      "id": "P156",
+      "texto": "Participante: Me ayudaría que dijera lo que observó, en vez de poner solo “ideal para conversar”. Porque a lo mejor su idea de conversar a gusto y la mía no son iguales.",
+      "turno": "E05-T124"
+    },
+    {
+      "id": "P157",
+      "texto": "Si una persona que conozco me dice “nos sentamos ahí y pudimos platicar bien”, ya tengo una referencia. Si es alguien que no conozco, lo tomaría como una pista.",
+      "turno": "E05-T124"
+    },
+    {
+      "id": "P158",
+      "texto": "Entrevistador: De todo lo que mencionaste, ¿qué sería lo más importante?",
+      "turno": "E05-T125"
+    },
+    {
+      "id": "P159",
+      "texto": "Participante: Saber si parece un lugar en el que podamos escucharnos. Aunque eso es justo lo que no se puede asegurar para cualquier momento.",
+      "turno": "E05-T126"
+    },
+    {
+      "id": "P160",
+      "texto": "Tener mesa también importa, pero si me dices que ayer había una mesa libre, eso no me resuelve lo de hoy. Para eso tendría que verlo al llegar.",
+      "turno": "E05-T126"
+    },
+    {
+      "id": "P161",
+      "texto": "Entrevistador: ¿Qué señal te haría decir que esa información te sirvió?",
+      "turno": "E05-T127"
+    },
+    {
+      "id": "P162",
+      "texto": "Participante: Que me ayudara a proponer un lugar sin volver a empezar desde cero, y que al llegar encontráramos algo parecido a lo que entendí. No idéntico, pero sí que tuviera sentido haberlo elegido.",
+      "turno": "E05-T128"
+    },
+    {
+      "id": "P163",
+      "texto": "También podría servirme para descartar uno. Si recuerdo que las mesas eran tan pequeñas que no estábamos a gusto con nuestras cosas, quizá propongo otro.",
+      "turno": "E05-T128"
+    },
+    {
+      "id": "P164",
+      "texto": "Entrevistador: ¿Cambiaría mucho tu manera de organizar estas salidas?",
+      "turno": "E05-T129"
+    },
+    {
+      "id": "P165",
+      "texto": "Participante: No demasiado. Ahora lo resolvimos mirando y preguntando. Eso funcionó. Las notas me servirían si ya tengo alguna o si vuelvo por una zona que no recuerdo bien. No me pondría a llenar una ficha cada vez que tomo algo.",
+      "turno": "E05-T130"
+    },
+    {
+      "id": "P166",
+      "texto": "Entrevistador: ¿Hay algo de tu forma actual de hacerlo que quisieras conservar especialmente?",
+      "turno": "E05-T131"
+    },
+    {
+      "id": "P167",
+      "texto": "Participante: Poder decidir una parte ahí. Ver qué nos dan ganas de hacer y no sentir que porque mandé un plan por mensaje ya lo tenemos que cumplir completo.",
+      "turno": "E05-T132"
+    },
+    {
+      "id": "P168",
+      "texto": "También preguntarle a quien está en el lugar. En la librería fue más fácil preguntar por la sección que intentar deducir todo. Y para la mesa igual: la vimos y preguntamos si podíamos sentarnos.",
+      "turno": "E05-T132"
+    },
+    {
+      "id": "P169",
+      "texto": "Entrevistador: Antes hablaste de querer saber cómo se siente un lugar. Podría entenderse que quisieras anticipar bastante de la salida.",
+      "turno": "E05-T133"
+    },
+    {
+      "id": "P170",
+      "texto": "Participante: Solo una parte. Me gustaría tener alguna referencia para escoger, pero tampoco voy a saber desde antes cómo me voy a sentir ese día. Puedo llegar a un sitio que otras veces me gusta y preferir seguir caminando.",
+      "turno": "E05-T134"
+    },
+    {
+      "id": "P171",
+      "texto": "Y en la librería sí quiero conservar lo de encontrar algo sin haberlo elegido antes. Si revisara todo desde casa, perdería parte de lo que fui a hacer.",
+      "turno": "E05-T134"
+    },
+    {
+      "id": "P172",
+      "texto": "Entrevistador: Quisiera comprobar cómo entendí el conjunto. Propusiste una salida que reunía dos ganas: buscar una lectura y ver a una amistad. Acordaron lo necesario para encontrarse, comprobaste un horario y dejaron abierta la posibilidad de seguir después. Ya en los lugares, mirar, leer y preguntar les permitió decidir. ¿Qué corregirías?",
+      "turno": "E05-T135"
+    },
+    {
+      "id": "P173",
+      "texto": "Participante: Eso sí. Solo que cuando dices “buscar una lectura” puede sonar a que tenía que salir con algo. Yo diría ir a mirar libros. Encontré uno y lo compré, pero no era la condición para que funcionara.",
+      "turno": "E05-T136"
+    },
+    {
+      "id": "P174",
+      "texto": "Entrevistador: Ir a mirar libros y compartir la tarde. La compra fue una decisión que apareció dentro de eso.",
+      "turno": "E05-T137"
+    },
+    {
+      "id": "P175",
+      "texto": "Participante: Sí.",
+      "turno": "E05-T138"
+    },
+    {
+      "id": "P176",
+      "texto": "Entrevistador: ¿Hay alguna pregunta que haya dejado fuera algo importante de cómo te organizaste?",
+      "turno": "E05-T139"
+    },
+    {
+      "id": "P177",
+      "texto": "Participante: Quizá que también cuenta conocer a la persona con la que vas. No en el sentido de saber todo lo que quiere, sino que en este caso podíamos decir “vemos después” y a ambas partes nos parecía bien. Con otra persona tal vez tendría que dejar más cosas acordadas.",
+      "turno": "E05-T140"
+    },
+    {
+      "id": "P178",
+      "texto": "No porque una manera sea mejor, sino porque el acuerdo sería distinto.",
+      "turno": "E05-T140"
+    },
+    {
+      "id": "P179",
+      "texto": "Entrevistador: ¿Cómo sabías que esta vez podían dejarlo abierto?",
+      "turno": "E05-T141"
+    },
+    {
+      "id": "P180",
+      "texto": "Participante: Por cómo respondió a la propuesta y porque ya hemos hecho planes así. De todos modos, lo hablamos. No di por hecho que quisiera seguir conmigo toda la tarde. Cuando salimos de la librería volvimos a preguntarnos.",
+      "turno": "E05-T142"
+    },
+    {
+      "id": "P181",
+      "texto": "Entrevistador: Eso añade algo a lo que entendí: dejar una parte abierta también fue un acuerdo entre ustedes.",
+      "turno": "E05-T143"
+    },
+    {
+      "id": "P182",
+      "texto": "Participante: Sí, así lo diría.",
+      "turno": "E05-T144"
+    },
+    {
+      "id": "P183",
+      "texto": "Entrevistador: ¿Quieres agregar un último matiz antes de cerrar?",
+      "turno": "E05-T145"
+    },
+    {
+      "id": "P184",
+      "texto": "Participante: Que para mí organizar algo no siempre es decidir muchas cosas. A veces es conseguir que pase lo que llevabas tiempo queriendo hacer. Esa vez mandé el mensaje, encontramos cuándo y fui. Con eso empezó todo lo demás.",
+      "turno": "E05-T146"
+    },
+    {
+      "id": "P185",
+      "texto": "Entrevistador: Gracias por contarlo y por corregir las partes en las que interpreté de más. Con esto terminamos la conversación.",
+      "turno": "E05-T147"
+    },
+    {
+      "id": "P186",
+      "texto": "Participante: Gracias. Me gustó recordar cómo se fue armando.",
+      "turno": "E05-T148"
+    }
+  ],
+  "turnos": [
+    {
+      "id": "E05-T001",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P004"
+      ]
+    },
+    {
+      "id": "E05-T002",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P005"
+      ]
+    },
+    {
+      "id": "E05-T003",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P006"
+      ]
+    },
+    {
+      "id": "E05-T004",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P007",
+        "E05-P008"
+      ]
+    },
+    {
+      "id": "E05-T005",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P009"
+      ]
+    },
+    {
+      "id": "E05-T006",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P010"
+      ]
+    },
+    {
+      "id": "E05-T007",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P011"
+      ]
+    },
+    {
+      "id": "E05-T008",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P012"
+      ]
+    },
+    {
+      "id": "E05-T009",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P013"
+      ]
+    },
+    {
+      "id": "E05-T010",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P014"
+      ]
+    },
+    {
+      "id": "E05-T011",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P015"
+      ]
+    },
+    {
+      "id": "E05-T012",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P016"
+      ]
+    },
+    {
+      "id": "E05-T013",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P017"
+      ]
+    },
+    {
+      "id": "E05-T014",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P018",
+        "E05-P019"
+      ]
+    },
+    {
+      "id": "E05-T015",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P020"
+      ]
+    },
+    {
+      "id": "E05-T016",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P021"
+      ]
+    },
+    {
+      "id": "E05-T017",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P022"
+      ]
+    },
+    {
+      "id": "E05-T018",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P023"
+      ]
+    },
+    {
+      "id": "E05-T019",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P024"
+      ]
+    },
+    {
+      "id": "E05-T020",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P025",
+        "E05-P026"
+      ]
+    },
+    {
+      "id": "E05-T021",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P027"
+      ]
+    },
+    {
+      "id": "E05-T022",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P028"
+      ]
+    },
+    {
+      "id": "E05-T023",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P029"
+      ]
+    },
+    {
+      "id": "E05-T024",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P030"
+      ]
+    },
+    {
+      "id": "E05-T025",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P031"
+      ]
+    },
+    {
+      "id": "E05-T026",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P032"
+      ]
+    },
+    {
+      "id": "E05-T027",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P033"
+      ]
+    },
+    {
+      "id": "E05-T028",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P034"
+      ]
+    },
+    {
+      "id": "E05-T029",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P035"
+      ]
+    },
+    {
+      "id": "E05-T030",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P036"
+      ]
+    },
+    {
+      "id": "E05-T031",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P037"
+      ]
+    },
+    {
+      "id": "E05-T032",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P038",
+        "E05-P039"
+      ]
+    },
+    {
+      "id": "E05-T033",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P040"
+      ]
+    },
+    {
+      "id": "E05-T034",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P041"
+      ]
+    },
+    {
+      "id": "E05-T035",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P042"
+      ]
+    },
+    {
+      "id": "E05-T036",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P043"
+      ]
+    },
+    {
+      "id": "E05-T037",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P044"
+      ]
+    },
+    {
+      "id": "E05-T038",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P045"
+      ]
+    },
+    {
+      "id": "E05-T039",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P046"
+      ]
+    },
+    {
+      "id": "E05-T040",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P047"
+      ]
+    },
+    {
+      "id": "E05-T041",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P048"
+      ]
+    },
+    {
+      "id": "E05-T042",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P049",
+        "E05-P050"
+      ]
+    },
+    {
+      "id": "E05-T043",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P051"
+      ]
+    },
+    {
+      "id": "E05-T044",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P052"
+      ]
+    },
+    {
+      "id": "E05-T045",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P053"
+      ]
+    },
+    {
+      "id": "E05-T046",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P054"
+      ]
+    },
+    {
+      "id": "E05-T047",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P055"
+      ]
+    },
+    {
+      "id": "E05-T048",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P056"
+      ]
+    },
+    {
+      "id": "E05-T049",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P057"
+      ]
+    },
+    {
+      "id": "E05-T050",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P058",
+        "E05-P059"
+      ]
+    },
+    {
+      "id": "E05-T051",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P060"
+      ]
+    },
+    {
+      "id": "E05-T052",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P061"
+      ]
+    },
+    {
+      "id": "E05-T053",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P062"
+      ]
+    },
+    {
+      "id": "E05-T054",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P063"
+      ]
+    },
+    {
+      "id": "E05-T055",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P064"
+      ]
+    },
+    {
+      "id": "E05-T056",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P065",
+        "E05-P066"
+      ]
+    },
+    {
+      "id": "E05-T057",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P067"
+      ]
+    },
+    {
+      "id": "E05-T058",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P068",
+        "E05-P069"
+      ]
+    },
+    {
+      "id": "E05-T059",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P070"
+      ]
+    },
+    {
+      "id": "E05-T060",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P071"
+      ]
+    },
+    {
+      "id": "E05-T061",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P072"
+      ]
+    },
+    {
+      "id": "E05-T062",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P073",
+        "E05-P074"
+      ]
+    },
+    {
+      "id": "E05-T063",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P075"
+      ]
+    },
+    {
+      "id": "E05-T064",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P076"
+      ]
+    },
+    {
+      "id": "E05-T065",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P077"
+      ]
+    },
+    {
+      "id": "E05-T066",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P078"
+      ]
+    },
+    {
+      "id": "E05-T067",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P079"
+      ]
+    },
+    {
+      "id": "E05-T068",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P080",
+        "E05-P081",
+        "E05-P082"
+      ]
+    },
+    {
+      "id": "E05-T069",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P083"
+      ]
+    },
+    {
+      "id": "E05-T070",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P084",
+        "E05-P085"
+      ]
+    },
+    {
+      "id": "E05-T071",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P086"
+      ]
+    },
+    {
+      "id": "E05-T072",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P087"
+      ]
+    },
+    {
+      "id": "E05-T073",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P088"
+      ]
+    },
+    {
+      "id": "E05-T074",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P089"
+      ]
+    },
+    {
+      "id": "E05-T075",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P090"
+      ]
+    },
+    {
+      "id": "E05-T076",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P091",
+        "E05-P092"
+      ]
+    },
+    {
+      "id": "E05-T077",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P093"
+      ]
+    },
+    {
+      "id": "E05-T078",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P094",
+        "E05-P095"
+      ]
+    },
+    {
+      "id": "E05-T079",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P096"
+      ]
+    },
+    {
+      "id": "E05-T080",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P097",
+        "E05-P098"
+      ]
+    },
+    {
+      "id": "E05-T081",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P099"
+      ]
+    },
+    {
+      "id": "E05-T082",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P100"
+      ]
+    },
+    {
+      "id": "E05-T083",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P101"
+      ]
+    },
+    {
+      "id": "E05-T084",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P102"
+      ]
+    },
+    {
+      "id": "E05-T085",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P103"
+      ]
+    },
+    {
+      "id": "E05-T086",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P104",
+        "E05-P105"
+      ]
+    },
+    {
+      "id": "E05-T087",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P106"
+      ]
+    },
+    {
+      "id": "E05-T088",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P107",
+        "E05-P108",
+        "E05-P109"
+      ]
+    },
+    {
+      "id": "E05-T089",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P110"
+      ]
+    },
+    {
+      "id": "E05-T090",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P111",
+        "E05-P112"
+      ]
+    },
+    {
+      "id": "E05-T091",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P113"
+      ]
+    },
+    {
+      "id": "E05-T092",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P114"
+      ]
+    },
+    {
+      "id": "E05-T093",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P115"
+      ]
+    },
+    {
+      "id": "E05-T094",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P116",
+        "E05-P117"
+      ]
+    },
+    {
+      "id": "E05-T095",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P118"
+      ]
+    },
+    {
+      "id": "E05-T096",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P119"
+      ]
+    },
+    {
+      "id": "E05-T097",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P120"
+      ]
+    },
+    {
+      "id": "E05-T098",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P121",
+        "E05-P122"
+      ]
+    },
+    {
+      "id": "E05-T099",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P123"
+      ]
+    },
+    {
+      "id": "E05-T100",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P124",
+        "E05-P125"
+      ]
+    },
+    {
+      "id": "E05-T101",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P126"
+      ]
+    },
+    {
+      "id": "E05-T102",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P127",
+        "E05-P128"
+      ]
+    },
+    {
+      "id": "E05-T103",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P129"
+      ]
+    },
+    {
+      "id": "E05-T104",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P130"
+      ]
+    },
+    {
+      "id": "E05-T105",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P131"
+      ]
+    },
+    {
+      "id": "E05-T106",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P132",
+        "E05-P133"
+      ]
+    },
+    {
+      "id": "E05-T107",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P134"
+      ]
+    },
+    {
+      "id": "E05-T108",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P135"
+      ]
+    },
+    {
+      "id": "E05-T109",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P136"
+      ]
+    },
+    {
+      "id": "E05-T110",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P137",
+        "E05-P138"
+      ]
+    },
+    {
+      "id": "E05-T111",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P139"
+      ]
+    },
+    {
+      "id": "E05-T112",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P140",
+        "E05-P141"
+      ]
+    },
+    {
+      "id": "E05-T113",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P142"
+      ]
+    },
+    {
+      "id": "E05-T114",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P143"
+      ]
+    },
+    {
+      "id": "E05-T115",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P144"
+      ]
+    },
+    {
+      "id": "E05-T116",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P145",
+        "E05-P146"
+      ]
+    },
+    {
+      "id": "E05-T117",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P147"
+      ]
+    },
+    {
+      "id": "E05-T118",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P148",
+        "E05-P149"
+      ]
+    },
+    {
+      "id": "E05-T119",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P150"
+      ]
+    },
+    {
+      "id": "E05-T120",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P151",
+        "E05-P152"
+      ]
+    },
+    {
+      "id": "E05-T121",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P153"
+      ]
+    },
+    {
+      "id": "E05-T122",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P154"
+      ]
+    },
+    {
+      "id": "E05-T123",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P155"
+      ]
+    },
+    {
+      "id": "E05-T124",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P156",
+        "E05-P157"
+      ]
+    },
+    {
+      "id": "E05-T125",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P158"
+      ]
+    },
+    {
+      "id": "E05-T126",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P159",
+        "E05-P160"
+      ]
+    },
+    {
+      "id": "E05-T127",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P161"
+      ]
+    },
+    {
+      "id": "E05-T128",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P162",
+        "E05-P163"
+      ]
+    },
+    {
+      "id": "E05-T129",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P164"
+      ]
+    },
+    {
+      "id": "E05-T130",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P165"
+      ]
+    },
+    {
+      "id": "E05-T131",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P166"
+      ]
+    },
+    {
+      "id": "E05-T132",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P167",
+        "E05-P168"
+      ]
+    },
+    {
+      "id": "E05-T133",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P169"
+      ]
+    },
+    {
+      "id": "E05-T134",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P170",
+        "E05-P171"
+      ]
+    },
+    {
+      "id": "E05-T135",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P172"
+      ]
+    },
+    {
+      "id": "E05-T136",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P173"
+      ]
+    },
+    {
+      "id": "E05-T137",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P174"
+      ]
+    },
+    {
+      "id": "E05-T138",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P175"
+      ]
+    },
+    {
+      "id": "E05-T139",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P176"
+      ]
+    },
+    {
+      "id": "E05-T140",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P177",
+        "E05-P178"
+      ]
+    },
+    {
+      "id": "E05-T141",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P179"
+      ]
+    },
+    {
+      "id": "E05-T142",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P180"
+      ]
+    },
+    {
+      "id": "E05-T143",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P181"
+      ]
+    },
+    {
+      "id": "E05-T144",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P182"
+      ]
+    },
+    {
+      "id": "E05-T145",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P183"
+      ]
+    },
+    {
+      "id": "E05-T146",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P184"
+      ]
+    },
+    {
+      "id": "E05-T147",
+      "voz": "Entrevistador",
+      "parrafos": [
+        "E05-P185"
+      ]
+    },
+    {
+      "id": "E05-T148",
+      "voz": "Participante",
+      "parrafos": [
+        "E05-P186"
+      ]
+    }
+  ]
+}

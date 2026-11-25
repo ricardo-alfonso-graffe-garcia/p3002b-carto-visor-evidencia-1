@@ -1,0 +1,21 @@
+{
+  "fecha": "2026-11-25",
+  "revision_humana_independiente": "PENDIENTE",
+  "figuras": [
+    {
+      "nombre": "arquitectura",
+      "estado": "REEXPORTADA_E_INSPECCIONADA",
+      "revision": "PNG reexportado y PDF renderizado a PNG observados; textos/flechas legibles, sin recortes o superposiciones observadas. Retorno Productos→Construcción añadido.",
+      "sha256_png": "72aca8067e5d2aba690b6e21487f7c667f0f4875b357472e396d407290da12a9",
+      "sha256_pdf": "1fb33d5cf5ee0adcd254d82961eb6a0c65842e393c33f5cb369257cc00d2c125"
+    },
+    {
+      "nombre": "productos",
+      "estado": "ORIGINAL_REUTILIZADO_E_INSPECCIONADO",
+      "revision": "PNG recibido observado; no cambian caminos, historias o criterios de producto.",
+      "sha256_png": "9b0e588e2758fb106d06c8a341e3604a86297dfe099a97a17369a5a2dd2d91fe",
+      "sha256_pdf": "66845e7c00768898effdf93ba01d850df4e4eae813f0bee8a1badef3303813af"
+    }
+  ],
+  "alcance": "Inspección asistida de figuras; no prueba de interfaz, revisión humana independiente o funcionamiento."
+}

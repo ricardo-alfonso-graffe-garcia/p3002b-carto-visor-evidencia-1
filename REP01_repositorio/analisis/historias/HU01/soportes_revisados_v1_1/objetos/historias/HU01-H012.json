@@ -1,0 +1,113 @@
+{
+  "id": "HU01-H012",
+  "titulo": "Conocer ritmos de uso para preparar otra propuesta",
+  "formulacion": "Como persona que propone una actividad cultural en un lugar nuevo, quiero leer descripciones situadas de cómo se usa un horario, con su fuente y ocasión, para plantear duración y forma de incorporarse y preparar preguntas para la visita.",
+  "actores": [
+    "ACT01-A012"
+  ],
+  "perfil": "HU01-P003",
+  "necesidades": [
+    "N01-N017"
+  ],
+  "entrevistas": [
+    "E03"
+  ],
+  "tipo": "IDEAL_A_CONTRASTAR",
+  "contexto": "Ideal abierto E03-P149; decisión solicitada P152 y organización P155. Los ejemplos de franjas de P157 son ilustrativos, no nuevos testimonios de anfitriones.",
+  "objetivo": "leer descripciones situadas de cómo se usa un horario, con su fuente y ocasión",
+  "beneficio_o_decision": "plantear duración y forma de incorporarse y preparar preguntas para la visita",
+  "restricciones": [
+    "No es una verdad permanente del espacio. Una descripción no sustituye visita ni conversación, ni disponibilidad equivale a disposición a participar."
+  ],
+  "preservar": [
+    "Preguntar mejor al ir",
+    "Distinguir fuente y ocasión",
+    "No endurecer una nota como característica del lugar"
+  ],
+  "evidencias": [
+    "N01-V0178",
+    "N01-V0179",
+    "N01-V0180",
+    "N01-V0181",
+    "N01-V0182",
+    "N01-V0168",
+    "N01-V0170",
+    "N01-V0174",
+    "N01-V0154"
+  ],
+  "limites": "No se dispone de descripción estable de ritmos ni de fuente para cada nuevo espacio.; No hay utilidad o rapidez de acercamiento medida.. Las formulaciones son derivaciones analíticas, no citas ni compromisos de participantes. La pertinencia de un producto sigue por validar.",
+  "criterios": [
+    {
+      "id": "HU01-K016",
+      "dado": "se cuenta con una descripción de uso situada en fuente y ocasión",
+      "cuando": "se considera una nueva actividad",
+      "entonces": "se formulan alternativas de duración o incorporación y preguntas concretas para confirmar, sin tratar la franja como verdad permanente",
+      "origen": "ADAPTADO_DE_CRITERIO_N01",
+      "criterios_n01": [
+        "N01-K017"
+      ],
+      "estado": "PROPUESTO_NO_EJECUTADO",
+      "limites": "Adaptación analítica de N01-K017. Observable N01 de origen PROPUESTA_ANALITICA; Dado/Cuando/Entonces y el cotejo son propuestas del análisis, no aceptación recabada. No es una verdad permanente del espacio. Una descripción no sustituye visita ni conversación, ni disponibilidad equivale a disposición a participar. Soportes originales no aportados; no se ejecutó esta comprobación."
+    }
+  ],
+  "prioridad": {
+    "nivel": "MEDIA",
+    "ambito": "E03: ideal a contrastar: Conocer ritmos de uso para preparar otra propuesta",
+    "origen": "ANALISIS_CONDICIONAL",
+    "razon": "Media dentro del ideal, después de acuerdos prácticos N016 y especialmente pertinente en lugar nuevo; no sustituye conversación ni visita. Importancia expresada: No hay priorización comparable explícita de esta pieza por la persona. El nivel asignado es del análisis.",
+    "limites": "Orden local parcial y condicional al momento señalado. No ranking urbano, cartera implementable, aceptación ADIP ni factibilidad comprobada."
+  },
+  "perfil_metadatos": "HU01-M012",
+  "metaalgoritmo": [
+    {
+      "id": "HU01-OP048",
+      "nombre": "Precisar propuesta a orientar",
+      "entrada": "Lugar nuevo y propósito cultural",
+      "operacion": "Propuesta: Definir qué duración o incorporación se está considerando antes de buscar datos.",
+      "salida": "Pregunta situada",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP049",
+      "nombre": "Solicitar descripción de ritmos",
+      "entrada": "Relatos que puedan aportar quienes conocen lugar",
+      "operacion": "Propuesta: Registrar cómo se usa el horario con quién, cuándo y qué no saben.",
+      "salida": "Referencia inicial sin permanencia supuesta",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP050",
+      "nombre": "Comparar formatos posibles",
+      "entrada": "Referencia y propósito",
+      "operacion": "Propuesta: Interpretar si orienta encuentros prolongados, entradas breves o continuidad, sin escala universal.",
+      "salida": "Propuesta preliminar y preguntas",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP051",
+      "nombre": "Confirmar en relación y visita",
+      "entrada": "Preguntas, anfitriones y experiencia pertinente",
+      "operacion": "Propuesta: Comprobar qué cambió y qué se puede sostener; descripción no sustituye estar ahí.",
+      "salida": "Condiciones por confirmar o acordar",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP052",
+      "nombre": "Decidir pertinencia",
+      "entrada": "Propuesta preliminar y confirmaciones",
+      "operacion": "Propuesta: Presentar decisión de formato o dejarla pendiente sin adjudicar disposición a asistir.",
+      "salida": "Decisión argumentada para nueva ocasión",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    }
+  ]
+}

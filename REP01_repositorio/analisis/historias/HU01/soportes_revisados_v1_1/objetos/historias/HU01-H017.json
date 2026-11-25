@@ -1,0 +1,126 @@
+{
+  "id": "HU01-H017",
+  "titulo": "Comparar desempeño antes de probar otro material",
+  "formulacion": "Como persona que considera incorporar un elástico poco conocido, quiero comparar el conocido y la alternativa del mismo ancho con muestras en mano y evidencia de qué se cosió, usó o lavó, para decidir si vale la pena probar una cantidad y explicar con límites lo que sé.",
+  "actores": [
+    "ACT01-A019"
+  ],
+  "perfil": "HU01-P004",
+  "necesidades": [
+    "N01-N023"
+  ],
+  "entrevistas": [
+    "E04"
+  ],
+  "tipo": "IDEAL_A_CONTRASTAR",
+  "contexto": "Ideal abierto E04-P138; organización P147, alcance limitado al par tras P156 y prioridad P161. Cuaderno tangible de muestras preferido; foto solo si muestra algo, sin sustituir tacto.",
+  "objetivo": "comparar el conocido y la alternativa del mismo ancho con muestras en mano y evidencia de qué se cosió, usó o lavó",
+  "beneficio_o_decision": "decidir si vale la pena probar una cantidad y explicar con límites lo que sé",
+  "restricciones": [
+    "Fuente de todas las pruebas no resuelta. No predice ventas ni recomienda para cualquier prenda. Cantidad adquirible sigue limitando incluso si conoce más."
+  ],
+  "preservar": [
+    "Muestras en mano para suavidad",
+    "Escuchar a quien llega con prenda",
+    "Distinguir experiencia relatada de prueba propia"
+  ],
+  "evidencias": [
+    "N01-V0237",
+    "N01-V0238",
+    "N01-V0239",
+    "N01-V0240",
+    "N01-V0241",
+    "N01-V0242",
+    "N01-V0243",
+    "N01-V0244",
+    "N01-V0245",
+    "N01-V0246",
+    "N01-V0247",
+    "N01-V0248",
+    "N01-V0249",
+    "N01-V0250",
+    "N01-V0251",
+    "N01-V0252",
+    "N01-V0253",
+    "N01-V0254",
+    "N01-V0221",
+    "N01-V0255",
+    "N01-V0217",
+    "N01-V0209"
+  ],
+  "limites": "No hay ensayos de costura, uso o lavado aportados.; Quién aportaría pruebas, con qué tela y presentación pequeña disponible.; Ventas e idoneidad para prenda particular no determinadas.. Las formulaciones son derivaciones analíticas, no citas ni compromisos de participantes. La pertinencia de un producto sigue por validar.",
+  "criterios": [
+    {
+      "id": "HU01-K023",
+      "dado": "se obtienen realmente evidencias pertinentes del par de materiales",
+      "cuando": "se compara qué se hizo con cada muestra y en qué contexto",
+      "entonces": "se justifica probar o dejar con comportamiento respaldado, distinguiendo tacto, costura, uso y lavado e indicando comprobación posterior pendiente",
+      "origen": "ADAPTADO_DE_CRITERIO_N01",
+      "criterios_n01": [
+        "N01-K023"
+      ],
+      "estado": "PROPUESTO_NO_EJECUTADO",
+      "limites": "Adaptación analítica de N01-K023. Observable N01 de origen DECLARADO; Dado/Cuando/Entonces y el cotejo son propuestas del análisis, no aceptación recabada. Fuente de todas las pruebas no resuelta. No predice ventas ni recomienda para cualquier prenda. Cantidad adquirible sigue limitando incluso si conoce más. Soportes originales no aportados; no se ejecutó esta comprobación."
+    }
+  ],
+  "prioridad": {
+    "nivel": "ALTA",
+    "ambito": "E04: ideal a contrastar: Comparar desempeño antes de probar otro material",
+    "origen": "ANALISIS_CONDICIONAL",
+    "razon": "Alta dentro de la exploración ideal del par pertinente. No desplaza reponer conocido ni elimina restricción de cantidad o predice ventas. Importancia expresada: P162 escoge al inicio comparar conocido y alternativa con qué se comprobó; la referencia sola ya la tiene. No prioriza catálogo total ni sustitución.",
+    "limites": "Orden local parcial y condicional al momento señalado. No ranking urbano, cartera implementable, aceptación ADIP ni factibilidad comprobada."
+  },
+  "perfil_metadatos": "HU01-M017",
+  "metaalgoritmo": [
+    {
+      "id": "HU01-OP069",
+      "nombre": "Acotar comparación material",
+      "entrada": "Par del mismo ancho y decisión real por tomar",
+      "operacion": "Propuesta: Mantener muestras tangibles y referencias del conocido y alternativa.",
+      "salida": "Par pertinente, sin catálogo total",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP070",
+      "nombre": "Obtener evidencia posible",
+      "entrada": "Muestras y personas que puedan compartir experiencia",
+      "operacion": "Propuesta: Distinguir qué se tocó, cosió, usó o lavó, con tela y contexto si se conocen; fuente no comprometida.",
+      "salida": "Evidencia obtenida o desconocimiento visible",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP071",
+      "nombre": "Comparar con procedencia",
+      "entrada": "Material en mano y notas de acciones reales",
+      "operacion": "Propuesta: Poner junto comportamiento y contexto sin sustituir suavidad por foto ni inventar defectos.",
+      "salida": "Diferencias respaldadas y preguntas abiertas",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP072",
+      "nombre": "Interpretar y decidir ensayo",
+      "entrada": "Comparación, cantidad ofrecida y prenda particular si se conoce",
+      "operacion": "Propuesta: Decidir probar o dejar; explicar qué se sabe sin garantizar idoneidad universal ni ventas.",
+      "salida": "Decisión condicionada por conocimiento y cantidad",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP073",
+      "nombre": "Contrastar después si se usa",
+      "entrada": "Lo que se llegue a usar o despachar y comparación previa",
+      "operacion": "Propuesta: Revisar concordancia y utilidad de notas antes de seguir manteniéndolas.",
+      "salida": "Revisión futura del apoyo, sin prueba simulada",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    }
+  ]
+}

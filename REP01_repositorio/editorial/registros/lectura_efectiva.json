@@ -1,0 +1,172 @@
+[
+  {
+    "archivo": "95_instrucciones_REP01(1).md",
+    "alcance": "Lectura íntegra de instrucciones externas; continuación y cierre consultados sin truncamiento.",
+    "comprobacion": "Delimitadores, entregables y alcance aplicados; copia en editorial/fuentes/instrucciones_REP01.md."
+  },
+  {
+    "archivo": "manifest.json",
+    "alcance": "Cotejo de las 495 entradas por bytes y SHA-256; lectura de estructura y alcance.",
+    "comprobacion": "495 coincidencias; editorial/controles/integridad_insumos.json. No equivale a lectura semántica."
+  },
+  {
+    "archivo": "catalogo_base.json",
+    "alcance": "Consulta estructural de 446 registros y tratamientos; procedencia de base curada.",
+    "comprobacion": "439 copias idénticas y 7 adaptaciones de rutas históricas; conservado en editorial/fuentes."
+  },
+  {
+    "archivo": "registro_entradas.json",
+    "alcance": "Lectura completa del registro de versiones y fuentes inmutables.",
+    "comprobacion": "Versiones preferidas preservadas y cotejadas por control."
+  },
+  {
+    "archivo": "requisitos/06_canvas_rubrica_y_feedback.md",
+    "alcance": "Lectura íntegra de transcripción operativa de Canvas, rúbrica y ocho puntos de feedback.",
+    "comprobacion": "No consulta directa a Canvas; contenido usado en cobertura."
+  },
+  {
+    "archivo": "requisitos/02_matriz_requisitos.json",
+    "alcance": "Lectura de los 208 enunciados y sus comprobaciones, con categorías y metadatos de origen consultados.",
+    "comprobacion": "Cobertura uno a uno; no se reutilizan como estados de ejecución los pendientes de especificación."
+  },
+  {
+    "archivo": "requisitos/01_expediente_maestro_extracto.md",
+    "alcance": "Lectura de encuadre, decisiones, apertura, instrumentos y formulaciones metodológicas/técnicas pertinentes.",
+    "comprobacion": "Consulta dirigida; no se incorporan registros de otras conversaciones enlazadas."
+  },
+  {
+    "archivo": "11_guiones_entrevistas.json",
+    "alcance": "Guion base completo y adaptaciones consultadas junto a intervenciones efectivas de las cinco entrevistas.",
+    "comprobacion": "Estado histórico aplicación pendiente registrado como incidencia, sin certificar aplicación humana."
+  },
+  {
+    "archivo": "24_protocolo_analisis.md",
+    "alcance": "Lectura íntegra de protocolo, cierre, secuencia y actualización HU01/T01.",
+    "comprobacion": "Secuencia asistida y revisión humana pendiente diferenciadas."
+  },
+  {
+    "archivo": "24_registro_corpus.json",
+    "alcance": "Lectura completa de cinco registros.",
+    "comprobacion": "Fechas NO_CONSIGNADA y encabezados conservados."
+  },
+  {
+    "archivo": "corpus/E01/E01_texto_con_localizadores.txt",
+    "alcance": "Lectura completa de entrevista, preguntas, continuaciones, correcciones y cierre; regreso a citas seleccionadas.",
+    "comprobacion": "Cotejo de citas/voz/offsets contra JSON analisis/insumos; sin certificar hechos externos."
+  },
+  {
+    "archivo": "corpus/E02/E02_texto_con_localizadores.txt",
+    "alcance": "Lectura completa de entrevista, preguntas, continuaciones, correcciones y cierre; regreso a citas seleccionadas.",
+    "comprobacion": "Cotejo de citas/voz/offsets contra JSON analisis/insumos; sin certificar hechos externos."
+  },
+  {
+    "archivo": "corpus/E03/E03_texto_con_localizadores.txt",
+    "alcance": "Lectura completa de entrevista, preguntas, continuaciones, correcciones y cierre; regreso a citas seleccionadas.",
+    "comprobacion": "Cotejo de citas/voz/offsets contra JSON analisis/insumos; sin certificar hechos externos."
+  },
+  {
+    "archivo": "corpus/E04/E04_texto_con_localizadores.txt",
+    "alcance": "Lectura completa de entrevista, preguntas, continuaciones, correcciones y cierre; regreso a citas seleccionadas.",
+    "comprobacion": "Cotejo de citas/voz/offsets contra JSON analisis/insumos; sin certificar hechos externos."
+  },
+  {
+    "archivo": "corpus/E05/E05_texto_con_localizadores.txt",
+    "alcance": "Lectura completa de entrevista, preguntas, continuaciones, correcciones y cierre; regreso a citas seleccionadas.",
+    "comprobacion": "Cotejo de citas/voz/offsets contra JSON analisis/insumos; sin certificar hechos externos."
+  },
+  {
+    "archivo": "55_libro_comun_v1_3.json",
+    "alcance": "Lectura de los 64 nombres, definiciones y fronteras de inclusión/exclusión; reglas y fronteras; ejemplos relacionados con pasajes del corpus.",
+    "comprobacion": "123 ejemplos cotejados programáticamente; no se declara nuevo pilotaje humano."
+  },
+  {
+    "archivo": "analisis/recodificacion/R01/R01_resultado_revisado_v1_3.json",
+    "alcance": "Consulta de metadatos, balance, memos/incidencias y segmentos pertinentes a ejemplos. Todos los segmentos/códigos/estatus se recorren para controles, sin afirmar nueva recodificación semántica integral.",
+    "comprobacion": "Versiones heterogéneas conservadas; citas/offsets/cobertura revisados mediante controles complementarios."
+  },
+  {
+    "archivo": "analisis/recodificacion/R02/R02_resultado_revisado_v1_3.json",
+    "alcance": "Consulta de metadatos, balance, memos/incidencias y segmentos pertinentes a ejemplos. Todos los segmentos/códigos/estatus se recorren para controles, sin afirmar nueva recodificación semántica integral.",
+    "comprobacion": "Versiones heterogéneas conservadas; citas/offsets/cobertura revisados mediante controles complementarios."
+  },
+  {
+    "archivo": "analisis/recodificacion/R03/R03_resultado_revisado_v1_2.json",
+    "alcance": "Consulta de metadatos, balance, memos/incidencias y segmentos pertinentes a ejemplos. Todos los segmentos/códigos/estatus se recorren para controles, sin afirmar nueva recodificación semántica integral.",
+    "comprobacion": "Versiones heterogéneas conservadas; citas/offsets/cobertura revisados mediante controles complementarios."
+  },
+  {
+    "archivo": "analisis/recodificacion/R04/R04_resultado_revisado_v1_1.json",
+    "alcance": "Consulta de metadatos, balance, memos/incidencias y segmentos pertinentes a ejemplos. Todos los segmentos/códigos/estatus se recorren para controles, sin afirmar nueva recodificación semántica integral.",
+    "comprobacion": "Versiones heterogéneas conservadas; citas/offsets/cobertura revisados mediante controles complementarios."
+  },
+  {
+    "archivo": "analisis/recodificacion/R05/R05_resultado_revisado_v1_1.json",
+    "alcance": "Consulta de metadatos, balance, memos/incidencias y segmentos pertinentes a ejemplos. Todos los segmentos/códigos/estatus se recorren para controles, sin afirmar nueva recodificación semántica integral.",
+    "comprobacion": "Versiones heterogéneas conservadas; citas/offsets/cobertura revisados mediante controles complementarios."
+  },
+  {
+    "archivo": "63_sintesis_transversal_v1_1.json",
+    "alcance": "Todos los enunciados de 22 hallazgos, temas, decisiones y límites; evidencias seleccionadas contrastadas con las entrevistas completas.",
+    "comprobacion": "Versión 1.1 preferida; se distingue lectura de contenidos y cotejo automatizado."
+  },
+  {
+    "archivo": "67_procesos_descritos_v1_1.json",
+    "alcance": "Los cinco procesos y todos sus nodos de inicio/decisión/cierre, soportes y agrupaciones; correspondencia dirigida con relaciones y preguntas originales.",
+    "comprobacion": "Versión 1.1 preferida; se distingue lectura de contenidos y cotejo automatizado."
+  },
+  {
+    "archivo": "72_contraste_documental_v1_1.json",
+    "alcance": "Los 21 registros de fuente y alcance, cuatro modelos, 13 contrastes, 22 afirmaciones del encargo y diez pendientes. Originales externos no se declaran todos leídos nuevamente.",
+    "comprobacion": "Versión 1.1 preferida; se distingue lectura de contenidos y cotejo automatizado."
+  },
+  {
+    "archivo": "76_actores_y_preferencias_v1_1.json",
+    "alcance": "Los 46 actores, procedencia funcional, 12 ámbitos, capacidades/preferencias y tres hipótesis con condiciones y contraargumentos.",
+    "comprobacion": "Versión 1.1 preferida; se distingue lectura de contenidos y cotejo automatizado."
+  },
+  {
+    "archivo": "82_necesidades_v1_1.json",
+    "alcance": "Los 29 enunciados, estados, información actual y deseada, criterios de prioridad y vínculos; consulta dirigida de evidencias de las cadenas.",
+    "comprobacion": "Versión 1.1 preferida; se distingue lectura de contenidos y cotejo automatizado."
+  },
+  {
+    "archivo": "88_historias_y_objetos_v1_1.json",
+    "alcance": "Las 21 historias y su cobertura de 29 necesidades; criterios/metadatos/operaciones de cadenas y perfil local FAIR; objetos recorridos para control.",
+    "comprobacion": "Versión 1.1 preferida; se distingue lectura de contenidos y cotejo automatizado."
+  },
+  {
+    "archivo": "93_diseno_y_fundamentos_v1_1.json",
+    "alcance": "Fundamentos, ocho alternativas, cuatro prácticas, lentes/herramientas y productos; arquitectura, contratos y representaciones consultados con sus límites.",
+    "comprobacion": "Versión 1.1 preferida; se distingue lectura de contenidos y cotejo automatizado."
+  },
+  {
+    "archivo": "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/fundamentos_criticos.md",
+    "alcance": "Lectura íntegra del desarrollo temático.",
+    "comprobacion": "Usado como soporte de síntesis técnica; no ejecución de las propuestas."
+  },
+  {
+    "archivo": "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/practicas_diseno.md",
+    "alcance": "Lectura íntegra del desarrollo temático.",
+    "comprobacion": "Usado como soporte de síntesis técnica; no ejecución de las propuestas."
+  },
+  {
+    "archivo": "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/seleccion_portafolio.md",
+    "alcance": "Lectura íntegra del desarrollo temático.",
+    "comprobacion": "Usado como soporte de síntesis técnica; no ejecución de las propuestas."
+  },
+  {
+    "archivo": "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/lentes.md",
+    "alcance": "Lectura íntegra del desarrollo temático.",
+    "comprobacion": "Usado como soporte de síntesis técnica; no ejecución de las propuestas."
+  },
+  {
+    "archivo": "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/herramientas.md",
+    "alcance": "Lectura íntegra del desarrollo temático.",
+    "comprobacion": "Usado como soporte de síntesis técnica; no ejecución de las propuestas."
+  },
+  {
+    "archivo": "analisis/referencias/GeoInsights/README.md",
+    "alcance": "Lectura completa; procedencia y licencia consultadas.",
+    "comprobacion": "Snapshot y commit preservados; no pipeline ejecutado."
+  }
+]

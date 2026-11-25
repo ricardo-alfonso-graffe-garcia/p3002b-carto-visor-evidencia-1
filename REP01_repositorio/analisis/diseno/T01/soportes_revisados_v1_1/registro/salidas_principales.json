@@ -1,0 +1,20 @@
+{
+  "alcance": "Tres archivos principales externos al ZIP; su huella permite cotejarlos con los soportes. El ZIP no se incluye en sí mismo.",
+  "archivos": [
+    {
+      "nombre": "T01_diseno_v1.json",
+      "bytes": 241550,
+      "sha256": "04e8dde16500d13c44fc845a9ea240d29c1a169d1435bfb94c15b950610306f9"
+    },
+    {
+      "nombre": "T01_explicacion_v1.md",
+      "bytes": 38105,
+      "sha256": "a9cdbba5a82c9ac060b9c932ffc34ec9b111014ed6657f3eaa0f2183607f595d"
+    },
+    {
+      "nombre": "T01_control_validacion.json",
+      "bytes": 1120,
+      "sha256": "1ee62470f38e4fea35b036152585f70ab909ba89c2170da388347d88860ab484"
+    }
+  ]
+}

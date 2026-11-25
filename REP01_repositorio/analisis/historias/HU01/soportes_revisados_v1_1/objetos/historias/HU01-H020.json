@@ -1,0 +1,110 @@
+{
+  "id": "HU01-H020",
+  "titulo": "Decidir si seguimos conversando con condiciones presentes",
+  "formulacion": "Como persona que comparte la tarde con una amistad, quiero renovar las ganas de seguir y comprobar oferta, mesa utilizable y posibilidad de escucharnos al llegar, para quedarnos, seguir caminando o terminar sin obligación de cumplir otra parada.",
+  "actores": [
+    "ACT01-A024"
+  ],
+  "perfil": "HU01-P005",
+  "necesidades": [
+    "N01-N028"
+  ],
+  "entrevistas": [
+    "E05"
+  ],
+  "tipo": "ACTUAL_A_PRESERVAR",
+  "contexto": "Después de librería acordaron seguir, caminaron cerca sin distancia fijada y preguntaron por mesa. La escucha se valoró ahí; esa tarde funcionó.",
+  "objetivo": "renovar las ganas de seguir y comprobar oferta, mesa utilizable y posibilidad de escucharnos al llegar",
+  "beneficio_o_decision": "quedarnos, seguir caminando o terminar sin obligación de cumplir otra parada",
+  "restricciones": [
+    "Cerca no tiene distancia exacta; escuchar se valoró ahí y no como umbral de ruido previo. Si no hubiera mesa no tenían compromiso de esperar."
+  ],
+  "preservar": [
+    "Preguntar si siguen",
+    "Comprobar al llegar",
+    "Poder terminar sin cumplir plan completo"
+  ],
+  "evidencias": [
+    "N01-V0316",
+    "N01-V0317",
+    "N01-V0303",
+    "N01-V0318",
+    "N01-V0319",
+    "N01-V0320",
+    "N01-V0321",
+    "N01-V0322",
+    "N01-V0323",
+    "N01-V0304",
+    "N01-V0289",
+    "N01-V0290",
+    "N01-V0324",
+    "N01-V0325",
+    "N01-V0326",
+    "N01-V0327"
+  ],
+  "limites": "No se conocen condiciones de ese lugar en otros momentos ni pensamiento del personal.. Las formulaciones son derivaciones analíticas, no citas ni compromisos de participantes. La pertinencia de un producto sigue por validar.",
+  "criterios": [
+    {
+      "id": "HU01-K027",
+      "dado": "ambas partes consideran continuar después de librería",
+      "cuando": "se renueva voluntad y comprueban condiciones presentes de oferta, mesa y escucha",
+      "entonces": "se explica quedarse o seguir de largo, sin tratar mesa visible como autorización ni observación pasada como garantía",
+      "origen": "ADAPTADO_DE_CRITERIO_N01",
+      "criterios_n01": [
+        "N01-K028"
+      ],
+      "estado": "PROPUESTO_NO_EJECUTADO",
+      "limites": "Adaptación analítica de N01-K028. Observable N01 de origen PROPUESTA_ANALITICA; Dado/Cuando/Entonces y el cotejo son propuestas del análisis, no aceptación recabada. Cerca no tiene distancia exacta; escuchar se valoró ahí y no como umbral de ruido previo. Si no hubiera mesa no tenían compromiso de esperar. Soportes originales no aportados; no se ejecutó esta comprobación."
+    }
+  ],
+  "prioridad": {
+    "nivel": "ALTA",
+    "ambito": "E05: actividad actual: Decidir si seguimos conversando con condiciones presentes",
+    "origen": "ANALISIS_CONDICIONAL",
+    "razon": "Alta solo si ambas partes deciden continuar. No bloqueaba la salida a librería ni implica umbral acústico o reserva. Importancia expresada: No hay priorización comparable explícita de esta pieza por la persona. El nivel asignado es del análisis.",
+    "limites": "Orden local parcial y condicional al momento señalado. No ranking urbano, cartera implementable, aceptación ADIP ni factibilidad comprobada."
+  },
+  "perfil_metadatos": "HU01-M020",
+  "metaalgoritmo": [
+    {
+      "id": "HU01-OP082",
+      "nombre": "Renovar el acuerdo",
+      "entrada": "Ganas y tiempo de ambas partes al salir",
+      "operacion": "Propuesta: Preguntar si quieren seguir sin convertir plan abierto en obligación.",
+      "salida": "Continuar o terminar",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP083",
+      "nombre": "Explorar cerca según situación",
+      "entrada": "Lo visible caminando y oferta",
+      "operacion": "Propuesta: Considerar opción sin otro traslado; no imponer distancia exacta.",
+      "salida": "Lugar por comprobar",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP084",
+      "nombre": "Comprobar mesa y escucha",
+      "entrada": "Mesa visible, personal y ambiente presente",
+      "operacion": "Propuesta: Preguntar si puede usarse y escuchar cómo se conversa sin umbral acústico.",
+      "salida": "Condiciones presentes interpretables",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP085",
+      "nombre": "Decidir quedarse o seguir",
+      "entrada": "Voluntad renovada y condiciones comprobadas",
+      "operacion": "Propuesta: Acordar permanecer, caminar o terminar; admitir que disponibilidad cambia.",
+      "salida": "Decisión personal compartida",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    }
+  ]
+}

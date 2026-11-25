@@ -1,0 +1,72 @@
+{
+  "origen": "EXPORTACION_PROPIA_COORDINACION",
+  "resultado_version": "1.1",
+  "sha256_resultado": "8d3e4d1d6eebe630523f57526d1f1950db315c730b4d7d58f2feba674921cb01",
+  "archivos": [
+    {
+      "ruta": "E01_proceso.dot",
+      "bytes": 8930,
+      "sha256": "d14558f9cfb3f7755e5c8468a50f6afb084f1982d08f11c8ee86c2d2b652359c"
+    },
+    {
+      "ruta": "E01_proceso.svg",
+      "bytes": 29789,
+      "sha256": "fb6e76b54f562326b0449a3d7d2e155bddc200c6a08267efd2ae680f581af73a"
+    },
+    {
+      "ruta": "E02_proceso.dot",
+      "bytes": 10081,
+      "sha256": "50435d7145f22951fb342cd42bd95abcecc431c6577d7489485cc85b226a0174"
+    },
+    {
+      "ruta": "E02_proceso.svg",
+      "bytes": 32886,
+      "sha256": "5c9ecf9a42e174cdc0b0cc7c3c280447b3de59a9ea918ba9995e2d5d8b7cf3b0"
+    },
+    {
+      "ruta": "E03_proceso.dot",
+      "bytes": 12466,
+      "sha256": "f8f2e5ffd211448983438ef430694348595af4d6c090ff032c9581d035302dde"
+    },
+    {
+      "ruta": "E03_proceso.svg",
+      "bytes": 39862,
+      "sha256": "477eb737355275cee96a32fa2e39e8d6fe38afe14ebac51bde2b769ee6bf7ff7"
+    },
+    {
+      "ruta": "E04_proceso.dot",
+      "bytes": 9256,
+      "sha256": "f55f996abf0329709f0b62f035c5b69afcf77cbae96d45794b60b0eda580d129"
+    },
+    {
+      "ruta": "E04_proceso.svg",
+      "bytes": 30994,
+      "sha256": "019275e5952f916096e3972154404b130974606916aecbda574dac8001f612b5"
+    },
+    {
+      "ruta": "E05_proceso.dot",
+      "bytes": 9397,
+      "sha256": "ea2433e35f432f8922f11ada7a1d3267d6a3cb256ed06bf08ea775f5e1dddde5"
+    },
+    {
+      "ruta": "E05_proceso.svg",
+      "bytes": 30648,
+      "sha256": "00af35959ecf60de889550e624949bbb6c3614e3089e1a0c883d20f6408b77be"
+    },
+    {
+      "ruta": "LEEME.md",
+      "bytes": 1235,
+      "sha256": "aaceec87a2d093d4879a303ce5fdbff5f3c4ef0f17b569766821432966479807"
+    },
+    {
+      "ruta": "inspeccion_coordinacion.json",
+      "bytes": 1574,
+      "sha256": "e84735ef281c2a1e953c81defd00a470cb8f08ebed4abdbfd3251d4eb9c230bc"
+    },
+    {
+      "ruta": "registro_renderizado.json",
+      "bytes": 1661,
+      "sha256": "9f66839a7b7a8a4e4ab229799bf36205fde74bf6baeda105ab8781776b35e106"
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "version": "1.1",
+  "alcance": "Integridad de soportes revisados; excluye el propio manifiesto.",
+  "archivos": [
+    {
+      "ruta": "LEEME.md",
+      "bytes": 645,
+      "sha256": "178cd7685a1af3ec5b7d9624deac2ce83349aa94b7504b67af5648f2e6012028"
+    },
+    {
+      "ruta": "controles/LEEME.md",
+      "bytes": 335,
+      "sha256": "f1d3575b5c2737c155580632b104f07d543488c5490dbd71d511ccc379d95ead"
+    },
+    {
+      "ruta": "controles/T01_control_validacion.json",
+      "bytes": 1283,
+      "sha256": "1ae442be43ae66a2624d271d4737a7445df15bd785d122974ced4bddc858cc7c"
+    },
+    {
+      "ruta": "controles/auditoria_coordinacion.json",
+      "bytes": 40783,
+      "sha256": "b7ff3caaa3f6db5909eeb3b0b538d5683f7a1178af175d03618997fbbc1750cc"
+    },
+    {
+      "ruta": "controles/cambios_coordinacion.json",
+      "bytes": 1910,
+      "sha256": "cb88eb5a1c0f1ee07d95f5815c42683e1e03b7c3d3aba1a7c1effbf6022c8bd4"
+    },
+    {
+      "ruta": "controles/comprobaciones_complementarias.json",
+      "bytes": 397,
+      "sha256": "f4882dce901d5bc9d596badf9ec3bc77d5c4f9dce3715ef2f3b44481fe5f7a1b"
+    },
+    {
+      "ruta": "controles/cotejo_citas.json",
+      "bytes": 34959,
+      "sha256": "9f0eb9e3dc5a8d68a52ae797924ce43832f4e427989c8210cdbf185dd51a0836"
+    },
+    {
+      "ruta": "controles/cotejo_tablas.json",
+      "bytes": 5651,
+      "sha256": "34cae4b91a61fc176bf0d69873b9663dee7d97e9715a1afd50b22a4ca2229fff"
+    },
+    {
+      "ruta": "controles/figuras_exportacion.json",
+      "bytes": 1552,
+      "sha256": "852b26bddefd301ca81c255f84dcd7e3e021e3d37d59d19992febfe36dd4e745"
+    },
+    {
+      "ruta": "controles/integridad_entradas.json",
+      "bytes": 22922,
+      "sha256": "2245ff8543ec92fb0d082e9c433abfa208ef5d2e05dd9f2d6117228358ac9331"
+    },
+    {
+      "ruta": "controles/revision_visual.json",
+      "bytes": 1041,
+      "sha256": "c3ec4961b24836ed09bfb578268b454ed21116006618205168b968a2ab932597"
+    },
+    {
+      "ruta": "desarrollo/LEEME.md",
+      "bytes": 287,
+      "sha256": "ce0e2d4fa8c850679dd58696e0e4ee51eb9e582dd2341d6d6e30a7e5476e6e6a"
+    },
+    {
+      "ruta": "desarrollo/agenda_validacion.md",
+      "bytes": 4335,
+      "sha256": "95f12fd9f1b5f6673a72aa121bc60c71bd62f08856aeb0a446299abc410404c5"
+    },
+    {
+      "ruta": "desarrollo/alternativas_agregacion.md",
+      "bytes": 11917,
+      "sha256": "ec9ee62dd4d77b0e75c74d2ba5612de19dd4e822f91e9320e018df610749524d"
+    },
+    {
+      "ruta": "desarrollo/arquitectura.md",
+      "bytes": 75648,
+      "sha256": "6586119b6418d50829bed1da916ac1fb296dd34ba69cc522977d5c643fe0a7ca"
+    },
+    {
+      "ruta": "desarrollo/extension_fair_janus.md",
+      "bytes": 3234,
+      "sha256": "b346e5b78e625635a56d77320f390ec8d1799dca80a7db63a4e74b4222af0412"
+    },
+    {
+      "ruta": "desarrollo/fundamentos_criticos.md",
+      "bytes": 8624,
+      "sha256": "d1d0b1c50152a04fd2a96f0aa6b9f3aadca09b06e1b5f05aa5529603ad51ce94"
+    },
+    {
+      "ruta": "desarrollo/herramientas.md",
+      "bytes": 3125,
+      "sha256": "74ede7aafa6c17b62183ab3397448db6509a4252fb11d4590a34f2da7c15049d"
+    },
+    {
+      "ruta": "desarrollo/lentes.md",
+      "bytes": 10825,
+      "sha256": "fd12e9854e766159dd95f6375ab2b2924ec55fcfc0c40c86ba9d4187ff5babda"
+    },
+    {
+      "ruta": "desarrollo/practicas_diseno.md",
+      "bytes": 3977,
+      "sha256": "cd065e2ef5e411d36b50f586194ec674b0f908f7254ca1b1b12240536e051271"
+    },
+    {
+      "ruta": "desarrollo/productos.md",
+      "bytes": 34321,
+      "sha256": "fa534e7893f75469596fd476152a55bbe128db59506b75a60f6d3b35cab7d3dc"
+    },
+    {
+      "ruta": "desarrollo/seleccion_portafolio.md",
+      "bytes": 2970,
+      "sha256": "d368f8d9f1f0870f874a972aed1eaa1e6be55ed4206342dd96994f820da7ce8a"
+    },
+    {
+      "ruta": "diagramas/LEEME.md",
+      "bytes": 304,
+      "sha256": "12baa4d0c5b097477c57bb1b1bdea95b69806362c0af3f69ba8993d45cf2a6a1"
+    },
+    {
+      "ruta": "diagramas/arquitectura.dot",
+      "bytes": 2829,
+      "sha256": "71d7d8277ee9341f51155ff502728b3575993a4afa4c400be538c2596b953723"
+    },
+    {
+      "ruta": "diagramas/arquitectura.pdf",
+      "bytes": 21257,
+      "sha256": "1fb33d5cf5ee0adcd254d82961eb6a0c65842e393c33f5cb369257cc00d2c125"
+    },
+    {
+      "ruta": "diagramas/arquitectura.plain",
+      "bytes": 4505,
+      "sha256": "db916e4d7efc9c137109bd3ce1568c2b6f75a8dca3c5180ea5a9a8b0a658b9c7"
+    },
+    {
+      "ruta": "diagramas/arquitectura.png",
+      "bytes": 225538,
+      "sha256": "72aca8067e5d2aba690b6e21487f7c667f0f4875b357472e396d407290da12a9"
+    },
+    {
+      "ruta": "diagramas/arquitectura.svg",
+      "bytes": 16170,
+      "sha256": "0d7cbe5cc33b8d10cb8622e23f56d089743d91a945fbf3622048d71b9c563771"
+    },
+    {
+      "ruta": "diagramas/productos.dot",
+      "bytes": 2996,
+      "sha256": "17920977f0ae0dae0f9284b5727fc67321aedb427b44ae102bc03ff2d6316f12"
+    },
+    {
+      "ruta": "diagramas/productos.pdf",
+      "bytes": 21545,
+      "sha256": "66845e7c00768898effdf93ba01d850df4e4eae813f0bee8a1badef3303813af"
+    },
+    {
+      "ruta": "diagramas/productos.plain",
+      "bytes": 4009,
+      "sha256": "29a49cef984a5bf51b576f0b7fae5f6d95ab30ce44b109feab0e28b0b82c13c5"
+    },
+    {
+      "ruta": "diagramas/productos.png",
+      "bytes": 398215,
+      "sha256": "9b0e588e2758fb106d06c8a341e3604a86297dfe099a97a17369a5a2dd2d91fe"
+    },
+    {
+      "ruta": "diagramas/productos.svg",
+      "bytes": 15819,
+      "sha256": "08831ff1f975f077ec18f8eb077a35b55317d7aa82007ce87bf741fd7df3d033"
+    },
+    {
+      "ruta": "esquemas/LEEME.md",
+      "bytes": 229,
+      "sha256": "e56385689964ea1b2dbe69f300cc9efd4f65010d0fa12572c7e51b1dc6cbf789"
+    },
+    {
+      "ruta": "esquemas/contratos_propuestos.json",
+      "bytes": 46418,
+      "sha256": "0d899e4cad7f360dfb8937142f6722116ec4096b6a0a331f53819a86e345107a"
+    },
+    {
+      "ruta": "esquemas/contratos_propuestos.md",
+      "bytes": 49018,
+      "sha256": "4af91c7f6b3eef01565f37ea40aa04551c79f47ef0d443b99b5e69fbea706ecf"
+    },
+    {
+      "ruta": "fuentes/LEEME.md",
+      "bytes": 351,
+      "sha256": "3ffd7d215b89b577eee8e65126212d2cad48015a6142eb05a7e4e0af6b0b68c8"
+    },
+    {
+      "ruta": "fuentes/LICENSE_GeoInsights",
+      "bytes": 1075,
+      "sha256": "345a001f3a97e86a0a7cd1f1c52815c063b1e372fb565460d18c3b438ccfc201"
+    },
+    {
+      "ruta": "fuentes/bibliografia.md",
+      "bytes": 25256,
+      "sha256": "39ad8e0ea4a08cfae7705c0a3577bb435ef9ef1e822334e2d18aad3686da6bb2"
+    },
+    {
+      "ruta": "fuentes/citas_utilizadas.json",
+      "bytes": 1805,
+      "sha256": "676067deb0f13136ca1456a61b5eacca0e503575047e759f0fd4b842bd12aa60"
+    },
+    {
+      "ruta": "fuentes/consulta_corpus.json",
+      "bytes": 6338,
+      "sha256": "13d82c8bf056af7989e40070733d31a53c814ade3a37836680f0785d9c9fb7fd"
+    },
+    {
+      "ruta": "fuentes/entradas_referenciadas.json",
+      "bytes": 18781,
+      "sha256": "24a2e4df60faee700991115b46f303885aee11b49cc646331ac8a97169e15c34"
+    },
+    {
+      "ruta": "fuentes/registro_fuentes.json",
+      "bytes": 33314,
+      "sha256": "c518d412fc6cae2fab7f1ba56da67604347fc23007114595689a94022fc09a0c"
+    },
+    {
+      "ruta": "matrices/LEEME.md",
+      "bytes": 309,
+      "sha256": "44897cbed7e6700eceec2ade3400d46cc2b05474d786151da599ed6b8a4f8681"
+    },
+    {
+      "ruta": "matrices/historias_21.csv",
+      "bytes": 11808,
+      "sha256": "c457f6e01e23413abc6a78b66dc3710a183594ea67ee1335eb3b9cc553565bd8"
+    },
+    {
+      "ruta": "matrices/requisitos_39.csv",
+      "bytes": 13317,
+      "sha256": "8a3c59c4baa1eca8161920821b22672ad08d74c4955c321baa50e29513992537"
+    },
+    {
+      "ruta": "matrices/trazabilidad_necesidades.csv",
+      "bytes": 26163,
+      "sha256": "2836c72d241baafc439abadb066497e6f13262209819854c431faf04ec4710c7"
+    },
+    {
+      "ruta": "matrices/trazabilidad_necesidades.json",
+      "bytes": 39069,
+      "sha256": "4475fbd2888db3f9d720da53a46d0a0cff85a06ce8cc63e37d114dfc15ed6dd9"
+    },
+    {
+      "ruta": "registro/LEEME.md",
+      "bytes": 229,
+      "sha256": "070fa031e79dc28f1cd9ffa3dd7dfc8fe84cf779df40d9dd69fafcf70fbc5a8d"
+    },
+    {
+      "ruta": "registro/instrucciones_T01.md",
+      "bytes": 22439,
+      "sha256": "17ccd23f6e5e6d9742bba7c02a04f1e75653807147525a6e241a86e636ec3039"
+    },
+    {
+      "ruta": "registro/prompt_analisis_integracion.txt",
+      "bytes": 1470,
+      "sha256": "30144d602eaaac461d1cf8e54e6696fc172c1da9d3c701907440359e1ef81e0e"
+    },
+    {
+      "ruta": "registro/revision_asistida.md",
+      "bytes": 1669,
+      "sha256": "1869b1bd033296c5ca9a5b3e9cde9d7cf01cdcbd3e04670e2f626b5cf5599a2e"
+    },
+    {
+      "ruta": "registro/salidas_principales.json",
+      "bytes": 644,
+      "sha256": "b7456495dfa44fbb15bbc61d51632a49659c1045a87dd6c35ddbab271ab8889c"
+    },
+    {
+      "ruta": "registro/seleccion_parrafos.json",
+      "bytes": 883,
+      "sha256": "07d814b8fa94c8b5d2ddb9c1adf66633baa262804847486da5a2c628bb3ec5cc"
+    },
+    {
+      "ruta": "scripts/LEEME.md",
+      "bytes": 469,
+      "sha256": "497671df4fe182c59a94ef36048ab4237b39f6e637d415f9f9eb9f4584eb3613"
+    },
+    {
+      "ruta": "scripts/empacar_t01.py",
+      "bytes": 34051,
+      "sha256": "8fd315259c4e92cb823111bbdbbae9a097ede2569660964730ff32548a3a56ff"
+    },
+    {
+      "ruta": "scripts/preparar_t01.py",
+      "bytes": 142392,
+      "sha256": "9d592bbf337442b9eabbc1e93f1e78215c517e00c9c98180fb6dadc335a4a4f9"
+    },
+    {
+      "ruta": "scripts/validar_diseno.py",
+      "bytes": 13632,
+      "sha256": "d2983f749f6eba8137355caef20c35e90041a2c8c935b179de0793e1a6719726"
+    },
+    {
+      "ruta": "tablas/LEEME.md",
+      "bytes": 261,
+      "sha256": "051cff50656123b2cf2a950504b15a84d589e48d839feed2bda2b82946667322"
+    },
+    {
+      "ruta": "tablas/afirmaciones_tecnicas.csv",
+      "bytes": 8762,
+      "sha256": "fe9714270f4ad54e7d2c35da823cb39eacb6a3a959719633c7265b45f82b5b46"
+    },
+    {
+      "ruta": "tablas/agenda_validacion.csv",
+      "bytes": 3563,
+      "sha256": "8ec138991f24ed4580ccdae243cdf1d87186ed07af75cd6b4cd7c87cd23d9ee6"
+    },
+    {
+      "ruta": "tablas/alternativas_agregacion.csv",
+      "bytes": 10489,
+      "sha256": "bfe7b665e6a90796a1943ca536cd855d389a8f14d42f1a29c14d9ee2801cf877"
+    },
+    {
+      "ruta": "tablas/arquitectura_conexiones.csv",
+      "bytes": 3909,
+      "sha256": "3a35cf4bd5e67e27b6c96c7b4cf69c49c6c59f8e1797316c9a806cbee84493b7"
+    },
+    {
+      "ruta": "tablas/arquitectura_contratos.csv",
+      "bytes": 38616,
+      "sha256": "c93d0f515626d4637e45738b8473fd75c4a7ad83d41474cadb6429fd01eaf119"
+    },
+    {
+      "ruta": "tablas/arquitectura_modulos.csv",
+      "bytes": 6314,
+      "sha256": "25b66adf11eed0c2c359e4d99612e40b86241927d8d5e83045045b5b8303a27d"
+    },
+    {
+      "ruta": "tablas/arquitectura_representaciones.csv",
+      "bytes": 2389,
+      "sha256": "06edecaedbae9cc5050a5aa54bf197b2dd09a13f3ea9cb1938197bdd13fb8b85"
+    },
+    {
+      "ruta": "tablas/campos_contratos.csv",
+      "bytes": 21649,
+      "sha256": "c84d44336de3e5a55135139e773e9242e4cf398968e9e268a83c846d32dddd20"
+    },
+    {
+      "ruta": "tablas/cobertura_historias.csv",
+      "bytes": 5907,
+      "sha256": "4775c33376a4780eef0d91ffb472c2fe1457649586c60a78ec5514fbfa19cf47"
+    },
+    {
+      "ruta": "tablas/cobertura_requisitos.csv",
+      "bytes": 8073,
+      "sha256": "119074bfaea021df7f9019ec6378a406dfd46805500e6ea407df2704766a688e"
+    },
+    {
+      "ruta": "tablas/criterios_productos.csv",
+      "bytes": 6654,
+      "sha256": "0d1269106d7e383ce1d893c5147dc695d5cd636e2c87ed087e241b3c4f30b7f9"
+    },
+    {
+      "ruta": "tablas/datos_productos.csv",
+      "bytes": 7111,
+      "sha256": "a86b00018214f0b67dbda25ea039292aa9824f1c77d6fa600ec60b175ba17aaf"
+    },
+    {
+      "ruta": "tablas/decisiones_metodologicas.csv",
+      "bytes": 2506,
+      "sha256": "f1d54d7f63dd4daf0e25e82643873e3623800743fb6cc8b7e3a24560a607f6e4"
+    },
+    {
+      "ruta": "tablas/fuentes.csv",
+      "bytes": 27314,
+      "sha256": "578e219ae5d25f160228d7d7ae0e8c493fe7b56bf5c1d5c5ab1c1c2e1ab230f6"
+    },
+    {
+      "ruta": "tablas/fundamentos_criticos.csv",
+      "bytes": 7545,
+      "sha256": "422041ea616831c0285848701160017e38ee3a84a3a7c235ee3ebfaaec2ca327"
+    },
+    {
+      "ruta": "tablas/herramientas.csv",
+      "bytes": 2631,
+      "sha256": "d75c3758375e2088af4deddf011e6f0951930be410537cfcbc0d05676286b529"
+    },
+    {
+      "ruta": "tablas/lectura_entradas.csv",
+      "bytes": 3876,
+      "sha256": "dfd5855bd892e5bd7103f04dfd04416dc41465af77596213e83756ec3edf6294"
+    },
+    {
+      "ruta": "tablas/lentes.csv",
+      "bytes": 10173,
+      "sha256": "238c9503c10fb642c0ccc022642781a66535857459e76131050bce8e3aff3cbf"
+    },
+    {
+      "ruta": "tablas/practicas_diseno.csv",
+      "bytes": 3572,
+      "sha256": "f33b8ffec221d0d185ec7e9c3280a742460a8ad9574f844031387dd74564c740"
+    },
+    {
+      "ruta": "tablas/productos.csv",
+      "bytes": 32732,
+      "sha256": "203abdf0b9a9d4f4ca11718a308effe27abe03619a24bab2e159f1d8ba494c63"
+    },
+    {
+      "ruta": "tablas/trazabilidad_productos.csv",
+      "bytes": 2420,
+      "sha256": "0b8acbbfd61d5f45d9ebffb8d4090806253560006ac992083d77040b40d5b46a"
+    }
+  ]
+}

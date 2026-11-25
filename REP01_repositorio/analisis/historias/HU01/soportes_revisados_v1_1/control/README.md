@@ -1,0 +1,3 @@
+# Controles de la copia revisada 1.1
+
+Validación estructural ejecutada con entradas originales y payloads revisados; ver HU01_control_validacion.json. verificar_soportes.py coteja las ocho proyecciones originales. La novena tabla y las 23 precisiones se cotejan adicionalmente en cierre de coordinación; cambios_coordinacion.json conserva cada valor anterior. Dos PNG inspeccionados directamente y reutilizados con huellas sin nueva exportación. No prueba criterios de producto, aceptación, utilidad o revisión humana independiente. Los controles recibidos están preservados en el expediente, fuera de esta copia.

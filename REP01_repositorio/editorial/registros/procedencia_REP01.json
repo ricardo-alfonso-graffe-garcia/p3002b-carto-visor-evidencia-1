@@ -1,0 +1,10 @@
+{
+  "id": "MET-PROCEDENCIA-REP01",
+  "tipo": "REGISTRO_DE_COORDINACION",
+  "fuente": "Comunicación expresa del estudiante en esta conversación e instrucciones REP01 disponibles.",
+  "declaracion": "Cinco transcripciones generadas con IA bajo excepción docente comunicada por el estudiante.",
+  "aprobacion_documental_adjunta": false,
+  "alcance": "Registra la autorización informada por el estudiante; no sustituye un documento docente ni prueba identidad, campo o grabaciones.",
+  "registros": "Fechas no consignadas; aperturas y acuerdos contenidos en el corpus; sin audios o firmas adjuntos.",
+  "modelo_y_parametros": null
+}

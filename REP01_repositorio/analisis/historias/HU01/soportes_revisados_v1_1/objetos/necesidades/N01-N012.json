@@ -1,0 +1,181 @@
+{
+  "id": "N01-N012",
+  "titulo": "Referencia de llegada útil para quien llega por primera vez",
+  "enunciado": "La coordinadora de proyectos culturales necesita conocer qué puerta y referencia local deben comunicarse junto con día y hora, para publicar una invitación que permita reconocer cómo entrar, en el contexto de coordinación de tres encuentros de lectura y conversación en un espacio comunitario.",
+  "actores": [
+    "ACT01-A012"
+  ],
+  "entrevistas": [
+    "E03"
+  ],
+  "contexto": "Desde la conversación que invita a regresar al espacio hasta comunicar, después de la serie y la consulta al equipo, interés sin nueva programación.",
+  "decision": "Publicar una invitación que permita reconocer cómo entrar",
+  "objeto_informacion": "qué puerta y referencia local deben comunicarse junto con día y hora",
+  "tipo": "NECESIDAD_ACTUAL",
+  "estado_actual": "ATENDIDA_EN_EPISODIO",
+  "informacion_actual": "Los anfitriones añadieron la puerta junto al patio, porque otra suele estar cerrada; revisaron día, hora y referencia con la coordinadora.",
+  "faltante_o_deseada": "No faltó una ruta completa para organizar los encuentros ni se requirieron orígenes de asistentes.",
+  "condiciones_y_limites": "La dirección sola no aclaraba esa puerta. La necesidad se atribuye a coordinar una indicación adecuada, no como voz directa de todo asistente.",
+  "soportes_mencionados": [
+    "Invitación",
+    "Referencia de puerta",
+    "Indicación de quienes conocen el lugar"
+  ],
+  "conservar": [
+    "Usar cómo reconoce el lugar la gente que lo usa",
+    "Atender una indicación confusa si aparece"
+  ],
+  "evidencias": [
+    "N01-V0130",
+    "N01-V0131",
+    "N01-V0132",
+    "N01-V0133"
+  ],
+  "evidencia_que_limita": [
+    "N01-V0134",
+    "N01-V0135"
+  ],
+  "razon_sin_contraevidencia": null,
+  "contexto_elicitacion": "P74-P78 reconstruyen revisión de invitación y referencia de puerta aportada por anfitriones. P173 sugiere llegada dentro del ideal; P174 limita a referencias conocidas y útiles, y P175 rechaza registrar trayectos de asistentes. Esa sugerencia no crea una necesidad de recorrido completo.",
+  "codigos_comunes": [
+    "C041",
+    "C037",
+    "C010",
+    "C027"
+  ],
+  "hallazgos_s01": [
+    "S01-H011",
+    "S01-H021"
+  ],
+  "componentes_p01": [
+    "P01-E03-N007",
+    "P01-E03-N009",
+    "P01-E03-N011"
+  ],
+  "preferencias_act01": [
+    "ACT01-PR011"
+  ],
+  "variantes_por_caso": [],
+  "vinculo_territorial": {
+    "tipo": "ESPACIAL_DIRECTO",
+    "razon": "Reconocer el acceso es una orientación espacial puntual que puede resolverse verbalmente.",
+    "evidencias": [
+      "N01-V0130",
+      "N01-V0131"
+    ],
+    "limites": "La pertinencia del lugar no demuestra necesidad de coordenadas o de un mapa. Organización y espacio sin nombre formal; consulta parcial, sin motivos de no asistencia ni impacto total conocidos. No identifica un programa público."
+  },
+  "vinculos_sectoriales": [
+    {
+      "sector": "SOCIEDAD_CIVIL",
+      "actividad": "Coordinación de tres encuentros de lectura y conversación en un espacio comunitario",
+      "iniciativa": null,
+      "estatus_iniciativa": "ACTIVIDAD_RELATADA_SIN_NOMBRE_FORMAL",
+      "nexo": "RELEVANCIA_PUBLICA_POR_VALIDAR",
+      "razon": "La actividad cultural tiene uso comunitario relatado; una política o programa público de origen no fue identificado.",
+      "evidencias": [
+        "N01-V0346",
+        "N01-V0130",
+        "N01-V0131"
+      ],
+      "limites": "No se identificó programa público que origine esta necesidad. Organización y espacio sin nombre formal; consulta parcial, sin motivos de no asistencia ni impacto total conocidos. No identifica un programa público."
+    }
+  ],
+  "verificacion": [
+    {
+      "id": "N01-K012",
+      "observable": "La indicación permite distinguir la puerta de entrada a comunicar de otra puerta, sin exigir reconstruir recorridos personales.",
+      "metodo": "Revisar la indicación contra lo confirmado por anfitriones y el texto de invitación si se aporta. Su comprensión por primerizos queda para comprobación futura autorizada.",
+      "origen": "PROPUESTA_ANALITICA",
+      "estado": "PROPUESTA_NO_EJECUTADA",
+      "evidencias": [
+        "N01-V0130",
+        "N01-V0131",
+        "N01-V0132",
+        "N01-V0133"
+      ],
+      "limites": "Comprobación futura; no se ejecutó ni acredita aceptación humana. No se fijan umbrales numéricos. La dirección sola no aclaraba esa puerta. La necesidad se atribuye a coordinar una indicación adecuada, no como voz directa de todo asistente.",
+      "desglose_origen": {
+        "observable": "PROPUESTA_ANALITICA",
+        "operacionalizacion_metodo": "PROPUESTA_ANALITICA",
+        "aceptacion": "NO_RECABADA"
+      }
+    }
+  ],
+  "prioridad": {
+    "ambito": "E03",
+    "nivel": "MEDIA",
+    "origen": "ANALISIS_CONDICIONAL",
+    "criterios": [
+      "N01-CP001",
+      "N01-CP002",
+      "N01-CP003",
+      "N01-CP004"
+    ],
+    "razon": "Resuelve un detalle pertinente para la primera llegada después de confirmar la serie; no hay evidencia de personas que se perdieran o de necesidad de mapa.",
+    "comparables": [
+      "N01-N013"
+    ],
+    "limites": "Orden parcial dentro de esta actividad. No compara importancia urbana ni factibilidad técnica; evidencia más sólida no equivale a más impacto. Comparar distingue dependencias y momentos; las necesidades no son sustitutos y se admiten empates. En ideales frente a actuales, el nivel se lee dentro de su modalidad."
+  },
+  "importancia_expresada": "No hay priorización comparable explícita de esta pieza por la persona. El nivel asignado es del análisis.",
+  "pertinencia_diseno_posterior": "PENDIENTE: revisar con usuarios y encargo; la legitimidad de la necesidad no prescribe un soporte ni su incorporación a un visor.",
+  "factibilidad": "NO_DETERMINADA",
+  "incognitas": [
+    "No se observa directamente comprensión de la referencia por personas que llegaron por primera vez."
+  ],
+  "enlaces_codigos_asignados": [
+    {
+      "codigo": "C041",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R03-S049",
+        "R03-S050",
+        "R03-S051",
+        "R03-S121",
+        "R03-S123"
+      ],
+      "evidencias": [
+        "N01-V0130",
+        "N01-V0131",
+        "N01-V0132",
+        "N01-V0133",
+        "N01-V0134"
+      ]
+    },
+    {
+      "codigo": "C037",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R03-S050"
+      ],
+      "evidencias": [
+        "N01-V0131"
+      ]
+    },
+    {
+      "codigo": "C010",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R03-S048"
+      ],
+      "evidencias": [
+        "N01-V0130"
+      ]
+    },
+    {
+      "codigo": "C027",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R03-S121",
+        "R03-S122",
+        "R03-S123"
+      ],
+      "evidencias": [
+        "N01-V0133",
+        "N01-V0134"
+      ]
+    }
+  ],
+  "codigos_contextuales": []
+}

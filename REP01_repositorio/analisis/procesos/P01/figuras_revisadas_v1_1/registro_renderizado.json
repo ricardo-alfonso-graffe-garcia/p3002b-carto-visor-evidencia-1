@@ -1,0 +1,53 @@
+{
+  "fuente_json": "P01_resultado_revisado_v1_1.json",
+  "sha256_fuente": "8d3e4d1d6eebe630523f57526d1f1950db315c730b4d7d58f2feba674921cb01",
+  "metodo": "Graphviz dot -Tsvg",
+  "figuras": [
+    {
+      "entrevista": "E01",
+      "dot": "E01_proceso.dot",
+      "svg": "E01_proceso.svg",
+      "nodos": 15,
+      "relaciones": 17,
+      "sha256_svg": "fb6e76b54f562326b0449a3d7d2e155bddc200c6a08267efd2ae680f581af73a",
+      "advertencia_renderizado": null
+    },
+    {
+      "entrevista": "E02",
+      "dot": "E02_proceso.dot",
+      "svg": "E02_proceso.svg",
+      "nodos": 16,
+      "relaciones": 18,
+      "sha256_svg": "5c9ecf9a42e174cdc0b0cc7c3c280447b3de59a9ea918ba9995e2d5d8b7cf3b0",
+      "advertencia_renderizado": null
+    },
+    {
+      "entrevista": "E03",
+      "dot": "E03_proceso.dot",
+      "svg": "E03_proceso.svg",
+      "nodos": 18,
+      "relaciones": 24,
+      "sha256_svg": "477eb737355275cee96a32fa2e39e8d6fe38afe14ebac51bde2b769ee6bf7ff7",
+      "advertencia_renderizado": null
+    },
+    {
+      "entrevista": "E04",
+      "dot": "E04_proceso.dot",
+      "svg": "E04_proceso.svg",
+      "nodos": 16,
+      "relaciones": 17,
+      "sha256_svg": "019275e5952f916096e3972154404b130974606916aecbda574dac8001f612b5",
+      "advertencia_renderizado": null
+    },
+    {
+      "entrevista": "E05",
+      "dot": "E05_proceso.dot",
+      "svg": "E05_proceso.svg",
+      "nodos": 17,
+      "relaciones": 16,
+      "sha256_svg": "00af35959ecf60de889550e624949bbb6c3614e3089e1a0c883d20f6408b77be",
+      "advertencia_renderizado": null
+    }
+  ],
+  "alcance": "Exportación gráfica sin inspección visual automática ni validación semántica."
+}

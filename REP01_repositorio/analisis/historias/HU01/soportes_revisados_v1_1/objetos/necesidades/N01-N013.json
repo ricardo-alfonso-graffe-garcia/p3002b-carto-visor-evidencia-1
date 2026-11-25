@@ -1,0 +1,213 @@
+{
+  "id": "N01-N013",
+  "titulo": "Alcance de la participación y autonomía de cada sesión",
+  "enunciado": "La coordinadora de proyectos culturales necesita conocer qué se ofrece, que escuchar basta, escribir es optativo y cada encuentro puede disfrutarse sin haber asistido antes, para explicar la invitación y recepción sin imponer tareas o continuidad de asistencia, en el contexto de coordinación de tres encuentros de lectura y conversación en un espacio comunitario.",
+  "actores": [
+    "ACT01-A012"
+  ],
+  "entrevistas": [
+    "E03"
+  ],
+  "contexto": "Desde la conversación que invita a regresar al espacio hasta comunicar, después de la serie y la consulta al equipo, interés sin nueva programación.",
+  "decision": "Explicar la invitación y recepción sin imponer tareas o continuidad de asistencia",
+  "objeto_informacion": "qué se ofrece, que escuchar basta, escribir es optativo y cada encuentro puede disfrutarse sin haber asistido antes",
+  "tipo": "NECESIDAD_ACTUAL",
+  "estado_actual": "PARCIAL_DECLARADA",
+  "informacion_actual": "Se corrigió lenguaje que parecía taller con entrega; una pregunta individual motivó aclarar escuchar y escritura optativa al inicio de siguientes encuentros.",
+  "faltante_o_deseada": "La coordinadora haría más explícita la autonomía desde la invitación y la recepción; no está segura de que fuera entendida igual desde fuera.",
+  "condiciones_y_limites": "La necesidad comunicativa sigue parcialmente abierta para otra convocatoria. No prueba confusión general, obligación de productos o preferencia uniforme de asistentes.",
+  "soportes_mencionados": [
+    "Texto de invitación",
+    "Explicación al recibir",
+    "Lectura completa por sesión"
+  ],
+  "conservar": [
+    "Diversidad de escuchar, contar y escribir",
+    "Entradas autónomas",
+    "Memoria sostenida por equipo"
+  ],
+  "evidencias": [
+    "N01-V0136",
+    "N01-V0130",
+    "N01-V0137",
+    "N01-V0138",
+    "N01-V0139",
+    "N01-V0140",
+    "N01-V0141",
+    "N01-V0142",
+    "N01-V0143",
+    "N01-V0144"
+  ],
+  "evidencia_que_limita": [
+    "N01-V0145",
+    "N01-V0146",
+    "N01-V0147"
+  ],
+  "razon_sin_contraevidencia": null,
+  "contexto_elicitacion": "Reconstrucción retrospectiva del episodio y repreguntas sobre decisión y suficiencia. La atribución descansa en respuestas de participante; preguntas, metáforas y recapitulaciones no son corroboración. Los localizadores del contexto están en cada evidencia.",
+  "codigos_comunes": [
+    "C033",
+    "C036",
+    "C010",
+    "C044"
+  ],
+  "hallazgos_s01": [
+    "S01-H008",
+    "S01-H009",
+    "S01-H021"
+  ],
+  "componentes_p01": [
+    "P01-E03-N007",
+    "P01-E03-N011",
+    "P01-E03-N013",
+    "P01-E03-N015"
+  ],
+  "preferencias_act01": [
+    "ACT01-PR009",
+    "ACT01-PR012"
+  ],
+  "variantes_por_caso": [],
+  "vinculo_territorial": {
+    "tipo": "NO_CARTOGRAFICO_DIRECTO",
+    "razon": "El contenido necesario es cómo se participa y qué continuidad se ofrece, sin cartografía directa.",
+    "evidencias": [
+      "N01-V0136",
+      "N01-V0130"
+    ],
+    "limites": "La pertinencia del lugar no demuestra necesidad de coordenadas o de un mapa. Organización y espacio sin nombre formal; consulta parcial, sin motivos de no asistencia ni impacto total conocidos. No identifica un programa público."
+  },
+  "vinculos_sectoriales": [
+    {
+      "sector": "SOCIEDAD_CIVIL",
+      "actividad": "Coordinación de tres encuentros de lectura y conversación en un espacio comunitario",
+      "iniciativa": null,
+      "estatus_iniciativa": "ACTIVIDAD_RELATADA_SIN_NOMBRE_FORMAL",
+      "nexo": "RELEVANCIA_PUBLICA_POR_VALIDAR",
+      "razon": "La actividad cultural tiene uso comunitario relatado; una política o programa público de origen no fue identificado.",
+      "evidencias": [
+        "N01-V0346",
+        "N01-V0136",
+        "N01-V0130"
+      ],
+      "limites": "No se identificó programa público que origine esta necesidad. Organización y espacio sin nombre formal; consulta parcial, sin motivos de no asistencia ni impacto total conocidos. No identifica un programa público."
+    }
+  ],
+  "verificacion": [
+    {
+      "id": "N01-K013",
+      "observable": "La explicación permite distinguir serie relacionada de asistencia obligatoria y escritura invitada de entrega exigida; no presenta una pregunta como confusión de todos.",
+      "metodo": "Cotejar invitación y explicación de recepción si se aportan; en revisión futura, contrastar la interpretación de esos términos con quienes los reciben, sin inventar sus respuestas.",
+      "origen": "PROPUESTA_ANALITICA",
+      "estado": "PROPUESTA_NO_EJECUTADA",
+      "evidencias": [
+        "N01-V0136",
+        "N01-V0130",
+        "N01-V0137",
+        "N01-V0138",
+        "N01-V0139",
+        "N01-V0140",
+        "N01-V0141",
+        "N01-V0142",
+        "N01-V0143",
+        "N01-V0144"
+      ],
+      "limites": "Comprobación futura; no se ejecutó ni acredita aceptación humana. No se fijan umbrales numéricos. La necesidad comunicativa sigue parcialmente abierta para otra convocatoria. No prueba confusión general, obligación de productos o preferencia uniforme de asistentes.",
+      "desglose_origen": {
+        "observable": "PROPUESTA_ANALITICA",
+        "operacionalizacion_metodo": "PROPUESTA_ANALITICA",
+        "aceptacion": "NO_RECABADA"
+      }
+    }
+  ],
+  "prioridad": {
+    "ambito": "E03",
+    "nivel": "ALTA",
+    "origen": "ANALISIS_CONDICIONAL",
+    "criterios": [
+      "N01-CP001",
+      "N01-CP002",
+      "N01-CP003",
+      "N01-CP004"
+    ],
+    "razon": "La duda relatada cambió la explicación posterior y la coordinadora identifica una mejora aún deseada para la invitación; afecta poder entrar y volver sin requisito inexistente.",
+    "comparables": [
+      "N01-N012"
+    ],
+    "limites": "Orden parcial dentro de esta actividad. No compara importancia urbana ni factibilidad técnica; evidencia más sólida no equivale a más impacto. Comparar distingue dependencias y momentos; las necesidades no son sustitutos y se admiten empates. En ideales frente a actuales, el nivel se lee dentro de su modalidad."
+  },
+  "importancia_expresada": "No hay priorización comparable explícita de esta pieza por la persona. El nivel asignado es del análisis.",
+  "pertinencia_diseno_posterior": "PENDIENTE: revisar con usuarios y encargo; la legitimidad de la necesidad no prescribe un soporte ni su incorporación a un visor.",
+  "factibilidad": "NO_DETERMINADA",
+  "incognitas": [
+    "No hay prueba de cómo todas las personas entendieron invitación o recepción."
+  ],
+  "enlaces_codigos_asignados": [
+    {
+      "codigo": "C033",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R03-S025",
+        "R03-S047",
+        "R03-S060",
+        "R03-S098"
+      ],
+      "evidencias": [
+        "N01-V0136",
+        "N01-V0137",
+        "N01-V0145",
+        "N01-V0146"
+      ]
+    },
+    {
+      "codigo": "C036",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R03-S063",
+        "R03-S064",
+        "R03-S065",
+        "R03-S066",
+        "R03-S131"
+      ],
+      "evidencias": [
+        "N01-V0139",
+        "N01-V0140",
+        "N01-V0141",
+        "N01-V0142",
+        "N01-V0143"
+      ]
+    },
+    {
+      "codigo": "C010",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R03-S047",
+        "R03-S048",
+        "R03-S060",
+        "R03-S062",
+        "R03-S131",
+        "R03-S135"
+      ],
+      "evidencias": [
+        "N01-V0136",
+        "N01-V0130",
+        "N01-V0137",
+        "N01-V0138",
+        "N01-V0143",
+        "N01-V0144"
+      ]
+    },
+    {
+      "codigo": "C044",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R03-S060",
+        "R03-S062"
+      ],
+      "evidencias": [
+        "N01-V0137",
+        "N01-V0138"
+      ]
+    }
+  ],
+  "codigos_contextuales": []
+}

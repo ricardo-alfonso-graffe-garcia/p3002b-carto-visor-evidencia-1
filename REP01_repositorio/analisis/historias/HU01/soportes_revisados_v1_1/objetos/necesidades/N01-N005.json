@@ -1,0 +1,175 @@
+{
+  "id": "N01-N005",
+  "titulo": "Condiciones de acceso para una petición futura específica",
+  "enunciado": "La técnica de registros de la alcaldía necesita conocer qué acceso puede usarse y bajo qué horarios o condiciones para una actividad específica, si la nueva petición lo exige, para determinar si bastan las referencias existentes o debe pedir una confirmación adicional antes de indicar ingreso, en el contexto de revisión de registros de tres espacios para preparar visitas.",
+  "actores": [
+    "ACT01-A001"
+  ],
+  "entrevistas": [
+    "E01"
+  ],
+  "contexto": "Desde recibir la relación y petición hasta devolver la copia revisada y atender una pregunta posterior.",
+  "decision": "Determinar si bastan las referencias existentes o debe pedir una confirmación adicional antes de indicar ingreso",
+  "objeto_informacion": "qué acceso puede usarse y bajo qué horarios o condiciones para una actividad específica, si la nueva petición lo exige",
+  "tipo": "INFERENCIA_ANALITICA_CONDICIONAL",
+  "estado_actual": "NO_DETERMINABLE",
+  "informacion_actual": "Solo consta el acceso utilizado en el recorrido; desconoce la otra puerta, horarios y condiciones de una siguiente visita.",
+  "faltante_o_deseada": "El análisis conserva como necesidad condicional la confirmación pertinente únicamente si una solicitud futura exige indicar ingreso bajo condiciones específicas.",
+  "condiciones_y_limites": "No es una carencia del encargo relatado ni necesidad atribuida al equipo de visitas; la técnica dice quizá para otra solicitud. Debe delimitarse primero quién confirma qué.",
+  "soportes_mencionados": [
+    "Referencia de acceso",
+    "Consulta a quienes correspondiera"
+  ],
+  "conservar": [
+    "No inventar lo desconocido",
+    "Acotar a la finalidad del encargo"
+  ],
+  "evidencias": [
+    "N01-V0019",
+    "N01-V0011",
+    "N01-V0016",
+    "N01-V0017"
+  ],
+  "evidencia_que_limita": [
+    "N01-V0020",
+    "N01-V0013",
+    "N01-V0005"
+  ],
+  "razon_sin_contraevidencia": null,
+  "contexto_elicitacion": "P110 pregunta lo no sabido; P112 propone si esos datos mejorarían la revisión. P113 distingue que no todos eran necesarios y condiciona su pertinencia a otra solicitud; la formulación prospectiva es del análisis.",
+  "codigos_comunes": [
+    "C008",
+    "C014",
+    "C015",
+    "C032"
+  ],
+  "hallazgos_s01": [
+    "S01-H001",
+    "S01-H022"
+  ],
+  "componentes_p01": [
+    "P01-E01-N002",
+    "P01-E01-N009",
+    "P01-E01-N012"
+  ],
+  "preferencias_act01": [],
+  "variantes_por_caso": [],
+  "vinculo_territorial": {
+    "tipo": "ESPACIAL_DIRECTO",
+    "razon": "La elección de acceso sería espacial, sin precisión geométrica ni obligación de mapa demostradas.",
+    "evidencias": [
+      "N01-V0019",
+      "N01-V0011"
+    ],
+    "limites": "La pertinencia del lugar no demuestra necesidad de coordenadas o de un mapa. Alcaldía y unidad no identificadas; el equipo relatado observó el acceso y la entrevistada revisó su incorporación. No consta uso posterior de la copia."
+  },
+  "vinculos_sectoriales": [
+    {
+      "sector": "PUBLICO",
+      "actividad": "Revisión de registros de tres espacios para preparar visitas",
+      "iniciativa": null,
+      "estatus_iniciativa": "ACTIVIDAD_RELATADA_SIN_NOMBRE_FORMAL",
+      "nexo": "PUBLICO_DIRECTO",
+      "razon": "La función se declara en una alcaldía y sirve a una petición de revisión, con responsabilidad acotada.",
+      "evidencias": [
+        "N01-V0344",
+        "N01-V0019",
+        "N01-V0011"
+      ],
+      "limites": "No se identificó programa público que origine esta necesidad. Alcaldía y unidad no identificadas; el equipo relatado observó el acceso y la entrevistada revisó su incorporación. No consta uso posterior de la copia."
+    }
+  ],
+  "verificacion": [
+    {
+      "id": "N01-K005",
+      "observable": "Ante una solicitud que sí requiera condiciones de ingreso, se identifica qué condición no está respaldada y se deja pendiente en vez de asegurarla.",
+      "metodo": "Revisar el alcance de una futura petición antes de formular la comprobación específica; cotejar la confirmación con la condición que debe resolverse. No hay petición nueva en este análisis.",
+      "origen": "PROPUESTA_ANALITICA",
+      "estado": "PROPUESTA_NO_EJECUTADA",
+      "evidencias": [
+        "N01-V0019",
+        "N01-V0011",
+        "N01-V0016",
+        "N01-V0017"
+      ],
+      "limites": "Comprobación futura; no se ejecutó ni acredita aceptación humana. No se fijan umbrales numéricos. No es una carencia del encargo relatado ni necesidad atribuida al equipo de visitas; la técnica dice quizá para otra solicitud. Debe delimitarse primero quién confirma qué.",
+      "desglose_origen": {
+        "observable": "PROPUESTA_ANALITICA",
+        "operacionalizacion_metodo": "PROPUESTA_ANALITICA",
+        "aceptacion": "NO_RECABADA"
+      }
+    }
+  ],
+  "prioridad": {
+    "ambito": "E01",
+    "nivel": "PENDIENTE",
+    "origen": "ANALISIS_CONDICIONAL",
+    "criterios": [
+      "N01-CP001",
+      "N01-CP002",
+      "N01-CP003",
+      "N01-CP004"
+    ],
+    "razon": "No hay una actividad futura concreta comparable: se activa solo si cambia el propósito. La incógnita no bloqueó el episodio.",
+    "comparables": [],
+    "limites": "Orden parcial dentro de esta actividad. No compara importancia urbana ni factibilidad técnica; evidencia más sólida no equivale a más impacto. No hay otra necesidad con la misma subdecisión y modalidad para establecer una comparación homogénea; el nivel expresa pertinencia condicional, sin ranking total."
+  },
+  "importancia_expresada": "No hay priorización comparable explícita de esta pieza por la persona. El nivel asignado es del análisis.",
+  "pertinencia_diseno_posterior": "PENDIENTE: revisar con usuarios y encargo; la legitimidad de la necesidad no prescribe un soporte ni su incorporación a un visor.",
+  "factibilidad": "NO_DETERMINADA",
+  "incognitas": [
+    "No hay petición, actividad, fechas ni interlocutor de confirmación específicos."
+  ],
+  "enlaces_codigos_asignados": [
+    {
+      "codigo": "C008",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R01-S052",
+        "R01-S078",
+        "R01-S081"
+      ],
+      "evidencias": [
+        "N01-V0019",
+        "N01-V0011",
+        "N01-V0016"
+      ]
+    },
+    {
+      "codigo": "C014",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R01-S080",
+        "R01-S082",
+        "R01-S084"
+      ],
+      "evidencias": [
+        "N01-V0017",
+        "N01-V0013"
+      ]
+    },
+    {
+      "codigo": "C015",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R01-S081",
+        "R01-S124"
+      ],
+      "evidencias": [
+        "N01-V0016",
+        "N01-V0005"
+      ]
+    },
+    {
+      "codigo": "C032",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R01-S083"
+      ],
+      "evidencias": [
+        "N01-V0017"
+      ]
+    }
+  ],
+  "codigos_contextuales": []
+}

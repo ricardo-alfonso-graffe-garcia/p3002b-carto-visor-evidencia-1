@@ -1,0 +1,16 @@
+﻿principio,estado,evidencia_local,pendiente,limites
+F1,PARCIAL,Ids locales estables y separados por clase en registro.,"Persistencia, unicidad global y resolución externa con gobernanza.",El id local y SHA-256 no son PID externo.
+F2,PARCIAL,"Cada registro describe entidad, versión, procedencia, acceso y relaciones; perfiles de información con 21 campos.",Revisar adecuación con usuarios y responsables; completar desconocidos cuando se aporten.,Riqueza estructural no demuestra pertinencia semántica.
+F3,ATENDIDO_LOCALMENTE,Cada registro explicita entidad y ruta del payload; cotejo real con contenido individual.,Conservar vinculación y evaluar interoperabilidad si se despliega externamente.,Medida local; no certificación FAIR integral.
+F4,PENDIENTE,Registro consultable dentro del ZIP.,Registro o indexación en recurso de búsqueda con acceso y gobernanza adecuados.,Inventario local no acredita indización externa.
+A1,PARCIAL,Id se resuelve localmente a una ruta incluida y cotejada.,Servicio y protocolo estandarizado de recuperación por identificador si se autoriza despliegue.,Abrir un ZIP no demuestra protocolo global desplegado.
+A1.1,PENDIENTE,"JSON, CSV y SVG son legibles localmente; no se desplegó acceso remoto.","Definir y comprobar protocolo abierto, gratuito e implementable.",El formato del archivo no es un protocolo de comunicación.
+A1.2,PENDIENTE,Se documenta acceso y ausencia de autorización de publicación.,Establecer autenticación/autorización y reglas de acceso si se crea servicio.,Descripción de condición no implementa control de acceso.
+A2,PENDIENTE,Metadatos y payloads están separados en paquete.,Política de preservación y continuidad de metadatos aun si falta dato.,Separar archivos no prueba preservación futura.
+I1,PARCIAL,"JSON estructurado, ids tipados y estados enumerados bajo contrato local.",Evaluar representación semántica formal compartida y correspondencias.,JSON local no basta para interoperabilidad semántica.
+I2,PENDIENTE,Vocabulario y clases locales documentados sin registro.,"Evaluar vocabularios FAIR pertinentes, términos y mapeo con comunidad.",No se atribuye FAIR por usar nombres de conceptos conocidos.
+I3,PARCIAL,Relaciones tipadas a entidades y evidencias existentes verificadas.,Referencias interoperables persistentes si se autoriza exteriorización.,"Enlaces son locales, derivados y sin corroboración adicional."
+R1,PARCIAL,"Contexto, restricciones, incertidumbres y procedencia en historias y perfiles.",Revisión sustantiva y documentación de usos apropiados.,Detalles y huellas no validan interpretación o utilidad.
+R1.1,PENDIENTE,Licencia valor null y fundamento por objeto; NO_CONSTA publicación.,Resolver derechos y licencia aplicable a cada recurso antes de reutilización ampliada.,No permiso abierto por defecto ni por fuentes públicas.
+R1.2,PARCIAL,"Trazas a necesidades y evidencias, versiones, catálogo de entrada y huellas.","Revisión humana, autorías de artefactos y responsables futuros si se conocen.",Actor del relato no es autor formal del archivo; derivados no son independientes.
+R1.3,PENDIENTE,Contrato metodológico HU01 comprobado localmente.,"Contrastar estándares pertinentes con comunidad y finalidad, sin atribuir manual a los casos.",No norma única FDO ni conformidad por contrato propio.

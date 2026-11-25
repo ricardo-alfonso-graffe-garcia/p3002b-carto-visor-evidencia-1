@@ -1,0 +1,2170 @@
+{
+  "entrevista": "E03",
+  "version_transcripcion": "1",
+  "archivo_origen": "E03_transcripcion_v1.docx",
+  "library_file_id_origen": "libfile_fde3_f-d31452d71cbc819195a0b95e4c6f3510_6c45573f28988191995a53873b532314",
+  "sha256_origen": "a9c883695bb2d5cbb8258ca76caedd885fb6db473423f48fe5157241999e3fb2",
+  "perfil": "P03",
+  "paquete_preparacion_asociado": "E03 1.0; guion 1.0 con ajuste de aplicación 1.1",
+  "guion_declarado_en_encabezado": null,
+  "fecha_entrevista": null,
+  "fecha_revision": "2026-11-24",
+  "estado": "recibida y revisada editorialmente; versión de referencia para análisis; sin cambios de contenido",
+  "alcance_revision": "Lectura completa y revisión de cobertura, sin evaluación docente, comprobación administrativa independiente ni codificación temática.",
+  "parrafos": [
+    {
+      "id": "P001",
+      "texto": "Transcripción E03"
+    },
+    {
+      "id": "P002",
+      "texto": "Perfil funcional: persona coordinadora de proyectos en una organización de la sociedad civil que trabaja con comunidades de la Ciudad de México."
+    },
+    {
+      "id": "P004",
+      "texto": "Entrevistador: Gracias por conversar conmigo. Mi participación aquí es como entrevistador en un trabajo académico que busca comprender cómo se organizan actividades y se toman decisiones relacionadas con información sobre lugares. Me interesa conocer tu experiencia: qué haces, con quiénes te relacionas y en qué te apoyas para decidir. No partimos de que exista un problema particular que tengas que señalar. La conversación es voluntaria; puedes dejar alguna pregunta sin responder o terminar cuando lo prefieras. También, si estás de acuerdo, grabaré la conversación y todo lo que te he comentado, incluyendo el uso de la grabación tendrá un uso plenamente académico. ¿Estás de acuerdo en comenzar, incluyendo la posibilidad de grabar esta entrevista?",
+      "turno": "T001"
+    },
+    {
+      "id": "P005",
+      "texto": "Participante: Sí, sí, sin ningún problema. Claro que sí.",
+      "turno": "T002"
+    },
+    {
+      "id": "P006",
+      "texto": "Entrevistador: Para ubicarnos, cuéntame cómo describirías el trabajo de tu organización y qué te corresponde hacer.",
+      "turno": "T003"
+    },
+    {
+      "id": "P007",
+      "texto": "Participante: Trabajamos en proyectos culturales con comunidades de la Ciudad de México. Una parte son encuentros de lectura y escritura, pero también hacemos actividades donde las personas comparten relatos sobre su vida cotidiana. No todo termina en un texto. A veces lo que interesa es conversar, escuchar algo de otra persona y volver sobre una experiencia propia.",
+      "turno": "T004"
+    },
+    {
+      "id": "P008",
+      "texto": "Yo coordino algunos de esos proyectos. Eso significa hablar con quienes nos reciben en un espacio, organizar el calendario con el equipo, revisar qué materiales hacen falta y acompañar las actividades. También participo en las decisiones sobre qué propuestas podemos realizar y cuánto trabajo podemos comprometer. No soy quien conduce todas las sesiones. Para eso trabajamos con una compañera que hace la mediación de lectura, aunque a veces nos repartimos partes.",
+      "turno": "T004"
+    },
+    {
+      "id": "P009",
+      "texto": "Entrevistador: ¿Hay alguna actividad reciente que nos ayude a entender ese trabajo desde algo concreto?",
+      "turno": "T005"
+    },
+    {
+      "id": "P010",
+      "texto": "Participante: Sí. Podemos hablar de una serie de tres encuentros de lectura y conversación que acabamos de cerrar en un espacio de uso comunitario. La propuesta terminó llamándose, entre nosotros, encuentros sobre los recorridos cotidianos. Leíamos textos breves y después cada persona podía contar o escribir algo relacionado con un trayecto: ir a trabajar, visitar a alguien, salir a hacer una compra. Cosas así.",
+      "turno": "T006"
+    },
+    {
+      "id": "P011",
+      "texto": "Digo que terminó siendo esa propuesta porque al principio no estaba tan definido el tema. Las personas que llevan el espacio nos habían dicho que les gustaría recibir otra actividad de lectura, y nosotros teníamos interés en hacer algo que pudiera continuar durante varias sesiones. Yo coordiné ese acercamiento y la organización de los encuentros.",
+      "turno": "T006"
+    },
+    {
+      "id": "P012",
+      "texto": "Entrevistador: Cuando dices que no estaba definido, ¿qué tenían acordado y qué quedaba abierto?",
+      "turno": "T007"
+    },
+    {
+      "id": "P013",
+      "texto": "Participante: Estaba el interés de trabajar juntos otra vez. Ya habíamos hecho una actividad suelta ahí. Sabíamos que podíamos entendernos para organizar algo, pero eso no quería decir que ya hubiera fechas o que pudiéramos repetir lo mismo.",
+      "turno": "T008"
+    },
+    {
+      "id": "P014",
+      "texto": "Quedaba abierto qué íbamos a hacer, en qué horario y en qué parte del lugar. Tienen un salón y un patio que se usan para actividades diferentes. También había que hablar con algunas personas que habían participado antes, porque la invitación del espacio no nos decía por sí sola quién querría asistir a una serie de encuentros.",
+      "turno": "T008"
+    },
+    {
+      "id": "P015",
+      "texto": "Entrevistador: Entonces había una disposición previa entre ustedes, pero todavía no una actividad lista.",
+      "turno": "T009"
+    },
+    {
+      "id": "P016",
+      "texto": "Participante: Eso. Y había otra cosa: no queríamos anunciar tres sesiones para después darnos cuenta de que cada semana tendríamos que cambiar de horario. Nos interesaba que hubiera cierta continuidad. No porque fuera obligatorio asistir a las tres, sino para que la gente supiera cuándo encontrarnos.",
+      "turno": "T010"
+    },
+    {
+      "id": "P017",
+      "texto": "Entrevistador: ¿Qué te correspondía decidir a ti?",
+      "turno": "T011"
+    },
+    {
+      "id": "P018",
+      "texto": "Participante: Yo podía proponer fechas y organizar el trabajo del equipo. Pero no podía comprometer el salón sin hablar con las personas que lo llevan, ni decirle a la mediadora qué día tenía que ir sin revisar su disponibilidad. Tampoco decidía sola el contenido.",
+      "turno": "T012"
+    },
+    {
+      "id": "P019",
+      "texto": "En este caso preparé una propuesta que juntaba esas posibilidades y la revisamos con una compañera de la organización. Ella lleva conmigo la programación y los recursos de los proyectos. Ya con eso regresamos a conversar con quienes nos recibían.",
+      "turno": "T012"
+    },
+    {
+      "id": "P020",
+      "texto": "Entrevistador: Antes de seguir con el recorrido, me gustaría reconocer a las personas que intervinieron. ¿A quiénes incluirías tú?",
+      "turno": "T013"
+    },
+    {
+      "id": "P021",
+      "texto": "Participante: A las dos personas con las que tuvimos contacto para usar el espacio. A la mediadora de lectura. A mi compañera de programación y a mí. Y a quienes participaron en los encuentros, aunque algunas personas también intervinieron desde antes, cuando preguntamos por horarios y por lo que les gustaría hacer.",
+      "turno": "T014"
+    },
+    {
+      "id": "P022",
+      "texto": "No pondría a todos los asistentes como si hubieran tenido la misma participación en la organización. Hubo quienes llegaron al primer encuentro sin conocer nada de las conversaciones anteriores.",
+      "turno": "T014"
+    },
+    {
+      "id": "P023",
+      "texto": "Entrevistador: Te propongo un ejercicio verbal con esos actores. Para expresar el papel de cada uno, puedes elegir una imagen, un objeto o una comparación que te ayude a explicarlo. No hay una respuesta correcta; me interesa lo que la asociación significa para ti. Si empezamos por las personas que llevan el espacio, ¿qué te viene a la mente?",
+      "turno": "T015"
+    },
+    {
+      "id": "P024",
+      "texto": "Participante: Un llavero. Aunque suena muy literal.",
+      "turno": "T016"
+    },
+    {
+      "id": "P025",
+      "texto": "Entrevistador: Podemos quedarnos con esa imagen. ¿Qué incluye para ti, además de abrir la puerta?",
+      "turno": "T017"
+    },
+    {
+      "id": "P026",
+      "texto": "Participante: Que conocen varias entradas al funcionamiento del lugar, por decirlo así. Saben quién usa el salón, a quién hay que avisarle si se mueve una mesa, dónde se guardan las sillas. Nosotros llegamos para una actividad y ellos están ahí en muchos otros momentos.",
+      "turno": "T018"
+    },
+    {
+      "id": "P027",
+      "texto": "Pero el llavero tampoco significa que todo dependa de que una persona diga sí o no. Las dos personas con las que hablamos revisaban entre ellas y con quienes tenían otras actividades. A veces yo preguntaba por un horario y me decían: “Déjanos comprobar si ese día termina antes el otro grupo”. No era una respuesta inmediata.",
+      "turno": "T018"
+    },
+    {
+      "id": "P028",
+      "texto": "Entrevistador: Parece que también les permitían entender cosas que no estaban a la vista en una visita.",
+      "turno": "T019"
+    },
+    {
+      "id": "P029",
+      "texto": "Participante: Sí. Yo podía ver el salón vacío y pensar que estaba disponible. Ellos sabían que después se ocupaba para otra cosa, o que había que dejar tiempo para acomodarlo. Ese conocimiento era importante.",
+      "turno": "T020"
+    },
+    {
+      "id": "P030",
+      "texto": "Entrevistador: ¿Qué asociación harías con la mediadora?",
+      "turno": "T021"
+    },
+    {
+      "id": "P031",
+      "texto": "Participante: Una bisagra. Porque une lo que preparamos con lo que pasa cuando llega la gente. Podemos llevar una lectura que nos parece muy buena y resulta que otra cosa de la conversación llama más la atención. Ella puede moverse entre las dos sin sentir que se perdió la sesión.",
+      "turno": "T022"
+    },
+    {
+      "id": "P032",
+      "texto": "Entrevistador: ¿Recuerdas un momento en que haya hecho ese movimiento?",
+      "turno": "T023"
+    },
+    {
+      "id": "P033",
+      "texto": "Participante: En el segundo encuentro, una persona empezó a hablar de cómo había cambiado su recorrido desde que acompañaba a un familiar a hacer sus pendientes. Nosotras habíamos preparado una actividad para escribir a partir de sonidos, pero se abrió una conversación sobre caminar al ritmo de otra persona. La mediadora dejó que eso siguiera y después invitó a escribir una escena de ese trayecto.",
+      "turno": "T024"
+    },
+    {
+      "id": "P034",
+      "texto": "No abandonó la lectura ni hizo otra actividad completamente distinta. Encontró una manera de entrar desde lo que ya estaba ocurriendo.",
+      "turno": "T024"
+    },
+    {
+      "id": "P035",
+      "texto": "Entrevistador: ¿Y tu compañera de programación?",
+      "turno": "T025"
+    },
+    {
+      "id": "P036",
+      "texto": "Participante: Una balanza. No porque esté poniendo todo en términos de dinero, sino porque me ayuda a revisar proporciones. Yo puedo salir de una conversación con varias ideas y ella me pregunta cuánto tiempo requiere cada una, quién la va a acompañar y qué más tenemos esa semana.",
+      "turno": "T026"
+    },
+    {
+      "id": "P037",
+      "texto": "En esta ocasión ayudó a sostener la idea de tres encuentros. Hubo un momento en que pensamos en agregar uno más, pero al revisar las agendas vimos que eso requería otro acuerdo. Preferimos hacer bien lo que ya podíamos confirmar. No fue una discusión fuerte; fue una revisión de lo que estábamos ofreciendo.",
+      "turno": "T026"
+    },
+    {
+      "id": "P038",
+      "texto": "Entrevistador: ¿Tú dónde te colocarías en esas imágenes?",
+      "turno": "T027"
+    },
+    {
+      "id": "P039",
+      "texto": "Participante: Como un hilo. Voy pasando entre las conversaciones y procuro que no se pierda lo que acordamos. Aunque tengo que tener cuidado con esa imagen, porque parece que yo mantuviera unido todo y no es así. Si yo no estoy, hay cosas que las demás personas pueden resolver directamente.",
+      "turno": "T028"
+    },
+    {
+      "id": "P040",
+      "texto": "Mi parte es más bien dar seguimiento. Si quedamos en revisar un horario, saber quién lo está revisando y cuándo necesitamos una respuesta para poder invitar.",
+      "turno": "T028"
+    },
+    {
+      "id": "P041",
+      "texto": "Entrevistador: Esa precisión cambia la imagen: el hilo expresa tu seguimiento, sin atribuirte todas las relaciones.",
+      "turno": "T029"
+    },
+    {
+      "id": "P042",
+      "texto": "Participante: Sí, así la usaría.",
+      "turno": "T030"
+    },
+    {
+      "id": "P043",
+      "texto": "Entrevistador: Quedan las personas participantes.",
+      "turno": "T031"
+    },
+    {
+      "id": "P044",
+      "texto": "Participante: Me cuesta más ponerles un objeto porque fueron muy distintas. Se me ocurre una mesa que se va ampliando. Algunas ya se conocían, otras llegaron por primera vez y fueron encontrando cómo entrar a la conversación.",
+      "turno": "T032"
+    },
+    {
+      "id": "P045",
+      "texto": "Entrevistador: ¿Qué sería ampliar la mesa en ese episodio?",
+      "turno": "T033"
+    },
+    {
+      "id": "P046",
+      "texto": "Participante: Que el tema dejara de ser solamente el que llevábamos nosotras. Una persona hablaba de un recorrido que hacía con prisa; otra decía que el suyo lo elegía para pasar a saludar a alguien. Cabían experiencias distintas sin que tuviéramos que elegir una como la más importante.",
+      "turno": "T034"
+    },
+    {
+      "id": "P047",
+      "texto": "Y no quiero decir que todos hablaran igual. Hubo una persona que casi no intervino en voz alta y sí escribió. Otra prefería contar y no quiso leer un texto propio. Para mí la mesa se amplió porque esas formas también tuvieron lugar.",
+      "turno": "T034"
+    },
+    {
+      "id": "P048",
+      "texto": "Entrevistador: Volvamos a cómo se organizó. Si tú eliges el principio y el final de este episodio, ¿dónde los pondrías?",
+      "turno": "T035"
+    },
+    {
+      "id": "P049",
+      "texto": "Participante: El principio sería la conversación en la que nos propusieron regresar al espacio. Antes está la actividad que ya habíamos hecho, pero la tomaría como antecedente.",
+      "turno": "T036"
+    },
+    {
+      "id": "P050",
+      "texto": "Y el final no sería exactamente cuando terminó el tercer encuentro. Lo pondría un poco después, cuando hablamos con las personas del espacio sobre cómo había resultado y dejamos claro que todavía no había otra serie programada. Algunas personas preguntaron si seguiríamos y no queríamos que una posibilidad se entendiera como una fecha confirmada.",
+      "turno": "T036"
+    },
+    {
+      "id": "P051",
+      "texto": "Entrevistador: Cuéntame desde esa primera conversación.",
+      "turno": "T037"
+    },
+    {
+      "id": "P052",
+      "texto": "Participante: Nos dijeron que les había gustado recibir la actividad anterior y que les interesaba algo con continuidad. Yo les pregunté qué horarios tenían disponibles y si había alguna actividad con la que debiéramos coordinarnos. Me dieron dos posibilidades generales: una tarde entre semana o una mañana de sábado. Todavía había que comprobarlas.",
+      "turno": "T038"
+    },
+    {
+      "id": "P053",
+      "texto": "Llevé eso al equipo. La mediadora propuso trabajar con textos breves para que cada encuentro pudiera disfrutarse por sí mismo. Ahí empezó a aparecer la idea de los trayectos, porque en la actividad anterior algunas personas habían contado cosas de los lugares por los que pasaban todos los días. No era una petición de todas; era algo que habíamos escuchado y que nos pareció que podía abrir conversación.",
+      "turno": "T038"
+    },
+    {
+      "id": "P054",
+      "texto": "Después volvimos al espacio para verlo con más calma y hablar de cómo usarlo.",
+      "turno": "T038"
+    },
+    {
+      "id": "P055",
+      "texto": "Entrevistador: ¿Qué necesitabas observar en esa visita?",
+      "turno": "T039"
+    },
+    {
+      "id": "P056",
+      "texto": "Participante: Cómo podíamos sentarnos, si había mesas disponibles y qué se escuchaba desde el patio y desde el salón. Para leer en voz alta y conversar no necesitábamos un silencio absoluto, pero sí poder oírnos sin estar levantando la voz todo el tiempo.",
+      "turno": "T040"
+    },
+    {
+      "id": "P057",
+      "texto": "También revisamos por dónde entraría la gente. El salón está cerca de la entrada, y eso nos gustaba porque alguien podía llegar y reconocer la actividad sin atravesar todo el lugar. En el patio teníamos más amplitud, pero era un espacio de paso y dependíamos más de cómo estuviera el tiempo.",
+      "turno": "T040"
+    },
+    {
+      "id": "P058",
+      "texto": "Entrevistador: ¿Esa visita resolvió la elección?",
+      "turno": "T041"
+    },
+    {
+      "id": "P059",
+      "texto": "Participante: Ayudó, pero no por sí sola. Fuimos en un horario parecido al que se estaba considerando y pudimos escuchar cómo convivían las actividades. Las personas del espacio nos explicaron que el grupo que usaba el salón antes normalmente terminaba con tiempo para acomodar.",
+      "turno": "T042"
+    },
+    {
+      "id": "P060",
+      "texto": "Aun así, ver un día no nos decía cómo serían todos los demás. Por eso preguntamos si en las tres fechas había algo distinto previsto. Cuando confirmaron que el salón podía usarse en las tres, nos pareció la opción más adecuada para lo que queríamos hacer.",
+      "turno": "T042"
+    },
+    {
+      "id": "P061",
+      "texto": "Entrevistador: Has mencionado el horario parecido y las tres fechas. ¿Qué peso tuvo cada cosa?",
+      "turno": "T043"
+    },
+    {
+      "id": "P062",
+      "texto": "Participante: La visita nos dio una idea de cómo se sentía estar ahí. La confirmación de las fechas nos permitió ofrecer continuidad. Si el salón hubiera estado disponible solo una vez, habríamos tenido que revisar la propuesta.",
+      "turno": "T044"
+    },
+    {
+      "id": "P063",
+      "texto": "No era que el patio fuera un mal lugar. Para otra actividad lo elegiría. Aquí queríamos que las personas pudieran dejar sus hojas sobre una mesa, escuchar y conversar con cierta tranquilidad. El salón nos alcanzaba para eso.",
+      "turno": "T044"
+    },
+    {
+      "id": "P064",
+      "texto": "Entrevistador: ¿Cómo pasaron de las dos opciones de horario a una?",
+      "turno": "T045"
+    },
+    {
+      "id": "P065",
+      "texto": "Participante: Primero cruzamos las posibilidades del espacio con las del equipo. Las dos seguían siendo posibles, aunque el sábado necesitaba un ajuste de la mediadora. Después preguntamos a algunas personas que habían asistido a la actividad anterior y que habían dicho que les interesaría volver.",
+      "turno": "T046"
+    },
+    {
+      "id": "P066",
+      "texto": "No hicimos una consulta grande. Les explicamos de qué se trataba y preguntamos cuál de las dos opciones les permitiría asistir. Algunas respondieron directamente cuando estaban en el espacio y otras por mensaje. Con esas respuestas vimos que la tarde entre semana era una opción que varias podían aprovechar. El sábado no parecía abrir una posibilidad más clara y nos exigía mover otras cosas.",
+      "turno": "T046"
+    },
+    {
+      "id": "P067",
+      "texto": "Entrevistador: ¿Qué podían concluir con esas respuestas y qué no?",
+      "turno": "T047"
+    },
+    {
+      "id": "P068",
+      "texto": "Participante: Podíamos concluir que había personas interesadas para quienes esa tarde funcionaba. No que fuera el mejor horario para toda la comunidad. De quienes no respondieron no sabíamos mucho. Y seguramente había personas que nunca se enteraron de que estábamos preguntando.",
+      "turno": "T048"
+    },
+    {
+      "id": "P069",
+      "texto": "Lo tomamos como una base suficiente para organizar esta serie. No como una definición permanente del horario de nuestras actividades.",
+      "turno": "T048"
+    },
+    {
+      "id": "P070",
+      "texto": "Entrevistador: ¿Te preocupaba que preguntar a quienes ya conocían la actividad hiciera que regresara siempre el mismo grupo?",
+      "turno": "T049"
+    },
+    {
+      "id": "P071",
+      "texto": "Participante: Lo consideramos, sí. Por eso la invitación no se quedó solamente con esas personas. Quienes llevan el espacio la compartieron en sus canales habituales y colocaron una invitación visible ahí. Nosotras también la difundimos entre nuestros contactos relacionados con actividades culturales.",
+      "turno": "T050"
+    },
+    {
+      "id": "P072",
+      "texto": "Pero ampliar la invitación tampoco nos permite asegurar a quién llegó. Lo que sí vimos después fue que asistieron algunas personas que no habían estado antes. A una le había comentado alguien que iba al lugar por otra actividad. De otras no recuerdo cómo se enteraron.",
+      "turno": "T050"
+    },
+    {
+      "id": "P073",
+      "texto": "Entrevistador: Ya tenían espacio y horario. ¿Qué siguió?",
+      "turno": "T051"
+    },
+    {
+      "id": "P074",
+      "texto": "Participante: Preparar una descripción clara de lo que invitábamos a hacer. Ahí ajustamos el lenguaje. La primera versión sonaba como si fuera un taller para aprender a escribir relatos y no era exactamente eso. No íbamos a corregir textos ni a pedir que todos entregaran algo al final.",
+      "turno": "T052"
+    },
+    {
+      "id": "P075",
+      "texto": "Lo conversamos con la mediadora y dejamos más claro que habría lectura, conversación y la posibilidad de escribir. Después revisamos con las personas del espacio que la invitación tuviera bien el día, la hora y la referencia para llegar. Ellos nos ayudaron a decirlo como suele reconocerlo la gente que lo usa.",
+      "turno": "T052"
+    },
+    {
+      "id": "P076",
+      "texto": "Entrevistador: ¿Qué cambió en esa referencia?",
+      "turno": "T053"
+    },
+    {
+      "id": "P077",
+      "texto": "Participante: Yo había puesto el nombre con el que nosotras lo teníamos anotado y una indicación general. Me dijeron que convenía añadir que la entrada era por la puerta junto al patio, porque hay otra puerta que suele estar cerrada. Era un detalle sencillo, pero para alguien que llega por primera vez podía hacer diferencia.",
+      "turno": "T054"
+    },
+    {
+      "id": "P078",
+      "texto": "Eso no lo habría resuelto yo viendo solamente la dirección.",
+      "turno": "T054"
+    },
+    {
+      "id": "P079",
+      "texto": "Entrevistador: Hasta aquí has contado acuerdos, visita, consulta e invitación. ¿Ocurrieron en ese orden?",
+      "turno": "T055"
+    },
+    {
+      "id": "P080",
+      "texto": "Participante: Más o menos, pero la consulta de horarios y la preparación del contenido se cruzaron. Mientras esperábamos algunas respuestas, la mediadora ya estaba buscando lecturas. Y la disponibilidad del salón se terminó de comprobar mientras ajustábamos la descripción.",
+      "turno": "T056"
+    },
+    {
+      "id": "P081",
+      "texto": "Lo que sí cuidamos fue no circular la invitación antes de confirmar las tres fechas. Podíamos ir preparando cosas, pero todavía no anunciarlo.",
+      "turno": "T056"
+    },
+    {
+      "id": "P082",
+      "texto": "Entrevistador: Bien, dejo esa diferencia: había tareas simultáneas y un momento concreto a partir del cual ya podían invitar.",
+      "turno": "T057"
+    },
+    {
+      "id": "P083",
+      "texto": "Participante: Exactamente.",
+      "turno": "T058"
+    },
+    {
+      "id": "P084",
+      "texto": "Entrevistador: ¿Cómo fue el primer encuentro desde tu función?",
+      "turno": "T059"
+    },
+    {
+      "id": "P085",
+      "texto": "Participante: Llegué antes con la mediadora. Las personas del espacio nos mostraron dónde estaban las mesas y las sillas que podíamos usar. Acomodamos el salón de modo que nos viéramos las caras. Dejamos cerca de la entrada una mesa con hojas y materiales para que no hubiera que interrumpir si alguien necesitaba algo.",
+      "turno": "T060"
+    },
+    {
+      "id": "P086",
+      "texto": "Mi trabajo durante la sesión fue recibir a quienes iban llegando, explicarles brevemente qué estaba pasando y ayudar con lo que hiciera falta. También participé en algunos momentos, pero procuré no estar entrando y saliendo de la conversación como si fuera otra asistente más cuando tenía pendientes de coordinación.",
+      "turno": "T060"
+    },
+    {
+      "id": "P087",
+      "texto": "Entrevistador: ¿Apareció algo que te hiciera cambiar lo previsto?",
+      "turno": "T061"
+    },
+    {
+      "id": "P088",
+      "texto": "Participante: Un cambio pequeño. Habíamos pensado cerrar la puerta para escuchar mejor, pero desde afuera parecía que la actividad ya había comenzado y que no se podía entrar. Una de las personas del espacio nos lo comentó cuando acompañó a alguien que acababa de llegar.",
+      "turno": "T062"
+    },
+    {
+      "id": "P089",
+      "texto": "Dejamos la puerta entreabierta y movimos unas sillas que estorbaban la vista hacia adentro. Seguíamos escuchándonos bien. No tuvimos que rehacer la actividad.",
+      "turno": "T062"
+    },
+    {
+      "id": "P090",
+      "texto": "Entrevistador: ¿Quién tomó esa decisión?",
+      "turno": "T063"
+    },
+    {
+      "id": "P091",
+      "texto": "Participante: Nosotras dos, ahí mismo, después del comentario. Le hice una seña a la mediadora en una pausa y lo ajustamos. No era algo que tuviera que regresar a programación. Estaba dentro de lo que podíamos resolver durante el encuentro.",
+      "turno": "T064"
+    },
+    {
+      "id": "P092",
+      "texto": "Entrevistador: ¿Y entre el primero y el segundo?",
+      "turno": "T065"
+    },
+    {
+      "id": "P093",
+      "texto": "Participante: Hablamos un rato la mediadora y yo. Revisamos qué había dado tiempo de hacer y qué había interesado. También preguntamos a las personas del espacio si el acomodo había funcionado para las otras actividades.",
+      "turno": "T066"
+    },
+    {
+      "id": "P094",
+      "texto": "Del primer encuentro salió una precisión para los siguientes: decir al inicio que se podía participar escuchando y que escribir era una invitación. Lo habíamos explicado en la difusión, pero una persona nos preguntó al terminar si para regresar debía llevar un texto. Nos hizo ver que convenía decirlo en la sesión, sin esperar a que alguien preguntara.",
+      "turno": "T066"
+    },
+    {
+      "id": "P095",
+      "texto": "Entrevistador: ¿Lo interpretaron como una dificultad de esa persona o como algo que podía estar pasando con más gente?",
+      "turno": "T067"
+    },
+    {
+      "id": "P096",
+      "texto": "Participante: Como algo que no sabíamos si le pasaba a más gente, pero que era fácil aclarar para todos. No necesitábamos concluir que había una confusión general. Bastaba con reconocer que nuestra explicación podía ser más clara.",
+      "turno": "T068"
+    },
+    {
+      "id": "P097",
+      "texto": "Entrevistador: ¿El segundo y el tercero siguieron la misma organización?",
+      "turno": "T069"
+    },
+    {
+      "id": "P098",
+      "texto": "Participante: En lo práctico, bastante. Mismo lugar, mismo horario, un acomodo parecido. En la conversación fueron distintos. En el segundo pasó lo que te contaba de acompañar a otra persona en sus recorridos. En el tercero recuperamos algunas de las cosas que habían aparecido antes, pero sin dar por hecho que todas las personas habían asistido a los encuentros anteriores.",
+      "turno": "T070"
+    },
+    {
+      "id": "P099",
+      "texto": "Hubo quien fue solo una vez. Eso estaba contemplado, aunque a mí al principio me costaba pensar cómo sostener una serie sin depender de que todo el mundo regresara. La mediadora lo resolvió preparando una entrada completa para cada sesión.",
+      "turno": "T070"
+    },
+    {
+      "id": "P100",
+      "texto": "Entrevistador: Quiero detenerme en eso. Al inicio hablaste de continuidad y ahora de encuentros que pudieran funcionar por separado. ¿Cómo convivían esas dos cosas?",
+      "turno": "T071"
+    },
+    {
+      "id": "P101",
+      "texto": "Participante: Para mí la continuidad estaba en que podían volver y encontrar una propuesta relacionada, a las mismas personas del equipo y un horario conocido. No significaba llevar una tarea de una semana a otra.",
+      "turno": "T072"
+    },
+    {
+      "id": "P102",
+      "texto": "Si alguien regresaba, podía reconocer cosas y retomarlas. Si llegaba por primera vez, tenía una lectura y una invitación con las que empezar. Nosotras sí llevábamos memoria de lo que había ocurrido, pero no se la exigíamos a los participantes.",
+      "turno": "T072"
+    },
+    {
+      "id": "P103",
+      "texto": "Entrevistador: Entiendo. La continuidad era parte de lo que ustedes sostenían como equipo.",
+      "turno": "T073"
+    },
+    {
+      "id": "P104",
+      "texto": "Participante: Sí, aunque también se fue dando entre algunas personas. Se saludaban y retomaban conversaciones. Eso ya no lo organizamos nosotras de la misma manera.",
+      "turno": "T074"
+    },
+    {
+      "id": "P105",
+      "texto": "Entrevistador: ¿Cómo llegaron al final que elegiste para este episodio?",
+      "turno": "T075"
+    },
+    {
+      "id": "P106",
+      "texto": "Participante: En el tercer encuentro dijimos que con esa sesión terminaba la serie acordada. Dejamos tiempo para que quien quisiera comentara cómo la había vivido. Algunas personas dijeron que les había gustado escuchar relatos distintos; otras hablaron de la lectura o preguntaron si habría más encuentros. No todas hicieron un comentario de cierre.",
+      "turno": "T076"
+    },
+    {
+      "id": "P107",
+      "texto": "Después acomodamos el salón y, en otro momento, conversé con las personas que llevan el espacio. Les conté lo que habíamos observado desde la coordinación y escuché cómo les había resultado recibirnos. Nos dijeron que el horario había convivido bien con las otras actividades y que les interesaría volver a hacer algo.",
+      "turno": "T076"
+    },
+    {
+      "id": "P108",
+      "texto": "Yo llevé eso al equipo y acordamos que podíamos considerar otra propuesta cuando revisáramos la programación. Luego se los comuniqué así: había interés, pero todavía no una fecha ni un compromiso de repetir la misma serie.",
+      "turno": "T076"
+    },
+    {
+      "id": "P109",
+      "texto": "Entrevistador: ¿Quedó algo pendiente de resolver con quienes asistieron?",
+      "turno": "T077"
+    },
+    {
+      "id": "P110",
+      "texto": "Participante: No una gestión concreta. A quienes preguntaron por la continuidad les dijimos que, si se organizaba algo más, se anunciaría por los medios habituales del espacio. No les prometimos avisos individuales que después no supiéramos si podríamos cumplir.",
+      "turno": "T078"
+    },
+    {
+      "id": "P111",
+      "texto": "También quedó una idea de una participante: le interesaba un encuentro dedicado a leer textos que las propias personas llevaran. La anotamos como propuesta, pero no se decidió hacerla.",
+      "turno": "T078"
+    },
+    {
+      "id": "P112",
+      "texto": "Entrevistador: Si ahora agruparas todo ese recorrido en partes, con nombres tuyos, ¿cómo lo ordenarías?",
+      "turno": "T079"
+    },
+    {
+      "id": "P113",
+      "texto": "Participante: Pondría primero “ver si coincidimos”. Ahí entran la invitación inicial del espacio, lo que nosotras queríamos hacer y las posibilidades de fechas. Es comprobar si estamos hablando de algo que ambas partes pueden sostener.",
+      "turno": "T080"
+    },
+    {
+      "id": "P114",
+      "texto": "Después “aterrizar el encuentro”: ir al lugar, escuchar a algunas personas, elegir horario, preparar la propuesta y confirmar cómo vamos a invitar. No pondría la elección del lugar aparte de todo eso porque se fue resolviendo junto.",
+      "turno": "T080"
+    },
+    {
+      "id": "P115",
+      "texto": "Luego “hacer y ajustar”. Serían los tres encuentros y lo que hablamos entre uno y otro.",
+      "turno": "T080"
+    },
+    {
+      "id": "P116",
+      "texto": "Y al final “cerrar y dejar claro qué sigue”. Aunque en este caso lo que seguía era esperar una nueva conversación, no otra actividad ya decidida.",
+      "turno": "T080"
+    },
+    {
+      "id": "P117",
+      "texto": "Entrevistador: ¿Dónde pondrías la revisión con tu compañera de programación?",
+      "turno": "T081"
+    },
+    {
+      "id": "P118",
+      "texto": "Participante: En la primera y la segunda parte. Primero revisamos si podíamos comprometernos. Después volvimos a mirar el calendario cuando ya estaban las fechas concretas. No es una fase adicional; es una conversación que aparece más de una vez.",
+      "turno": "T082"
+    },
+    {
+      "id": "P119",
+      "texto": "Entrevistador: ¿Esas partes describen también otros proyectos que coordinas?",
+      "turno": "T083"
+    },
+    {
+      "id": "P120",
+      "texto": "Participante: Algunas sí, pero no siempre con el mismo peso. Cuando trabajamos en un lugar que ya conocemos bien, la visita puede ser más breve o no hacer falta para una actividad parecida. Si cambia lo que queremos hacer, hay que volver a mirar aunque conozcamos el lugar.",
+      "turno": "T084"
+    },
+    {
+      "id": "P121",
+      "texto": "Y si nos invitan a una actividad que ya tiene fecha, no empezamos buscando horario. Empezamos viendo si podemos participar y qué sentido tendría nuestra aportación. Este recorrido describe bien esta serie; no lo usaría como una receta para todo.",
+      "turno": "T084"
+    },
+    {
+      "id": "P122",
+      "texto": "Entrevistador: Quisiera volver a una decisión concreta: elegir el salón en la tarde entre semana. Para darla por suficientemente sustentada, ¿qué necesitabas saber?",
+      "turno": "T085"
+    },
+    {
+      "id": "P123",
+      "texto": "Participante: Que el espacio estuviera disponible de verdad en las tres fechas, que el equipo pudiera estar y que hubiera personas interesadas para quienes ese horario fuera posible. También que el salón permitiera hacer la actividad que estábamos imaginando.",
+      "turno": "T086"
+    },
+    {
+      "id": "P124",
+      "texto": "No necesitaba saber cuántas personas de toda la zona preferían la tarde. No teníamos una pregunta de ese tamaño. Necesitaba saber si podíamos hacer una invitación razonable y cumplir lo que decía.",
+      "turno": "T086"
+    },
+    {
+      "id": "P125",
+      "texto": "Entrevistador: ¿En qué te apoyaste para cada una de esas cosas?",
+      "turno": "T087"
+    },
+    {
+      "id": "P126",
+      "texto": "Participante: Para el uso del salón, en las personas que lo llevan y en la confirmación que nos dieron después de revisar sus actividades. Para el equipo, en nuestras agendas y en hablar directamente con la mediadora. Para el interés de posibles asistentes, en las respuestas que recibimos y en lo que se había expresado en la actividad anterior.",
+      "turno": "T088"
+    },
+    {
+      "id": "P127",
+      "texto": "Y para saber cómo era estar en el salón, en la visita. Ahí no me servía solo que alguien dijera “está bien”. Necesitaba imaginar la actividad, sentarnos, escuchar un poco, ver por dónde se entraba.",
+      "turno": "T088"
+    },
+    {
+      "id": "P128",
+      "texto": "Entrevistador: ¿Cómo tenías reunido eso cuando tocó decidir?",
+      "turno": "T089"
+    },
+    {
+      "id": "P129",
+      "texto": "Participante: En mis notas y en los mensajes de las conversaciones. Hice un resumen breve para revisarlo con mi compañera: las fechas posibles, el espacio y lo que faltaba confirmar. Cuando ya estuvo acordado, anoté las fechas en el calendario del equipo y compartí el acuerdo con las personas involucradas.",
+      "turno": "T090"
+    },
+    {
+      "id": "P130",
+      "texto": "Para este caso funcionó. No era tanta información como para que necesitáramos algo más elaborado.",
+      "turno": "T090"
+    },
+    {
+      "id": "P131",
+      "texto": "Entrevistador: ¿Hubo alguna diferencia entre lo que recordabas y lo que habías anotado?",
+      "turno": "T091"
+    },
+    {
+      "id": "P132",
+      "texto": "Participante: No recuerdo una diferencia importante en esta serie. Sí volví a un mensaje para comprobar a qué hora terminaba la actividad anterior al uso del salón. Tenía la idea general, pero antes de cerrar nuestro horario preferí mirar lo que me habían dicho.",
+      "turno": "T092"
+    },
+    {
+      "id": "P133",
+      "texto": "Entrevistador: ¿Qué te hizo sentir que ya alcanzaba para anunciar?",
+      "turno": "T093"
+    },
+    {
+      "id": "P134",
+      "texto": "Participante: Que lo pendiente ya no afectaba la posibilidad de realizar los encuentros. Podíamos seguir eligiendo una lectura o ajustar cuántas hojas llevar, pero el lugar, las fechas, el equipo y la forma de recibir a la gente estaban acordados.",
+      "turno": "T094"
+    },
+    {
+      "id": "P135",
+      "texto": "La asistencia exacta no la sabíamos. Eso quedó abierto. Llevamos materiales adicionales y acordamos un acomodo posible si llegaba más gente de la que esperábamos. Al final el salón alcanzó bien.",
+      "turno": "T094"
+    },
+    {
+      "id": "P136",
+      "texto": "Entrevistador: ¿Cómo llegaron a esa expectativa de asistencia?",
+      "turno": "T095"
+    },
+    {
+      "id": "P137",
+      "texto": "Participante: Por la actividad anterior y por las personas que habían mostrado interés. Era una estimación de trabajo, no una confirmación. Algunas de las personas que dijeron que querían ir no llegaron y otras asistieron sin habernos avisado. No fue sorprendente; no habíamos planteado una inscripción previa.",
+      "turno": "T096"
+    },
+    {
+      "id": "P138",
+      "texto": "Entrevistador: Al escuchar cómo verificaron el salón y el horario, podría parecer que toda la decisión descansó en saber si el lugar funcionaba. ¿Qué estaría dejando fuera esa lectura?",
+      "turno": "T097"
+    },
+    {
+      "id": "P139",
+      "texto": "Participante: El sentido de la actividad. Podíamos tener un salón disponible y aun así no tener una propuesta que nos interesara compartir ahí. También estaba la relación con quienes nos recibían y la disposición de algunas personas a participar.",
+      "turno": "T098"
+    },
+    {
+      "id": "P140",
+      "texto": "Y algo más: elegimos entre opciones posibles. No estábamos buscando el mejor salón de la ciudad. Teníamos una invitación concreta y vimos si ahí podíamos hacer este trabajo.",
+      "turno": "T098"
+    },
+    {
+      "id": "P141",
+      "texto": "Entrevistador: Sí, estaba ampliando demasiado el alcance de la elección. La decisión fue sobre cómo realizar esa propuesta en esa relación y en ese lugar.",
+      "turno": "T099"
+    },
+    {
+      "id": "P142",
+      "texto": "Participante: Eso describe mejor lo que pasó.",
+      "turno": "T100"
+    },
+    {
+      "id": "P143",
+      "texto": "Entrevistador: Sobre las perspectivas que conocieron, mencionaste respuestas antes de empezar y comentarios durante los encuentros. ¿Qué te permitieron entender esos intercambios?",
+      "turno": "T101"
+    },
+    {
+      "id": "P144",
+      "texto": "Participante: Antes, principalmente disponibilidad e interés. Durante los encuentros conocimos más de lo que a cada persona le hacía sentido en la actividad. Por ejemplo, alguien podía haber llegado por la lectura y descubrir que disfrutaba contar algo propio. Eso no lo sabíamos al preguntar por un horario.",
+      "turno": "T102"
+    },
+    {
+      "id": "P145",
+      "texto": "También conocimos opiniones diferentes sobre escribir. Algunas personas querían más tiempo; otras estaban cómodas escuchando. No teníamos que resolver eso eligiendo una sola forma de participar.",
+      "turno": "T102"
+    },
+    {
+      "id": "P146",
+      "texto": "Entrevistador: ¿Y qué quedó fuera de tu alcance?",
+      "turno": "T103"
+    },
+    {
+      "id": "P147",
+      "texto": "Participante: La experiencia de quienes no llegaron. Si alguien nos dijo que ese horario no le servía, sabíamos eso. Si simplemente no vino, no sabíamos por qué. Podía ser el horario, falta de interés, otro pendiente o cualquier cosa. No me corresponde completar esa explicación.",
+      "turno": "T104"
+    },
+    {
+      "id": "P148",
+      "texto": "De quienes asistieron tampoco sabíamos todo. Que alguien dijera al final que le gustó no significa que todos los detalles le parecieran bien. Yo puedo hablar de lo que escuché y observé, y de las decisiones que tomamos con eso.",
+      "turno": "T104"
+    },
+    {
+      "id": "P149",
+      "texto": "Entrevistador: Ahora quisiera plantearte un ejercicio distinto. Pensando en organizar otra actividad de este tipo, ¿qué te gustaría poder saber, aunque hoy no conozcas una fuente para encontrarlo?",
+      "turno": "T105"
+    },
+    {
+      "id": "P150",
+      "texto": "Participante: Me gustaría conocer mejor los ritmos de uso de un lugar antes de proponer una serie. No solamente qué horas están libres, sino cómo se vive ese horario. Si la gente llega con tiempo o de paso, si se puede quedar, qué otras actividades le dan movimiento al espacio.",
+      "turno": "T106"
+    },
+    {
+      "id": "P151",
+      "texto": "En este caso pudimos averiguar lo necesario conversando. No sentí que nos faltara algo indispensable. Pero para un lugar nuevo me ayudaría poder acercarme a eso más rápido.",
+      "turno": "T106"
+    },
+    {
+      "id": "P152",
+      "texto": "Entrevistador: Cuando dices “cómo se vive ese horario”, ¿qué decisión te permitiría tomar?",
+      "turno": "T107"
+    },
+    {
+      "id": "P153",
+      "texto": "Participante: Si conviene proponer encuentros que duren un rato y tengan una conversación tranquila, o algo más breve a lo que una persona pueda sumarse sin quedarse toda la actividad. También si tiene sentido mantener un horario por varias semanas.",
+      "turno": "T108"
+    },
+    {
+      "id": "P154",
+      "texto": "Ahora, no creo que eso se pueda saber solamente por una descripción. Me gustaría tener una primera idea para hacer mejores preguntas cuando vaya.",
+      "turno": "T108"
+    },
+    {
+      "id": "P155",
+      "texto": "Entrevistador: Imagina que puedes organizar esa información a tu manera. ¿Cómo la tendrías disponible y qué harías primero al consultarla?",
+      "turno": "T109"
+    },
+    {
+      "id": "P156",
+      "texto": "Participante: Como una carpeta de cada espacio con el que trabajamos. Puede ser algo sencillo que podamos abrir en el equipo. Yo empezaría por una página donde aparezca con quién hablamos, qué actividades hemos hecho ahí y qué necesitamos volver a preguntar.",
+      "turno": "T110"
+    },
+    {
+      "id": "P157",
+      "texto": "Después me gustaría encontrar una descripción del uso del lugar en distintos momentos, contada por quienes lo conocen. Algo como: “En esta franja hay movimiento de personas que salen de otra actividad; en esta otra suelen quedarse más tiempo”. Pero dejando claro quién nos lo dijo y en qué ocasión lo conversamos, porque no sería una verdad permanente del lugar.",
+      "turno": "T110"
+    },
+    {
+      "id": "P158",
+      "texto": "También pondría nuestras propias notas después de una actividad, separadas de lo que nos dijeron antes. En esta serie, por ejemplo, anotaría lo de la puerta entreabierta porque es algo que aprendimos al estar ahí.",
+      "turno": "T110"
+    },
+    {
+      "id": "P159",
+      "texto": "Entrevistador: ¿Cómo usarías esa carpeta con otras personas?",
+      "turno": "T111"
+    },
+    {
+      "id": "P160",
+      "texto": "Participante: Antes de una reunión de equipo, podríamos verla para recordar lo que ya sabemos y detectar lo que falta preguntar. Si otra compañera coordina una actividad en el mismo espacio, no tendría que empezar pidiéndome que recuerde todo.",
+      "turno": "T112"
+    },
+    {
+      "id": "P161",
+      "texto": "Con quienes llevan el lugar, usaría algunas notas para comprobar si siguen teniendo sentido. Les diría: “La vez anterior entendimos esto, ¿cómo está ahora?”. No llegaría con la carpeta a explicarles su propio espacio.",
+      "turno": "T112"
+    },
+    {
+      "id": "P162",
+      "texto": "Entrevistador: ¿Qué habría sobre las personas que asisten?",
+      "turno": "T113"
+    },
+    {
+      "id": "P163",
+      "texto": "Participante: Pondría comentarios sobre la actividad que ayuden a organizar, sin hacer perfiles de cada persona. Por ejemplo, que fue útil explicar que se podía participar escuchando o que hubo interés en llevar lecturas propias.",
+      "turno": "T114"
+    },
+    {
+      "id": "P164",
+      "texto": "No pondría “la gente de este lugar prefiere tal cosa”, porque con tres encuentros no sabemos eso. Y una propuesta que hace una persona puede guardarse como propuesta, sin convertirla en la opinión del grupo.",
+      "turno": "T114"
+    },
+    {
+      "id": "P165",
+      "texto": "Entrevistador: Esa diferencia parece importante para lo que imaginas: conservar algo que sirva sin endurecerlo como una característica del lugar o de sus asistentes.",
+      "turno": "T115"
+    },
+    {
+      "id": "P166",
+      "texto": "Participante: Sí. Si no, después una nota nuestra termina pesando más que la conversación nueva. Eso no me serviría.",
+      "turno": "T116"
+    },
+    {
+      "id": "P167",
+      "texto": "Entrevistador: De todo ese espacio que acabas de describir, ¿qué priorizarías?",
+      "turno": "T117"
+    },
+    {
+      "id": "P168",
+      "texto": "Participante: Los acuerdos prácticos del uso del lugar y las cosas que hay que volver a preguntar. Empezaría por ahí. Lo demás puede crecer si de verdad lo usamos.",
+      "turno": "T118"
+    },
+    {
+      "id": "P169",
+      "texto": "Por ejemplo, antes de proponer fechas quisiera encontrar rápidamente qué horario funcionó la vez anterior, qué habíamos confirmado y con quién. No para repetirlo automáticamente, sino para saber desde dónde retomar la conversación.",
+      "turno": "T118"
+    },
+    {
+      "id": "P170",
+      "texto": "Entrevistador: ¿Cómo notarías que esa forma de tener la información te ayuda?",
+      "turno": "T119"
+    },
+    {
+      "id": "P171",
+      "texto": "Participante: Si otra persona del equipo pudiera preparar el acercamiento sin que yo tuviera que contarle toda la historia desde cero. Y si al hablar con el espacio pudiéramos ir directo a confirmar lo que puede haber cambiado, en vez de preguntar otra vez cosas que ya nos explicaron.",
+      "turno": "T120"
+    },
+    {
+      "id": "P172",
+      "texto": "Pero tendría que ser fácil dejar la nota. Si después de cada encuentro nos pide más trabajo del que nos ahorra al preparar el siguiente, probablemente no la mantendríamos. Para esta serie mis notas fueron suficientes. La carpeta que imagino tendría más sentido si varias personas necesitamos retomar la relación.",
+      "turno": "T120"
+    },
+    {
+      "id": "P173",
+      "texto": "Entrevistador: ¿La información sobre cómo llegan las personas al espacio también tendría un lugar ahí?",
+      "turno": "T121"
+    },
+    {
+      "id": "P174",
+      "texto": "Participante: Solo lo que hubiéramos conocido y fuera útil. Lo de cuál puerta se usa, por ejemplo, sí. También una referencia que las personas del lugar recomienden para encontrarlo.",
+      "turno": "T122"
+    },
+    {
+      "id": "P175",
+      "texto": "Sobre recorridos de los asistentes no juntaría información por juntar. Aunque esa fue la conversación de los encuentros, no necesitábamos saber desde dónde venía cada persona para organizarlos. Si alguien nos dijera que una indicación de llegada es confusa, atenderíamos eso. Es distinto de querer registrar sus trayectos.",
+      "turno": "T122"
+    },
+    {
+      "id": "P176",
+      "texto": "Entrevistador: De acuerdo. El tema cultural de la actividad no se convierte automáticamente en información que necesites para coordinar.",
+      "turno": "T123"
+    },
+    {
+      "id": "P177",
+      "texto": "Participante: Exacto. Los relatos tenían su sentido dentro del encuentro.",
+      "turno": "T124"
+    },
+    {
+      "id": "P178",
+      "texto": "Entrevistador: ¿Qué conservarías de tu forma actual de trabajar, incluso si tuvieras esa carpeta ideal?",
+      "turno": "T125"
+    },
+    {
+      "id": "P179",
+      "texto": "Participante: Ir al lugar cuando la actividad lo amerita y hablar con las personas. Hay cosas que entiendo mejor estando ahí. Y conservaría la conversación entre la mediadora y quien coordina después de cada encuentro. A veces son pocos minutos, pero ahí se reconoce algo que conviene ajustar.",
+      "turno": "T126"
+    },
+    {
+      "id": "P180",
+      "texto": "También me gusta que no todo tenga que quedar decidido desde el principio. Confirmar el horario y el salón nos dio estabilidad. Elegir exactamente por dónde iba a entrar cada conversación necesitaba otro margen.",
+      "turno": "T126"
+    },
+    {
+      "id": "P181",
+      "texto": "Entrevistador: ¿Hay alguna parte en la que hoy prefieras seguir como estás?",
+      "turno": "T127"
+    },
+    {
+      "id": "P182",
+      "texto": "Participante: La comunicación de los acuerdos de una serie pequeña. Con una nota clara, el calendario y mensajes directos nos entendemos. No cambiaría eso solo por tener otra manera de hacerlo. Lo que me atrae de la carpeta es poder retomar experiencias entre distintas personas del equipo, no mudar cada conversación a otro sitio.",
+      "turno": "T128"
+    },
+    {
+      "id": "P183",
+      "texto": "Entrevistador: Hemos hablado de lo que funcionó, de algunos ajustes y de lo que te gustaría conocer mejor. Mirando este episodio, ¿hay una decisión que ahora tomarías de otra forma?",
+      "turno": "T129"
+    },
+    {
+      "id": "P184",
+      "texto": "Participante: Haría más explícito desde la invitación que cada encuentro podía disfrutarse por separado, y lo repetiría al recibir a la gente. Lo teníamos en mente, pero no estoy segura de que se entendiera igual desde afuera.",
+      "turno": "T130"
+    },
+    {
+      "id": "P185",
+      "texto": "El horario y el salón los volvería a elegir con la información que teníamos. No veo una razón para decir ahora que estuvieron mal. Sí volvería a comprobarlos para otra serie.",
+      "turno": "T130"
+    },
+    {
+      "id": "P186",
+      "texto": "Entrevistador: ¿Qué te hace separar esas dos cosas?",
+      "turno": "T131"
+    },
+    {
+      "id": "P187",
+      "texto": "Participante: Que una es algo que podemos comunicar mejor a partir de lo que vimos. La otra funcionó para esta ocasión, pero depende de acuerdos y usos del espacio que pueden cambiar. No necesito arrepentirme de una elección para revisarla la próxima vez.",
+      "turno": "T132"
+    },
+    {
+      "id": "P188",
+      "texto": "Entrevistador: Antes de terminar, quisiera comprobar una idea general. En esta experiencia, coordinar implicó reunir posibilidades de varias personas, confirmar unas condiciones para poder invitar y acompañar lo que ocurría sin fijar toda la actividad por adelantado. Las conversaciones y la visita te dieron información suficiente para decidir, con un alcance concreto. ¿Qué corregirías de esa lectura?",
+      "turno": "T133"
+    },
+    {
+      "id": "P189",
+      "texto": "Participante: Está cerca. Solo añadiría que no fue únicamente reunir posibilidades que ya estaban ahí. También fuimos armando una propuesta entre varias personas. La mediadora no llegó con algo cerrado y las personas del espacio tampoco nos dieron nada más una lista de horarios.",
+      "turno": "T134"
+    },
+    {
+      "id": "P190",
+      "texto": "Cuando conversamos, cambió un poco lo que cada quien estaba imaginando. Eso también es coordinar para mí: ayudar a que esa propuesta tome forma y luego poder cumplirla.",
+      "turno": "T134"
+    },
+    {
+      "id": "P191",
+      "texto": "Entrevistador: Gracias por señalarlo. Mi formulación dejaba tu trabajo más cerca de acomodar agendas de lo que muestra lo que contaste.",
+      "turno": "T135"
+    },
+    {
+      "id": "P192",
+      "texto": "Participante: Las agendas sí ocupan bastante tiempo.",
+      "turno": "T136"
+    },
+    {
+      "id": "P193",
+      "texto": "Entrevistador: Sí, y en tu relato estaban ligadas a algo que estaban construyendo. ¿Hay algún último matiz que quisieras dejar?",
+      "turno": "T137"
+    },
+    {
+      "id": "P194",
+      "texto": "Participante: Que cuando hablo de lo que resultó bien no quiero decir que sepamos todo lo que significó para las personas. Podemos decir que hicimos los tres encuentros, que el lugar funcionó y que escuchamos ciertos comentarios. Para mí eso ya permite valorar el trabajo sin tener que afirmar que cambió la vida de quienes fueron.",
+      "turno": "T138"
+    },
+    {
+      "id": "P195",
+      "texto": "Y también que una actividad puede terminar ahí. Si hacemos otra, tendrá que volver a tener sentido para quienes participen y para quienes la organicemos.",
+      "turno": "T138"
+    },
+    {
+      "id": "P196",
+      "texto": "Entrevistador: Lo tomo. Gracias por compartir el recorrido con tanto detalle y por precisar hasta dónde puedes hablar desde tu experiencia.",
+      "turno": "T139"
+    },
+    {
+      "id": "P197",
+      "texto": "Participante: Gracias. Me gustó poder contar también esa parte de preparar y ajustar, que a veces queda menos visible que el encuentro mismo.",
+      "turno": "T140"
+    }
+  ],
+  "turnos": [
+    {
+      "id": "T001",
+      "parrafos": [
+        "P004"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Gracias por conversar conmigo. Mi participación aquí es como entrevistador en un trabajo académico que busca comprender cómo se organizan actividades y se toman decisiones relacionadas con información sobre lugares. Me interesa conocer tu experiencia: qué haces, con quiénes te relacionas y en qué te apoyas para decidir. No partimos de que exista un problema particular que tengas que señalar. La conversación es voluntaria; puedes dejar alguna pregunta sin responder o terminar cuando lo prefieras. También, si estás de acuerdo, grabaré la conversación y todo lo que te he comentado, incluyendo el uso de la grabación tendrá un uso plenamente académico. ¿Estás de acuerdo en comenzar, incluyendo la posibilidad de grabar esta entrevista?"
+    },
+    {
+      "id": "T002",
+      "parrafos": [
+        "P005"
+      ],
+      "voz": "Participante",
+      "texto": "Sí, sí, sin ningún problema. Claro que sí."
+    },
+    {
+      "id": "T003",
+      "parrafos": [
+        "P006"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Para ubicarnos, cuéntame cómo describirías el trabajo de tu organización y qué te corresponde hacer."
+    },
+    {
+      "id": "T004",
+      "parrafos": [
+        "P007",
+        "P008"
+      ],
+      "voz": "Participante",
+      "texto": "Trabajamos en proyectos culturales con comunidades de la Ciudad de México. Una parte son encuentros de lectura y escritura, pero también hacemos actividades donde las personas comparten relatos sobre su vida cotidiana. No todo termina en un texto. A veces lo que interesa es conversar, escuchar algo de otra persona y volver sobre una experiencia propia.\n\nYo coordino algunos de esos proyectos. Eso significa hablar con quienes nos reciben en un espacio, organizar el calendario con el equipo, revisar qué materiales hacen falta y acompañar las actividades. También participo en las decisiones sobre qué propuestas podemos realizar y cuánto trabajo podemos comprometer. No soy quien conduce todas las sesiones. Para eso trabajamos con una compañera que hace la mediación de lectura, aunque a veces nos repartimos partes."
+    },
+    {
+      "id": "T005",
+      "parrafos": [
+        "P009"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Hay alguna actividad reciente que nos ayude a entender ese trabajo desde algo concreto?"
+    },
+    {
+      "id": "T006",
+      "parrafos": [
+        "P010",
+        "P011"
+      ],
+      "voz": "Participante",
+      "texto": "Sí. Podemos hablar de una serie de tres encuentros de lectura y conversación que acabamos de cerrar en un espacio de uso comunitario. La propuesta terminó llamándose, entre nosotros, encuentros sobre los recorridos cotidianos. Leíamos textos breves y después cada persona podía contar o escribir algo relacionado con un trayecto: ir a trabajar, visitar a alguien, salir a hacer una compra. Cosas así.\n\nDigo que terminó siendo esa propuesta porque al principio no estaba tan definido el tema. Las personas que llevan el espacio nos habían dicho que les gustaría recibir otra actividad de lectura, y nosotros teníamos interés en hacer algo que pudiera continuar durante varias sesiones. Yo coordiné ese acercamiento y la organización de los encuentros."
+    },
+    {
+      "id": "T007",
+      "parrafos": [
+        "P012"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Cuando dices que no estaba definido, ¿qué tenían acordado y qué quedaba abierto?"
+    },
+    {
+      "id": "T008",
+      "parrafos": [
+        "P013",
+        "P014"
+      ],
+      "voz": "Participante",
+      "texto": "Estaba el interés de trabajar juntos otra vez. Ya habíamos hecho una actividad suelta ahí. Sabíamos que podíamos entendernos para organizar algo, pero eso no quería decir que ya hubiera fechas o que pudiéramos repetir lo mismo.\n\nQuedaba abierto qué íbamos a hacer, en qué horario y en qué parte del lugar. Tienen un salón y un patio que se usan para actividades diferentes. También había que hablar con algunas personas que habían participado antes, porque la invitación del espacio no nos decía por sí sola quién querría asistir a una serie de encuentros."
+    },
+    {
+      "id": "T009",
+      "parrafos": [
+        "P015"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Entonces había una disposición previa entre ustedes, pero todavía no una actividad lista."
+    },
+    {
+      "id": "T010",
+      "parrafos": [
+        "P016"
+      ],
+      "voz": "Participante",
+      "texto": "Eso. Y había otra cosa: no queríamos anunciar tres sesiones para después darnos cuenta de que cada semana tendríamos que cambiar de horario. Nos interesaba que hubiera cierta continuidad. No porque fuera obligatorio asistir a las tres, sino para que la gente supiera cuándo encontrarnos."
+    },
+    {
+      "id": "T011",
+      "parrafos": [
+        "P017"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Qué te correspondía decidir a ti?"
+    },
+    {
+      "id": "T012",
+      "parrafos": [
+        "P018",
+        "P019"
+      ],
+      "voz": "Participante",
+      "texto": "Yo podía proponer fechas y organizar el trabajo del equipo. Pero no podía comprometer el salón sin hablar con las personas que lo llevan, ni decirle a la mediadora qué día tenía que ir sin revisar su disponibilidad. Tampoco decidía sola el contenido.\n\nEn este caso preparé una propuesta que juntaba esas posibilidades y la revisamos con una compañera de la organización. Ella lleva conmigo la programación y los recursos de los proyectos. Ya con eso regresamos a conversar con quienes nos recibían."
+    },
+    {
+      "id": "T013",
+      "parrafos": [
+        "P020"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Antes de seguir con el recorrido, me gustaría reconocer a las personas que intervinieron. ¿A quiénes incluirías tú?"
+    },
+    {
+      "id": "T014",
+      "parrafos": [
+        "P021",
+        "P022"
+      ],
+      "voz": "Participante",
+      "texto": "A las dos personas con las que tuvimos contacto para usar el espacio. A la mediadora de lectura. A mi compañera de programación y a mí. Y a quienes participaron en los encuentros, aunque algunas personas también intervinieron desde antes, cuando preguntamos por horarios y por lo que les gustaría hacer.\n\nNo pondría a todos los asistentes como si hubieran tenido la misma participación en la organización. Hubo quienes llegaron al primer encuentro sin conocer nada de las conversaciones anteriores."
+    },
+    {
+      "id": "T015",
+      "parrafos": [
+        "P023"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Te propongo un ejercicio verbal con esos actores. Para expresar el papel de cada uno, puedes elegir una imagen, un objeto o una comparación que te ayude a explicarlo. No hay una respuesta correcta; me interesa lo que la asociación significa para ti. Si empezamos por las personas que llevan el espacio, ¿qué te viene a la mente?"
+    },
+    {
+      "id": "T016",
+      "parrafos": [
+        "P024"
+      ],
+      "voz": "Participante",
+      "texto": "Un llavero. Aunque suena muy literal."
+    },
+    {
+      "id": "T017",
+      "parrafos": [
+        "P025"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Podemos quedarnos con esa imagen. ¿Qué incluye para ti, además de abrir la puerta?"
+    },
+    {
+      "id": "T018",
+      "parrafos": [
+        "P026",
+        "P027"
+      ],
+      "voz": "Participante",
+      "texto": "Que conocen varias entradas al funcionamiento del lugar, por decirlo así. Saben quién usa el salón, a quién hay que avisarle si se mueve una mesa, dónde se guardan las sillas. Nosotros llegamos para una actividad y ellos están ahí en muchos otros momentos.\n\nPero el llavero tampoco significa que todo dependa de que una persona diga sí o no. Las dos personas con las que hablamos revisaban entre ellas y con quienes tenían otras actividades. A veces yo preguntaba por un horario y me decían: “Déjanos comprobar si ese día termina antes el otro grupo”. No era una respuesta inmediata."
+    },
+    {
+      "id": "T019",
+      "parrafos": [
+        "P028"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Parece que también les permitían entender cosas que no estaban a la vista en una visita."
+    },
+    {
+      "id": "T020",
+      "parrafos": [
+        "P029"
+      ],
+      "voz": "Participante",
+      "texto": "Sí. Yo podía ver el salón vacío y pensar que estaba disponible. Ellos sabían que después se ocupaba para otra cosa, o que había que dejar tiempo para acomodarlo. Ese conocimiento era importante."
+    },
+    {
+      "id": "T021",
+      "parrafos": [
+        "P030"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Qué asociación harías con la mediadora?"
+    },
+    {
+      "id": "T022",
+      "parrafos": [
+        "P031"
+      ],
+      "voz": "Participante",
+      "texto": "Una bisagra. Porque une lo que preparamos con lo que pasa cuando llega la gente. Podemos llevar una lectura que nos parece muy buena y resulta que otra cosa de la conversación llama más la atención. Ella puede moverse entre las dos sin sentir que se perdió la sesión."
+    },
+    {
+      "id": "T023",
+      "parrafos": [
+        "P032"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Recuerdas un momento en que haya hecho ese movimiento?"
+    },
+    {
+      "id": "T024",
+      "parrafos": [
+        "P033",
+        "P034"
+      ],
+      "voz": "Participante",
+      "texto": "En el segundo encuentro, una persona empezó a hablar de cómo había cambiado su recorrido desde que acompañaba a un familiar a hacer sus pendientes. Nosotras habíamos preparado una actividad para escribir a partir de sonidos, pero se abrió una conversación sobre caminar al ritmo de otra persona. La mediadora dejó que eso siguiera y después invitó a escribir una escena de ese trayecto.\n\nNo abandonó la lectura ni hizo otra actividad completamente distinta. Encontró una manera de entrar desde lo que ya estaba ocurriendo."
+    },
+    {
+      "id": "T025",
+      "parrafos": [
+        "P035"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Y tu compañera de programación?"
+    },
+    {
+      "id": "T026",
+      "parrafos": [
+        "P036",
+        "P037"
+      ],
+      "voz": "Participante",
+      "texto": "Una balanza. No porque esté poniendo todo en términos de dinero, sino porque me ayuda a revisar proporciones. Yo puedo salir de una conversación con varias ideas y ella me pregunta cuánto tiempo requiere cada una, quién la va a acompañar y qué más tenemos esa semana.\n\nEn esta ocasión ayudó a sostener la idea de tres encuentros. Hubo un momento en que pensamos en agregar uno más, pero al revisar las agendas vimos que eso requería otro acuerdo. Preferimos hacer bien lo que ya podíamos confirmar. No fue una discusión fuerte; fue una revisión de lo que estábamos ofreciendo."
+    },
+    {
+      "id": "T027",
+      "parrafos": [
+        "P038"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Tú dónde te colocarías en esas imágenes?"
+    },
+    {
+      "id": "T028",
+      "parrafos": [
+        "P039",
+        "P040"
+      ],
+      "voz": "Participante",
+      "texto": "Como un hilo. Voy pasando entre las conversaciones y procuro que no se pierda lo que acordamos. Aunque tengo que tener cuidado con esa imagen, porque parece que yo mantuviera unido todo y no es así. Si yo no estoy, hay cosas que las demás personas pueden resolver directamente.\n\nMi parte es más bien dar seguimiento. Si quedamos en revisar un horario, saber quién lo está revisando y cuándo necesitamos una respuesta para poder invitar."
+    },
+    {
+      "id": "T029",
+      "parrafos": [
+        "P041"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Esa precisión cambia la imagen: el hilo expresa tu seguimiento, sin atribuirte todas las relaciones."
+    },
+    {
+      "id": "T030",
+      "parrafos": [
+        "P042"
+      ],
+      "voz": "Participante",
+      "texto": "Sí, así la usaría."
+    },
+    {
+      "id": "T031",
+      "parrafos": [
+        "P043"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Quedan las personas participantes."
+    },
+    {
+      "id": "T032",
+      "parrafos": [
+        "P044"
+      ],
+      "voz": "Participante",
+      "texto": "Me cuesta más ponerles un objeto porque fueron muy distintas. Se me ocurre una mesa que se va ampliando. Algunas ya se conocían, otras llegaron por primera vez y fueron encontrando cómo entrar a la conversación."
+    },
+    {
+      "id": "T033",
+      "parrafos": [
+        "P045"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Qué sería ampliar la mesa en ese episodio?"
+    },
+    {
+      "id": "T034",
+      "parrafos": [
+        "P046",
+        "P047"
+      ],
+      "voz": "Participante",
+      "texto": "Que el tema dejara de ser solamente el que llevábamos nosotras. Una persona hablaba de un recorrido que hacía con prisa; otra decía que el suyo lo elegía para pasar a saludar a alguien. Cabían experiencias distintas sin que tuviéramos que elegir una como la más importante.\n\nY no quiero decir que todos hablaran igual. Hubo una persona que casi no intervino en voz alta y sí escribió. Otra prefería contar y no quiso leer un texto propio. Para mí la mesa se amplió porque esas formas también tuvieron lugar."
+    },
+    {
+      "id": "T035",
+      "parrafos": [
+        "P048"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Volvamos a cómo se organizó. Si tú eliges el principio y el final de este episodio, ¿dónde los pondrías?"
+    },
+    {
+      "id": "T036",
+      "parrafos": [
+        "P049",
+        "P050"
+      ],
+      "voz": "Participante",
+      "texto": "El principio sería la conversación en la que nos propusieron regresar al espacio. Antes está la actividad que ya habíamos hecho, pero la tomaría como antecedente.\n\nY el final no sería exactamente cuando terminó el tercer encuentro. Lo pondría un poco después, cuando hablamos con las personas del espacio sobre cómo había resultado y dejamos claro que todavía no había otra serie programada. Algunas personas preguntaron si seguiríamos y no queríamos que una posibilidad se entendiera como una fecha confirmada."
+    },
+    {
+      "id": "T037",
+      "parrafos": [
+        "P051"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Cuéntame desde esa primera conversación."
+    },
+    {
+      "id": "T038",
+      "parrafos": [
+        "P052",
+        "P053",
+        "P054"
+      ],
+      "voz": "Participante",
+      "texto": "Nos dijeron que les había gustado recibir la actividad anterior y que les interesaba algo con continuidad. Yo les pregunté qué horarios tenían disponibles y si había alguna actividad con la que debiéramos coordinarnos. Me dieron dos posibilidades generales: una tarde entre semana o una mañana de sábado. Todavía había que comprobarlas.\n\nLlevé eso al equipo. La mediadora propuso trabajar con textos breves para que cada encuentro pudiera disfrutarse por sí mismo. Ahí empezó a aparecer la idea de los trayectos, porque en la actividad anterior algunas personas habían contado cosas de los lugares por los que pasaban todos los días. No era una petición de todas; era algo que habíamos escuchado y que nos pareció que podía abrir conversación.\n\nDespués volvimos al espacio para verlo con más calma y hablar de cómo usarlo."
+    },
+    {
+      "id": "T039",
+      "parrafos": [
+        "P055"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Qué necesitabas observar en esa visita?"
+    },
+    {
+      "id": "T040",
+      "parrafos": [
+        "P056",
+        "P057"
+      ],
+      "voz": "Participante",
+      "texto": "Cómo podíamos sentarnos, si había mesas disponibles y qué se escuchaba desde el patio y desde el salón. Para leer en voz alta y conversar no necesitábamos un silencio absoluto, pero sí poder oírnos sin estar levantando la voz todo el tiempo.\n\nTambién revisamos por dónde entraría la gente. El salón está cerca de la entrada, y eso nos gustaba porque alguien podía llegar y reconocer la actividad sin atravesar todo el lugar. En el patio teníamos más amplitud, pero era un espacio de paso y dependíamos más de cómo estuviera el tiempo."
+    },
+    {
+      "id": "T041",
+      "parrafos": [
+        "P058"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Esa visita resolvió la elección?"
+    },
+    {
+      "id": "T042",
+      "parrafos": [
+        "P059",
+        "P060"
+      ],
+      "voz": "Participante",
+      "texto": "Ayudó, pero no por sí sola. Fuimos en un horario parecido al que se estaba considerando y pudimos escuchar cómo convivían las actividades. Las personas del espacio nos explicaron que el grupo que usaba el salón antes normalmente terminaba con tiempo para acomodar.\n\nAun así, ver un día no nos decía cómo serían todos los demás. Por eso preguntamos si en las tres fechas había algo distinto previsto. Cuando confirmaron que el salón podía usarse en las tres, nos pareció la opción más adecuada para lo que queríamos hacer."
+    },
+    {
+      "id": "T043",
+      "parrafos": [
+        "P061"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Has mencionado el horario parecido y las tres fechas. ¿Qué peso tuvo cada cosa?"
+    },
+    {
+      "id": "T044",
+      "parrafos": [
+        "P062",
+        "P063"
+      ],
+      "voz": "Participante",
+      "texto": "La visita nos dio una idea de cómo se sentía estar ahí. La confirmación de las fechas nos permitió ofrecer continuidad. Si el salón hubiera estado disponible solo una vez, habríamos tenido que revisar la propuesta.\n\nNo era que el patio fuera un mal lugar. Para otra actividad lo elegiría. Aquí queríamos que las personas pudieran dejar sus hojas sobre una mesa, escuchar y conversar con cierta tranquilidad. El salón nos alcanzaba para eso."
+    },
+    {
+      "id": "T045",
+      "parrafos": [
+        "P064"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Cómo pasaron de las dos opciones de horario a una?"
+    },
+    {
+      "id": "T046",
+      "parrafos": [
+        "P065",
+        "P066"
+      ],
+      "voz": "Participante",
+      "texto": "Primero cruzamos las posibilidades del espacio con las del equipo. Las dos seguían siendo posibles, aunque el sábado necesitaba un ajuste de la mediadora. Después preguntamos a algunas personas que habían asistido a la actividad anterior y que habían dicho que les interesaría volver.\n\nNo hicimos una consulta grande. Les explicamos de qué se trataba y preguntamos cuál de las dos opciones les permitiría asistir. Algunas respondieron directamente cuando estaban en el espacio y otras por mensaje. Con esas respuestas vimos que la tarde entre semana era una opción que varias podían aprovechar. El sábado no parecía abrir una posibilidad más clara y nos exigía mover otras cosas."
+    },
+    {
+      "id": "T047",
+      "parrafos": [
+        "P067"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Qué podían concluir con esas respuestas y qué no?"
+    },
+    {
+      "id": "T048",
+      "parrafos": [
+        "P068",
+        "P069"
+      ],
+      "voz": "Participante",
+      "texto": "Podíamos concluir que había personas interesadas para quienes esa tarde funcionaba. No que fuera el mejor horario para toda la comunidad. De quienes no respondieron no sabíamos mucho. Y seguramente había personas que nunca se enteraron de que estábamos preguntando.\n\nLo tomamos como una base suficiente para organizar esta serie. No como una definición permanente del horario de nuestras actividades."
+    },
+    {
+      "id": "T049",
+      "parrafos": [
+        "P070"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Te preocupaba que preguntar a quienes ya conocían la actividad hiciera que regresara siempre el mismo grupo?"
+    },
+    {
+      "id": "T050",
+      "parrafos": [
+        "P071",
+        "P072"
+      ],
+      "voz": "Participante",
+      "texto": "Lo consideramos, sí. Por eso la invitación no se quedó solamente con esas personas. Quienes llevan el espacio la compartieron en sus canales habituales y colocaron una invitación visible ahí. Nosotras también la difundimos entre nuestros contactos relacionados con actividades culturales.\n\nPero ampliar la invitación tampoco nos permite asegurar a quién llegó. Lo que sí vimos después fue que asistieron algunas personas que no habían estado antes. A una le había comentado alguien que iba al lugar por otra actividad. De otras no recuerdo cómo se enteraron."
+    },
+    {
+      "id": "T051",
+      "parrafos": [
+        "P073"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Ya tenían espacio y horario. ¿Qué siguió?"
+    },
+    {
+      "id": "T052",
+      "parrafos": [
+        "P074",
+        "P075"
+      ],
+      "voz": "Participante",
+      "texto": "Preparar una descripción clara de lo que invitábamos a hacer. Ahí ajustamos el lenguaje. La primera versión sonaba como si fuera un taller para aprender a escribir relatos y no era exactamente eso. No íbamos a corregir textos ni a pedir que todos entregaran algo al final.\n\nLo conversamos con la mediadora y dejamos más claro que habría lectura, conversación y la posibilidad de escribir. Después revisamos con las personas del espacio que la invitación tuviera bien el día, la hora y la referencia para llegar. Ellos nos ayudaron a decirlo como suele reconocerlo la gente que lo usa."
+    },
+    {
+      "id": "T053",
+      "parrafos": [
+        "P076"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Qué cambió en esa referencia?"
+    },
+    {
+      "id": "T054",
+      "parrafos": [
+        "P077",
+        "P078"
+      ],
+      "voz": "Participante",
+      "texto": "Yo había puesto el nombre con el que nosotras lo teníamos anotado y una indicación general. Me dijeron que convenía añadir que la entrada era por la puerta junto al patio, porque hay otra puerta que suele estar cerrada. Era un detalle sencillo, pero para alguien que llega por primera vez podía hacer diferencia.\n\nEso no lo habría resuelto yo viendo solamente la dirección."
+    },
+    {
+      "id": "T055",
+      "parrafos": [
+        "P079"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Hasta aquí has contado acuerdos, visita, consulta e invitación. ¿Ocurrieron en ese orden?"
+    },
+    {
+      "id": "T056",
+      "parrafos": [
+        "P080",
+        "P081"
+      ],
+      "voz": "Participante",
+      "texto": "Más o menos, pero la consulta de horarios y la preparación del contenido se cruzaron. Mientras esperábamos algunas respuestas, la mediadora ya estaba buscando lecturas. Y la disponibilidad del salón se terminó de comprobar mientras ajustábamos la descripción.\n\nLo que sí cuidamos fue no circular la invitación antes de confirmar las tres fechas. Podíamos ir preparando cosas, pero todavía no anunciarlo."
+    },
+    {
+      "id": "T057",
+      "parrafos": [
+        "P082"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Bien, dejo esa diferencia: había tareas simultáneas y un momento concreto a partir del cual ya podían invitar."
+    },
+    {
+      "id": "T058",
+      "parrafos": [
+        "P083"
+      ],
+      "voz": "Participante",
+      "texto": "Exactamente."
+    },
+    {
+      "id": "T059",
+      "parrafos": [
+        "P084"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Cómo fue el primer encuentro desde tu función?"
+    },
+    {
+      "id": "T060",
+      "parrafos": [
+        "P085",
+        "P086"
+      ],
+      "voz": "Participante",
+      "texto": "Llegué antes con la mediadora. Las personas del espacio nos mostraron dónde estaban las mesas y las sillas que podíamos usar. Acomodamos el salón de modo que nos viéramos las caras. Dejamos cerca de la entrada una mesa con hojas y materiales para que no hubiera que interrumpir si alguien necesitaba algo.\n\nMi trabajo durante la sesión fue recibir a quienes iban llegando, explicarles brevemente qué estaba pasando y ayudar con lo que hiciera falta. También participé en algunos momentos, pero procuré no estar entrando y saliendo de la conversación como si fuera otra asistente más cuando tenía pendientes de coordinación."
+    },
+    {
+      "id": "T061",
+      "parrafos": [
+        "P087"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Apareció algo que te hiciera cambiar lo previsto?"
+    },
+    {
+      "id": "T062",
+      "parrafos": [
+        "P088",
+        "P089"
+      ],
+      "voz": "Participante",
+      "texto": "Un cambio pequeño. Habíamos pensado cerrar la puerta para escuchar mejor, pero desde afuera parecía que la actividad ya había comenzado y que no se podía entrar. Una de las personas del espacio nos lo comentó cuando acompañó a alguien que acababa de llegar.\n\nDejamos la puerta entreabierta y movimos unas sillas que estorbaban la vista hacia adentro. Seguíamos escuchándonos bien. No tuvimos que rehacer la actividad."
+    },
+    {
+      "id": "T063",
+      "parrafos": [
+        "P090"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Quién tomó esa decisión?"
+    },
+    {
+      "id": "T064",
+      "parrafos": [
+        "P091"
+      ],
+      "voz": "Participante",
+      "texto": "Nosotras dos, ahí mismo, después del comentario. Le hice una seña a la mediadora en una pausa y lo ajustamos. No era algo que tuviera que regresar a programación. Estaba dentro de lo que podíamos resolver durante el encuentro."
+    },
+    {
+      "id": "T065",
+      "parrafos": [
+        "P092"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Y entre el primero y el segundo?"
+    },
+    {
+      "id": "T066",
+      "parrafos": [
+        "P093",
+        "P094"
+      ],
+      "voz": "Participante",
+      "texto": "Hablamos un rato la mediadora y yo. Revisamos qué había dado tiempo de hacer y qué había interesado. También preguntamos a las personas del espacio si el acomodo había funcionado para las otras actividades.\n\nDel primer encuentro salió una precisión para los siguientes: decir al inicio que se podía participar escuchando y que escribir era una invitación. Lo habíamos explicado en la difusión, pero una persona nos preguntó al terminar si para regresar debía llevar un texto. Nos hizo ver que convenía decirlo en la sesión, sin esperar a que alguien preguntara."
+    },
+    {
+      "id": "T067",
+      "parrafos": [
+        "P095"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Lo interpretaron como una dificultad de esa persona o como algo que podía estar pasando con más gente?"
+    },
+    {
+      "id": "T068",
+      "parrafos": [
+        "P096"
+      ],
+      "voz": "Participante",
+      "texto": "Como algo que no sabíamos si le pasaba a más gente, pero que era fácil aclarar para todos. No necesitábamos concluir que había una confusión general. Bastaba con reconocer que nuestra explicación podía ser más clara."
+    },
+    {
+      "id": "T069",
+      "parrafos": [
+        "P097"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿El segundo y el tercero siguieron la misma organización?"
+    },
+    {
+      "id": "T070",
+      "parrafos": [
+        "P098",
+        "P099"
+      ],
+      "voz": "Participante",
+      "texto": "En lo práctico, bastante. Mismo lugar, mismo horario, un acomodo parecido. En la conversación fueron distintos. En el segundo pasó lo que te contaba de acompañar a otra persona en sus recorridos. En el tercero recuperamos algunas de las cosas que habían aparecido antes, pero sin dar por hecho que todas las personas habían asistido a los encuentros anteriores.\n\nHubo quien fue solo una vez. Eso estaba contemplado, aunque a mí al principio me costaba pensar cómo sostener una serie sin depender de que todo el mundo regresara. La mediadora lo resolvió preparando una entrada completa para cada sesión."
+    },
+    {
+      "id": "T071",
+      "parrafos": [
+        "P100"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Quiero detenerme en eso. Al inicio hablaste de continuidad y ahora de encuentros que pudieran funcionar por separado. ¿Cómo convivían esas dos cosas?"
+    },
+    {
+      "id": "T072",
+      "parrafos": [
+        "P101",
+        "P102"
+      ],
+      "voz": "Participante",
+      "texto": "Para mí la continuidad estaba en que podían volver y encontrar una propuesta relacionada, a las mismas personas del equipo y un horario conocido. No significaba llevar una tarea de una semana a otra.\n\nSi alguien regresaba, podía reconocer cosas y retomarlas. Si llegaba por primera vez, tenía una lectura y una invitación con las que empezar. Nosotras sí llevábamos memoria de lo que había ocurrido, pero no se la exigíamos a los participantes."
+    },
+    {
+      "id": "T073",
+      "parrafos": [
+        "P103"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Entiendo. La continuidad era parte de lo que ustedes sostenían como equipo."
+    },
+    {
+      "id": "T074",
+      "parrafos": [
+        "P104"
+      ],
+      "voz": "Participante",
+      "texto": "Sí, aunque también se fue dando entre algunas personas. Se saludaban y retomaban conversaciones. Eso ya no lo organizamos nosotras de la misma manera."
+    },
+    {
+      "id": "T075",
+      "parrafos": [
+        "P105"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Cómo llegaron al final que elegiste para este episodio?"
+    },
+    {
+      "id": "T076",
+      "parrafos": [
+        "P106",
+        "P107",
+        "P108"
+      ],
+      "voz": "Participante",
+      "texto": "En el tercer encuentro dijimos que con esa sesión terminaba la serie acordada. Dejamos tiempo para que quien quisiera comentara cómo la había vivido. Algunas personas dijeron que les había gustado escuchar relatos distintos; otras hablaron de la lectura o preguntaron si habría más encuentros. No todas hicieron un comentario de cierre.\n\nDespués acomodamos el salón y, en otro momento, conversé con las personas que llevan el espacio. Les conté lo que habíamos observado desde la coordinación y escuché cómo les había resultado recibirnos. Nos dijeron que el horario había convivido bien con las otras actividades y que les interesaría volver a hacer algo.\n\nYo llevé eso al equipo y acordamos que podíamos considerar otra propuesta cuando revisáramos la programación. Luego se los comuniqué así: había interés, pero todavía no una fecha ni un compromiso de repetir la misma serie."
+    },
+    {
+      "id": "T077",
+      "parrafos": [
+        "P109"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Quedó algo pendiente de resolver con quienes asistieron?"
+    },
+    {
+      "id": "T078",
+      "parrafos": [
+        "P110",
+        "P111"
+      ],
+      "voz": "Participante",
+      "texto": "No una gestión concreta. A quienes preguntaron por la continuidad les dijimos que, si se organizaba algo más, se anunciaría por los medios habituales del espacio. No les prometimos avisos individuales que después no supiéramos si podríamos cumplir.\n\nTambién quedó una idea de una participante: le interesaba un encuentro dedicado a leer textos que las propias personas llevaran. La anotamos como propuesta, pero no se decidió hacerla."
+    },
+    {
+      "id": "T079",
+      "parrafos": [
+        "P112"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Si ahora agruparas todo ese recorrido en partes, con nombres tuyos, ¿cómo lo ordenarías?"
+    },
+    {
+      "id": "T080",
+      "parrafos": [
+        "P113",
+        "P114",
+        "P115",
+        "P116"
+      ],
+      "voz": "Participante",
+      "texto": "Pondría primero “ver si coincidimos”. Ahí entran la invitación inicial del espacio, lo que nosotras queríamos hacer y las posibilidades de fechas. Es comprobar si estamos hablando de algo que ambas partes pueden sostener.\n\nDespués “aterrizar el encuentro”: ir al lugar, escuchar a algunas personas, elegir horario, preparar la propuesta y confirmar cómo vamos a invitar. No pondría la elección del lugar aparte de todo eso porque se fue resolviendo junto.\n\nLuego “hacer y ajustar”. Serían los tres encuentros y lo que hablamos entre uno y otro.\n\nY al final “cerrar y dejar claro qué sigue”. Aunque en este caso lo que seguía era esperar una nueva conversación, no otra actividad ya decidida."
+    },
+    {
+      "id": "T081",
+      "parrafos": [
+        "P117"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Dónde pondrías la revisión con tu compañera de programación?"
+    },
+    {
+      "id": "T082",
+      "parrafos": [
+        "P118"
+      ],
+      "voz": "Participante",
+      "texto": "En la primera y la segunda parte. Primero revisamos si podíamos comprometernos. Después volvimos a mirar el calendario cuando ya estaban las fechas concretas. No es una fase adicional; es una conversación que aparece más de una vez."
+    },
+    {
+      "id": "T083",
+      "parrafos": [
+        "P119"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Esas partes describen también otros proyectos que coordinas?"
+    },
+    {
+      "id": "T084",
+      "parrafos": [
+        "P120",
+        "P121"
+      ],
+      "voz": "Participante",
+      "texto": "Algunas sí, pero no siempre con el mismo peso. Cuando trabajamos en un lugar que ya conocemos bien, la visita puede ser más breve o no hacer falta para una actividad parecida. Si cambia lo que queremos hacer, hay que volver a mirar aunque conozcamos el lugar.\n\nY si nos invitan a una actividad que ya tiene fecha, no empezamos buscando horario. Empezamos viendo si podemos participar y qué sentido tendría nuestra aportación. Este recorrido describe bien esta serie; no lo usaría como una receta para todo."
+    },
+    {
+      "id": "T085",
+      "parrafos": [
+        "P122"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Quisiera volver a una decisión concreta: elegir el salón en la tarde entre semana. Para darla por suficientemente sustentada, ¿qué necesitabas saber?"
+    },
+    {
+      "id": "T086",
+      "parrafos": [
+        "P123",
+        "P124"
+      ],
+      "voz": "Participante",
+      "texto": "Que el espacio estuviera disponible de verdad en las tres fechas, que el equipo pudiera estar y que hubiera personas interesadas para quienes ese horario fuera posible. También que el salón permitiera hacer la actividad que estábamos imaginando.\n\nNo necesitaba saber cuántas personas de toda la zona preferían la tarde. No teníamos una pregunta de ese tamaño. Necesitaba saber si podíamos hacer una invitación razonable y cumplir lo que decía."
+    },
+    {
+      "id": "T087",
+      "parrafos": [
+        "P125"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿En qué te apoyaste para cada una de esas cosas?"
+    },
+    {
+      "id": "T088",
+      "parrafos": [
+        "P126",
+        "P127"
+      ],
+      "voz": "Participante",
+      "texto": "Para el uso del salón, en las personas que lo llevan y en la confirmación que nos dieron después de revisar sus actividades. Para el equipo, en nuestras agendas y en hablar directamente con la mediadora. Para el interés de posibles asistentes, en las respuestas que recibimos y en lo que se había expresado en la actividad anterior.\n\nY para saber cómo era estar en el salón, en la visita. Ahí no me servía solo que alguien dijera “está bien”. Necesitaba imaginar la actividad, sentarnos, escuchar un poco, ver por dónde se entraba."
+    },
+    {
+      "id": "T089",
+      "parrafos": [
+        "P128"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Cómo tenías reunido eso cuando tocó decidir?"
+    },
+    {
+      "id": "T090",
+      "parrafos": [
+        "P129",
+        "P130"
+      ],
+      "voz": "Participante",
+      "texto": "En mis notas y en los mensajes de las conversaciones. Hice un resumen breve para revisarlo con mi compañera: las fechas posibles, el espacio y lo que faltaba confirmar. Cuando ya estuvo acordado, anoté las fechas en el calendario del equipo y compartí el acuerdo con las personas involucradas.\n\nPara este caso funcionó. No era tanta información como para que necesitáramos algo más elaborado."
+    },
+    {
+      "id": "T091",
+      "parrafos": [
+        "P131"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Hubo alguna diferencia entre lo que recordabas y lo que habías anotado?"
+    },
+    {
+      "id": "T092",
+      "parrafos": [
+        "P132"
+      ],
+      "voz": "Participante",
+      "texto": "No recuerdo una diferencia importante en esta serie. Sí volví a un mensaje para comprobar a qué hora terminaba la actividad anterior al uso del salón. Tenía la idea general, pero antes de cerrar nuestro horario preferí mirar lo que me habían dicho."
+    },
+    {
+      "id": "T093",
+      "parrafos": [
+        "P133"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Qué te hizo sentir que ya alcanzaba para anunciar?"
+    },
+    {
+      "id": "T094",
+      "parrafos": [
+        "P134",
+        "P135"
+      ],
+      "voz": "Participante",
+      "texto": "Que lo pendiente ya no afectaba la posibilidad de realizar los encuentros. Podíamos seguir eligiendo una lectura o ajustar cuántas hojas llevar, pero el lugar, las fechas, el equipo y la forma de recibir a la gente estaban acordados.\n\nLa asistencia exacta no la sabíamos. Eso quedó abierto. Llevamos materiales adicionales y acordamos un acomodo posible si llegaba más gente de la que esperábamos. Al final el salón alcanzó bien."
+    },
+    {
+      "id": "T095",
+      "parrafos": [
+        "P136"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Cómo llegaron a esa expectativa de asistencia?"
+    },
+    {
+      "id": "T096",
+      "parrafos": [
+        "P137"
+      ],
+      "voz": "Participante",
+      "texto": "Por la actividad anterior y por las personas que habían mostrado interés. Era una estimación de trabajo, no una confirmación. Algunas de las personas que dijeron que querían ir no llegaron y otras asistieron sin habernos avisado. No fue sorprendente; no habíamos planteado una inscripción previa."
+    },
+    {
+      "id": "T097",
+      "parrafos": [
+        "P138"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Al escuchar cómo verificaron el salón y el horario, podría parecer que toda la decisión descansó en saber si el lugar funcionaba. ¿Qué estaría dejando fuera esa lectura?"
+    },
+    {
+      "id": "T098",
+      "parrafos": [
+        "P139",
+        "P140"
+      ],
+      "voz": "Participante",
+      "texto": "El sentido de la actividad. Podíamos tener un salón disponible y aun así no tener una propuesta que nos interesara compartir ahí. También estaba la relación con quienes nos recibían y la disposición de algunas personas a participar.\n\nY algo más: elegimos entre opciones posibles. No estábamos buscando el mejor salón de la ciudad. Teníamos una invitación concreta y vimos si ahí podíamos hacer este trabajo."
+    },
+    {
+      "id": "T099",
+      "parrafos": [
+        "P141"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Sí, estaba ampliando demasiado el alcance de la elección. La decisión fue sobre cómo realizar esa propuesta en esa relación y en ese lugar."
+    },
+    {
+      "id": "T100",
+      "parrafos": [
+        "P142"
+      ],
+      "voz": "Participante",
+      "texto": "Eso describe mejor lo que pasó."
+    },
+    {
+      "id": "T101",
+      "parrafos": [
+        "P143"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Sobre las perspectivas que conocieron, mencionaste respuestas antes de empezar y comentarios durante los encuentros. ¿Qué te permitieron entender esos intercambios?"
+    },
+    {
+      "id": "T102",
+      "parrafos": [
+        "P144",
+        "P145"
+      ],
+      "voz": "Participante",
+      "texto": "Antes, principalmente disponibilidad e interés. Durante los encuentros conocimos más de lo que a cada persona le hacía sentido en la actividad. Por ejemplo, alguien podía haber llegado por la lectura y descubrir que disfrutaba contar algo propio. Eso no lo sabíamos al preguntar por un horario.\n\nTambién conocimos opiniones diferentes sobre escribir. Algunas personas querían más tiempo; otras estaban cómodas escuchando. No teníamos que resolver eso eligiendo una sola forma de participar."
+    },
+    {
+      "id": "T103",
+      "parrafos": [
+        "P146"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Y qué quedó fuera de tu alcance?"
+    },
+    {
+      "id": "T104",
+      "parrafos": [
+        "P147",
+        "P148"
+      ],
+      "voz": "Participante",
+      "texto": "La experiencia de quienes no llegaron. Si alguien nos dijo que ese horario no le servía, sabíamos eso. Si simplemente no vino, no sabíamos por qué. Podía ser el horario, falta de interés, otro pendiente o cualquier cosa. No me corresponde completar esa explicación.\n\nDe quienes asistieron tampoco sabíamos todo. Que alguien dijera al final que le gustó no significa que todos los detalles le parecieran bien. Yo puedo hablar de lo que escuché y observé, y de las decisiones que tomamos con eso."
+    },
+    {
+      "id": "T105",
+      "parrafos": [
+        "P149"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Ahora quisiera plantearte un ejercicio distinto. Pensando en organizar otra actividad de este tipo, ¿qué te gustaría poder saber, aunque hoy no conozcas una fuente para encontrarlo?"
+    },
+    {
+      "id": "T106",
+      "parrafos": [
+        "P150",
+        "P151"
+      ],
+      "voz": "Participante",
+      "texto": "Me gustaría conocer mejor los ritmos de uso de un lugar antes de proponer una serie. No solamente qué horas están libres, sino cómo se vive ese horario. Si la gente llega con tiempo o de paso, si se puede quedar, qué otras actividades le dan movimiento al espacio.\n\nEn este caso pudimos averiguar lo necesario conversando. No sentí que nos faltara algo indispensable. Pero para un lugar nuevo me ayudaría poder acercarme a eso más rápido."
+    },
+    {
+      "id": "T107",
+      "parrafos": [
+        "P152"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Cuando dices “cómo se vive ese horario”, ¿qué decisión te permitiría tomar?"
+    },
+    {
+      "id": "T108",
+      "parrafos": [
+        "P153",
+        "P154"
+      ],
+      "voz": "Participante",
+      "texto": "Si conviene proponer encuentros que duren un rato y tengan una conversación tranquila, o algo más breve a lo que una persona pueda sumarse sin quedarse toda la actividad. También si tiene sentido mantener un horario por varias semanas.\n\nAhora, no creo que eso se pueda saber solamente por una descripción. Me gustaría tener una primera idea para hacer mejores preguntas cuando vaya."
+    },
+    {
+      "id": "T109",
+      "parrafos": [
+        "P155"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Imagina que puedes organizar esa información a tu manera. ¿Cómo la tendrías disponible y qué harías primero al consultarla?"
+    },
+    {
+      "id": "T110",
+      "parrafos": [
+        "P156",
+        "P157",
+        "P158"
+      ],
+      "voz": "Participante",
+      "texto": "Como una carpeta de cada espacio con el que trabajamos. Puede ser algo sencillo que podamos abrir en el equipo. Yo empezaría por una página donde aparezca con quién hablamos, qué actividades hemos hecho ahí y qué necesitamos volver a preguntar.\n\nDespués me gustaría encontrar una descripción del uso del lugar en distintos momentos, contada por quienes lo conocen. Algo como: “En esta franja hay movimiento de personas que salen de otra actividad; en esta otra suelen quedarse más tiempo”. Pero dejando claro quién nos lo dijo y en qué ocasión lo conversamos, porque no sería una verdad permanente del lugar.\n\nTambién pondría nuestras propias notas después de una actividad, separadas de lo que nos dijeron antes. En esta serie, por ejemplo, anotaría lo de la puerta entreabierta porque es algo que aprendimos al estar ahí."
+    },
+    {
+      "id": "T111",
+      "parrafos": [
+        "P159"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Cómo usarías esa carpeta con otras personas?"
+    },
+    {
+      "id": "T112",
+      "parrafos": [
+        "P160",
+        "P161"
+      ],
+      "voz": "Participante",
+      "texto": "Antes de una reunión de equipo, podríamos verla para recordar lo que ya sabemos y detectar lo que falta preguntar. Si otra compañera coordina una actividad en el mismo espacio, no tendría que empezar pidiéndome que recuerde todo.\n\nCon quienes llevan el lugar, usaría algunas notas para comprobar si siguen teniendo sentido. Les diría: “La vez anterior entendimos esto, ¿cómo está ahora?”. No llegaría con la carpeta a explicarles su propio espacio."
+    },
+    {
+      "id": "T113",
+      "parrafos": [
+        "P162"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Qué habría sobre las personas que asisten?"
+    },
+    {
+      "id": "T114",
+      "parrafos": [
+        "P163",
+        "P164"
+      ],
+      "voz": "Participante",
+      "texto": "Pondría comentarios sobre la actividad que ayuden a organizar, sin hacer perfiles de cada persona. Por ejemplo, que fue útil explicar que se podía participar escuchando o que hubo interés en llevar lecturas propias.\n\nNo pondría “la gente de este lugar prefiere tal cosa”, porque con tres encuentros no sabemos eso. Y una propuesta que hace una persona puede guardarse como propuesta, sin convertirla en la opinión del grupo."
+    },
+    {
+      "id": "T115",
+      "parrafos": [
+        "P165"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Esa diferencia parece importante para lo que imaginas: conservar algo que sirva sin endurecerlo como una característica del lugar o de sus asistentes."
+    },
+    {
+      "id": "T116",
+      "parrafos": [
+        "P166"
+      ],
+      "voz": "Participante",
+      "texto": "Sí. Si no, después una nota nuestra termina pesando más que la conversación nueva. Eso no me serviría."
+    },
+    {
+      "id": "T117",
+      "parrafos": [
+        "P167"
+      ],
+      "voz": "Entrevistador",
+      "texto": "De todo ese espacio que acabas de describir, ¿qué priorizarías?"
+    },
+    {
+      "id": "T118",
+      "parrafos": [
+        "P168",
+        "P169"
+      ],
+      "voz": "Participante",
+      "texto": "Los acuerdos prácticos del uso del lugar y las cosas que hay que volver a preguntar. Empezaría por ahí. Lo demás puede crecer si de verdad lo usamos.\n\nPor ejemplo, antes de proponer fechas quisiera encontrar rápidamente qué horario funcionó la vez anterior, qué habíamos confirmado y con quién. No para repetirlo automáticamente, sino para saber desde dónde retomar la conversación."
+    },
+    {
+      "id": "T119",
+      "parrafos": [
+        "P170"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Cómo notarías que esa forma de tener la información te ayuda?"
+    },
+    {
+      "id": "T120",
+      "parrafos": [
+        "P171",
+        "P172"
+      ],
+      "voz": "Participante",
+      "texto": "Si otra persona del equipo pudiera preparar el acercamiento sin que yo tuviera que contarle toda la historia desde cero. Y si al hablar con el espacio pudiéramos ir directo a confirmar lo que puede haber cambiado, en vez de preguntar otra vez cosas que ya nos explicaron.\n\nPero tendría que ser fácil dejar la nota. Si después de cada encuentro nos pide más trabajo del que nos ahorra al preparar el siguiente, probablemente no la mantendríamos. Para esta serie mis notas fueron suficientes. La carpeta que imagino tendría más sentido si varias personas necesitamos retomar la relación."
+    },
+    {
+      "id": "T121",
+      "parrafos": [
+        "P173"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿La información sobre cómo llegan las personas al espacio también tendría un lugar ahí?"
+    },
+    {
+      "id": "T122",
+      "parrafos": [
+        "P174",
+        "P175"
+      ],
+      "voz": "Participante",
+      "texto": "Solo lo que hubiéramos conocido y fuera útil. Lo de cuál puerta se usa, por ejemplo, sí. También una referencia que las personas del lugar recomienden para encontrarlo.\n\nSobre recorridos de los asistentes no juntaría información por juntar. Aunque esa fue la conversación de los encuentros, no necesitábamos saber desde dónde venía cada persona para organizarlos. Si alguien nos dijera que una indicación de llegada es confusa, atenderíamos eso. Es distinto de querer registrar sus trayectos."
+    },
+    {
+      "id": "T123",
+      "parrafos": [
+        "P176"
+      ],
+      "voz": "Entrevistador",
+      "texto": "De acuerdo. El tema cultural de la actividad no se convierte automáticamente en información que necesites para coordinar."
+    },
+    {
+      "id": "T124",
+      "parrafos": [
+        "P177"
+      ],
+      "voz": "Participante",
+      "texto": "Exacto. Los relatos tenían su sentido dentro del encuentro."
+    },
+    {
+      "id": "T125",
+      "parrafos": [
+        "P178"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Qué conservarías de tu forma actual de trabajar, incluso si tuvieras esa carpeta ideal?"
+    },
+    {
+      "id": "T126",
+      "parrafos": [
+        "P179",
+        "P180"
+      ],
+      "voz": "Participante",
+      "texto": "Ir al lugar cuando la actividad lo amerita y hablar con las personas. Hay cosas que entiendo mejor estando ahí. Y conservaría la conversación entre la mediadora y quien coordina después de cada encuentro. A veces son pocos minutos, pero ahí se reconoce algo que conviene ajustar.\n\nTambién me gusta que no todo tenga que quedar decidido desde el principio. Confirmar el horario y el salón nos dio estabilidad. Elegir exactamente por dónde iba a entrar cada conversación necesitaba otro margen."
+    },
+    {
+      "id": "T127",
+      "parrafos": [
+        "P181"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Hay alguna parte en la que hoy prefieras seguir como estás?"
+    },
+    {
+      "id": "T128",
+      "parrafos": [
+        "P182"
+      ],
+      "voz": "Participante",
+      "texto": "La comunicación de los acuerdos de una serie pequeña. Con una nota clara, el calendario y mensajes directos nos entendemos. No cambiaría eso solo por tener otra manera de hacerlo. Lo que me atrae de la carpeta es poder retomar experiencias entre distintas personas del equipo, no mudar cada conversación a otro sitio."
+    },
+    {
+      "id": "T129",
+      "parrafos": [
+        "P183"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Hemos hablado de lo que funcionó, de algunos ajustes y de lo que te gustaría conocer mejor. Mirando este episodio, ¿hay una decisión que ahora tomarías de otra forma?"
+    },
+    {
+      "id": "T130",
+      "parrafos": [
+        "P184",
+        "P185"
+      ],
+      "voz": "Participante",
+      "texto": "Haría más explícito desde la invitación que cada encuentro podía disfrutarse por separado, y lo repetiría al recibir a la gente. Lo teníamos en mente, pero no estoy segura de que se entendiera igual desde afuera.\n\nEl horario y el salón los volvería a elegir con la información que teníamos. No veo una razón para decir ahora que estuvieron mal. Sí volvería a comprobarlos para otra serie."
+    },
+    {
+      "id": "T131",
+      "parrafos": [
+        "P186"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Qué te hace separar esas dos cosas?"
+    },
+    {
+      "id": "T132",
+      "parrafos": [
+        "P187"
+      ],
+      "voz": "Participante",
+      "texto": "Que una es algo que podemos comunicar mejor a partir de lo que vimos. La otra funcionó para esta ocasión, pero depende de acuerdos y usos del espacio que pueden cambiar. No necesito arrepentirme de una elección para revisarla la próxima vez."
+    },
+    {
+      "id": "T133",
+      "parrafos": [
+        "P188"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Antes de terminar, quisiera comprobar una idea general. En esta experiencia, coordinar implicó reunir posibilidades de varias personas, confirmar unas condiciones para poder invitar y acompañar lo que ocurría sin fijar toda la actividad por adelantado. Las conversaciones y la visita te dieron información suficiente para decidir, con un alcance concreto. ¿Qué corregirías de esa lectura?"
+    },
+    {
+      "id": "T134",
+      "parrafos": [
+        "P189",
+        "P190"
+      ],
+      "voz": "Participante",
+      "texto": "Está cerca. Solo añadiría que no fue únicamente reunir posibilidades que ya estaban ahí. También fuimos armando una propuesta entre varias personas. La mediadora no llegó con algo cerrado y las personas del espacio tampoco nos dieron nada más una lista de horarios.\n\nCuando conversamos, cambió un poco lo que cada quien estaba imaginando. Eso también es coordinar para mí: ayudar a que esa propuesta tome forma y luego poder cumplirla."
+    },
+    {
+      "id": "T135",
+      "parrafos": [
+        "P191"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Gracias por señalarlo. Mi formulación dejaba tu trabajo más cerca de acomodar agendas de lo que muestra lo que contaste."
+    },
+    {
+      "id": "T136",
+      "parrafos": [
+        "P192"
+      ],
+      "voz": "Participante",
+      "texto": "Las agendas sí ocupan bastante tiempo."
+    },
+    {
+      "id": "T137",
+      "parrafos": [
+        "P193"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Sí, y en tu relato estaban ligadas a algo que estaban construyendo. ¿Hay algún último matiz que quisieras dejar?"
+    },
+    {
+      "id": "T138",
+      "parrafos": [
+        "P194",
+        "P195"
+      ],
+      "voz": "Participante",
+      "texto": "Que cuando hablo de lo que resultó bien no quiero decir que sepamos todo lo que significó para las personas. Podemos decir que hicimos los tres encuentros, que el lugar funcionó y que escuchamos ciertos comentarios. Para mí eso ya permite valorar el trabajo sin tener que afirmar que cambió la vida de quienes fueron.\n\nY también que una actividad puede terminar ahí. Si hacemos otra, tendrá que volver a tener sentido para quienes participen y para quienes la organicemos."
+    },
+    {
+      "id": "T139",
+      "parrafos": [
+        "P196"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Lo tomo. Gracias por compartir el recorrido con tanto detalle y por precisar hasta dónde puedes hablar desde tu experiencia."
+    },
+    {
+      "id": "T140",
+      "parrafos": [
+        "P197"
+      ],
+      "voz": "Participante",
+      "texto": "Gracias. Me gustó poder contar también esa parte de preparar y ajustar, que a veces queda menos visible que el encuentro mismo."
+    }
+  ]
+}

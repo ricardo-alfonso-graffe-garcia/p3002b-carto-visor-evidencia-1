@@ -1,0 +1,95 @@
+{
+  "version": "1.2",
+  "pdf_sha256": "9f478257978a7016a9cc6b64e5bbd94cd5b54c1577bac85b56afb14df50c43cc",
+  "docx_sha256": "e610014b3fe13681044e9d8771eae8b97f752114e00ff8457ae76c2516729891",
+  "paginas_totales": 13,
+  "paginas_cuerpo": 10,
+  "paginas_pdf_cuerpo": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "revision_visual": "REALIZADA_ASISTIDA",
+  "revision_humana_independiente": "PENDIENTE",
+  "figuras_cuerpo": 2,
+  "tablas_cuerpo": 6,
+  "paginas_inspeccionadas": [
+    {
+      "pagina": 1,
+      "png_sha256": "31402ec6ad62d8a28945ed83f055d175948d698faba50fc827217abcf3f6b014",
+      "resultado": "Legible, sin recorte o solapamiento observado; tablas continuadas con encabezado repetido."
+    },
+    {
+      "pagina": 2,
+      "png_sha256": "b5baced6a9b345396c88c4a5db9b8ee57742ffef71d3b4740fa37b38859e0fec",
+      "resultado": "Legible, sin recorte o solapamiento observado; tablas continuadas con encabezado repetido."
+    },
+    {
+      "pagina": 3,
+      "png_sha256": "23fd69c3c82144f179d0d8d5d888c3d2c8f9b736145ee1a0353968b3a63b5ec6",
+      "resultado": "Legible, sin recorte o solapamiento observado; tablas continuadas con encabezado repetido."
+    },
+    {
+      "pagina": 4,
+      "png_sha256": "f1a119ab733f35bf5fd0d4b83e65912978eb0ea917c331acf2a4e9e2a91c67ec",
+      "resultado": "Legible, sin recorte o solapamiento observado; tablas continuadas con encabezado repetido."
+    },
+    {
+      "pagina": 5,
+      "png_sha256": "95471eb2feb42788d8b3dde65be77dd150f34c23e8b19cbfa962bf3a9e7d9164",
+      "resultado": "Legible, sin recorte o solapamiento observado; tablas continuadas con encabezado repetido."
+    },
+    {
+      "pagina": 6,
+      "png_sha256": "0c1687633ca21425cdf99c6a0723f6081aea830d4ca0ec9f7ed245d7f56c22c5",
+      "resultado": "Legible, sin recorte o solapamiento observado; tablas continuadas con encabezado repetido."
+    },
+    {
+      "pagina": 7,
+      "png_sha256": "55f543b09234b2b43b8def0ff721ebe627977ebbbd8d14939259f41a7b4aeea3",
+      "resultado": "Legible, sin recorte o solapamiento observado; tablas continuadas con encabezado repetido."
+    },
+    {
+      "pagina": 8,
+      "png_sha256": "6c5be8a3de2f9698bd467426f46dd0542039a703c5891eed3bc72d7410840e24",
+      "resultado": "Legible, sin recorte o solapamiento observado; tablas continuadas con encabezado repetido."
+    },
+    {
+      "pagina": 9,
+      "png_sha256": "3db75443d383106b8534c8b8e95635bb80334ea32ab0b5755ba061149c836ee7",
+      "resultado": "Legible, sin recorte o solapamiento observado; tablas continuadas con encabezado repetido."
+    },
+    {
+      "pagina": 10,
+      "png_sha256": "d076259d5d092393843543b49b64b486c3c475f0441d89b61fc92853f8d948e5",
+      "resultado": "Legible, sin recorte o solapamiento observado; tablas continuadas con encabezado repetido."
+    },
+    {
+      "pagina": 11,
+      "png_sha256": "f780b48a7724424831b8185602ea0191f28bf8ca4d3ca48a5b461c3edf11002c",
+      "resultado": "Legible, sin recorte o solapamiento observado; tablas continuadas con encabezado repetido."
+    },
+    {
+      "pagina": 12,
+      "png_sha256": "c003748be41d40e5e7c0e2d82cf3f3b32f2355a85a01a83a84aeaf33a49b01c5",
+      "resultado": "Legible, sin recorte o solapamiento observado; tablas continuadas con encabezado repetido."
+    },
+    {
+      "pagina": 13,
+      "png_sha256": "841bfa662520468fc52a380d6518f8bb673b2f3da29f3384ec85ffb17b2dadbc",
+      "resultado": "Legible, sin recorte o solapamiento observado; tablas continuadas con encabezado repetido."
+    }
+  ],
+  "atlas": {
+    "paginas": 6,
+    "revision_visual": "Se inspeccionaron las seis páginas, fichas y diagrama; revisión asistida."
+  },
+  "alcance": "Paginación del PDF y render de este Word; no garantía de idéntica repaginación en otros editores ni revisión humana."
+}

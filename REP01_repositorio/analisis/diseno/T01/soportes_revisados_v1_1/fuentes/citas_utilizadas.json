@@ -1,0 +1,57 @@
+[
+  {
+    "cita": "No quisiera que pareciera que este caso quedó a medias por no tener esa carpeta que imaginamos.",
+    "evidencia": "N01-V0041",
+    "parrafo": "E01-P157",
+    "voz": "Participante",
+    "coincide": true,
+    "contexto_pregunta": [
+      "E01-P156"
+    ],
+    "nota_contextual": "Distinguir episodio atendido de ideal E01. Fuente: E01-P157, voz Participante."
+  },
+  {
+    "cita": "O explicar menos, pero mejor.",
+    "evidencia": "N01-V0094",
+    "parrafo": "E02-P148",
+    "voz": "Participante",
+    "coincide": true,
+    "contexto_pregunta": [
+      "E02-P147"
+    ],
+    "nota_contextual": "La utilidad del contraste E02 puede reducir alcance. Fuente: E02-P148, voz Participante."
+  },
+  {
+    "cita": "Con una nota clara, el calendario y mensajes directos nos entendemos.",
+    "evidencia": "N01-V0177",
+    "parrafo": "E03-P182",
+    "voz": "Participante",
+    "coincide": true,
+    "contexto_pregunta": [
+      "E03-P181"
+    ],
+    "nota_contextual": "Preservar comunicación suficiente de serie pequeña E03. Fuente: E03-P182, voz Participante."
+  },
+  {
+    "cita": "Pero para la suavidad preferiría tener el pedazo en la mano.",
+    "evidencia": "N01-V0245",
+    "parrafo": "E04-P152",
+    "voz": "Participante",
+    "coincide": true,
+    "contexto_pregunta": [
+      "E04-P150"
+    ],
+    "nota_contextual": "Conservar tangibilidad de muestras en ideal E04. Fuente: E04-P152, voz Participante."
+  },
+  {
+    "cita": "Encontré uno y lo compré, pero no era la condición para que funcionara.",
+    "evidencia": "N01-V0305",
+    "parrafo": "E05-P173",
+    "voz": "Participante",
+    "coincide": true,
+    "contexto_pregunta": [
+      "E05-P172"
+    ],
+    "nota_contextual": "Descubrimiento y encuentro no se reducen a compra E05. Fuente: E05-P173, voz Participante."
+  }
+]

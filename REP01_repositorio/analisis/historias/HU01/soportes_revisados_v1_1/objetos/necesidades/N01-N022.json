@@ -1,0 +1,179 @@
+{
+  "id": "N01-N022",
+  "titulo": "Unidades y porciones disponibles al despachar",
+  "enunciado": "La persona que atiende y compra para la mercería necesita conocer qué rollo se está cortando, cuál debe acabarse primero y qué remanente no sirve para cualquier medida, para despachar unidades reconocibles e incorporar el rollo nuevo sin mezclar porciones, en el contexto de reposición y atención de una mercería de barrio.",
+  "actores": [
+    "ACT01-A019"
+  ],
+  "entrevistas": [
+    "E04"
+  ],
+  "contexto": "Desde revisar el rollo reducido hasta el primer despacho del nuevo; petición de suavidad es antecedente.",
+  "decision": "Despachar unidades reconocibles e incorporar el rollo nuevo sin mezclar porciones",
+  "objeto_informacion": "qué rollo se está cortando, cuál debe acabarse primero y qué remanente no sirve para cualquier medida",
+  "tipo": "NECESIDAD_ACTUAL",
+  "estado_actual": "ATENDIDA_EN_EPISODIO",
+  "informacion_actual": "Guardó por ancho, dejó abierto al frente, separó recorte y comenzó después a vender del nuevo; al primer corte no notó diferencia de manejo.",
+  "faltante_o_deseada": "No se declaró pérdida de identificación, inventario deficiente ni necesidad de sistema digital.",
+  "condiciones_y_limites": "No implica lote formal ni cantidades o pérdidas; cierre es primer despacho, no venta de todo el rollo y no coser prendas.",
+  "soportes_mencionados": [
+    "Rollos físicos",
+    "Sección por ancho",
+    "Recortes separados",
+    "Muestra conservada"
+  ],
+  "conservar": [
+    "No mezclar porciones",
+    "Consumir unidad abierta primero",
+    "Comprobar manejo al despachar"
+  ],
+  "evidencias": [
+    "N01-V0223",
+    "N01-V0230",
+    "N01-V0231",
+    "N01-V0232",
+    "N01-V0233",
+    "N01-V0234",
+    "N01-V0235"
+  ],
+  "evidencia_que_limita": [
+    "N01-V0236",
+    "N01-V0204"
+  ],
+  "razon_sin_contraevidencia": null,
+  "contexto_elicitacion": "Reconstrucción retrospectiva del episodio y repreguntas sobre decisión y suficiencia. La atribución descansa en respuestas de participante; preguntas, metáforas y recapitulaciones no son corroboración. Los localizadores del contexto están en cada evidencia.",
+  "codigos_comunes": [
+    "C064",
+    "C011",
+    "C004"
+  ],
+  "hallazgos_s01": [
+    "S01-H002",
+    "S01-H013"
+  ],
+  "componentes_p01": [
+    "P01-E04-N011",
+    "P01-E04-N012",
+    "P01-E04-N013",
+    "P01-E04-N014",
+    "P01-E04-N015"
+  ],
+  "preferencias_act01": [
+    "ACT01-PR018"
+  ],
+  "variantes_por_caso": [],
+  "vinculo_territorial": {
+    "tipo": "NO_CARTOGRAFICO_DIRECTO",
+    "razon": "Se trata de disposición material dentro de las existencias y orden de uso, no de territorio urbano.",
+    "evidencias": [
+      "N01-V0223",
+      "N01-V0230"
+    ],
+    "limites": "La pertinencia del lugar no demuestra necesidad de coordenadas o de un mapa. Negocio y proveedores no identificados; el perfil no es especialista cartográfico ni productor público. No hay prueba de costura o lavado ni resultado de la clienta conocidos."
+  },
+  "vinculos_sectoriales": [
+    {
+      "sector": "PRIVADO",
+      "actividad": "Reposición y atención de una mercería de barrio",
+      "iniciativa": null,
+      "estatus_iniciativa": "ACTIVIDAD_RELATADA_SIN_NOMBRE_FORMAL",
+      "nexo": "USO_PRIVADO",
+      "razon": "La decisión corresponde al surtido y atención de un comercio; cercanía barrial no demuestra iniciativa pública.",
+      "evidencias": [
+        "N01-V0347",
+        "N01-V0223",
+        "N01-V0230"
+      ],
+      "limites": "No se identificó programa público que origine esta necesidad. Negocio y proveedores no identificados; el perfil no es especialista cartográfico ni productor público. No hay prueba de costura o lavado ni resultado de la clienta conocidos."
+    }
+  ],
+  "verificacion": [
+    {
+      "id": "N01-K022",
+      "observable": "Se reconoce qué unidad se entrega y qué porción está disponible para la medida solicitada; el cierre se ubica en el primer despacho del nuevo.",
+      "metodo": "Contrastar la disposición y el relato de uso con las unidades si se aportan; observar posteriormente el reconocimiento al despachar, sin atribuir trazabilidad informática.",
+      "origen": "PROPUESTA_ANALITICA",
+      "estado": "PROPUESTA_NO_EJECUTADA",
+      "evidencias": [
+        "N01-V0223",
+        "N01-V0230",
+        "N01-V0231",
+        "N01-V0232",
+        "N01-V0233",
+        "N01-V0234",
+        "N01-V0235"
+      ],
+      "limites": "Comprobación futura; no se ejecutó ni acredita aceptación humana. No se fijan umbrales numéricos. No implica lote formal ni cantidades o pérdidas; cierre es primer despacho, no venta de todo el rollo y no coser prendas.",
+      "desglose_origen": {
+        "observable": "PROPUESTA_ANALITICA",
+        "operacionalizacion_metodo": "PROPUESTA_ANALITICA",
+        "aceptacion": "NO_RECABADA"
+      }
+    }
+  ],
+  "prioridad": {
+    "ambito": "E04",
+    "nivel": "ALTA",
+    "origen": "ANALISIS_CONDICIONAL",
+    "criterios": [
+      "N01-CP001",
+      "N01-CP002",
+      "N01-CP003",
+      "N01-CP004"
+    ],
+    "razon": "Es parte de completar la reposición y saber qué se corta; no desaparece por tener una referencia documental correcta.",
+    "comparables": [
+      "N01-N018",
+      "N01-N019"
+    ],
+    "limites": "Orden parcial dentro de esta actividad. No compara importancia urbana ni factibilidad técnica; evidencia más sólida no equivale a más impacto. Comparar distingue dependencias y momentos; las necesidades no son sustitutos y se admiten empates. En ideales frente a actuales, el nivel se lee dentro de su modalidad."
+  },
+  "importancia_expresada": "No hay priorización comparable explícita de esta pieza por la persona. El nivel asignado es del análisis.",
+  "pertinencia_diseno_posterior": "PENDIENTE: revisar con usuarios y encargo; la legitimidad de la necesidad no prescribe un soporte ni su incorporación a un visor.",
+  "factibilidad": "NO_DETERMINADA",
+  "incognitas": [
+    "No están disponibles los rollos ni observación directa del despacho."
+  ],
+  "enlaces_codigos_asignados": [
+    {
+      "codigo": "C064",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R04-S075",
+        "R04-S152",
+        "R04-S153"
+      ],
+      "evidencias": [
+        "N01-V0223",
+        "N01-V0230",
+        "N01-V0233"
+      ]
+    },
+    {
+      "codigo": "C011",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R04-S074",
+        "R04-S077",
+        "R04-S085",
+        "R04-S086"
+      ],
+      "evidencias": [
+        "N01-V0232",
+        "N01-V0234",
+        "N01-V0235"
+      ]
+    },
+    {
+      "codigo": "C004",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R04-S073"
+      ],
+      "evidencias": [
+        "N01-V0231"
+      ]
+    }
+  ],
+  "codigos_contextuales": []
+}

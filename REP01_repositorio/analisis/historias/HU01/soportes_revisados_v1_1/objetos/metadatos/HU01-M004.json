@@ -1,0 +1,454 @@
+{
+  "id": "HU01-M004",
+  "nombre": "Información para precisar qué salidas pueden compararse",
+  "historias": [
+    "HU01-H004"
+  ],
+  "descripcion": "Perfil preliminar de conocimiento requerido para la decisión; separa información respaldada por relato, propuestas, desconocidos y no aplicables. No inventario de datos disponibles.",
+  "campos": [
+    {
+      "campo": "variables_significados",
+      "estado": "RESPALDADO",
+      "valor": [
+        "qué actividades integra cada salida, desde dónde empieza, para qué se compra y cómo importan tiempo y posición relativa"
+      ],
+      "justificacion": "Clases de información expresadas en el corpus, sin aportar sus valores originales ni afirmar que los soportes estén disponibles. Las variables conservan la decisión concreta de la historia.",
+      "evidencias": [
+        "N01-V0044",
+        "N01-V0045",
+        "N01-V0046",
+        "N01-V0047",
+        "N01-V0048",
+        "N01-V0049",
+        "N01-V0050",
+        "N01-V0051",
+        "N01-V0052",
+        "N01-V0053",
+        "N01-V0054",
+        "N01-V0055",
+        "N01-V0056",
+        "N01-V0057",
+        "N01-V0058"
+      ]
+    },
+    {
+      "campo": "fuente_responsable",
+      "estado": "RESPALDADO",
+      "valor": {
+        "fuentes_funcionales": "Notas de quienes estuvieron, reconstrucción con personas, colega y colaboradora; no perspectivas directas de toda familia o comerciantes.",
+        "responsable_formal": null,
+        "disponibilidad_materiales": "NO_ACREDITADA"
+      },
+      "justificacion": "La atribución funcional se respalda en lo relatado; no identifica autor formal ni responsable futuro de base.",
+      "evidencias": [
+        "N01-V0044",
+        "N01-V0045",
+        "N01-V0046",
+        "N01-V0047",
+        "N01-V0048",
+        "N01-V0049",
+        "N01-V0050",
+        "N01-V0051",
+        "N01-V0052",
+        "N01-V0053",
+        "N01-V0054",
+        "N01-V0055",
+        "N01-V0056",
+        "N01-V0057",
+        "N01-V0058"
+      ]
+    },
+    {
+      "campo": "unidad",
+      "estado": "RESPALDADO",
+      "valor": "Salida completa o decisión acotada según origen, propósito y actividades.",
+      "justificacion": "Clases de información expresadas en el corpus, sin aportar sus valores originales ni afirmar que los soportes estén disponibles. No se inventan códigos de artículo, metros, tiempos o precios ausentes.",
+      "evidencias": [
+        "N01-V0044",
+        "N01-V0045",
+        "N01-V0046",
+        "N01-V0047",
+        "N01-V0048",
+        "N01-V0049",
+        "N01-V0050",
+        "N01-V0051",
+        "N01-V0052",
+        "N01-V0053",
+        "N01-V0054",
+        "N01-V0055",
+        "N01-V0056",
+        "N01-V0057",
+        "N01-V0058"
+      ]
+    },
+    {
+      "campo": "cobertura_geografica",
+      "estado": "RESPALDADO",
+      "valor": {
+        "contexto": "Ciudad de México según perfil y relato; sin geometrías o sitios identificados.",
+        "unidad_situada": "Lugares de la actividad relatada, sin representatividad territorial."
+      },
+      "justificacion": "El contexto territorial no define extensión exacta del conjunto ni autoriza desanonimización.",
+      "evidencias": [
+        "N01-V0044",
+        "N01-V0045",
+        "N01-V0046",
+        "N01-V0047",
+        "N01-V0048",
+        "N01-V0049",
+        "N01-V0050",
+        "N01-V0051",
+        "N01-V0052",
+        "N01-V0053",
+        "N01-V0054",
+        "N01-V0055",
+        "N01-V0056",
+        "N01-V0057",
+        "N01-V0058"
+      ]
+    },
+    {
+      "campo": "escala_espacial",
+      "estado": "DESCONOCIDO",
+      "valor": null,
+      "justificacion": "Los mapas/esquemas relatados no aportan una escala de representación o medición verificable. Se conserva contexto_espacial por separado; unidad de análisis, cobertura, escala y resolución no se equiparan.",
+      "evidencias": []
+    },
+    {
+      "campo": "resolucion_espacial",
+      "estado": "DESCONOCIDO",
+      "valor": null,
+      "justificacion": "Se usaron mapa/puntos o esquemas, pero no se aportan resolución ni precisión métrica verificables; no convertir referencia de sitio en levantamiento de puerta.",
+      "evidencias": []
+    },
+    {
+      "campo": "representacion",
+      "estado": "RESPALDADO",
+      "valor": "Notas, palabras, esquemas manuales y mapa de calles; hoja localiza casos.",
+      "justificacion": "Soportes relatados que cumplieron una función; su mención no acredita recepción de sus archivos u objetos.",
+      "evidencias": [
+        "N01-V0044",
+        "N01-V0045",
+        "N01-V0046",
+        "N01-V0047",
+        "N01-V0048",
+        "N01-V0049",
+        "N01-V0050",
+        "N01-V0051",
+        "N01-V0052",
+        "N01-V0053",
+        "N01-V0054",
+        "N01-V0055",
+        "N01-V0056",
+        "N01-V0057",
+        "N01-V0058"
+      ]
+    },
+    {
+      "campo": "referencia_espacial",
+      "estado": "DESCONOCIDO",
+      "valor": null,
+      "justificacion": "No consta CRS del mapa utilizado; no se inventa EPSG ni se requiere nueva geometría para esta propuesta de revisión.",
+      "evidencias": []
+    },
+    {
+      "campo": "periodo",
+      "estado": "DESCONOCIDO",
+      "valor": null,
+      "justificacion": "No se aportan fechas de levantamiento ni de los soportes originales. La fecha del encargo o de esta entrega no las sustituye. Referencia temporal relevante: Ocasión acompañada frente a relato habitual; tiempos aproximados y orígenes distintos.",
+      "evidencias": []
+    },
+    {
+      "campo": "resolucion_temporal",
+      "estado": "DESCONOCIDO",
+      "valor": null,
+      "justificacion": "No está fijado el mínimo intervalo temporal distinguible de un conjunto de datos para esta historia. El contexto cualitativo se conserva en contexto_temporal; no se confunde orden de acciones, periodo, vigencia o actualización con resolución. La granularidad requerida por el diseño sigue por proponer/validar, sin inventar una duración.",
+      "evidencias": []
+    },
+    {
+      "campo": "actualizacion",
+      "estado": "PROPUESTO",
+      "valor": "Comprobar vigencia al reutilizarla para una nueva petición o decisión, si corresponde.",
+      "justificacion": "Decisión de diseño condicionada al uso; no frecuencia anual, servicio automático o compromiso de fuente. Ocasión acompañada frente a relato habitual; tiempos aproximados y orígenes distintos.",
+      "evidencias": [
+        "N01-V0044",
+        "N01-V0045",
+        "N01-V0046",
+        "N01-V0047",
+        "N01-V0048",
+        "N01-V0049",
+        "N01-V0050",
+        "N01-V0051",
+        "N01-V0052",
+        "N01-V0053",
+        "N01-V0054",
+        "N01-V0055",
+        "N01-V0056",
+        "N01-V0057",
+        "N01-V0058"
+      ]
+    },
+    {
+      "campo": "calidad",
+      "estado": "PROPUESTO",
+      "valor": {
+        "observables": [
+          "se muestra qué no es equivalente, qué unidad acotada sí puede compararse y dónde tiempo y cercanía siguen importando"
+        ],
+        "regla": "Comprobar pertinencia para la decisión, significado y respaldo; no calidad por volumen o hash."
+      },
+      "justificacion": "Los criterios adaptados son propuestas observables de revisión y no una calificación del dato o comprobación ejecutada.",
+      "evidencias": [
+        "N01-V0044",
+        "N01-V0045",
+        "N01-V0046",
+        "N01-V0047",
+        "N01-V0048",
+        "N01-V0049",
+        "N01-V0050",
+        "N01-V0051",
+        "N01-V0052",
+        "N01-V0053",
+        "N01-V0054",
+        "N01-V0055",
+        "N01-V0056",
+        "N01-V0057",
+        "N01-V0058"
+      ]
+    },
+    {
+      "campo": "incertidumbre",
+      "estado": "RESPALDADO",
+      "valor": [
+        "No se cuenta con notas originales ni toda variación temporal de cada caso.",
+        "Distancia y tiempo siguen importando situadamente. Un mapa sin explicación no establece relación social o causa de elección."
+      ],
+      "justificacion": "El relato y N01 delimitan lo no sabido; conservarlo no significa que deba resolverse todo antes de actuar.",
+      "evidencias": [
+        "N01-V0044",
+        "N01-V0045",
+        "N01-V0046",
+        "N01-V0047",
+        "N01-V0048",
+        "N01-V0049",
+        "N01-V0050",
+        "N01-V0051",
+        "N01-V0052",
+        "N01-V0053",
+        "N01-V0054",
+        "N01-V0055",
+        "N01-V0056",
+        "N01-V0057",
+        "N01-V0058"
+      ]
+    },
+    {
+      "campo": "agregacion",
+      "estado": "NO_APLICA",
+      "valor": null,
+      "justificacion": "No se propone agregado estadístico o clasificación territorial en esta historia. Integrar necesidades o comparar casos, ocasiones o muestras no autoriza sumarlas como población.",
+      "evidencias": []
+    },
+    {
+      "campo": "denominador",
+      "estado": "NO_APLICA",
+      "valor": null,
+      "justificacion": "La decisión no produce tasa, porcentaje o indicador poblacional. No hay un universo de personas u oportunidades definido que requiera denominador.",
+      "evidencias": []
+    },
+    {
+      "campo": "acceso",
+      "estado": "PROPUESTO",
+      "valor": "Consultar solo soportes que se aporten con acceso autorizado para revisar la decisión; la difusión requiere autorización independiente.",
+      "justificacion": "Propuesta de uso académico restringido a la tarea; no declaración de política institucional existente ni permiso de publicación.",
+      "evidencias": [
+        "N01-V0044",
+        "N01-V0045",
+        "N01-V0046",
+        "N01-V0047",
+        "N01-V0048",
+        "N01-V0049",
+        "N01-V0050",
+        "N01-V0051",
+        "N01-V0052",
+        "N01-V0053",
+        "N01-V0054",
+        "N01-V0055",
+        "N01-V0056",
+        "N01-V0057",
+        "N01-V0058"
+      ]
+    },
+    {
+      "campo": "licencia",
+      "estado": "DESCONOCIDO",
+      "valor": null,
+      "justificacion": "No consta licencia de los datos, relatos, muestras o notas concretos. Acceso técnico, consentimiento relatado y licencias de fuentes públicas no se extienden al corpus.",
+      "evidencias": []
+    },
+    {
+      "campo": "procedencia",
+      "estado": "PROPUESTO",
+      "valor": {
+        "traza": "Fuente/voz funcional, ocasión, acción observada o relatada, revisión consultada, transformación y duda relevante.",
+        "fuentes_de_formulacion": [
+          "N01-N006"
+        ],
+        "evidencias": [
+          "N01-V0044",
+          "N01-V0045",
+          "N01-V0046",
+          "N01-V0047",
+          "N01-V0048",
+          "N01-V0049",
+          "N01-V0050",
+          "N01-V0051",
+          "N01-V0052",
+          "N01-V0053",
+          "N01-V0054",
+          "N01-V0055",
+          "N01-V0056",
+          "N01-V0057",
+          "N01-V0058"
+        ]
+      },
+      "justificacion": "Perfil propuesto para preservar relaciones semánticas; conserva tipo y contexto de evidencia sin atribuir autoría de archivo a actores del relato.",
+      "evidencias": [
+        "N01-V0044",
+        "N01-V0045",
+        "N01-V0046",
+        "N01-V0047",
+        "N01-V0048",
+        "N01-V0049",
+        "N01-V0050",
+        "N01-V0051",
+        "N01-V0052",
+        "N01-V0053",
+        "N01-V0054",
+        "N01-V0055",
+        "N01-V0056",
+        "N01-V0057",
+        "N01-V0058"
+      ]
+    },
+    {
+      "campo": "versiones",
+      "estado": "PROPUESTO",
+      "valor": {
+        "regla": "Distinguir soporte o explicación que se consulta y revisión posterior, conservando el alcance anterior.",
+        "versiones_originales": null
+      },
+      "justificacion": "Las versiones originales no se aportan. La versión HU01 1.0 corresponde al artefacto analítico, no al dato descrito.",
+      "evidencias": [
+        "N01-V0044",
+        "N01-V0045",
+        "N01-V0046",
+        "N01-V0047",
+        "N01-V0048",
+        "N01-V0049",
+        "N01-V0050",
+        "N01-V0051",
+        "N01-V0052",
+        "N01-V0053",
+        "N01-V0054",
+        "N01-V0055",
+        "N01-V0056",
+        "N01-V0057",
+        "N01-V0058"
+      ]
+    },
+    {
+      "campo": "transformaciones",
+      "estado": "PROPUESTO",
+      "valor": "Seleccionar solo lo pertinente, separar tipos de evidencia y presentar comparación con límites; conservar relación con fuente sin imputar desconocidos.",
+      "justificacion": "Transformaciones propuestas para atender esta historia. No se ejecutó nueva observación, armonización de bases, geocodificación ni sustitución del soporte físico.",
+      "evidencias": [
+        "N01-V0044",
+        "N01-V0045",
+        "N01-V0046",
+        "N01-V0047",
+        "N01-V0048",
+        "N01-V0049",
+        "N01-V0050",
+        "N01-V0051",
+        "N01-V0052",
+        "N01-V0053",
+        "N01-V0054",
+        "N01-V0055",
+        "N01-V0056",
+        "N01-V0057",
+        "N01-V0058"
+      ]
+    },
+    {
+      "campo": "vocabulario",
+      "estado": "PROPUESTO",
+      "valor": {
+        "terminos": "Salida completa o decisión acotada según origen, propósito y actividades.",
+        "regla": "Aclarar significados cotidianos con quienes los usan; los ids solo apoyan trazabilidad."
+      },
+      "justificacion": "Convenciones locales de la historia; no vocabulario registrado o universal, sin nueva asignación de códigos.",
+      "evidencias": [
+        "N01-V0044",
+        "N01-V0045",
+        "N01-V0046",
+        "N01-V0047",
+        "N01-V0048",
+        "N01-V0049",
+        "N01-V0050",
+        "N01-V0051",
+        "N01-V0052",
+        "N01-V0053",
+        "N01-V0054",
+        "N01-V0055",
+        "N01-V0056",
+        "N01-V0057",
+        "N01-V0058"
+      ]
+    }
+  ],
+  "contexto_espacial": {
+    "descripcion": "Reconocimiento situado de espacios y relaciones entre lugares; sin escala cartográfica numérica declarada.",
+    "origen": "DESCRIPCION_CUALITATIVA_DEL_ANALISIS",
+    "evidencias": [
+      "N01-V0044",
+      "N01-V0045",
+      "N01-V0046",
+      "N01-V0047",
+      "N01-V0048",
+      "N01-V0049",
+      "N01-V0050",
+      "N01-V0051",
+      "N01-V0052",
+      "N01-V0053",
+      "N01-V0054",
+      "N01-V0055",
+      "N01-V0056",
+      "N01-V0057",
+      "N01-V0058"
+    ],
+    "limite": "Relaciones entre lugares y unidad situada no acreditan escala de representación ni de medición del soporte."
+  },
+  "contexto_temporal": {
+    "descripcion": "Ocasión acompañada frente a relato habitual; tiempos aproximados y orígenes distintos.",
+    "origen": "DESCRIPCION_CUALITATIVA_DEL_ANALISIS",
+    "evidencias": [
+      "N01-V0044",
+      "N01-V0045",
+      "N01-V0046",
+      "N01-V0047",
+      "N01-V0048",
+      "N01-V0049",
+      "N01-V0050",
+      "N01-V0051",
+      "N01-V0052",
+      "N01-V0053",
+      "N01-V0054",
+      "N01-V0055",
+      "N01-V0056",
+      "N01-V0057",
+      "N01-V0058"
+    ],
+    "limite": "Conserva ocasiones, orden, vigencia o franja pertinente del relato/ideal; no especifica por sí solo resolución de un conjunto ni su disponibilidad. La granularidad necesaria se propondrá y validará por producto."
+  }
+}

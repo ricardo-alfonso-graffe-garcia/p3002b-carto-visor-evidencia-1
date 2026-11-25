@@ -1,0 +1,87 @@
+{
+  "tipo": "INSPECCION_VISUAL_ASISTIDA",
+  "figuras": [
+    {
+      "id": "REP01-F001",
+      "titulo": "Conservar el punto después de interpretar la diferencia",
+      "seccion": "REP01-S003",
+      "archivo": "editorial/figuras/REP01-F001.png",
+      "fuentes": [
+        "P01-E01-N001",
+        "P01-E01-N002",
+        "P01-E01-N003",
+        "P01-E01-N005",
+        "P01-E01-N006",
+        "P01-E01-N007",
+        "P01-E01-N008",
+        "P01-E01-N009",
+        "P01-E01-N010",
+        "P01-E01-N011",
+        "P01-E01-N012",
+        "P01-E01-N013",
+        "P01-E01-N014",
+        "E01-P065",
+        "E01-P071",
+        "E01-P081"
+      ],
+      "relacion_representada": "Secuencia comprimida de revisión y aclaración mediada; línea final sin flecha indica límite, no transferencia.",
+      "simplificacion": "Agrupa N001–N002 recepción/alcance; N003/N005/N006 contraste; N007–N008 consulta; N009–N011 decisión/copia; N012–N014 entrega y pregunta. Omite N004 de otros dos registros, N015 de práctica general y contingencias contrafactuales; no afirma una cronología sin solapamientos.",
+      "estado_revision": "REALIZADA",
+      "alcance_revision": "Inspección visual asistida de exportación y cotejo de significados/medios con nodos citados y E01 completa. No revisión humana independiente; tamaño final en maquetación pendiente.",
+      "editable": "editorial/figuras/REP01-F001.dot",
+      "vector": "editorial/figuras/REP01-F001.svg",
+      "tamano_propuesto": "Ancho 11–13 cm; figura vertical, se debe revisar espacio y tipo efectivo al maquetar."
+    },
+    {
+      "id": "REP01-F002",
+      "titulo": "Dos cadenas de necesidad ideal a comprobación futura",
+      "seccion": "REP01-S005",
+      "archivo": "editorial/figuras/REP01-F002.png",
+      "fuentes": [
+        "E01-P137",
+        "N01-N004",
+        "HU01-H003",
+        "HU01-M003",
+        "HU01-K004",
+        "E02-P143",
+        "N01-N009",
+        "HU01-H006",
+        "HU01-M006",
+        "HU01-K008"
+      ],
+      "relacion_representada": "Derivación analítica en dos columnas independientes; no flujo institucional o aceptación.",
+      "simplificacion": "Conserva origen ideal, historia, campos clave y criterio; omite pasos y campos completos que permanecen en HU01. Restricciones se explican en prosa: consulta nueva y participación/carga.",
+      "estado_revision": "REALIZADA",
+      "alcance_revision": "Inspección asistida de PNG individual tras corregir composición horizontal demasiado ancha; dos columnas sin cruces. Cotejo de ids y criterios contra HU01. Legibilidad de maquetación pendiente.",
+      "editable": "editorial/figuras/REP01-F002.dot",
+      "vector": "editorial/figuras/REP01-F002.svg",
+      "tamano_propuesto": "Ancho 16.5–17 cm; comprobar etiquetas en Word/PDF."
+    },
+    {
+      "id": "REP01-F003",
+      "titulo": "Arquitectura propuesta con rama por caso y revisión de incidencias",
+      "seccion": "REP01-S008",
+      "archivo": "editorial/figuras/REP01-F003.png",
+      "fuentes": [
+        "T01-F020",
+        "T01-M001",
+        "T01-M002",
+        "T01-M003",
+        "T01-M004",
+        "T01-M005",
+        "T01-M006",
+        "T01-P001",
+        "T01-P002",
+        "T01-P003"
+      ],
+      "relacion_representada": "Extracción→unificación; rama agregada o directa→construcción→análisis→productos. Retorno discontinuo de revisión a unificación.",
+      "simplificacion": "Sintetiza etapas de arquitectura; omite atajos agregación→análisis y construcción→productos, detalle de once contratos, adaptadores y ocho representaciones. El retorno agrupa el camino análisis→construcción→unificación para una duda de significado, sin afirmar enlace directo obligatorio ni corrección automática. Otros retornos a extracción/agregación quedan en arquitectura completa.",
+      "estado_revision": "REALIZADA",
+      "alcance_revision": "Inspección asistida de exportación y ramas/retorno con arquitectura T01 y README GeoInsights. No diagrama operativo ejecutado. Revisión en página final pendiente.",
+      "editable": "editorial/figuras/REP01-F003.dot",
+      "vector": "editorial/figuras/REP01-F003.svg",
+      "tamano_propuesto": "Ancho 16.5–17 cm; comprobar etiquetas y pies."
+    }
+  ],
+  "limite": "Tres figuras nuevas inspeccionadas realmente; revisión de diagramas originales se conserva como registro histórico, no nueva inspección global."
+}

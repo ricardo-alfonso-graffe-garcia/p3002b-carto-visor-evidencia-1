@@ -1,0 +1,232 @@
+{
+  "id": "N01-N019",
+  "titulo": "Identidad y condiciones de compra del elástico conocido",
+  "enunciado": "La persona que atiende y compra para la mercería necesita conocer cuál es exactamente el artículo y si la oferta coincide con muestra y referencia, con qué precio y cantidad en esta compra, para comprar la reposición como el mismo artículo o detenerla ante una diferencia sin aclarar, en el contexto de reposición y atención de una mercería de barrio.",
+  "actores": [
+    "ACT01-A019"
+  ],
+  "entrevistas": [
+    "E04"
+  ],
+  "contexto": "Desde revisar el rollo reducido hasta el primer despacho del nuevo; petición de suavidad es antecedente.",
+  "decision": "Comprar la reposición como el mismo artículo o detenerla ante una diferencia sin aclarar",
+  "objeto_informacion": "cuál es exactamente el artículo y si la oferta coincide con muestra y referencia, con qué precio y cantidad en esta compra",
+  "tipo": "NECESIDAD_ACTUAL",
+  "estado_actual": "ATENDIDA_EN_EPISODIO",
+  "informacion_actual": "Llevó color, ancho, referencia y muestra; revisó parte del rollo ofrecido, comparación y condiciones de compra y trajo el conocido.",
+  "faltante_o_deseada": "No faltó información para reponerlo. Referencia y material no son garantía de desempeño en toda prenda ni de todo el rollo.",
+  "condiciones_y_limites": "El precio y disponibilidad se supieron en el proveedor; fuentes distribuidas bastaron. No se examinó el rollo entero.",
+  "soportes_mencionados": [
+    "Nota de compra anterior",
+    "Referencia",
+    "Muestra física",
+    "Rollo ofrecido",
+    "Precio y presentación informados"
+  ],
+  "conservar": [
+    "Comparar físicamente",
+    "Revisar descripción concreta al pedir",
+    "Consultar ante diferencia"
+  ],
+  "evidencias": [
+    "N01-V0185",
+    "N01-V0200",
+    "N01-V0201",
+    "N01-V0202",
+    "N01-V0203",
+    "N01-V0204",
+    "N01-V0190",
+    "N01-V0205",
+    "N01-V0192",
+    "N01-V0206",
+    "N01-V0207",
+    "N01-V0199"
+  ],
+  "evidencia_que_limita": [
+    "N01-V0198",
+    "N01-V0208",
+    "N01-V0209"
+  ],
+  "razon_sin_contraevidencia": null,
+  "contexto_elicitacion": "Reconstrucción retrospectiva del episodio y repreguntas sobre decisión y suficiencia. La atribución descansa en respuestas de participante; preguntas, metáforas y recapitulaciones no son corroboración. Los localizadores del contexto están en cada evidencia.",
+  "codigos_comunes": [
+    "C002",
+    "C003",
+    "C052",
+    "C051",
+    "C014"
+  ],
+  "hallazgos_s01": [
+    "S01-H001",
+    "S01-H002",
+    "S01-H015"
+  ],
+  "componentes_p01": [
+    "P01-E04-N003",
+    "P01-E04-N004",
+    "P01-E04-N006",
+    "P01-E04-N009"
+  ],
+  "preferencias_act01": [
+    "ACT01-PR018"
+  ],
+  "variantes_por_caso": [],
+  "vinculo_territorial": {
+    "tipo": "NO_CARTOGRAFICO_DIRECTO",
+    "razon": "La correspondencia es entre material ofertado y conocido; lugar de compra no transforma la comparación en cartografía.",
+    "evidencias": [
+      "N01-V0185",
+      "N01-V0200"
+    ],
+    "limites": "La pertinencia del lugar no demuestra necesidad de coordenadas o de un mapa. Negocio y proveedores no identificados; el perfil no es especialista cartográfico ni productor público. No hay prueba de costura o lavado ni resultado de la clienta conocidos."
+  },
+  "vinculos_sectoriales": [
+    {
+      "sector": "PRIVADO",
+      "actividad": "Reposición y atención de una mercería de barrio",
+      "iniciativa": null,
+      "estatus_iniciativa": "ACTIVIDAD_RELATADA_SIN_NOMBRE_FORMAL",
+      "nexo": "USO_PRIVADO",
+      "razon": "La decisión corresponde al surtido y atención de un comercio; cercanía barrial no demuestra iniciativa pública.",
+      "evidencias": [
+        "N01-V0347",
+        "N01-V0185",
+        "N01-V0200"
+      ],
+      "limites": "No se identificó programa público que origine esta necesidad. Negocio y proveedores no identificados; el perfil no es especialista cartográfico ni productor público. No hay prueba de costura o lavado ni resultado de la clienta conocidos."
+    }
+  ],
+  "verificacion": [
+    {
+      "id": "N01-K019",
+      "observable": "Puede identificar el artículo y justificar comprarlo como el mismo, separando coincidencia y revisión parcial de una garantía de uso futuro.",
+      "metodo": "Revisar con muestra y referencia pertinentes si se aportan; contrastar descripción, oferta y cantidad informada. No inventar ensayo de confección.",
+      "origen": "PROPUESTA_ANALITICA",
+      "estado": "PROPUESTA_NO_EJECUTADA",
+      "evidencias": [
+        "N01-V0185",
+        "N01-V0200",
+        "N01-V0201",
+        "N01-V0202",
+        "N01-V0203",
+        "N01-V0204",
+        "N01-V0190",
+        "N01-V0205",
+        "N01-V0192",
+        "N01-V0206",
+        "N01-V0207",
+        "N01-V0199"
+      ],
+      "limites": "Comprobación futura; no se ejecutó ni acredita aceptación humana. No se fijan umbrales numéricos. El precio y disponibilidad se supieron en el proveedor; fuentes distribuidas bastaron. No se examinó el rollo entero.",
+      "desglose_origen": {
+        "observable": "PROPUESTA_ANALITICA",
+        "operacionalizacion_metodo": "PROPUESTA_ANALITICA",
+        "aceptacion": "NO_RECABADA"
+      }
+    }
+  ],
+  "prioridad": {
+    "ambito": "E04",
+    "nivel": "ALTA",
+    "origen": "ANALISIS_CONDICIONAL",
+    "criterios": [
+      "N01-CP001",
+      "N01-CP002",
+      "N01-CP003",
+      "N01-CP004"
+    ],
+    "razon": "La coincidencia y las condiciones actuales permiten adquirir lo que sí debía traer; una denominación ambigua podía pedir otro material.",
+    "comparables": [
+      "N01-N018",
+      "N01-N022"
+    ],
+    "limites": "Orden parcial dentro de esta actividad. No compara importancia urbana ni factibilidad técnica; evidencia más sólida no equivale a más impacto. Comparar distingue dependencias y momentos; las necesidades no son sustitutos y se admiten empates. En ideales frente a actuales, el nivel se lee dentro de su modalidad."
+  },
+  "importancia_expresada": "E04-P020 distingue que la reposición sí debía decidirla y la otra opción era consulta en la misma vuelta; P176 dice que no puso la consulta al mismo nivel que reponer lo ya vendido. El orden no se extiende a todas las necesidades del negocio.",
+  "pertinencia_diseno_posterior": "PENDIENTE: revisar con usuarios y encargo; la legitimidad de la necesidad no prescribe un soporte ni su incorporación a un visor.",
+  "factibilidad": "NO_DETERMINADA",
+  "incognitas": [
+    "No se aportan nota, muestra, precio o presentación exactos."
+  ],
+  "enlaces_codigos_asignados": [
+    {
+      "codigo": "C002",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R04-S033",
+        "R04-S042",
+        "R04-S048",
+        "R04-S099"
+      ],
+      "evidencias": [
+        "N01-V0185",
+        "N01-V0200",
+        "N01-V0202",
+        "N01-V0192"
+      ]
+    },
+    {
+      "codigo": "C003",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R04-S043",
+        "R04-S048",
+        "R04-S059"
+      ],
+      "evidencias": [
+        "N01-V0200",
+        "N01-V0202",
+        "N01-V0203"
+      ]
+    },
+    {
+      "codigo": "C052",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R04-S047",
+        "R04-S048",
+        "R04-S059",
+        "R04-S102"
+      ],
+      "evidencias": [
+        "N01-V0201",
+        "N01-V0202",
+        "N01-V0203",
+        "N01-V0208"
+      ]
+    },
+    {
+      "codigo": "C051",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R04-S049",
+        "R04-S101"
+      ],
+      "evidencias": [
+        "N01-V0202",
+        "N01-V0206"
+      ]
+    },
+    {
+      "codigo": "C014",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R04-S043",
+        "R04-S059",
+        "R04-S060",
+        "R04-S095",
+        "R04-S104",
+        "R04-S105"
+      ],
+      "evidencias": [
+        "N01-V0200",
+        "N01-V0203",
+        "N01-V0204",
+        "N01-V0190",
+        "N01-V0207",
+        "N01-V0199"
+      ]
+    }
+  ],
+  "codigos_contextuales": []
+}

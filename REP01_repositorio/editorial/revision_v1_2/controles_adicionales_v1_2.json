@@ -1,0 +1,40 @@
+{
+  "version": "1.2",
+  "estado": "SIN_ERRORES_EN_ALCANCE_COMPROBADO",
+  "controles": [
+    {
+      "control": "21 formulaciones de historia en fichas humanas idénticas a HU01",
+      "numerador": 21,
+      "denominador": 21
+    },
+    {
+      "control": "175 recomendaciones conservadas con tratamiento y destino",
+      "numerador": 175,
+      "denominador": 175
+    },
+    {
+      "control": "Fuentes de corpus y análisis de 1.1 conservadas; cambios limitados a navegación y editorial",
+      "archivos_preexistentes": 539,
+      "cambiados": [
+        "indice.html",
+        "LEEME.md",
+        "editorial/figuras/REP01-F003.png",
+        "editorial/figuras/REP01-F003.dot",
+        "editorial/figuras/REP01-F003.svg",
+        "editorial/registros/guia_por_seccion.md"
+      ],
+      "omitidos": []
+    },
+    {
+      "control": "Enlaces locales activos del PDF",
+      "numerador": 35,
+      "denominador": 35,
+      "enlaces_totales": 45
+    }
+  ],
+  "limites": [
+    "No revisión humana independiente",
+    "Pruebas de utilidad y cálculos espaciales no ejecutados",
+    "Existencia de un archivo no prueba toda su interpretación"
+  ]
+}

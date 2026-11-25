@@ -1,0 +1,20 @@
+{
+  "version": "1.1",
+  "estado": "REVISION_ASISTIDA_COMPLETADA",
+  "metodo": [
+    "Lectura completa del manuscrito recibido y revisado",
+    "Siete citas cotejadas con texto canónico y contexto próximo",
+    "Tablas nuevas derivadas de cuatro modelos, cinco actores y cinco necesidades",
+    "Fuentes de conteos y procedencia localizadas",
+    "Inspección visual de tres figuras y doce páginas finales",
+    "Controles repetidos sobre originales y copia revisada"
+  ],
+  "originales": "Conservados sin alteración en coordinación; copia revisada con cambios editoriales identificados.",
+  "pendientes_sustantivos": [
+    "Revisión humana independiente",
+    "Documentos directamente aplicables a episodios; cero divergencias formalmente demostradas",
+    "Posturas de homologación no recabadas",
+    "Pruebas de utilidad y factibilidad de productos, pendientes de etapa posterior"
+  ],
+  "no_calificacion_automatica": true
+}

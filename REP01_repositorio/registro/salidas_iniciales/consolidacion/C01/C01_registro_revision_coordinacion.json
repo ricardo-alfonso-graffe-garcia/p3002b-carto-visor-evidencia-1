@@ -1,0 +1,124 @@
+{
+  "tarea": "C01",
+  "fecha_revision": "2026-11-24",
+  "archivos_recibidos": [
+    {
+      "archivo": "C01_control_validacion(1).json",
+      "library_file_id_original": "libfile_fde3_f-37ce1aee64a88191835ee83a5941e0a2_6c45573f28988191995a53873b532314",
+      "sha256": "530b6e459eaeb40ce22eda62261458b8714249c30b6a3a66987519881667c04b",
+      "bytes": 18394
+    },
+    {
+      "archivo": "C01_consolidacion_v1(1).json",
+      "library_file_id_original": "libfile_fde3_f-d82fb82b1a308191b3ef540a55ec11ed_6c45573f28988191995a53873b532314",
+      "sha256": "22a9b94fb13784144bb186ba945ec792681adc8af0defd6ccd66208ba8d63f08",
+      "bytes": 131276
+    },
+    {
+      "archivo": "C01_control_inventario(1).json",
+      "library_file_id_original": "libfile_fde3_f-5d35bd80b33c8191b741b18e560d4480_6c45573f28988191995a53873b532314",
+      "sha256": "6688e1aa8a2d721c3bcabe7cce4f855d9d193ef2a589b4cb90c3820b27c8e579",
+      "bytes": 790
+    },
+    {
+      "archivo": "C01_consolidacion_v1.docx",
+      "library_file_id_original": "libfile_fde3_f-29060962fe588191b8b5562c8bafb984_6c45573f28988191995a53873b532314",
+      "sha256": "aa3b7de051763d7d25655760568b02d307cd088fac5d80f055bd73ea71161e40",
+      "bytes": 71723
+    },
+    {
+      "archivo": "C01_explicacion_v1(1).md",
+      "library_file_id_original": "libfile_fde3_f-57c8198dee248191aad180219af5d211_6c45573f28988191995a53873b532314",
+      "sha256": "f59e901b897b5e32a1ccea184c66cdcb652c6abbba1f0193aadea592e952bbf5",
+      "bytes": 25531
+    }
+  ],
+  "validacion_repetida_coincide_con_adjunta": true,
+  "json_docx_igual_a_json_adjuntado": true,
+  "inventario_verificado": {
+    "archivos_zip": 57,
+    "archivos_declarados": 56
+  },
+  "conteos": {
+    "codigos_locales_entrada": 105,
+    "correspondencias": 105,
+    "codigos_comunes": 60,
+    "ejemplos_literales": 116
+  },
+  "tipo_revision": "ASISTIDA_POR_LLM_MAS_VALIDACION_MECANICA",
+  "estado": "PROPUESTA_REVISADA_APTA_PARA_PILOTAJE_OPERATIVO_ASISTIDO",
+  "revision_humana_independiente": "PENDIENTE",
+  "libro_congelado_para_recodificacion": false,
+  "citas_explicacion_comprobadas": [
+    {
+      "documento": "explicacion_md",
+      "cita": "Cambié la descripción del acceso en la copia que estaba preparando. Conservé el identificador y la ubicación del espacio.",
+      "parrafos": [
+        "E01-P065"
+      ]
+    },
+    {
+      "documento": "explicacion_md",
+      "cita": "La suficiencia dependía de la afirmación, no era una propiedad de todo el material de una vez.",
+      "parrafos": [
+        "E02-P083"
+      ]
+    },
+    {
+      "documento": "explicacion_md",
+      "cita": "No significaba llevar una tarea de una semana a otra.",
+      "parrafos": [
+        "E03-P101"
+      ]
+    },
+    {
+      "documento": "explicacion_md",
+      "cita": "cómo queda ese otro elástico después de coserlo y usarlo, no nada más cómo se siente cuando está nuevo.",
+      "parrafos": [
+        "E04-P139"
+      ]
+    },
+    {
+      "documento": "explicacion_md",
+      "cita": "si me dices que ayer había una mesa libre, eso no me resuelve lo de hoy. Para eso tendría que verlo al llegar.",
+      "parrafos": [
+        "E05-P160"
+      ]
+    },
+    {
+      "documento": "compilado_docx",
+      "cita": "Cambié la descripción del acceso en la copia que estaba preparando. Conservé el identificador y la ubicación del espacio.",
+      "parrafos": [
+        "E01-P065"
+      ]
+    },
+    {
+      "documento": "compilado_docx",
+      "cita": "La suficiencia dependía de la afirmación, no era una propiedad de todo el material de una vez.",
+      "parrafos": [
+        "E02-P083"
+      ]
+    },
+    {
+      "documento": "compilado_docx",
+      "cita": "No significaba llevar una tarea de una semana a otra.",
+      "parrafos": [
+        "E03-P101"
+      ]
+    },
+    {
+      "documento": "compilado_docx",
+      "cita": "cómo queda ese otro elástico después de coserlo y usarlo, no nada más cómo se siente cuando está nuevo.",
+      "parrafos": [
+        "E04-P139"
+      ]
+    },
+    {
+      "documento": "compilado_docx",
+      "cita": "si me dices que ayer había una mesa libre, eso no me resuelve lo de hoy. Para eso tendría que verlo al llegar.",
+      "parrafos": [
+        "E05-P160"
+      ]
+    }
+  ]
+}

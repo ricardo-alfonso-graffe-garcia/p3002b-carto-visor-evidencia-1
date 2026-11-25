@@ -1,0 +1,33 @@
+{
+  "validador": "Historias HU01 revisadas 1.1",
+  "estado": "SIN_ERRORES_ESTRUCTURALES",
+  "errores": [],
+  "advertencias": [],
+  "conteos": {
+    "perfiles": 5,
+    "historias": 21,
+    "perfiles_metadatos": 21,
+    "criterios": 28,
+    "pasos_propuestos": 90,
+    "necesidades_cubiertas": 29,
+    "objetos_digitales": 76,
+    "payloads_comprobados": 76
+  },
+  "alcance": "Control técnico local. No certifica interpretación, aceptación, metadatos adecuados, utilidad, PID externo, FAIR/FDO integral, fuentes web, figuras o revisión humana.",
+  "ejecucion": {
+    "estado": "EJECUTADO",
+    "fecha_utc": "2026-11-25T13:47:35.782218+00:00",
+    "comando_argumentos": [
+      "output/P3002B_expediente_v1/analisis/validar_historias_revisadas.py",
+      "tmp/review/HU01_insumos_v1",
+      "output/P3002B_expediente_v1/analisis/historias/HU01/HU01_resultado_revisado_v1_1.json",
+      "--soportes",
+      "output/P3002B_expediente_v1/analisis/historias/HU01/soportes_revisados_v1_1",
+      "--salida",
+      "output/P3002B_expediente_v1/analisis/historias/HU01/soportes_revisados_v1_1/control/HU01_control_validacion.json"
+    ],
+    "sha256_resultado_evaluado": "5c43fce0a9c49e130c12cc4b1152f84270acd24adf270f76ec3ea182389a52bd",
+    "sha256_validador": "862bf5880bf65ceeea6cd2411d8c3702d38a1507977f1538cda7272a263a29d6",
+    "codigo_salida": 0
+  }
+}

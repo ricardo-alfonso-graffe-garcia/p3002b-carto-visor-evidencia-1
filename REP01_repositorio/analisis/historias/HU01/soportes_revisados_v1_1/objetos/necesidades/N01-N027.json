@@ -1,0 +1,152 @@
+{
+  "id": "N01-N027",
+  "titulo": "Orientación puntual hacia una sección",
+  "enunciado": "La persona que propone la salida con su amistad necesita conocer dónde está la sección que no encuentran dentro de la librería, para continuar explorando sin pedir que el personal elija por ellas, en el contexto de organización personal de una tarde para mirar libros y convivir.",
+  "actores": [
+    "ACT01-A024"
+  ],
+  "entrevistas": [
+    "E05"
+  ],
+  "contexto": "Desde terminar el libro anterior y querer mirar otro, seguido del mensaje que convierte idea en plan, hasta despedirse después de tomar algo.",
+  "decision": "Continuar explorando sin pedir que el personal elija por ellas",
+  "objeto_informacion": "dónde está la sección que no encuentran dentro de la librería",
+  "tipo": "NECESIDAD_ACTUAL",
+  "estado_actual": "ATENDIDA_EN_EPISODIO",
+  "informacion_actual": "La amistad preguntó por sección y el personal indicó una parte; después siguieron mirando.",
+  "faltante_o_deseada": "No quedó orientación faltante ni recomendación pedida.",
+  "condiciones_y_limites": "La necesidad se atribuye a la exploración compartida que relata esta voz, sin hacer de la amistad o del personal una voz entrevistada independiente.",
+  "soportes_mencionados": [
+    "Pregunta al personal",
+    "Indicación verbal"
+  ],
+  "conservar": [
+    "Preguntar a quien está en el lugar",
+    "Explorar por separado y compartir después"
+  ],
+  "evidencias": [
+    "N01-V0309",
+    "N01-V0310",
+    "N01-V0311",
+    "N01-V0312",
+    "N01-V0313",
+    "N01-V0314",
+    "N01-V0315"
+  ],
+  "evidencia_que_limita": [
+    "N01-V0301",
+    "N01-V0293"
+  ],
+  "razon_sin_contraevidencia": null,
+  "contexto_elicitacion": "Reconstrucción retrospectiva del episodio y repreguntas sobre decisión y suficiencia. La atribución descansa en respuestas de participante; preguntas, metáforas y recapitulaciones no son corroboración. Los localizadores del contexto están en cada evidencia.",
+  "codigos_comunes": [
+    "C041"
+  ],
+  "hallazgos_s01": [
+    "S01-H011"
+  ],
+  "componentes_p01": [
+    "P01-E05-N010",
+    "P01-E05-N011"
+  ],
+  "preferencias_act01": [
+    "ACT01-PR024"
+  ],
+  "variantes_por_caso": [],
+  "vinculo_territorial": {
+    "tipo": "ESPACIAL_DIRECTO",
+    "razon": "Es orientación dentro del lugar; una pregunta bastó y no implica plano interior.",
+    "evidencias": [
+      "N01-V0309",
+      "N01-V0310"
+    ],
+    "limites": "La pertinencia del lugar no demuestra necesidad de coordenadas o de un mapa. Salida personal concreta; amistad y personal son terceros relatados. No se certifica externamente horario histórico, mesa futura o preferencias estables."
+  },
+  "vinculos_sectoriales": [
+    {
+      "sector": "CIUDADANIA",
+      "actividad": "Organización personal de una tarde para mirar libros y convivir",
+      "iniciativa": null,
+      "estatus_iniciativa": "ACTIVIDAD_RELATADA_SIN_NOMBRE_FORMAL",
+      "nexo": "USO_PRIVADO",
+      "razon": "Se trata de organizar ocio y convivencia propios; no hay servicio público o representación de ciudadanía atribuidos.",
+      "evidencias": [
+        "N01-V0348",
+        "N01-V0309",
+        "N01-V0310"
+      ],
+      "limites": "No se identificó programa público que origine esta necesidad. Salida personal concreta; amistad y personal son terceros relatados. No se certifica externamente horario histórico, mesa futura o preferencias estables."
+    }
+  ],
+  "verificacion": [
+    {
+      "id": "N01-K027",
+      "observable": "Se reconoce adónde dirigirse para continuar mirando y se mantiene la elección del libro en la propia lectura.",
+      "metodo": "Cotejar la función de la indicación en el relato; una observación futura podría comprobar si ubica la sección, sin inventar una consulta nueva en este expediente.",
+      "origen": "PROPUESTA_ANALITICA",
+      "estado": "PROPUESTA_NO_EJECUTADA",
+      "evidencias": [
+        "N01-V0309",
+        "N01-V0310",
+        "N01-V0311",
+        "N01-V0312",
+        "N01-V0313",
+        "N01-V0314",
+        "N01-V0315"
+      ],
+      "limites": "Comprobación futura; no se ejecutó ni acredita aceptación humana. No se fijan umbrales numéricos. La necesidad se atribuye a la exploración compartida que relata esta voz, sin hacer de la amistad o del personal una voz entrevistada independiente.",
+      "desglose_origen": {
+        "observable": "PROPUESTA_ANALITICA",
+        "operacionalizacion_metodo": "PROPUESTA_ANALITICA",
+        "aceptacion": "NO_RECABADA"
+      }
+    }
+  ],
+  "prioridad": {
+    "ambito": "E05",
+    "nivel": "MEDIA",
+    "origen": "ANALISIS_CONDICIONAL",
+    "criterios": [
+      "N01-CP001",
+      "N01-CP002",
+      "N01-CP003",
+      "N01-CP004"
+    ],
+    "razon": "Resuelve una duda puntual dentro de la exploración ya iniciada; no es recomendación ni requisito de catálogo completo.",
+    "comparables": [],
+    "limites": "Orden parcial dentro de esta actividad. No compara importancia urbana ni factibilidad técnica; evidencia más sólida no equivale a más impacto. No hay otra necesidad con la misma subdecisión y modalidad para establecer una comparación homogénea; el nivel expresa pertinencia condicional, sin ranking total."
+  },
+  "importancia_expresada": "No hay priorización comparable explícita de esta pieza por la persona. El nivel asignado es del análisis.",
+  "pertinencia_diseno_posterior": "PENDIENTE: revisar con usuarios y encargo; la legitimidad de la necesidad no prescribe un soporte ni su incorporación a un visor.",
+  "factibilidad": "NO_DETERMINADA",
+  "incognitas": [
+    "Nombre de sección y funciones totales del personal no determinados."
+  ],
+  "enlaces_codigos_asignados": [
+    {
+      "codigo": "C041",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R05-S022",
+        "R05-S023",
+        "R05-S065",
+        "R05-S102",
+        "R05-S104"
+      ],
+      "evidencias": [
+        "N01-V0309",
+        "N01-V0310",
+        "N01-V0313",
+        "N01-V0314"
+      ]
+    }
+  ],
+  "codigos_contextuales": [
+    {
+      "codigo": "C059",
+      "tipo": "RELACION_CONCEPTUAL_DEL_ANALISIS",
+      "justificacion": "Orientarse sostiene explorar sin que otra persona elija; la relación con margen situado es conceptual, sin añadir C059 a las citas.",
+      "limites": "No es una ocurrencia codificada en estos pasajes ni una revisión de la codificación fuente."
+    }
+  ]
+}

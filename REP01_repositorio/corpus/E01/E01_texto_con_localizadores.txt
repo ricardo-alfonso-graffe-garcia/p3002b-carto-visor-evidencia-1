@@ -1,0 +1,327 @@
+P001 Transcripción E01
+
+P002 Perfil funcional: persona con función técnica de registro y mantenimiento de información territorial en una alcaldía de la Ciudad de México.Instrumento utilizado: entrevista semiestructurada, guion versión 1.0.
+
+P004 Entrevistador: Gracias por conversar conmigo. Este trabajo tiene un propósito académico: comprender cómo se realizan algunas actividades y decisiones relacionadas con información sobre lugares. Me interesa conocer tu experiencia, sin partir de que haya un problema específico que debamos encontrar. Participar es voluntario; puedes dejar de responder cualquier pregunta o terminar la conversación cuando lo prefieras. Lo que conversemos se utilizará con fines académicos y evitaremos nombres o datos que permitan identificar a otras personas. También, con tu consentimiento, voy a grabar esta conversación con el fin de llevar a cabo el propósito académico que te mencionaba antes. ¿Estás de acuerdo en comenzar con todas estas aclaraciones?
+
+P005 Participante: Sí, estoy de acuerdo con todo. También con lo que me estás diciendo de la grabación. No hay problema.
+
+P006 Entrevistador: Para ubicarnos, ¿podrías contarme en qué consiste tu trabajo?
+
+P007 Participante: Trabajo con registros que tienen una ubicación dentro de la alcaldía. Parte de lo que hago es revisar que lo que dice un registro corresponda con el lugar al que se refiere. También preparo información cuando alguien necesita consultar determinados sitios o revisar una relación de lugares. No todo mi trabajo es poner puntos en un mapa. Hay bastante lectura de descripciones, comparación con lo que ya tenemos y preguntas para entender qué nos están pidiendo.
+
+P008 Entrevistador: ¿Qué tipo de preguntas necesitas hacer?
+
+P009 Participante: Por ejemplo, si me dicen que cambió una dirección, necesito entender qué cambió. Puede ser que el lugar se haya trasladado, pero también puede ser que ahora se entre por otra calle o que antes lo hubieran descrito de una forma poco clara. Si trato las tres cosas igual, puedo modificar algo que no corresponde.
+
+P010 Entrevistador: ¿Podrías elegir una actividad reciente que nos permita recorrer eso con detalle?
+
+P011 Participante: Sí. Revisé una relación de tres espacios donde se realizan actividades. La persona que nos pidió la revisión quería preparar una relación para unas visitas. Dos registros salieron bastante directos. En el tercero venía una indicación de que la entrada estaba por una calle distinta de la que teníamos anotada. Ese sirve para explicar lo que hago, porque hubo que precisar qué significaba esa diferencia.
+
+P012 Entrevistador: ¿Qué te correspondía entregar?
+
+P013 Participante: Una copia revisada de la relación, con las referencias de ubicación que pudiéramos sostener y las observaciones necesarias. Mi parte era revisar los registros y devolverlos de forma que quien preparaba las visitas pudiera reconocer los sitios. Yo no organizaba las visitas ni decidía qué actividades iban a realizar allí.
+
+P014 Entrevistador: Antes de entrar en ese tercer registro, ¿cómo quedaron los otros dos?
+
+P015 Participante: Uno coincidía con lo que ya teníamos. En el otro ajusté una referencia escrita porque mencionaba un comercio que ya no servía para reconocer el acceso. El equipo que había recorrido la zona había señalado una referencia más clara. La ubicación del espacio no cambió.
+
+P016 Entrevistador: Entonces, que un registro pase por tus manos no significa que necesariamente lo modifiques.
+
+P017 Participante: No. A veces la revisión termina en decir que se puede usar como está. En esos dos casos no había mucho más que buscar. El tercero fue el que me hizo detenerme.
+
+P018 Entrevistador: Si reconstruimos ese episodio, ¿dónde pondrías tú el inicio y dónde el final?
+
+P019 Participante: Para mí empieza cuando recibo la relación con la petición de revisarla. Seguramente antes hubo conversaciones para decidir las visitas, pero yo no participé. Y termina cuando devuelvo la copia revisada y respondo una pregunta que me hicieron sobre el tercer sitio. Después ya no seguí lo de las visitas.
+
+P020 Entrevistador: Empecemos por lo que recibiste.
+
+P021 Participante: Recibí una tabla con los tres registros. Tenía los nombres con los que los identificaban, la dirección escrita y observaciones. En el tercero decía algo parecido a “entrada por la otra calle”. También venía un croquis sencillo del recorrido que había hecho el equipo. No era un plano con medidas; señalaba la esquina, el espacio y por dónde habían entrado.
+
+P022 Entrevistador: ¿Qué hiciste primero con eso?
+
+P023 Participante: Busqué los tres registros en la información con la que trabajo. Comparé los nombres y las referencias, porque a veces una misma palabra se usa de manera distinta. Luego abrí la ubicación de cada uno en el mapa que utilizo para revisar. Fui viendo si lo recibido hablaba de los mismos sitios.
+
+P024 Entrevistador: ¿El tercer registro te pareció distinto desde el principio?
+
+P025 Participante: El nombre coincidía y el punto estaba en el lugar que mostraba el croquis. Lo distinto era la calle de entrada. El espacio está en una esquina, entonces las dos descripciones podían estar hablando del mismo predio. Pero que pudieran coincidir no era suficiente para darlo por hecho.
+
+P026 Entrevistador: ¿Qué posibilidades estabas considerando?
+
+P027 Participante: Que fuera el mismo espacio y hubieran usado otro acceso. Que la descripción anterior estuviera incompleta. O que quien hizo la anotación estuviera hablando de un lugar cercano. Esta última posibilidad me parecía menos probable por el croquis, pero no quería descartarla solamente porque a mí me parecía.
+
+P028 Entrevistador: ¿Cómo decidiste qué hacer?
+
+P029 Participante: Primero revisé si teníamos alguna nota anterior que explicara la referencia. Encontré una descripción que ubicaba el espacio en la esquina, sin decir que el punto representara una puerta en particular. Después pregunté a una compañera con la que reviso estos registros si recordaba por qué estaba descrito así. Y preparé una pregunta para quien había enviado la relación.
+
+P030 Entrevistador: ¿Qué preguntaste?
+
+P031 Participante: Si el equipo había entrado al mismo espacio que figuraba en la relación anterior o si estaba señalando otro lugar. También pedí que aclararan si la observación era sobre la entrada que habían utilizado o sobre un traslado. Traté de preguntar eso de forma concreta.
+
+P032 Entrevistador: ¿Por qué esa distinción era importante para tu parte?
+
+P033 Participante: Porque yo podía cambiar una referencia de acceso conservando el registro del lugar. Si era otro espacio, ya no se resolvía cambiando una frase. Primero había que aclarar qué registro correspondía a qué sitio. Y si se había trasladado, tenía que revisar también la ubicación. Eran acciones diferentes.
+
+P034 Entrevistador: ¿Quiénes intervinieron en este recorrido, según lo que tú pudiste ver?
+
+P035 Participante: La persona que nos pidió revisar la relación, el equipo que había hecho el recorrido, mi compañera y yo. El equipo eran varias personas, pero para esta tarea yo recibí sus observaciones juntas. No sé cómo se repartieron ellos el trabajo.
+
+P036 Entrevistador: ¿Hablaste directamente con ese equipo?
+
+P037 Participante: En este caso no. La pregunta la envié a quien nos había pedido la revisión y esa persona recuperó la aclaración. En otras ocasiones sí he hablado directamente con alguien que estuvo en el sitio, pero aquí el intercambio pasó por ella.
+
+P038 Entrevistador: Me gustaría explorar cómo ves esos papeles mediante una comparación. Si tuvieras que representar a cada participante con una imagen, un objeto o alguna comparación elegida por ti, ¿qué escogerías? Lo que importa es cómo te ayuda a explicar su intervención.
+
+P039 Participante: A ver… Para quien pidió la revisión, pensaría en un separador de libro.
+
+P040 Entrevistador: ¿Qué del separador describe su papel?
+
+P041 Participante: Que marca en qué parte hay que poner atención. Nos mandó una relación concreta y dijo para qué la necesitaba. No era revisar todo lo que tenemos. También mantuvo localizada la pregunta mientras nosotros revisábamos. Si yo le decía que faltaba aclarar una cosa, sabía a qué asunto correspondía.
+
+P042 Entrevistador: ¿Esa persona también decidía cómo debías resolver la ubicación?
+
+P043 Participante: No en este caso. Podía explicarme para qué se usaría la relación y conseguir la respuesta del equipo. La revisión técnica la hacía yo. Si me hubiera dicho “ponlo en la otra calle” sin más, todavía habría necesitado entender qué estaba representando.
+
+P044 Entrevistador: ¿Qué comparación elegirías para el equipo que recorrió los sitios?
+
+P045 Participante: Una libreta de campo abierta. Porque trajeron cosas que se ven estando allí: por dónde entraron, qué referencia les ayudó, cómo reconocieron el sitio.
+
+P046 Entrevistador: ¿Qué significa que la libreta esté abierta?
+
+P047 Participante: Que puedo preguntar sobre lo que anotaron. Una observación breve no siempre trae toda la explicación, pero detrás hay una experiencia que pueden contar. Tampoco significa que yo pueda pedirles cualquier cosa y la sepan. Si no revisaron la otra puerta, no me pueden asegurar qué pasa con esa puerta.
+
+P048 Entrevistador: ¿Eso ocurrió en este caso?
+
+P049 Participante: Sí. Aclararon que habían entrado por la calle que aparecía en la nota. No confirmaron si el acceso mencionado antes seguía funcionando. Esa diferencia se quedó en mi revisión: yo sabía por dónde habían entrado, no sabía que el otro acceso hubiera dejado de utilizarse.
+
+P050 Entrevistador: ¿Y tu compañera?
+
+P051 Participante: La compararía con alguien que sostiene el otro extremo de una cinta de medir. No porque aquí midiéramos distancias. Es porque me ayuda a revisar desde otro extremo lo que estoy entendiendo.
+
+P052 Entrevistador: ¿Qué sostuvo ella en este episodio?
+
+P053 Participante: La lectura de la información anterior. Yo estaba muy concentrada en la nueva anotación y ella me hizo volver a cómo habíamos identificado el espacio. Vimos que el punto estaba asociado al sitio, no a una entrada específica. Eso ayudó a no moverlo sólo porque la nueva descripción nombraba otra calle.
+
+P054 Entrevistador: ¿Necesitabas que ella autorizara la decisión?
+
+P055 Participante: No. Le consulté porque trabajamos con información semejante y me servía contrastar la lectura. La decisión sobre la revisión que yo entregué fue mía. No quisiera que la comparación sonara a que ella tiene que validar todo lo que hago.
+
+P056 Entrevistador: Entendido. ¿Cómo te representarías tú?
+
+P057 Participante: Como una mesa de trabajo donde se extienden varias hojas.
+
+P058 Entrevistador: Cuéntame qué hay en esa mesa.
+
+P059 Participante: Lo que recibí, lo que ya estaba registrado, el croquis y las aclaraciones. Mi trabajo es ponerlos en relación. Una hoja sola puede verse muy clara y, al ponerla junto a otra, aparece una diferencia que hay que entender. Pero yo no produzco todo lo que llega a la mesa. No estuve en el recorrido ni sé para qué más usan esos lugares.
+
+P060 Entrevistador: ¿La comparación también te sirve cuando todo coincide?
+
+P061 Participante: Sí. No sólo cuando hay una duda. En los otros dos registros puse las cosas juntas, vi que correspondían y seguí. A veces esa mesa se despeja rápido.
+
+P062 Entrevistador: Volvamos al momento de la aclaración. ¿Qué respondió quien solicitó la revisión?
+
+P063 Participante: Nos hizo llegar que el equipo había visitado el mismo espacio de la relación. Habían entrado por el costado y querían que esa referencia apareciera para las próximas visitas. El croquis coincidía con eso. No estaban informando un traslado.
+
+P064 Entrevistador: ¿Con esa respuesta cambiaste el registro?
+
+P065 Participante: Cambié la descripción del acceso en la copia que estaba preparando. Conservé el identificador y la ubicación del espacio. Dejé una observación breve indicando que la referencia correspondía al acceso utilizado en ese recorrido. También guardé la aclaración junto con lo que había recibido para poder explicar después por qué había hecho el ajuste.
+
+P066 Entrevistador: ¿Por qué no desplazaste el punto hacia la entrada que acababan de señalar?
+
+P067 Participante: Porque el punto nos estaba sirviendo para reconocer el espacio dentro de esa esquina. No teníamos un levantamiento de la puerta ni se esperaba llegar a una precisión así con ese registro. Moverlo unos metros en la pantalla podía dar la impresión de que habíamos ubicado exactamente el acceso, y eso no era lo que se había comprobado.
+
+P068 Entrevistador: ¿Cómo sabías qué representaba ese punto?
+
+P069 Participante: Por la descripción anterior y por la forma en que estaba trabajado ese conjunto de registros. Lo revisé con mi compañera, como te decía. No te puedo decir que todos los puntos que maneja cualquier otra área representen lo mismo. En estos registros concretos lo pudimos reconocer.
+
+P070 Entrevistador: Entonces resolviste que la entrada anterior ya no debía utilizarse.
+
+P071 Participante: No, eso no lo resolví. Ahí sí haría una corrección a lo que entendiste. Yo incorporé una referencia que el equipo había utilizado. No comprobé que la otra entrada estuviera cerrada o que hubiera una indicación de dejar de usarla.
+
+P072 Entrevistador: ¿Cómo evitaste que la nueva redacción se entendiera de esa manera?
+
+P073 Participante: No puse “único acceso” ni “acceso anterior cancelado”. Describí la entrada utilizada y dejé la observación de dónde venía esa información. Quien preparaba la visita podía entender la referencia, pero si necesitaba saber por dónde debía ingresar un grupo en otra circunstancia, eso requería confirmarlo con quienes correspondiera.
+
+P074 Entrevistador: ¿Te pidieron esa confirmación adicional?
+
+P075 Participante: No. La pregunta posterior fue por qué la calle de la descripción ya no coincidía con la que aparecía antes. Expliqué que seguíamos hablando del mismo espacio y que habíamos incorporado la referencia del recorrido. Con eso dieron por atendida mi parte.
+
+P076 Entrevistador: Antes de esa pregunta posterior, ¿cómo revisaste lo que ibas a entregar?
+
+P077 Participante: Volví a leer los tres registros seguidos. Cuando uno se concentra en una observación puede dejar algo cortado o usar una expresión que sólo entiende porque acaba de leer todos los mensajes. Revisé que el identificador del tercer espacio siguiera siendo el mismo, que no hubiera cambiado la ubicación y que la descripción no afirmara más de lo que sabíamos. Luego devolví la copia revisada con una explicación corta de los cambios.
+
+P078 Entrevistador: ¿Qué querías que se entendiera en esa explicación?
+
+P079 Participante: Qué podían usar y qué habíamos aclarado. En el primero no hubo cambio. En el segundo se sustituyó la referencia que ya no ayudaba a reconocer el acceso. En el tercero se precisó la entrada utilizada en el recorrido. No mandé toda mi conversación con mi compañera; eso no les hacía falta para preparar la relación.
+
+P080 Entrevistador: ¿Qué pasó después con esa copia?
+
+P081 Participante: Sé que la recibió quien estaba preparando las visitas, porque me hizo la pregunta que te conté. No vi cómo quedó la relación que usaron al salir ni estuve en esas visitas. Supongo que utilizaron la referencia, pero no tengo cómo asegurártelo.
+
+P082 Entrevistador: Si miras ahora el recorrido completo y lo agrupas en partes, ¿cómo llamarías tú a esas partes?
+
+P083 Participante: Primero, “entender el encargo”. Luego, “ponerlo junto a lo que tenemos”. Después diría “resolver lo que no encaja”. Y al final, “dejarlo listo y explicarlo”.
+
+P084 Entrevistador: ¿Dónde empieza y termina “entender el encargo”?
+
+P085 Participante: Empieza con leer lo que me piden y saber para qué lo necesitan. Termina cuando puedo decir qué me toca revisar. Aunque a veces tengo que volver a esa parte. Si después me piden algo distinto, necesito entender ese cambio antes de seguir.
+
+P086 Entrevistador: ¿En este caso tuviste que volver?
+
+P087 Participante: No cambió el encargo. Lo que tuve que aclarar fue el contenido de una observación.
+
+P088 Entrevistador: ¿Y “ponerlo junto a lo que tenemos” y “resolver lo que no encaja” ocurrieron una después de la otra?
+
+P089 Participante: No tan separadas. Mientras comparaba ya iba anotando la pregunta. Y mientras esperaba la respuesta terminé los otros dos registros. Lo estoy agrupando para explicarlo, pero no fue que cerré una parte y abrí la siguiente sin regresar.
+
+P090 Entrevistador: ¿Mantendrías esos nombres con esa salvedad?
+
+P091 Participante: Sí. Me sirven. Sólo cambiaría el último a “devolver y dejar entendible”, porque “dejarlo listo” suena como si ya no pudiera volver una pregunta. Y sí puede volver.
+
+P092 Entrevistador: Cuando vuelve una pregunta, ¿por dónde entra normalmente a tu trabajo?
+
+P093 Participante: Por distintos medios de trabajo, según con quién esté tratando. A veces me preguntan sobre la misma copia que mandé. Otras me dicen de palabra que no entienden una referencia. Yo intento ubicar primero cuál versión están viendo y qué parte les causa duda.
+
+P094 Entrevistador: ¿Por qué necesitas ubicar la versión?
+
+P095 Participante: Porque puede que estén mirando la relación que recibimos al inicio o una copia donde ya se incorporó algo. Si no sé eso, puedo explicar un cambio que todavía no están viendo. No siempre pasa, pero cuando pasa se resuelve viendo el documento concreto.
+
+P096 Entrevistador: ¿Hay una secuencia fija para pedir que algo se revise de nuevo?
+
+P097 Participante: En lo que yo hago, no siempre. Una duda de redacción puede resolverse en el mismo intercambio. Si alguien dice que el lugar es otro, entonces necesito detener esa modificación y revisar la correspondencia. No te puedo describir un circuito que aplique a toda la alcaldía. Te estoy contando cómo atiendo estas consultas dentro de mi trabajo.
+
+P098 Entrevistador: ¿Qué habría cambiado en este episodio si el equipo hubiera dicho que se trataba de otro espacio?
+
+P099 Participante: Habría separado esa cuestión de los otros dos registros. No habría reutilizado el identificador sólo porque el nombre se parecía. Tendría que pedir referencias para reconocer el otro sitio y ver qué relación tenía con el registro anterior. Dependiendo de lo que apareciera, consultaría con el equipo con el que trabajo cómo incorporarlo. Pero eso ya es lo que habría hecho, no lo que ocurrió.
+
+P100 Entrevistador: ¿Y si no hubiera llegado la aclaración sobre la entrada?
+
+P101 Participante: Podía devolver los otros dos revisados y señalar que el tercero seguía pendiente de aclarar. No había necesidad de inventar una respuesta para entregar los tres de la misma manera.
+
+P102 Entrevistador: ¿Eso sucede con frecuencia?
+
+P103 Participante: No sabría darte una frecuencia. Hay relaciones que se revisan completas sin preguntar nada y otras donde se aparta un registro. Este caso lo recuerdo por la diferencia entre ubicar el espacio y describir por dónde entraron.
+
+P104 Entrevistador: Quisiera detenerme en la decisión de conservar el mismo registro. ¿Qué necesitabas saber para tomarla?
+
+P105 Participante: Si la nueva observación se refería al mismo lugar. Ésa era la pregunta principal. Después, qué parte de la descripción había cambiado y qué tan lejos podía llevar esa información.
+
+P106 Entrevistador: ¿En qué te apoyaste para responderla?
+
+P107 Participante: En la coincidencia del nombre, la esquina que mostraba el croquis, la descripción anterior y la aclaración del equipo. Ninguna cosa por separado me daba todo. El nombre podía repetirse o escribirse de otra forma. El croquis me ayudaba a reconocer el sitio, pero no decía por sí solo si estaban hablando de un traslado. La respuesta del equipo aclaró eso.
+
+P108 Entrevistador: ¿Cómo reconociste que ya tenías suficiente?
+
+P109 Participante: Cuando las referencias coincidieron y la aclaración respondió a la duda que yo tenía que resolver. Podía explicar por qué conservaba el registro y por qué ajustaba la descripción. Para esa tarea me alcanzaba.
+
+P110 Entrevistador: ¿Qué seguías sin saber?
+
+P111 Participante: Si la otra entrada seguía en uso, si había horarios distintos para entrar por un lado o por otro, o si la siguiente visita iba a tener alguna condición diferente. No lo sabía y no lo puse como si lo supiera.
+
+P112 Entrevistador: ¿Esos datos habrían hecho mejor tu revisión?
+
+P113 Participante: Habrían dado más detalle, pero no todos eran necesarios para lo que estaba haciendo. Si la solicitud hubiera sido indicar el acceso para una actividad con condiciones específicas, quizá sí. Para reconocer el mismo espacio y dejar una referencia que el equipo ya había usado, no necesitaba resolver todo eso.
+
+P114 Entrevistador: ¿Hay algo que te haga desconfiar de una información aunque venga acompañada de una explicación?
+
+P115 Participante: Más que desconfiar, me hace revisar si la explicación realmente responde a la pregunta. Si pregunto si es el mismo espacio y me contestan que la calle está bien escrita, todavía no sé si es el mismo espacio. Puede ser una respuesta correcta sobre otra cosa. También me detengo si el croquis y la descripción señalan lugares diferentes.
+
+P116 Entrevistador: ¿Qué haces entonces?
+
+P117 Participante: Intento mostrar la diferencia de manera concreta. “En este dibujo aparece de este lado y en el texto se menciona el otro”. A veces basta con eso para que quien lo elaboró diga qué quiso señalar. No necesariamente hay un dato equivocado; puede que yo esté leyendo mal una referencia.
+
+P118 Entrevistador: ¿Recuerdas algún momento de este episodio en que tu propia lectura cambiara?
+
+P119 Participante: Al principio pensé que tendría que mover el punto. No lo había hecho, pero fue mi primera reacción al leer otra calle. Cuando revisé la descripción anterior y lo hablé con mi compañera, vi que estaba confundiendo la localización del espacio con la ubicación de una puerta. Por eso me sirvió volver a lo que ya teníamos.
+
+P120 Entrevistador: Hasta aquí hemos hablado de lo que utilizaste. Ahora quisiera proponerte un ejercicio distinto: pensando en tu trabajo, ¿qué te gustaría poder saber con facilidad, aunque hoy no conozcas una fuente donde consultarlo?
+
+P121 Participante: Me gustaría saber qué quiso decir quien dejó ciertas observaciones muy breves. A veces leo “revisado” o “cambio de ubicación” y no sé qué se revisó o qué cambió exactamente. No estoy diciendo que toda nuestra información venga así. Hay notas muy claras. Pero cuando aparece una de esas frases, tengo que reconstruir el sentido.
+
+P122 Entrevistador: ¿Qué querrías encontrar detrás de una frase como “cambio de ubicación”?
+
+P123 Participante: Si la persona observó un traslado, corrigió un punto que estaba mal puesto o sólo escribió de otra manera la dirección. Son cosas que pueden quedar resumidas con las mismas palabras. Querría saber qué vio o qué comparación hizo para decirlo.
+
+P124 Entrevistador: Si pudieras organizar esa información a tu manera, ¿cómo sería el espacio donde la consultarías?
+
+P125 Participante: Lo imagino bastante sencillo, como una carpeta por lugar. Al abrirla vería el registro con el que estoy trabajando y, al lado, las notas que explican los cambios o las revisiones. Si hubo un croquis que ayudó a reconocerlo, estaría ahí. No abriría primero un mapa de todos los lugares.
+
+P126 Entrevistador: Descríbeme qué harías primero al entrar a esa carpeta con una tarea como la que relataste.
+
+P127 Participante: Buscaría el registro por su identificador o por el nombre que me enviaron. Comprobaría que es el lugar correcto. Luego leería la descripción que estamos usando y la explicación de la modificación más reciente. Si mi duda siguiera siendo espacial, abriría el mapa o el croquis.
+
+P128 Entrevistador: ¿Qué tendría esa explicación para que te resultara útil?
+
+P129 Participante: Una frase que dijera qué se comprobó y con qué referencia. Por ejemplo, en este caso: se confirmó que era el mismo espacio y se incorporó el acceso utilizado durante el recorrido. También necesitaría reconocer a qué revisión corresponde. Si es una nota de hace tiempo, tengo que poder distinguirla de una aclaración que acaba de llegar.
+
+P130 Entrevistador: ¿Querrías conservar todos los intercambios?
+
+P131 Participante: No necesariamente. Hay mensajes que sólo dicen que ya recibieron el archivo o que van a preguntar. Eso no me ayuda mucho después. Sí conservaría el material necesario para entender la decisión. Y si una duda quedó abierta, querría que no desapareciera entre las notas.
+
+P132 Entrevistador: ¿Cómo te gustaría ver esa duda abierta?
+
+P133 Participante: Escrita de forma directa. En este caso podría ser que no se comprobó si el otro acceso seguía en uso. Aunque tampoco pondría todas las cosas que nadie preguntó. Si hago una lista de todo lo que no sabemos de un lugar, no termino. Me refiero a una duda que surgió en la revisión y que importa para entender lo que entregamos.
+
+P134 Entrevistador: ¿Esa carpeta te permitiría decidir sin consultar a otras personas?
+
+P135 Participante: Algunas cosas, sí. Si la explicación ya está y responde a mi pregunta, no tendría que volver a preguntar lo mismo. Pero si aparece una observación nueva, voy a necesitar hablar con alguien. La carpeta no puede decirme lo que pasó después de lo último que contiene.
+
+P136 Entrevistador: De lo que imaginaste, ¿qué parte priorizarías?
+
+P137 Participante: La explicación del último cambio que afecta la identificación del lugar. Antes que reunir muchos materiales, querría poder entender eso. Si sólo hay espacio para una nota útil, que me diga qué se cambió y por qué.
+
+P138 Entrevistador: ¿Qué decisión concreta te ayudaría a tomar?
+
+P139 Participante: Si puedo usar el registro para atender la solicitud que tengo o si necesito aclarar algo antes. También si una observación nueva contradice lo anterior o simplemente añade una referencia. En el episodio que contamos, quizá habría entendido antes por qué el punto estaba ahí.
+
+P140 Entrevistador: ¿Qué te mostraría, en una jornada de trabajo, que esa forma de consulta te sirve?
+
+P141 Participante: Que al retomar un lugar después de un tiempo pueda explicar la revisión sin depender de acordarme de la conversación. O que mi compañera pueda continuar con lo que dejé y reconocer dónde está la duda. No esperaría dejar de hacer consultas. Esperaría que las consultas fueran sobre lo que de verdad falta.
+
+P142 Entrevistador: ¿Hay alguna parte de tu trabajo para la que eso no te aportaría mucho?
+
+P143 Participante: Sí. Si recibo un sitio nuevo con referencias claras y no tengo que compararlo con una historia anterior, esa carpeta de revisiones todavía no tendría gran cosa que aportar. O si me piden una relación sencilla que ya tenemos preparada y no ha surgido ninguna observación. No todo necesita el mismo recorrido.
+
+P144 Entrevistador: ¿Cómo se relaciona ese ejercicio ideal con lo que ya haces?
+
+P145 Participante: Parte de eso ya lo hacemos guardando notas y materiales con los registros. Lo ideal sería encontrarlos de manera más pareja, con una explicación que se entienda después. No estoy imaginando empezar desde cero. En este caso pude recuperar la descripción anterior y eso funcionó.
+
+P146 Entrevistador: ¿Qué conservarías de tu manera actual de trabajar?
+
+P147 Participante: Comparar antes de cambiar. Y poder hacer una pregunta corta a la persona que tiene la experiencia del sitio. También conservaría revisar con mi compañera cuando necesito otra lectura. Aunque tuviera todo muy ordenado, me seguiría sirviendo escuchar cómo entiende ella una descripción.
+
+P148 Entrevistador: ¿Hay algo de esa revisión compartida que no pudiera quedar escrito?
+
+P149 Participante: Puede quedar escrito el resultado, pero la conversación ayuda a llegar a él. Mi compañera me puede preguntar por qué estoy suponiendo algo y yo darme cuenta de que no tengo una razón suficiente. No siempre sé desde el principio cuál es la pregunta que debo dejar en una nota.
+
+P150 Entrevistador: Antes dijiste que no todo tu trabajo consiste en poner puntos. Después de recorrer el caso, ¿qué parte dirías que suele quedar menos visible?
+
+P151 Participante: Entender a qué se refiere lo que recibimos. Desde fuera puede parecer que hay una dirección y sólo hay que encontrarla. A veces sí es así de directo. Otras veces primero hay que distinguir si dos descripciones hablan de lo mismo. Esa parte no siempre se ve en el resultado final, porque al final queda una fila bastante sencilla.
+
+P152 Entrevistador: ¿Te interesa que quien recibe esa fila conozca todo ese trabajo?
+
+P153 Participante: No todo. Me interesa que entienda lo necesario para usarla. Si le mando una explicación larguísima de cada comparación, quizá le dificulte encontrar lo que necesita. Pero si hay una condición que cambia cómo debe leer el dato, sí quiero que la vea.
+
+P154 Entrevistador: Para revisar lo que entendí: tu tarea fue contrastar tres registros para una relación de visitas. En uno de ellos aclaraste que la observación se refería a otro acceso del mismo espacio. Conservaste su identificación y su punto, ajustaste la referencia escrita y explicaste el alcance de esa revisión. ¿Qué corregirías?
+
+P155 Participante: Eso está bien. Sólo añadiría que no fui yo quien comprobó el acceso en el sitio. Me apoyé en lo que informó el equipo y en el croquis. Yo revisé cómo incorporar esa información al registro.
+
+P156 Entrevistador: Gracias por precisarlo. También entendí que para ti sería útil encontrar con más facilidad el sentido de algunas revisiones anteriores, aunque en este episodio la información disponible te alcanzó.
+
+P157 Participante: Sí. No quisiera que pareciera que este caso quedó a medias por no tener esa carpeta que imaginamos. Lo pudimos atender. El ejercicio me hizo pensar en otras ocasiones donde una nota breve ya no se entiende tan fácilmente.
+
+P158 Entrevistador: ¿Nos quedó fuera algo importante sobre cómo trabajas?
+
+P159 Participante: Que a veces dejar un registro como está también lleva revisión. Si sólo miras qué cambió en el archivo, no ves que el primero de esos tres se comparó y se consideró suficiente. No lo digo para que se anote cada movimiento que hacemos, sino porque conservar algo también puede ser una decisión.
+
+P160 Entrevistador: ¿Te parece que eso describe bien lo que ocurrió con el punto del tercer espacio?
+
+P161 Participante: Sí, ahí también. Lo conservé después de revisar qué representaba. No fue que se me olvidara moverlo.
+
+P162 Entrevistador: ¿Hay algún último matiz que quieras dejar antes de cerrar?
+
+P163 Participante: Que ésta es mi parte del trabajo. Puedo explicar por qué devolví esa relación de esa manera. Sobre cómo se organizó la visita o qué decidieron después en el lugar, tendrían que preguntar a quienes participaron. A mí me sirve tener clara esa diferencia.
+
+P164 Entrevistador: Queda clara. Gracias por recorrer el episodio con tanto detalle y por corregir las interpretaciones que no correspondían. Con esto cerramos la conversación.
+
+P165 Participante: Gracias. Me pareció bien poder ir al caso concreto; así se entiende mejor lo que hago.

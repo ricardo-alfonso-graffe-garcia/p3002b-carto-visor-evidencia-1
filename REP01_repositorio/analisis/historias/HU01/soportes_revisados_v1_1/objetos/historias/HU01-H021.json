@@ -1,0 +1,128 @@
+{
+  "id": "HU01-H021",
+  "titulo": "Recuperar una pista para proponer dónde conversar",
+  "formulacion": "Como persona que considera seguir una salida en otra ocasión, quiero consultar una nota breve con observaciones, fuente, momento y motivo para recordar un lugar, para proponer o descartar hacia dónde caminar y comprobar al llegar si aún sirve.",
+  "actores": [
+    "ACT01-A024"
+  ],
+  "perfil": "HU01-P005",
+  "necesidades": [
+    "N01-N029"
+  ],
+  "entrevistas": [
+    "E05"
+  ],
+  "tipo": "IDEAL_A_CONTRASTAR",
+  "contexto": "Ideal para otra ocasión E05-P136; P142–143 aclaran que no falló esa tarde. P153 ofreció lista/mapa/otra forma y P154 respondió lista propia; mapa condicionado a no ubicar.",
+  "objetivo": "consultar una nota breve con observaciones, fuente, momento y motivo para recordar un lugar",
+  "beneficio_o_decision": "proponer o descartar hacia dónde caminar y comprobar al llegar si aún sirve",
+  "restricciones": [
+    "Ideal para otras ocasiones elicitado; no garantiza mesa hoy, ambiente permanente o cómo se sentirá. No llenaría ficha cada visita ni revisaría todos los libros antes."
+  ],
+  "preservar": [
+    "Observación al llegar",
+    "Decidir ganas con amistad",
+    "No registrar cada visita",
+    "Descubrimiento en librería"
+  ],
+  "evidencias": [
+    "N01-V0328",
+    "N01-V0329",
+    "N01-V0330",
+    "N01-V0324",
+    "N01-V0331",
+    "N01-V0332",
+    "N01-V0333",
+    "N01-V0334",
+    "N01-V0335",
+    "N01-V0336",
+    "N01-V0337",
+    "N01-V0338",
+    "N01-V0339",
+    "N01-V0340",
+    "N01-V0341",
+    "N01-V0342",
+    "N01-V0343",
+    "N01-V0325",
+    "N01-V0307",
+    "N01-V0326",
+    "N01-V0315",
+    "N01-V0327",
+    "N01-V0308"
+  ],
+  "limites": "No se conoce fuente concreta, nota existente o esfuerzo real de mantenimiento.; No se puede asegurar mesa o ambiente presente desde una visita anterior.. Las formulaciones son derivaciones analíticas, no citas ni compromisos de participantes. La pertinencia de un producto sigue por validar.",
+  "criterios": [
+    {
+      "id": "HU01-K028",
+      "dado": "existe una nota de lugar con observación, fuente y momento",
+      "cuando": "se propone o descarta hacia dónde caminar y se comprueba al llegar",
+      "entonces": "se recupera una razón pertinente y se compara lo presente con lo entendido admitiendo diferencia y posibilidad de no quedarse",
+      "origen": "ADAPTADO_DE_CRITERIO_N01",
+      "criterios_n01": [
+        "N01-K029"
+      ],
+      "estado": "PROPUESTO_NO_EJECUTADO",
+      "limites": "Adaptación analítica de N01-K029. Observable N01 de origen DECLARADO; Dado/Cuando/Entonces y el cotejo son propuestas del análisis, no aceptación recabada. Ideal para otras ocasiones elicitado; no garantiza mesa hoy, ambiente permanente o cómo se sentirá. No llenaría ficha cada visita ni revisaría todos los libros antes. Soportes originales no aportados; no se ejecutó esta comprobación."
+    }
+  ],
+  "prioridad": {
+    "nivel": "ALTA",
+    "ambito": "E05: ideal a contrastar: Recuperar una pista para proponer dónde conversar",
+    "origen": "ANALISIS_CONDICIONAL",
+    "razon": "Alta dentro del ideal opcional por poder escucharse; mesa y ambiente actuales requieren comprobarse. No obligación de llenar ficha por visita. Importancia expresada: En P159 prima poder escucharse, aunque no se pueda asegurar para cualquier momento. P160 separa mesa observada ayer de disponibilidad actual; no es prioridad de la ciudad.",
+    "limites": "Orden local parcial y condicional al momento señalado. No ranking urbano, cartera implementable, aceptación ADIP ni factibilidad comprobada."
+  },
+  "perfil_metadatos": "HU01-M021",
+  "metaalgoritmo": [
+    {
+      "id": "HU01-OP086",
+      "nombre": "Confirmar que se quiere seguir",
+      "entrada": "Ganas y tiempo conversados con amistad",
+      "operacion": "Propuesta: Preguntar primero si interesa sentarse, sin asumir respuesta.",
+      "salida": "Búsqueda opcional o fin del plan",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP087",
+      "nombre": "Recuperar nota pertinente",
+      "entrada": "Notas existentes si las hay en la zona",
+      "operacion": "Propuesta: Leer motivo, nombre, referencia y observaciones con fuente y momento; lista propia basta.",
+      "salida": "Pistas y desconocidos",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP088",
+      "nombre": "Interpretar según ocasión",
+      "entrada": "Pistas sobre escucha y mesas",
+      "operacion": "Propuesta: Distinguir fuente conocida o ajena y mañana/tarde; mapa solo si no se ubica.",
+      "salida": "Propuesta o descarte con razón",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP089",
+      "nombre": "Comprobar y decidir al llegar",
+      "entrada": "Lugar propuesto, mesa y ambiente presentes",
+      "operacion": "Propuesta: Preguntar y observar; decidir quedarse o seguir según situación y ganas.",
+      "salida": "Decisión sin garantía retrospectiva",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP090",
+      "nombre": "Revisar utilidad opcional",
+      "entrada": "Razón recuperada y experiencia presente",
+      "operacion": "Propuesta: Valorar si la pista orientó con sentido sin exigir anotación cada vez.",
+      "salida": "Conservar o dejar el apoyo según utilidad",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    }
+  ]
+}

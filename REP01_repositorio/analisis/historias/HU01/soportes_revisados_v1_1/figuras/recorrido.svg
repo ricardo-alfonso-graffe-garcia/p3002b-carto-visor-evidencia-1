@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1520" height="2130" viewBox="0 0 1520 2130" role="img"><title>Del conocimiento necesario a historias y criterios</title><desc>Cinco casos, prácticas actuales y seis deseos ideales. Las flechas expresan trazabilidad analítica, no cadena de trabajo entre casos.</desc><rect width="100%" height="100%" fill="#f3f5f7"/><style>text{font-family:DejaVu Sans,sans-serif;fill:#142a3b}.title{font-weight:bold}.muted{fill:#42596a}</style>
+<text x="40" y="55" font-size="30" class="title">Necesidad → historia → criterio e información</text>
+<text x="40" y="91" font-size="18">Ejemplos de los cinco casos y desarrollo de los seis deseos ideales · propuestas de comprobación</text>
+<rect x="25" y="125" width="1470" height="365" rx="12" fill="#fff" stroke="#cfdae1"/>
+<text x="45" y="157" font-size="22" class="title">E01 · Registro territorial</text>
+<rect x="43" y="180" width="335" height="78" rx="12" fill="#e8f3ee" stroke="#cfdae1"/>
+<text x="57" y="205" font-size="16" class="title">ACTUAL · N01-N001, N01-N002</text>
+<text x="57" y="230" font-size="15">Práctica a preservar / revisar</text>
+<path d="M382 218 L422 218" stroke="#42596a" stroke-width="2"/><path d="M414 212 L424 218 L414 224" fill="none" stroke="#42596a" stroke-width="2"/>
+<rect x="430" y="180" width="505" height="78" rx="12" fill="#fff" stroke="#cfdae1"/>
+<text x="444" y="204" font-size="16" class="title">HU01-H001</text>
+<text x="444" y="229" font-size="16">Revisar identidad antes de conservar o modificar</text>
+<path d="M940 218 L974 218" stroke="#42596a" stroke-width="2"/><path d="M966 212 L976 218 L966 224" fill="none" stroke="#42596a" stroke-width="2"/>
+<rect x="982" y="180" width="490" height="78" rx="12" fill="#f8f3e8" stroke="#cfdae1"/>
+<text x="995" y="204" font-size="15">Comprobar: HU01-K001, HU01-K002</text>
+<text x="995" y="240" font-size="15">Información: HU01-M001 · 21 campos</text>
+<rect x="43" y="317" width="335" height="78" rx="12" fill="#e9f0fb" stroke="#cfdae1"/>
+<text x="57" y="342" font-size="16" class="title">IDEAL · N01-N004</text>
+<text x="57" y="367" font-size="15">Deseo por contrastar</text>
+<path d="M382 355 L422 355" stroke="#42596a" stroke-width="2"/><path d="M414 349 L424 355 L414 361" fill="none" stroke="#42596a" stroke-width="2"/>
+<rect x="430" y="317" width="505" height="78" rx="12" fill="#fff" stroke="#cfdae1"/>
+<text x="444" y="341" font-size="16" class="title">HU01-H003</text>
+<text x="444" y="366" font-size="16">Retomar el sentido del último cambio de un lugar</text>
+<path d="M940 355 L974 355" stroke="#42596a" stroke-width="2"/><path d="M966 349 L976 355 L966 361" fill="none" stroke="#42596a" stroke-width="2"/>
+<rect x="982" y="317" width="490" height="78" rx="12" fill="#f8f3e8" stroke="#cfdae1"/>
+<text x="995" y="341" font-size="15">Comprobar: HU01-K004</text>
+<text x="995" y="377" font-size="15">Información: HU01-M003 · 21 campos</text>
+<text x="45" y="472" font-size="15">Todas las necesidades e historias: tablas/cobertura_necesidades.csv e historias.csv.</text>
+<rect x="25" y="510" width="1470" height="365" rx="12" fill="#fff" stroke="#cfdae1"/>
+<text x="45" y="542" font-size="22" class="title">E02 · Investigación de compras</text>
+<rect x="43" y="565" width="335" height="78" rx="12" fill="#e8f3ee" stroke="#cfdae1"/>
+<text x="57" y="590" font-size="16" class="title">ACTUAL · N01-N007, N01-N008</text>
+<text x="57" y="615" font-size="15">Práctica a preservar / revisar</text>
+<path d="M382 603 L422 603" stroke="#42596a" stroke-width="2"/><path d="M414 597 L424 603 L414 609" fill="none" stroke="#42596a" stroke-width="2"/>
+<rect x="430" y="565" width="505" height="78" rx="12" fill="#fff" stroke="#cfdae1"/>
+<text x="444" y="589" font-size="16" class="title">HU01-H005</text>
+<text x="444" y="614" font-size="16">Escribir hasta donde alcanza la evidencia de</text>
+<text x="444" y="637" font-size="16">elección</text>
+<path d="M940 603 L974 603" stroke="#42596a" stroke-width="2"/><path d="M966 597 L976 603 L966 609" fill="none" stroke="#42596a" stroke-width="2"/>
+<rect x="982" y="565" width="490" height="78" rx="12" fill="#f8f3e8" stroke="#cfdae1"/>
+<text x="995" y="589" font-size="15">Comprobar: HU01-K006, HU01-K007</text>
+<text x="995" y="625" font-size="15">Información: HU01-M005 · 21 campos</text>
+<rect x="43" y="702" width="335" height="78" rx="12" fill="#e9f0fb" stroke="#cfdae1"/>
+<text x="57" y="727" font-size="16" class="title">IDEAL · N01-N009</text>
+<text x="57" y="752" font-size="15">Deseo por contrastar</text>
+<path d="M382 740 L422 740" stroke="#42596a" stroke-width="2"/><path d="M414 734 L424 740 L414 746" fill="none" stroke="#42596a" stroke-width="2"/>
+<rect x="430" y="702" width="505" height="78" rx="12" fill="#fff" stroke="#cfdae1"/>
+<text x="444" y="726" font-size="16" class="title">HU01-H006</text>
+<text x="444" y="751" font-size="16">Contrastar otra ocasión antes de ampliar el</text>
+<text x="444" y="774" font-size="16">seguimiento</text>
+<path d="M940 740 L974 740" stroke="#42596a" stroke-width="2"/><path d="M966 734 L976 740 L966 746" fill="none" stroke="#42596a" stroke-width="2"/>
+<rect x="982" y="702" width="490" height="78" rx="12" fill="#f8f3e8" stroke="#cfdae1"/>
+<text x="995" y="726" font-size="15">Comprobar: HU01-K008</text>
+<text x="995" y="762" font-size="15">Información: HU01-M006 · 21 campos</text>
+<text x="45" y="857" font-size="15">Todas las necesidades e historias: tablas/cobertura_necesidades.csv e historias.csv.</text>
+<rect x="25" y="895" width="1470" height="365" rx="12" fill="#fff" stroke="#cfdae1"/>
+<text x="45" y="927" font-size="22" class="title">E03 · Encuentros culturales</text>
+<rect x="43" y="950" width="335" height="78" rx="12" fill="#e8f3ee" stroke="#cfdae1"/>
+<text x="57" y="975" font-size="16" class="title">ACTUAL · N01-N012, N01-N013</text>
+<text x="57" y="1000" font-size="15">Práctica a preservar / revisar</text>
+<path d="M382 988 L422 988" stroke="#42596a" stroke-width="2"/><path d="M414 982 L424 988 L414 994" fill="none" stroke="#42596a" stroke-width="2"/>
+<rect x="430" y="950" width="505" height="78" rx="12" fill="#fff" stroke="#cfdae1"/>
+<text x="444" y="974" font-size="16" class="title">HU01-H008</text>
+<text x="444" y="999" font-size="16">Invitar y recibir sin exigir asistencia previa o</text>
+<text x="444" y="1022" font-size="16">escritura</text>
+<path d="M940 988 L974 988" stroke="#42596a" stroke-width="2"/><path d="M966 982 L976 988 L966 994" fill="none" stroke="#42596a" stroke-width="2"/>
+<rect x="982" y="950" width="490" height="78" rx="12" fill="#f8f3e8" stroke="#cfdae1"/>
+<text x="995" y="974" font-size="15">Comprobar: HU01-K011, HU01-K012</text>
+<text x="995" y="1010" font-size="15">Información: HU01-M008 · 21 campos</text>
+<rect x="43" y="1042" width="335" height="78" rx="12" fill="#e9f0fb" stroke="#cfdae1"/>
+<text x="57" y="1067" font-size="16" class="title">IDEAL · N01-N016</text>
+<text x="57" y="1092" font-size="15">Deseo por contrastar</text>
+<path d="M382 1080 L422 1080" stroke="#42596a" stroke-width="2"/><path d="M414 1074 L424 1080 L414 1086" fill="none" stroke="#42596a" stroke-width="2"/>
+<rect x="430" y="1042" width="505" height="78" rx="12" fill="#fff" stroke="#cfdae1"/>
+<text x="444" y="1066" font-size="16" class="title">HU01-H011</text>
+<text x="444" y="1091" font-size="16">Retomar acuerdos del espacio entre personas del</text>
+<text x="444" y="1114" font-size="16">equipo</text>
+<path d="M940 1080 L974 1080" stroke="#42596a" stroke-width="2"/><path d="M966 1074 L976 1080 L966 1086" fill="none" stroke="#42596a" stroke-width="2"/>
+<rect x="982" y="1042" width="490" height="78" rx="12" fill="#f8f3e8" stroke="#cfdae1"/>
+<text x="995" y="1066" font-size="15">Comprobar: HU01-K015</text>
+<text x="995" y="1102" font-size="15">Información: HU01-M011 · 21 campos</text>
+<rect x="43" y="1134" width="335" height="78" rx="12" fill="#e9f0fb" stroke="#cfdae1"/>
+<text x="57" y="1159" font-size="16" class="title">IDEAL · N01-N017</text>
+<text x="57" y="1184" font-size="15">Deseo por contrastar</text>
+<path d="M382 1172 L422 1172" stroke="#42596a" stroke-width="2"/><path d="M414 1166 L424 1172 L414 1178" fill="none" stroke="#42596a" stroke-width="2"/>
+<rect x="430" y="1134" width="505" height="78" rx="12" fill="#fff" stroke="#cfdae1"/>
+<text x="444" y="1158" font-size="16" class="title">HU01-H012</text>
+<text x="444" y="1183" font-size="16">Conocer ritmos de uso para preparar otra</text>
+<text x="444" y="1206" font-size="16">propuesta</text>
+<path d="M940 1172 L974 1172" stroke="#42596a" stroke-width="2"/><path d="M966 1166 L976 1172 L966 1178" fill="none" stroke="#42596a" stroke-width="2"/>
+<rect x="982" y="1134" width="490" height="78" rx="12" fill="#f8f3e8" stroke="#cfdae1"/>
+<text x="995" y="1158" font-size="15">Comprobar: HU01-K016</text>
+<text x="995" y="1194" font-size="15">Información: HU01-M012 · 21 campos</text>
+<text x="45" y="1242" font-size="15">Todas las necesidades e historias: tablas/cobertura_necesidades.csv e historias.csv.</text>
+<rect x="25" y="1280" width="1470" height="365" rx="12" fill="#fff" stroke="#cfdae1"/>
+<text x="45" y="1312" font-size="22" class="title">E04 · Mercería de barrio</text>
+<rect x="43" y="1335" width="335" height="78" rx="12" fill="#e8f3ee" stroke="#cfdae1"/>
+<text x="57" y="1360" font-size="16" class="title">ACTUAL · N01-N018, N01-N019</text>
+<text x="57" y="1385" font-size="15">Práctica a preservar / revisar</text>
+<path d="M382 1373 L422 1373" stroke="#42596a" stroke-width="2"/><path d="M414 1367 L424 1373 L414 1379" fill="none" stroke="#42596a" stroke-width="2"/>
+<rect x="430" y="1335" width="505" height="78" rx="12" fill="#fff" stroke="#cfdae1"/>
+<text x="444" y="1359" font-size="16" class="title">HU01-H013</text>
+<text x="444" y="1384" font-size="16">Reponer el artículo conocido con comprobación</text>
+<text x="444" y="1407" font-size="16">suficiente</text>
+<path d="M940 1373 L974 1373" stroke="#42596a" stroke-width="2"/><path d="M966 1367 L976 1373 L966 1379" fill="none" stroke="#42596a" stroke-width="2"/>
+<rect x="982" y="1335" width="490" height="78" rx="12" fill="#f8f3e8" stroke="#cfdae1"/>
+<text x="995" y="1359" font-size="15">Comprobar: HU01-K017, HU01-K018</text>
+<text x="995" y="1395" font-size="15">Información: HU01-M013 · 21 campos</text>
+<rect x="43" y="1472" width="335" height="78" rx="12" fill="#e9f0fb" stroke="#cfdae1"/>
+<text x="57" y="1497" font-size="16" class="title">IDEAL · N01-N023</text>
+<text x="57" y="1522" font-size="15">Deseo por contrastar</text>
+<path d="M382 1510 L422 1510" stroke="#42596a" stroke-width="2"/><path d="M414 1504 L424 1510 L414 1516" fill="none" stroke="#42596a" stroke-width="2"/>
+<rect x="430" y="1472" width="505" height="78" rx="12" fill="#fff" stroke="#cfdae1"/>
+<text x="444" y="1496" font-size="16" class="title">HU01-H017</text>
+<text x="444" y="1521" font-size="16">Comparar desempeño antes de probar otro material</text>
+<path d="M940 1510 L974 1510" stroke="#42596a" stroke-width="2"/><path d="M966 1504 L976 1510 L966 1516" fill="none" stroke="#42596a" stroke-width="2"/>
+<rect x="982" y="1472" width="490" height="78" rx="12" fill="#f8f3e8" stroke="#cfdae1"/>
+<text x="995" y="1496" font-size="15">Comprobar: HU01-K023</text>
+<text x="995" y="1532" font-size="15">Información: HU01-M017 · 21 campos</text>
+<text x="45" y="1627" font-size="15">Todas las necesidades e historias: tablas/cobertura_necesidades.csv e historias.csv.</text>
+<rect x="25" y="1665" width="1470" height="365" rx="12" fill="#fff" stroke="#cfdae1"/>
+<text x="45" y="1697" font-size="22" class="title">E05 · Salida personal</text>
+<rect x="43" y="1720" width="335" height="78" rx="12" fill="#e8f3ee" stroke="#cfdae1"/>
+<text x="57" y="1745" font-size="16" class="title">ACTUAL · N01-N026, N01-N027</text>
+<text x="57" y="1770" font-size="15">Práctica a preservar / revisar</text>
+<path d="M382 1758 L422 1758" stroke="#42596a" stroke-width="2"/><path d="M414 1752 L424 1758 L414 1764" fill="none" stroke="#42596a" stroke-width="2"/>
+<rect x="430" y="1720" width="505" height="78" rx="12" fill="#fff" stroke="#cfdae1"/>
+<text x="444" y="1744" font-size="16" class="title">HU01-H019</text>
+<text x="444" y="1769" font-size="16">Mirar y elegir leyendo con orientación puntual</text>
+<path d="M940 1758 L974 1758" stroke="#42596a" stroke-width="2"/><path d="M966 1752 L976 1758 L966 1764" fill="none" stroke="#42596a" stroke-width="2"/>
+<rect x="982" y="1720" width="490" height="78" rx="12" fill="#f8f3e8" stroke="#cfdae1"/>
+<text x="995" y="1744" font-size="15">Comprobar: HU01-K025, HU01-K026</text>
+<text x="995" y="1780" font-size="15">Información: HU01-M019 · 21 campos</text>
+<rect x="43" y="1857" width="335" height="78" rx="12" fill="#e9f0fb" stroke="#cfdae1"/>
+<text x="57" y="1882" font-size="16" class="title">IDEAL · N01-N029</text>
+<text x="57" y="1907" font-size="15">Deseo por contrastar</text>
+<path d="M382 1895 L422 1895" stroke="#42596a" stroke-width="2"/><path d="M414 1889 L424 1895 L414 1901" fill="none" stroke="#42596a" stroke-width="2"/>
+<rect x="430" y="1857" width="505" height="78" rx="12" fill="#fff" stroke="#cfdae1"/>
+<text x="444" y="1881" font-size="16" class="title">HU01-H021</text>
+<text x="444" y="1906" font-size="16">Recuperar una pista para proponer dónde conversar</text>
+<path d="M940 1895 L974 1895" stroke="#42596a" stroke-width="2"/><path d="M966 1889 L976 1895 L966 1901" fill="none" stroke="#42596a" stroke-width="2"/>
+<rect x="982" y="1857" width="490" height="78" rx="12" fill="#f8f3e8" stroke="#cfdae1"/>
+<text x="995" y="1881" font-size="15">Comprobar: HU01-K028</text>
+<text x="995" y="1917" font-size="15">Información: HU01-M021 · 21 campos</text>
+<text x="45" y="2012" font-size="15">Todas las necesidades e historias: tablas/cobertura_necesidades.csv e historias.csv.</text>
+<text x="40" y="2076" font-size="17">Las flechas son relaciones de derivación. Criterios no ejecutados; no aceptación ni publicación.</text>
+<text x="40" y="2106" font-size="17">N01-N005 permanece como condición de una petición futura; no fue carencia del episodio.</text>
+</svg>

@@ -1,0 +1,2915 @@
+A. Explicación legible
+
+Esta es una primera lectura local y provisional de E04. El encabezado sitúa el perfil en una mercería de barrio de CDMX, sin especialización en cartografía ni análisis de datos (E04-P002). La participante atiende, revisa existencias y realiza buena parte de las compras; otra persona comparte esas tareas y permite organizar salidas sin interrumpir la atención (E04-P008). El servicio incluye ayudar a comparar materiales, pero tiene un límite explícito: “No hacemos arreglos de ropa.” (E04-P009).
+
+El episodio corresponde a la reposición de un elástico blanco de ancho mediano. Antes, una persona había solicitado mayor suavidad y comprado un corte pequeño del disponible. La participante anotó esa observación, pero aclara que no hubo acuerdo de conseguir otro material ni compromiso de regreso (E04-P014, E04-P017).
+
+La compra comienza, según ella, al revisar cuánto quedaba del rollo. Por tanto, deben mantenerse dos líneas distintas: una reposición necesaria y una consulta adicional. Lo expresa así: “La reposición sí la tenía que decidir. Lo otro era una consulta que podía hacer en la misma vuelta.” (E04-P020). Interpretar toda la salida como búsqueda de un producto para aquella persona contradiría sus aclaraciones posteriores (E04-P051, E04-P116, E04-P183).
+
+| Fase nombrada por la participante | Secuencia ocurrida, decisiones y resultados |
+
+| --- | --- |
+
+| “ver qué hace falta” | Tras vender otro corte, observa el remanente, lo mide y confirma que conviene reponer. Todavía alcanza para vender mientras organiza la compra. Revisa otros elásticos sin decidir llenar toda la sección. La otra persona aporta observaciones de ventas (E04-P036, E04-P053–E04-P060, E04-P107). |
+
+| “armar la vuelta” | Recupera color, ancho, referencia anterior y muestra. Ambas personas juntan pendientes del mismo lugar y acuerdan cuándo salir. La consulta por mayor suavidad queda separada de lo que debe comprar (E04-P055, E04-P062–E04-P065, E04-P108). |
+
+| “escoger allá” | Pide primero el conocido, contrasta referencia, muestra, ancho y estiramiento. Después examina la alternativa y conoce precio y presentación. No compra esta última porque exige más cantidad de la que quiere adquirir para explorar. Repone el conocido y guarda la referencia alternativa (E04-P069–E04-P080, E04-P109). |
+
+| “acomodarlo y empezar a usarlo” | Al volver, revisa contra la lista, organiza por sección y comunica lo averiguado. Mantiene delante el rollo abierto y separa el nuevo. Tras terminar el anterior, aparta el recorte y empieza a despachar del nuevo. Ese primer corte, sin diferencias advertidas, completa la reposición para ella (E04-P092–E04-P101, E04-P112). |
+
+El último nombre corrige su formulación inicial, “dejarlo listo para vender”, porque guardar la mercancía no expresa todo el cierre. “Usarlo” significa aquí despacharlo, no coser con él (E04-P110, E04-P112). Las fases tampoco constituyen un procedimiento rígido: mientras revisa puede anotar otra compra y la lista se construye progresivamente (E04-P114).
+
+Los actores tienen capacidades concretas, descritas desde una sola perspectiva:
+
+| Actor | Relación y capacidad local |
+
+| --- | --- |
+
+| Participante | Distingue qué reponer, consultar o aplazar y decide qué traer, considerando existencias, cantidad y espacio. Su comparación con un colador expresa diferenciación; después aclara que algunas cosas esperan, sin desecharse (E04-P048–E04-P049, E04-P176–E04-P177). |
+
+| Persona que comparte el mostrador | Aporta observaciones, acuerda identificaciones y salidas, atiende con autonomía y recibe la devolución. También puede realizar compras. El “relevo” funciona en ambas direcciones (E04-P034–E04-P039, E04-P119). |
+
+| Quien vende la mercancía | Busca referencias, muestra productos e informa disponibilidad, presentación y precio. Puede abrir o cerrar posibilidades de esa compra según lo que ofrece; no decide las necesidades de la mercería (E04-P043–E04-P044, E04-P072, E04-P133). |
+
+| Persona que pidió mayor suavidad y otros compradores | Hacen visibles usos, cualidades y movimiento del surtido. Una petición individual no representa a todos ni constituye por sí misma un encargo (E04-P017, E04-P023, E04-P027–E04-P032). |
+
+Estas capacidades permiten interpretar poder local sobre decisiones y recursos. No permiten afirmar propiedad del negocio, jerarquías formales ni posiciones ante políticas que no aparecen en la entrevista.
+
+Para reponer el material conocido, la participante necesitaba saber cuánto quedaba, cuál era exactamente, si estaba disponible y qué precio y cantidad correspondían a esa compra (E04-P124). Obtenía esa información del rollo, la medición, notas, referencia, muestra, memoria compartida y oferta del proveedor (E04-P125–E04-P127). La información distribuida funcionó: “No tengo todo junto en una sola hoja. Para esa reposición tampoco me hizo falta.” (E04-P128). No se demuestra aquí una carencia de centralización.
+
+Su señal de suficiencia combina coincidencia de referencia y muestra, ausencia de diferencias advertidas y experiencia de despacho. Reconoce el alcance parcial: “Revisé la parte que me mostraron. Con eso y la referencia me alcanzó para esa compra.” (E04-P080). No afirma haber inspeccionado todo el rollo.
+
+La necesidad candidata de mayor conocimiento se concentra en materiales todavía poco conocidos: saber cómo se comportan después de coserlos y usarlos para decidir si conviene incorporarlos a prueba y cómo explicar sus diferencias. Querría conocer recuperación de forma, enrollamiento, rigidez y contexto de prueba. Esos ejemplos son información deseada, no defectos observados (E04-P139–E04-P146). Tampoco resolverían por sí solos cuánto se vendería.
+
+En el ejercicio ideal imagina un cuaderno de muestras, empezando por el material conocido y comparando los del mismo ancho. Su prioridad es ver ambos materiales y saber qué se comprobó de cada uno (E04-P148–E04-P162). Desea conservar referencia, procedencia y descripción de lo realizado, distinguiendo experiencia propia y ajena. Para suavidad prefiere tocar la muestra; una foto tendría que permitir observar algo útil (E04-P151–E04-P154).
+
+Este formato es una preferencia imaginada, no una función tecnológica obligatoria. Empezaría con el par pertinente, porque cubrir toda la mercería supondría otro trabajo (E04-P157). Le ayudaría si permite justificar por qué probar o dejar una alternativa y si después coincide con lo encontrado al usarla o empezar a venderla. Si las notas no distinguen nada, no valdría la pena seguir completándolas (E04-P164–E04-P165).
+
+Conservaría muestras físicas, conversación entre quienes atienden, revisión de existencias, escucha del cliente y separación entre compra y consulta (E04-P170–E04-P171). Incluso con el cuaderno, no asegura que habría comprado la alternativa: la cantidad exigida seguía pesando (E04-P173–E04-P174).
+
+Lo espacial interviene en agrupar compras y reservar tiempo de ida, atención y retorno. La cercanía de otro proveedor no obligaba a visitarlo; conocía ambos recorridos. Un lugar nuevo sí podría requerir orientación, cuando hiciera falta (E04-P082–E04-P090, E04-P159–E04-P160). No surge de este episodio una necesidad de mapa ni una base para deducir preferencias de materiales a partir del barrio.
+
+Quedan límites relevantes: no se conoce el resultado del corte vendido a quien pidió suavidad, su eventual regreso posterior ni la adecuación de la alternativa a su prenda. Tampoco están resueltos los responsables de aportar las pruebas imaginadas (E04-P103–E04-P105, E04-P134, E04-P154–E04-P155). Además, poco movimiento no implica necesariamente retirar un artículo: también considera su función, espacio y alternativas, aunque esa decisión no ocurrió en esta compra (E04-P185–E04-P189).
+
+Se proponen 22 códigos locales provisionales. Se comprobaron las citas continuas, los ejemplos, las referencias y la cobertura de los 117 párrafos de la participante: 111 codificados, cuatro de contexto y dos administrativos. Estas comprobaciones no equivalen a revisión humana independiente, que permanece pendiente.
+
+B. Bloque JSON completo
+
+{
+
+  "metadatos": {
+
+    "entrevista": "E04",
+
+    "corpus_version": "1.0",
+
+    "protocolo_version": "1.0",
+
+    "sha256_docx": "b68b9ebe2d7836fc99c3df86b718cde2a38137a8b179dccc6feaf5117f57cd20",
+
+    "estado": "PRIMERA_LECTURA_PROVISIONAL",
+
+    "modelo_informado": null,
+
+    "parametros_informados": null,
+
+    "revision_humana_independiente": "PENDIENTE"
+
+  },
+
+  "codigos": [
+
+    {
+
+      "id": "E04-C001",
+
+      "nombre": "Trabajo compartido con autonomía y retorno",
+
+      "definicion": "Organización de la atención y las compras entre dos personas que pueden continuar el trabajo y comunicar lo ocurrido.",
+
+      "inclusion": ["Relevo, contraste de observaciones y devolución al regresar.", "Funciones de atención y compra dentro de esa distribución de tareas."],
+
+      "exclusion": ["Jerarquías formales o dependencia para cada venta no demostradas."],
+
+      "ejemplos": [{"parrafo_id": "E04-P037", "cita": "La otra persona puede atender, medir, decir qué hay y qué no."}]
+
+    },
+
+    {
+
+      "id": "E04-C002",
+
+      "nombre": "Venta y comparación sin confección",
+
+      "definicion": "Alcance del servicio: vender materiales y ayudar a compararlos, dejando la confección fuera del negocio.",
+
+      "inclusion": ["Comparar tonos, medidas o muestras con quien compra."],
+
+      "exclusion": ["Atribuir al negocio arreglos o pruebas de confección realizados."],
+
+      "ejemplos": [{"parrafo_id": "E04-P009", "cita": "No hacemos arreglos de ropa."}]
+
+    },
+
+    {
+
+      "id": "E04-C003",
+
+      "nombre": "Reposición selectiva según existencias, ventas y surtido",
+
+      "definicion": "Evaluación situada de qué conservar o reponer según remanente, movimiento, alternativas y características del artículo.",
+
+      "inclusion": ["Revisión, medición y excepciones para artículos de poco movimiento."],
+
+      "exclusion": ["Umbrales universales o reposición automática por agotamiento."],
+
+      "ejemplos": [{"parrafo_id": "E04-P057", "cita": "No una cantidad igual para todo."}]
+
+    },
+
+    {
+
+      "id": "E04-C004",
+
+      "nombre": "Organización de compras agrupadas",
+
+      "definicion": "Preparación progresiva de listas y salidas compatibles con lugares de compra, tiempos y atención del negocio.",
+
+      "inclusion": ["Agrupar artículos, acordar salida y separar otras compras."],
+
+      "exclusion": ["Un recorrido exhaustivo o una lista hecha de una sola vez."],
+
+      "ejemplos": [{"parrafo_id": "E04-P055", "cita": "Lo que se consigue en otro lado quedó aparte. No necesariamente hago todas las compras en una salida."}]
+
+    },
+
+    {
+
+      "id": "E04-C005",
+
+      "nombre": "Separación entre reposición y consulta",
+
+      "definicion": "Distinción práctica entre comprar lo necesario y averiguar por una alternativa sin compromiso de adquirirla.",
+
+      "inclusion": ["Anotaciones diferenciadas y correcciones de una supuesta sustitución o encargo."],
+
+      "exclusion": ["Equiparar preguntar, encargar, comprar o reemplazar."],
+
+      "ejemplos": [{"parrafo_id": "E04-P020", "cita": "La reposición sí la tenía que decidir. Lo otro era una consulta que podía hacer en la misma vuelta."}]
+
+    },
+
+    {
+
+      "id": "E04-C006",
+
+      "nombre": "Peticiones como indicios situados",
+
+      "definicion": "Lo expresado por clientes revela usos y cualidades relevantes para casos concretos sin representar a toda la clientela.",
+
+      "inclusion": ["Suavidad solicitada y límites para extrapolar preferencias."],
+
+      "exclusion": ["Demanda general o expectativa de compra inferida de una conversación."],
+
+      "ejemplos": [{"parrafo_id": "E04-P030", "cita": "Pero tampoco quiere decir que a todas las personas les haya parecido duro el que tenemos."}]
+
+    },
+
+    {
+
+      "id": "E04-C007",
+
+      "nombre": "Identificación precisa con referencias y muestras",
+
+      "definicion": "Uso de ancho, color, referencia, nota y muestra para reconocer y pedir el artículo pertinente.",
+
+      "inclusion": ["Contrastar nombres ambiguos con identificadores verificables."],
+
+      "exclusion": ["Tratar una referencia como prueba de desempeño en una prenda."],
+
+      "ejemplos": [{"parrafo_id": "E04-P053", "cita": "No anoté solamente “elástico”: puse el color y el ancho, y busqué la referencia que tenía guardada de la compra anterior."}]
+
+    },
+
+    {
+
+      "id": "E04-C008",
+
+      "nombre": "Mediación acotada de quien vende",
+
+      "definicion": "Papel del proveedor al conectar la lista con mercancía, referencias, disponibilidad, presentación y precio.",
+
+      "inclusion": ["Información sobre lo ofrecido y límites de su alcance.", "Participación de quien atiende en el punto de compra."],
+
+      "exclusion": ["Decisión del surtido delegada al proveedor o garantía de uso no observada."],
+
+      "ejemplos": [{"parrafo_id": "E04-P043", "cita": "No decide lo que necesito para la mercería, pero sí conecta mi lista con la mercancía que puedo revisar."}]
+
+    },
+
+    {
+
+      "id": "E04-C009",
+
+      "nombre": "Comparación física y experiencia del material",
+
+      "definicion": "Conocimiento obtenido al tocar, estirar, contrastar muestras y despachar el material.",
+
+      "inclusion": ["Comprobación sensorial y experiencia de medición y corte."],
+
+      "exclusion": ["Equivalencia automática entre suavidad al tacto y aptitud tras el uso."],
+
+      "ejemplos": [{"parrafo_id": "E04-P069", "cita": "Comparé la muestra, el ancho y cómo se estiraba."}]
+
+    },
+
+    {
+
+      "id": "E04-C010",
+
+      "nombre": "Límites de incorporación por cantidad y conveniencia",
+
+      "definicion": "Valoración de cuánto adquirir, qué cabe y si conviene añadir otra opción al surtido.",
+
+      "inclusion": ["Presentación demasiado grande para explorar y posible convivencia de materiales."],
+
+      "exclusion": ["Precio como causa única o compra asegurada con más información."],
+
+      "ejemplos": [{"parrafo_id": "E04-P075", "cita": "Fue la cantidad que tenía que traer sin saber todavía si nos convenía tener los dos."}]
+
+    },
+
+    {
+
+      "id": "E04-C011",
+
+      "nombre": "Suficiencia situada y parcial para reponer",
+
+      "definicion": "Confianza suficiente para esta reposición mediante coincidencias y experiencia, reconociendo lo que no se revisó.",
+
+      "inclusion": ["Criterios de suficiencia y condiciones hipotéticas que harían dudar."],
+
+      "exclusion": ["Verificación total del rollo o validación externa de calidad."],
+
+      "ejemplos": [{"parrafo_id": "E04-P080", "cita": "Revisé la parte que me mostraron. Con eso y la referencia me alcanzó para esa compra."}]
+
+    },
+
+    {
+
+      "id": "E04-C012",
+
+      "nombre": "Límites de conocimiento sobre uso y resultados",
+
+      "definicion": "Reconocimiento de lo que no se sabe sobre comportamiento posterior, adecuación, resultado del cliente o fuentes disponibles.",
+
+      "inclusion": ["Diferenciar observación propia de efectos o experiencias no presenciados."],
+
+      "exclusion": ["Convertir una incógnita en defecto del material o insatisfacción comprobada."],
+
+      "ejemplos": [{"parrafo_id": "E04-P134", "cita": "Que fuera el adecuado para la persona que me preguntó, eso no lo podía saber."}]
+
+    },
+
+    {
+
+      "id": "E04-C013",
+
+      "nombre": "Conservación y comunicación de consultas pendientes",
+
+      "definicion": "Guardar y compartir lo averiguado sin convertirlo en mercancía disponible ni tarea obligatoria.",
+
+      "inclusion": ["Referencia, nota, comunicación y posibilidad de retomar."],
+
+      "exclusion": ["Descarte definitivo o seguimiento sistemático de clientes no acordado."],
+
+      "ejemplos": [{"parrafo_id": "E04-P093", "cita": "Una cosa es haberlo visto y otra tenerlo para vender."}]
+
+    },
+
+    {
+
+      "id": "E04-C014",
+
+      "nombre": "Lugar y desplazamiento subordinados a la compra",
+
+      "definicion": "Relevancia de sitios, cercanía y desplazamientos según la finalidad de la vuelta y el conocimiento previo.",
+
+      "inclusion": ["Agrupar por lugar, detener búsqueda y considerar orientación solo ante un lugar nuevo."],
+
+      "exclusion": ["Necesidad cartográfica universal o demanda deducida del barrio."],
+
+      "ejemplos": [{"parrafo_id": "E04-P087", "cita": "Sé llegar a ambos; para esa vuelta no necesitaba buscar cómo moverme."}]
+
+    },
+
+    {
+
+      "id": "E04-C015",
+
+      "nombre": "Incorporación hasta el primer despacho",
+
+      "definicion": "Reposición que incluye revisar el retorno, acomodar, distinguir remanentes y empezar a cortar el rollo nuevo.",
+
+      "inclusion": ["Cierre situado en el primer uso para despachar."],
+
+      "exclusion": ["Cierre automático al pagar, guardar o vender el rollo completo."],
+
+      "ejemplos": [{"parrafo_id": "E04-P098", "cita": "Pero si estamos contando la reposición completa, yo lo llevaría hasta que empezamos a vender del nuevo rollo."}]
+
+    },
+
+    {
+
+      "id": "E04-C016",
+
+      "nombre": "Fases nombradas y entrelazadas",
+
+      "definicion": "Organización verbal del recorrido por la participante, con ajuste del cierre y actividades que se superponen.",
+
+      "inclusion": ["Nombres de fases, renombramiento y lista progresiva."],
+
+      "exclusion": ["Procedimiento rígido o fases impuestas desde fuera."],
+
+      "ejemplos": [{"parrafo_id": "E04-P112", "cita": "Le pondría “acomodarlo y empezar a usarlo”."}]
+
+    },
+
+    {
+
+      "id": "E04-C017",
+
+      "nombre": "Opciones ante dudas sin resolver",
+
+      "definicion": "Posibilidades declaradas de consultar, posponer o buscar el mismo artículo en otro lugar cuando falta certeza.",
+
+      "inclusion": ["Distinguir ancho olvidado, diferencia del producto y falta de existencias."],
+
+      "exclusion": ["Afirmar que esas contingencias ocurrieron en la compra relatada."],
+
+      "ejemplos": [{"parrafo_id": "E04-P122", "cita": "Eso no ocurrió con el rollo que estamos contando."}]
+
+    },
+
+    {
+
+      "id": "E04-C018",
+
+      "nombre": "Deseo de comparar desempeño en uso",
+
+      "definicion": "Conocimiento deseado sobre materiales nuevos después de coserlos y usarlos, para valorar una prueba de incorporación.",
+
+      "inclusion": ["Comparación previa a adquirir mucho y decisión sobre probar o dejar."],
+
+      "exclusion": ["Pronóstico suficiente de ventas o pruebas ya efectuadas."],
+
+      "ejemplos": [{"parrafo_id": "E04-P139", "cita": "cómo queda ese otro elástico después de coserlo y usarlo, no nada más cómo se siente cuando está nuevo."}]
+
+    },
+
+    {
+
+      "id": "E04-C019",
+
+      "nombre": "Cuaderno de muestras acotado y tangible",
+
+      "definicion": "Formato imaginado para comparar materiales pertinentes, con muestra física y alcance inicial reducido.",
+
+      "inclusion": ["Comparar por ancho, partir del material conocido y preferir tacto para suavidad."],
+
+      "exclusion": ["Aplicación obligatoria, catálogo completo o sustitución necesaria de muestras."],
+
+      "ejemplos": [{"parrafo_id": "E04-P157", "cita": "Empezaría con ese par de elásticos, si de verdad voy a decidir entre ellos."}]
+
+    },
+
+    {
+
+      "id": "E04-C020",
+
+      "nombre": "Procedencia y alcance de la evidencia deseada",
+
+      "definicion": "Información deseada sobre identidad, origen y acciones realizadas con una muestra, diferenciando observación y experiencia ajena.",
+
+      "inclusion": ["Qué se hizo, en qué soporte y quién lo experimentó."],
+
+      "exclusion": ["Certificaciones, instrumentos o ensayos aplicados no mencionados."],
+
+      "ejemplos": [{"parrafo_id": "E04-P154", "cita": "En ese caso pondría que esa fue su experiencia, porque yo no la vi."}]
+
+    },
+
+    {
+
+      "id": "E04-C021",
+
+      "nombre": "Utilidad para decidir y contrastar en la práctica",
+
+      "definicion": "Criterios expresados de ayuda: justificar probar o dejar, distinguir materiales y contrastar notas con el uso.",
+
+      "inclusion": ["Explicar con límites, evitar trabajo sin utilidad y reconocer que ventas siguen abiertas."],
+
+      "exclusion": ["Métricas numéricas inventadas o recomendación universal."],
+
+      "ejemplos": [{"parrafo_id": "E04-P165", "cita": "Si las notas no me ayudan a distinguir nada, no tendría sentido seguir llenándolas."}]
+
+    },
+
+    {
+
+      "id": "E04-C022",
+
+      "nombre": "Recursos actuales que conservaría",
+
+      "definicion": "Prácticas valoradas que mantendría en el escenario ideal.",
+
+      "inclusion": ["Muestras, conversación, revisión física, escucha y separación de consulta y compra."],
+
+      "exclusion": ["Sustitución total de la forma actual de trabajar."],
+
+      "ejemplos": [{"parrafo_id": "E04-P170", "cita": "Las muestras en la mano, hablar con la persona que comparte el mostrador y revisar físicamente lo que queda."}]
+
+    }
+
+  ],
+
+  "segmentos": [
+
+    {
+
+      "id": "E04-S001",
+
+      "parrafo_id": "E04-P008",
+
+      "cita": "Yo atiendo, reviso lo que va quedando y hago buena parte de las compras. Hay otra persona que comparte conmigo la atención. Nos vamos acomodando para que una pueda salir y la otra se quede.",
+
+      "codigo_ids": ["E04-C001"],
+
+      "estatus_epistemico": ["PRACTICA_GENERAL_DECLARADA"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Funciones propias y relevo; no informa una jerarquía formal."
+
+    },
+
+    {
+
+      "id": "E04-S002",
+
+      "parrafo_id": "E04-P009",
+
+      "cita": "No hacemos arreglos de ropa. Lo aclaro porque sí nos preguntan. Podemos ayudar a comparar un hilo con una tela, por ejemplo, pero ya el trabajo de coser lo hace quien compra o alguien a quien se lo lleva.",
+
+      "codigo_ids": ["E04-C002"],
+
+      "estatus_epistemico": ["PRACTICA_GENERAL_DECLARADA"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Delimita el servicio ante la pregunta por el negocio."
+
+    },
+
+    {
+
+      "id": "E04-S003",
+
+      "parrafo_id": "E04-P011",
+
+      "cita": "Al abrir, pongo algunas cosas en el mostrador, reviso si quedó pendiente apartar algo y veo las notas del día anterior. No hago un inventario completo cada mañana. Voy mirando por secciones, también según lo que se haya movido.",
+
+      "codigo_ids": ["E04-C003", "E04-C004"],
+
+      "estatus_epistemico": ["PRACTICA_GENERAL_DECLARADA"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Rutina de apertura; revisión parcial según movimiento."
+
+    },
+
+    {
+
+      "id": "E04-S004",
+
+      "parrafo_id": "E04-P012",
+
+      "cita": "Hay compras muy rápidas, de alguien que ya sabe qué hilo lleva, y otras en las que hay que sacar varios tonos, medir un cierre o buscar botones parecidos a una muestra. Entre una cosa y otra acomodo y anoto. Para las compras junto varias necesidades; no salgo por cada artículo que se termina.",
+
+      "codigo_ids": ["E04-C002", "E04-C004"],
+
+      "estatus_epistemico": ["PRACTICA_GENERAL_DECLARADA"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Combina atención variable, anotación y compras agrupadas."
+
+    },
+
+    {
+
+      "id": "E04-S005",
+
+      "parrafo_id": "E04-P014",
+
+      "cita": "Todavía había, pero el rollo ya estaba bastante reducido. Fui a reponer ese y aproveché para traer otras cosas que ya estaban apuntadas.",
+
+      "codigo_ids": ["E04-C003", "E04-C004"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Reposición antes del agotamiento, junto con otros pendientes."
+
+    },
+
+    {
+
+      "id": "E04-S006",
+
+      "parrafo_id": "E04-P015",
+
+      "cita": "No era que tuviera que cambiarlo a fuerza. El que tenemos se sigue vendiendo.",
+
+      "codigo_ids": ["E04-C005", "E04-C006"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO", "INTERPRETACION_PARTICIPANTE"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "La alternativa no obliga a sustituir el material que sigue vendiéndose."
+
+    },
+
+    {
+
+      "id": "E04-S007",
+
+      "parrafo_id": "E04-P017",
+
+      "cita": "Tocó el que le mostré y dijo que buscaba algo más suave. Se llevó un corte pequeño porque quería verlo en su casa. Yo anoté lo de la suavidad, pero no lo tomé como un pedido del otro. No habíamos acordado que yo lo fuera a conseguir ni que regresaría por él.",
+
+      "codigo_ids": ["E04-C005", "E04-C006"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "La petición de suavidad no incluyó acuerdo de abastecimiento ni retorno."
+
+    },
+
+    {
+
+      "id": "E04-S008",
+
+      "parrafo_id": "E04-P018",
+
+      "cita": "Luego, al revisar el rollo, pensé: ya que voy a comprar, puedo preguntar qué otra opción hay.",
+
+      "codigo_ids": ["E04-C005"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Consulta oportunista incorporada a una compra ya motivada por existencias."
+
+    },
+
+    {
+
+      "id": "E04-S009",
+
+      "parrafo_id": "E04-P020",
+
+      "cita": "La reposición sí la tenía que decidir. Lo otro era una consulta que podía hacer en la misma vuelta.",
+
+      "codigo_ids": ["E04-C005"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO", "INTERPRETACION_PARTICIPANTE"],
+
+      "elicitacion": "RECAPITULACION_CONFIRMADA",
+
+      "nota_contexto": "Confirma la recapitulación de dos asuntos con distinto compromiso."
+
+    },
+
+    {
+
+      "id": "E04-S010",
+
+      "parrafo_id": "E04-P022",
+
+      "cita": "La persona que preguntó por el elástico suave; la persona que atiende conmigo, porque también ve lo que se vende y se quedó en el negocio; quien me atendió donde compro la mercancía, y yo.",
+
+      "codigo_ids": ["E04-C001", "E04-C008"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Actores según el relato de una única participante."
+
+    },
+
+    {
+
+      "id": "E04-S011",
+
+      "parrafo_id": "E04-P023",
+
+      "cita": "También están las otras personas que habían comprado de ese rollo, aunque no podría contarte cada compra. Por eso sabía que se estaba acabando de manera normal.",
+
+      "codigo_ids": ["E04-C003"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO", "INTERPRETACION_PARTICIPANTE", "DESCONOCIMIENTO_EXPLICITO"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Infiere movimiento normal de ventas que no puede reconstruir una por una."
+
+    },
+
+    {
+
+      "id": "E04-S012",
+
+      "parrafo_id": "E04-P027",
+
+      "cita": "Quienes compran serían como un muestrario, pero uno que se va abriendo. Porque no llegan todas las peticiones al mismo tiempo.",
+
+      "codigo_ids": ["E04-C006"],
+
+      "estatus_epistemico": ["INTERPRETACION_PARTICIPANTE"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Metáfora solicitada para expresar papeles; no es un ejercicio de solución ideal. El párrafo desarrolla cómo clientes muestran distintos usos."
+
+    },
+
+    {
+
+      "id": "E04-S013",
+
+      "parrafo_id": "E04-P029",
+
+      "cita": "Que no bastaba con que fuera blanco y del ancho que buscaba. Para esa persona también importaba mucho cómo se sentía.",
+
+      "codigo_ids": ["E04-C006", "E04-C009"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO", "INTERPRETACION_PARTICIPANTE"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Cualidad relevante para esa persona, advertida en la interacción."
+
+    },
+
+    {
+
+      "id": "E04-S014",
+
+      "parrafo_id": "E04-P030",
+
+      "cita": "Pero tampoco quiere decir que a todas las personas les haya parecido duro el que tenemos. Otras lo compran sin decirme eso. De algunas sé para qué lo quieren porque me lo cuentan; de otras, no.",
+
+      "codigo_ids": ["E04-C006"],
+
+      "estatus_epistemico": ["PRACTICA_GENERAL_DECLARADA", "DESCONOCIMIENTO_EXPLICITO"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Distingue ausencia de comentario, diversidad de usos y desconocimiento."
+
+    },
+
+    {
+
+      "id": "E04-S015",
+
+      "parrafo_id": "E04-P032",
+
+      "cita": "A preguntar, más bien. Cambiarlo habría sido dar un salto. Si trajera otro en lugar del de siempre, alguien podría decirme después que ese nuevo no le sirve igual. No tengo cómo saberlo con una sola conversación.",
+
+      "codigo_ids": ["E04-C005", "E04-C006"],
+
+      "estatus_epistemico": ["INTERPRETACION_PARTICIPANTE", "HIPOTETICO", "DESCONOCIMIENTO_EXPLICITO"],
+
+      "elicitacion": "OPCION_SUGERIDA",
+
+      "nota_contexto": "Rechaza el cambio sugerido y plantea un riesgo hipotético de sustitución."
+
+    },
+
+    {
+
+      "id": "E04-S016",
+
+      "parrafo_id": "E04-P034",
+
+      "cita": "Un relevo. Como cuando alguien toma lo que sigue y tú puedes moverte.",
+
+      "codigo_ids": ["E04-C001"],
+
+      "estatus_epistemico": ["INTERPRETACION_PARTICIPANTE"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Metáfora del relevo, desarrollada luego con acciones concretas."
+
+    },
+
+    {
+
+      "id": "E04-S017",
+
+      "parrafo_id": "E04-P036",
+
+      "cita": "Esa vez le dije que pensaba traer el elástico blanco y me comentó que también lo habían pedido para una cintura. Revisamos que habláramos del mismo ancho. Si yo digo nada más “el blanco”, hay varios.",
+
+      "codigo_ids": ["E04-C001", "E04-C007"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO"],
+
+      "elicitacion": "OPCION_SUGERIDA",
+
+      "nota_contexto": "Ante opciones sobre el relevo, relata coordinación del ancho en esa ocasión; la frase final explica la ambigüedad del nombre."
+
+    },
+
+    {
+
+      "id": "E04-S018",
+
+      "parrafo_id": "E04-P037",
+
+      "cita": "La otra persona puede atender, medir, decir qué hay y qué no. Si necesita consultarme algo, lo hace, pero no es que espere mi respuesta para cada venta.",
+
+      "codigo_ids": ["E04-C001"],
+
+      "estatus_epistemico": ["PRACTICA_GENERAL_DECLARADA"],
+
+      "elicitacion": "OPCION_SUGERIDA",
+
+      "nota_contexto": "Continúa la respuesta sobre el relevo con autonomía habitual del mostrador."
+
+    },
+
+    {
+
+      "id": "E04-S019",
+
+      "parrafo_id": "E04-P039",
+
+      "cita": "Y al regresar me toca a mí escuchar lo que pasó mientras no estaba. El relevo va para los dos lados.",
+
+      "codigo_ids": ["E04-C001"],
+
+      "estatus_epistemico": ["PRACTICA_GENERAL_DECLARADA"],
+
+      "elicitacion": "RECAPITULACION_CONFIRMADA",
+
+      "nota_contexto": "Confirma el relevo y añade reciprocidad de la devolución."
+
+    },
+
+    {
+
+      "id": "E04-S020",
+
+      "parrafo_id": "E04-P043",
+
+      "cita": "Esa persona me muestra lo que tiene, busca la referencia o me dice si no está. No decide lo que necesito para la mercería, pero sí conecta mi lista con la mercancía que puedo revisar.",
+
+      "codigo_ids": ["E04-C008"],
+
+      "estatus_epistemico": ["INTERPRETACION_PARTICIPANTE"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Explica la bisagra de E04-P041 mediante funciones de acceso a mercancía, sin atribuirle decisión sobre necesidades locales."
+
+    },
+
+    {
+
+      "id": "E04-S021",
+
+      "parrafo_id": "E04-P044",
+
+      "cita": "Yo tengo que preguntar bien. Si pido “uno suave”, eso puede significar varias cosas.",
+
+      "codigo_ids": ["E04-C007", "E04-C008"],
+
+      "estatus_epistemico": ["PRACTICA_GENERAL_DECLARADA"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "La precisión al preguntar sigue siendo responsabilidad de quien compra."
+
+    },
+
+    {
+
+      "id": "E04-S022",
+
+      "parrafo_id": "E04-P048",
+
+      "cita": "Porque no todo lo que escucho se convierte en compra. Voy separando. Esto sí se está acabando; esto me lo preguntaron una vez; de esto ya tengo algo parecido. Y también tengo que ver qué cabe y cuánto puedo traer en esa compra.",
+
+      "codigo_ids": ["E04-C003", "E04-C005", "E04-C010"],
+
+      "estatus_epistemico": ["INTERPRETACION_PARTICIPANTE"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Explica el colador de E04-P046 como diferenciación de motivos y límites de compra."
+
+    },
+
+    {
+
+      "id": "E04-S023",
+
+      "parrafo_id": "E04-P049",
+
+      "cita": "Aunque el colador se queda corto porque yo también atiendo y vendo. Pero para esa decisión sí me sirve la comparación.",
+
+      "codigo_ids": ["E04-C001"],
+
+      "estatus_epistemico": ["INTERPRETACION_PARTICIPANTE"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Acota una metáfora que no representa todas sus funciones dentro del trabajo compartido."
+
+    },
+
+    {
+
+      "id": "E04-S024",
+
+      "parrafo_id": "E04-P051",
+
+      "cita": "En la revisión del rollo. La pregunta por la suavidad había ocurrido antes y la tenía anotada, pero la salida se empezó a organizar cuando vi cuánto quedaba.",
+
+      "codigo_ids": ["E04-C003", "E04-C005"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO", "INTERPRETACION_PARTICIPANTE"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Fija el inicio de la salida en el remanente, no en la petición anterior."
+
+    },
+
+    {
+
+      "id": "E04-S025",
+
+      "parrafo_id": "E04-P053",
+
+      "cita": "Entonces lo puse en la lista. No anoté solamente “elástico”: puse el color y el ancho, y busqué la referencia que tenía guardada de la compra anterior.",
+
+      "codigo_ids": ["E04-C003", "E04-C007"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "La observación del rollo se convierte en una entrada de compra con descripción verificable."
+
+    },
+
+    {
+
+      "id": "E04-S026",
+
+      "parrafo_id": "E04-P054",
+
+      "cita": "En esa misma revisión vi los otros elásticos. No estaban todos igual de bajos. Por eso no se trataba de ir a llenar toda esa sección.",
+
+      "codigo_ids": ["E04-C003"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Revisión de la sección sin reposición indiscriminada."
+
+    },
+
+    {
+
+      "id": "E04-S027",
+
+      "parrafo_id": "E04-P055",
+
+      "cita": "Ella tenía anotadas otras cosas y juntamos lo que correspondía comprar en el mismo lugar. Lo que se consigue en otro lado quedó aparte. No necesariamente hago todas las compras en una salida.",
+
+      "codigo_ids": ["E04-C001", "E04-C004"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO", "PRACTICA_GENERAL_DECLARADA"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Integra notas de ambas personas en el episodio y añade que habitualmente puede separar salidas."
+
+    },
+
+    {
+
+      "id": "E04-S028",
+
+      "parrafo_id": "E04-P057",
+
+      "cita": "No una cantidad igual para todo. En ese elástico me fijo en lo que queda y en cuánto se ha estado cortando.",
+
+      "codigo_ids": ["E04-C003"],
+
+      "estatus_epistemico": ["PRACTICA_GENERAL_DECLARADA"],
+
+      "elicitacion": "OPCION_SUGERIDA",
+
+      "nota_contexto": "Responde a la sugerencia de una cantidad establecida; no da umbral universal."
+
+    },
+
+    {
+
+      "id": "E04-S029",
+
+      "parrafo_id": "E04-P058",
+
+      "cita": "Esa vez, además de verlo, medí lo que quedaba porque lo tenía fuera. Me alcanzaba para seguir vendiendo mientras hacía la compra. No tuve que salir en ese momento.",
+
+      "codigo_ids": ["E04-C003", "E04-C011"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO"],
+
+      "elicitacion": "OPCION_SUGERIDA",
+
+      "nota_contexto": "La medición del episodio confirmó margen para programar la salida."
+
+    },
+
+    {
+
+      "id": "E04-S030",
+
+      "parrafo_id": "E04-P060",
+
+      "cita": "Lo confirmó. Si hubiera quedado bastante más de lo que parecía, quizá lo dejaba para otra vuelta. Pero sí lo mantuve en la lista.",
+
+      "codigo_ids": ["E04-C003"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO", "HIPOTETICO"],
+
+      "elicitacion": "OPCION_SUGERIDA",
+
+      "nota_contexto": "Confirmación ocurrida; el aplazamiento con más existencias es contrafáctico."
+
+    },
+
+    {
+
+      "id": "E04-S031",
+
+      "parrafo_id": "E04-P062",
+
+      "cita": "Revisé la referencia y dejé a un lado una muestra pequeña que conservamos. Para ese producto me sirve llevarla. A veces el ancho se ve parecido cuando te lo enseñan solo, y con la muestra puedo ponerlos juntos.",
+
+      "codigo_ids": ["E04-C007", "E04-C009"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO", "PRACTICA_GENERAL_DECLARADA"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Preparación ocurrida y explicación general de cómo la muestra permite comparación física."
+
+    },
+
+    {
+
+      "id": "E04-S032",
+
+      "parrafo_id": "E04-P063",
+
+      "cita": "Luego elegimos cuándo podía salir yo. Lo acomodamos con las cosas del negocio; no hubo algo especial. Antes de salir miré otra vez la lista y añadí la pregunta del elástico suave, pero separada de lo que iba a comprar.",
+
+      "codigo_ids": ["E04-C001", "E04-C004", "E04-C005"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Acuerdo de salida y registro separado de la consulta."
+
+    },
+
+    {
+
+      "id": "E04-S033",
+
+      "parrafo_id": "E04-P065",
+
+      "cita": "Puse “preguntar por más suave” al lado. Lo que sí tenía que traer llevaba su descripción. Así, al estar allá, no confundía una consulta con algo que ya habíamos acordado comprar.",
+
+      "codigo_ids": ["E04-C005"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Anotación literal para distinguir intención de preguntar y obligación de traer."
+
+    },
+
+    {
+
+      "id": "E04-S034",
+
+      "parrafo_id": "E04-P067",
+
+      "cita": "Faltaba ver lo que me ofrecieran y el precio de esa compra. Lo demás lo llevaba bastante claro.",
+
+      "codigo_ids": ["E04-C008", "E04-C011"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO", "INTERPRETACION_PARTICIPANTE"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "La pregunta recapitula recursos y abre qué faltaba: oferta y precio actuales."
+
+    },
+
+    {
+
+      "id": "E04-S035",
+
+      "parrafo_id": "E04-P069",
+
+      "cita": "Pedí primero el que ya conocía. Buscaron la referencia y me mostraron el rollo. Comparé la muestra, el ancho y cómo se estiraba. Después pregunté por otro más suave del mismo ancho.",
+
+      "codigo_ids": ["E04-C007", "E04-C009"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Primero verifica el conocido y después consulta la alternativa."
+
+    },
+
+    {
+
+      "id": "E04-S036",
+
+      "parrafo_id": "E04-P070",
+
+      "cita": "Ahí me detuve un rato porque una cosa es que se sienta suave entre los dedos y otra que responda como lo que la persona quería para su prenda. Yo no llevaba esa prenda ni sabía exactamente cómo iba a coserlo.",
+
+      "codigo_ids": ["E04-C009", "E04-C012"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO", "DESCONOCIMIENTO_EXPLICITO"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Diferencia tacto observado de uso en prenda no observado."
+
+    },
+
+    {
+
+      "id": "E04-S037",
+
+      "parrafo_id": "E04-P072",
+
+      "cita": "Pregunté por la presentación en que lo vendían. Para llevarlo tenía que comprar más de lo que yo quería traer solo para conocerlo. Entonces no lo compré.",
+
+      "codigo_ids": ["E04-C008", "E04-C010"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "La presentación exigía más cantidad que la deseada para explorar."
+
+    },
+
+    {
+
+      "id": "E04-S038",
+
+      "parrafo_id": "E04-P073",
+
+      "cita": "Sí anoté la referencia para no volver a empezar de cero si después me interesa. Y traje el que iba a reponer.",
+
+      "codigo_ids": ["E04-C005", "E04-C013"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Resultado doble: repone el conocido y conserva la referencia alternativa."
+
+    },
+
+    {
+
+      "id": "E04-S039",
+
+      "parrafo_id": "E04-P075",
+
+      "cita": "Fue la cantidad que tenía que traer sin saber todavía si nos convenía tener los dos. El precio lo necesitaba conocer, claro, pero aunque hubiera sido parecido no quería añadir otro rollo completo únicamente por aquella pregunta.",
+
+      "codigo_ids": ["E04-C010"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO", "INTERPRETACION_PARTICIPANTE", "HIPOTETICO"],
+
+      "elicitacion": "OPCION_SUGERIDA",
+
+      "nota_contexto": "Rechaza precio como explicación única; el supuesto de precio parecido muestra que el límite de cantidad persistiría."
+
+    },
+
+    {
+
+      "id": "E04-S040",
+
+      "parrafo_id": "E04-P077",
+
+      "cita": "A esas alturas seguía pensando en reponer el mismo. El otro era para conocerlo. Ya si después lo traigo, tendría que ver si van a convivir los dos o para qué ofrecería cada uno. Eso no lo resolví esa vez.",
+
+      "codigo_ids": ["E04-C005", "E04-C010"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO", "HIPOTETICO"],
+
+      "elicitacion": "CORRECCION_DE_RECAPITULACION",
+
+      "nota_contexto": "Corrige la recapitulación de sustitución; convivencia futura de opciones sigue abierta."
+
+    },
+
+    {
+
+      "id": "E04-S041",
+
+      "parrafo_id": "E04-P079",
+
+      "cita": "Que coincidía con la referencia y con la muestra, y que al revisarlo no encontré algo distinto que me hiciera dudar. También ya conozco cómo se maneja en el mostrador: lo medimos, lo cortamos, vemos cómo queda el borde.",
+
+      "codigo_ids": ["E04-C007", "E04-C009", "E04-C011"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO", "INTERPRETACION_PARTICIPANTE", "PRACTICA_GENERAL_DECLARADA"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Coincidencia en la compra y experiencia habitual de despacho sustentan confianza situada."
+
+    },
+
+    {
+
+      "id": "E04-S042",
+
+      "parrafo_id": "E04-P080",
+
+      "cita": "No puedo decir que revisé todo el rollo. Revisé la parte que me mostraron. Con eso y la referencia me alcanzó para esa compra.",
+
+      "codigo_ids": ["E04-C011"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO", "INTERPRETACION_PARTICIPANTE"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Comprobación parcial suficiente para esta compra; no inspección completa."
+
+    },
+
+    {
+
+      "id": "E04-S043",
+
+      "parrafo_id": "E04-P082",
+
+      "cita": "Ahí consigo varias cosas de la lista. Hay otro lugar donde a veces compro, y no queda tan lejos de ese, pero no pasé en esta ocasión. Ya había encontrado lo que necesitaba.",
+
+      "codigo_ids": ["E04-C004", "E04-C014"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO", "PRACTICA_GENERAL_DECLARADA"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Habla de práctica de compra y de no visitar el segundo lugar en este episodio."
+
+    },
+
+    {
+
+      "id": "E04-S044",
+
+      "parrafo_id": "E04-P083",
+
+      "cita": "Desde el negocio tengo que apartar tiempo para ir, comprar y volver. Por eso junto artículos. No es solamente el rato del trayecto; a veces te atienden enseguida y a veces esperas. Pero esa vez fue una compra normal.",
+
+      "codigo_ids": ["E04-C004", "E04-C014"],
+
+      "estatus_epistemico": ["PRACTICA_GENERAL_DECLARADA", "RELATO_EPISODIO"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Variación habitual de tiempos; no relata demora extraordinaria esa vez."
+
+    },
+
+    {
+
+      "id": "E04-S045",
+
+      "parrafo_id": "E04-P085",
+
+      "cita": "Pero que estuviera cerca no quería decir que tuviera que hacerlo. Yo llevaba pendiente regresar y ya había resuelto la reposición. No tenía un encargo confirmado del otro. Preferí dejar la consulta hasta ahí.",
+
+      "codigo_ids": ["E04-C005", "E04-C014"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO"],
+
+      "elicitacion": "OPCION_SUGERIDA",
+
+      "nota_contexto": "Ante cercanía sugerida, explica por qué detuvo la búsqueda y regresó."
+
+    },
+
+    {
+
+      "id": "E04-S046",
+
+      "parrafo_id": "E04-P087",
+
+      "cita": "Si hubiera faltado ese elástico, entonces sí habría tenido sentido pasar al otro lugar. Sé llegar a ambos; para esa vuelta no necesitaba buscar cómo moverme.",
+
+      "codigo_ids": ["E04-C014", "E04-C017"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO", "HIPOTETICO"],
+
+      "elicitacion": "RECAPITULACION_CONFIRMADA",
+
+      "nota_contexto": "Confirma el sentido del recorrido; otra visita solo habría procedido ante falta del conocido."
+
+    },
+
+    {
+
+      "id": "E04-S047",
+
+      "parrafo_id": "E04-P089",
+
+      "cita": "En esa elección concreta, no sabría decirte que tuvo uno directo. Quienes compran llegan porque les queda cerca, porque pasan o porque ya saben lo que vendemos; algunas personas me lo han dicho. Pero de ahí no puedo sacar qué elástico va a querer cada quien.",
+
+      "codigo_ids": ["E04-C006", "E04-C014"],
+
+      "estatus_epistemico": ["INTERPRETACION_PARTICIPANTE", "DESCONOCIMIENTO_EXPLICITO", "PRACTICA_GENERAL_DECLARADA"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "No atribuye papel directo al barrio en esa elección; refiere motivos de llegada comunicados por algunos clientes."
+
+    },
+
+    {
+
+      "id": "E04-S048",
+
+      "parrafo_id": "E04-P090",
+
+      "cita": "Para decidir cuánto reponer me sirve más ver lo que sale del mostrador que pensar en toda la zona.",
+
+      "codigo_ids": ["E04-C003", "E04-C014"],
+
+      "estatus_epistemico": ["PRACTICA_GENERAL_DECLARADA"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Preferencia por observación del mostrador para decidir reposición."
+
+    },
+
+    {
+
+      "id": "E04-S049",
+
+      "parrafo_id": "E04-P092",
+
+      "cita": "Primero revisé lo que traía contra la lista y separé las cosas por sección. Con el elástico vimos el nuevo rollo y le conté a la otra persona que sí había preguntado por uno más suave, pero que no lo había comprado.",
+
+      "codigo_ids": ["E04-C001", "E04-C015"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Control al volver y devolución a quien permaneció atendiendo."
+
+    },
+
+    {
+
+      "id": "E04-S050",
+
+      "parrafo_id": "E04-P093",
+
+      "cita": "También dejé la referencia de esa alternativa junto a la nota. Si alguien volvía a preguntar, no quería que se dijera que ya lo teníamos. Una cosa es haberlo visto y otra tenerlo para vender.",
+
+      "codigo_ids": ["E04-C013"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Pendiente documentado sin atribuir disponibilidad comercial; no afirma que hubiera una nueva consulta."
+
+    },
+
+    {
+
+      "id": "E04-S051",
+
+      "parrafo_id": "E04-P095",
+
+      "cita": "Guardado con los de ese ancho, y el que ya estaba abierto siguió al frente para terminarlo primero. No mezclamos los dos pedazos en un mismo rollo.",
+
+      "codigo_ids": ["E04-C015"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Mantiene separado el nuevo y termina primero el abierto."
+
+    },
+
+    {
+
+      "id": "E04-S052",
+
+      "parrafo_id": "E04-P096",
+
+      "cita": "La muestra del que vendemos se quedó donde la tenemos. No cambié toda la sección ni hice un letrero nuevo porque era reposición del mismo artículo.",
+
+      "codigo_ids": ["E04-C007", "E04-C015"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Reposición sin reorganización completa ni nuevo letrero."
+
+    },
+
+    {
+
+      "id": "E04-S053",
+
+      "parrafo_id": "E04-P098",
+
+      "cita": "La compra, sí. Pero si estamos contando la reposición completa, yo lo llevaría hasta que empezamos a vender del nuevo rollo.",
+
+      "codigo_ids": ["E04-C015"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO", "INTERPRETACION_PARTICIPANTE"],
+
+      "elicitacion": "OPCION_SUGERIDA",
+
+      "nota_contexto": "Matiza el cierre sugerido: compra terminada y reposición aún en curso."
+
+    },
+
+    {
+
+      "id": "E04-S054",
+
+      "parrafo_id": "E04-P100",
+
+      "cita": "Primero se terminó el anterior. Quedó un pedazo corto que apartamos con los recortes; no lo contamos como si fuera un rollo disponible para cualquier medida. Después abrimos el nuevo para una venta.",
+
+      "codigo_ids": ["E04-C003", "E04-C015"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Remanente corto separado y primera venta del nuevo rollo."
+
+    },
+
+    {
+
+      "id": "E04-S055",
+
+      "parrafo_id": "E04-P101",
+
+      "cita": "Al cortarlo pude comprobar otra vez cómo se manejaba. No noté una diferencia con el anterior. Ahí ya sentí que estaba incorporado a lo que vendemos. No esperé a que se vendiera entero para dar por terminada la reposición.",
+
+      "codigo_ids": ["E04-C009", "E04-C011", "E04-C015"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO", "INTERPRETACION_PARTICIPANTE"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Experiencia del primer corte y criterio propio de cierre; no venta completa."
+
+    },
+
+    {
+
+      "id": "E04-S056",
+
+      "parrafo_id": "E04-P103",
+
+      "cita": "No, hasta ese momento no había vuelto. No sé si el corte que se llevó le sirvió o si consiguió otra cosa.",
+
+      "codigo_ids": ["E04-C012"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO", "DESCONOCIMIENTO_EXPLICITO"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "No hubo retorno del cliente hasta el punto relatado; resultado del corte desconocido."
+
+    },
+
+    {
+
+      "id": "E04-S057",
+
+      "parrafo_id": "E04-P105",
+
+      "cita": "Esa parte quedó abierta. Y tampoco tengo que suponer que sigue esperando que yo lo consiga.",
+
+      "codigo_ids": ["E04-C005", "E04-C012"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO", "DESCONOCIMIENTO_EXPLICITO"],
+
+      "elicitacion": "RECAPITULACION_CONFIRMADA",
+
+      "nota_contexto": "Confirma la ausencia de comprobación sin inferir espera de un encargo."
+
+    },
+
+    {
+
+      "id": "E04-S058",
+
+      "parrafo_id": "E04-P107",
+
+      "cita": "Primero, “ver qué hace falta”. Ahí pondría revisar el rollo y hablar de lo que habíamos vendido.",
+
+      "codigo_ids": ["E04-C016"],
+
+      "estatus_epistemico": ["INTERPRETACION_PARTICIPANTE"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Primera fase nombrada por la participante para organizar el recorrido reconstruido."
+
+    },
+
+    {
+
+      "id": "E04-S059",
+
+      "parrafo_id": "E04-P108",
+
+      "cita": "Luego, “armar la vuelta”: juntar la lista, llevar la muestra y decidir cuándo salir.",
+
+      "codigo_ids": ["E04-C016", "E04-C004"],
+
+      "estatus_epistemico": ["INTERPRETACION_PARTICIPANTE"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Segunda fase nombrada por la participante."
+
+    },
+
+    {
+
+      "id": "E04-S060",
+
+      "parrafo_id": "E04-P109",
+
+      "cita": "Después, “escoger allá”. Porque aunque lleve la lista, tengo que revisar lo que me dan, preguntar y decidir qué sí traigo.",
+
+      "codigo_ids": ["E04-C016", "E04-C009"],
+
+      "estatus_epistemico": ["INTERPRETACION_PARTICIPANTE"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Tercera fase: la lista no elimina decisiones en el punto de compra."
+
+    },
+
+    {
+
+      "id": "E04-S061",
+
+      "parrafo_id": "E04-P110",
+
+      "cita": "Y al final, “dejarlo listo para vender”. Ahí entran revisar al regresar, acomodar y contarle a la otra persona.",
+
+      "codigo_ids": ["E04-C016", "E04-C015"],
+
+      "estatus_epistemico": ["INTERPRETACION_PARTICIPANTE"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Primer nombre de la última fase, revisado en E04-P112."
+
+    },
+
+    {
+
+      "id": "E04-S062",
+
+      "parrafo_id": "E04-P112",
+
+      "cita": "Le pondría “acomodarlo y empezar a usarlo”. Usarlo nosotros, digo, para despachar. Así sí llega hasta el primer corte del nuevo.",
+
+      "codigo_ids": ["E04-C016", "E04-C015"],
+
+      "estatus_epistemico": ["INTERPRETACION_PARTICIPANTE"],
+
+      "elicitacion": "CORRECCION_DE_RECAPITULACION",
+
+      "nota_contexto": "Ajuste del nombre ante la comprobación del entrevistador; usar significa despachar."
+
+    },
+
+    {
+
+      "id": "E04-S063",
+
+      "parrafo_id": "E04-P114",
+
+      "cita": "Aunque no todo espera a que termine una parte. Mientras reviso una cosa puedo estar anotando otra para una compra futura. La lista no se hace completa de una sentada.",
+
+      "codigo_ids": ["E04-C004", "E04-C016"],
+
+      "estatus_epistemico": ["PRACTICA_GENERAL_DECLARADA"],
+
+      "elicitacion": "RECAPITULACION_CONFIRMADA",
+
+      "nota_contexto": "Confirma fases y advierte que las actividades se superponen."
+
+    },
+
+    {
+
+      "id": "E04-S064",
+
+      "parrafo_id": "E04-P116",
+
+      "cita": "Como algo que ya venía de antes y que metí al armar la vuelta. No fue lo que inició la reposición. Si no me hubieran hecho esa pregunta, de todos modos habría comprado el rollo que se estaba terminando.",
+
+      "codigo_ids": ["E04-C003", "E04-C005"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO", "HIPOTETICO"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Sitúa la petición antes del episodio y expresa que habría repuesto igualmente."
+
+    },
+
+    {
+
+      "id": "E04-S065",
+
+      "parrafo_id": "E04-P118",
+
+      "cita": "Se parece, pero no siempre llevo muestra. En algunos artículos la referencia me basta. Y hay cosas que no repongo de inmediato aunque se acaben, porque casi no se han pedido o porque ya tengo otra opción que cumple lo mismo.",
+
+      "codigo_ids": ["E04-C003", "E04-C007"],
+
+      "estatus_epistemico": ["PRACTICA_GENERAL_DECLARADA"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Variación habitual: muestra no siempre necesaria y agotamiento no obliga a reponer."
+
+    },
+
+    {
+
+      "id": "E04-S066",
+
+      "parrafo_id": "E04-P119",
+
+      "cita": "Tampoco siempre voy yo. Si va la otra persona, dejamos clara la lista y luego me cuenta qué encontró. Lo que necesita más comparación lo hablamos antes.",
+
+      "codigo_ids": ["E04-C001", "E04-C004"],
+
+      "estatus_epistemico": ["PRACTICA_GENERAL_DECLARADA"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Compradora intercambiable con coordinación y devolución."
+
+    },
+
+    {
+
+      "id": "E04-S067",
+
+      "parrafo_id": "E04-P121",
+
+      "cita": "Si no estoy recordando bien el ancho, puedo consultar lo que quedó en el negocio. Si lo que me ofrecen se ve diferente y no sé si nos sirve, puedo dejarlo pendiente.",
+
+      "codigo_ids": ["E04-C007", "E04-C017"],
+
+      "estatus_epistemico": ["PRACTICA_GENERAL_DECLARADA"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Posibilidades generales ante dudas; no sucesos añadidos al episodio."
+
+    },
+
+    {
+
+      "id": "E04-S068",
+
+      "parrafo_id": "E04-P122",
+
+      "cita": "No todo tiene que salir resuelto de esa compra. Pero si es algo que sí necesitamos reponer, busco primero si hay el mismo en el otro lugar. Ya después decido si vale la pena probar otro. Eso no ocurrió con el rollo que estamos contando.",
+
+      "codigo_ids": ["E04-C017"],
+
+      "estatus_epistemico": ["PRACTICA_GENERAL_DECLARADA"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Regla declarada y contingencias expresamente ausentes en esta compra."
+
+    },
+
+    {
+
+      "id": "E04-S069",
+
+      "parrafo_id": "E04-P124",
+
+      "cita": "Cuánto nos quedaba, cuál era exactamente el que teníamos y si allá había el mismo. También cuánto costaba en esa ocasión y cuánto tenía que comprar. Con eso podía decidir.",
+
+      "codigo_ids": ["E04-C003", "E04-C007", "E04-C008", "E04-C010", "E04-C011"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO", "INTERPRETACION_PARTICIPANTE"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Información que consideró suficiente para la decisión reconstruida."
+
+    },
+
+    {
+
+      "id": "E04-S070",
+
+      "parrafo_id": "E04-P125",
+
+      "cita": "Lo habíamos estado despachando las dos personas y veíamos bajar el rollo. Cuando tuve que precisar lo que quedaba, lo medí.",
+
+      "codigo_ids": ["E04-C003"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO", "INTERPRETACION_PARTICIPANTE"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Observación compartida y medición, sin cálculo especial declarado en el párrafo."
+
+    },
+
+    {
+
+      "id": "E04-S071",
+
+      "parrafo_id": "E04-P127",
+
+      "cita": "La cantidad que quedaba, en el rollo; la descripción y la referencia, en la nota de compra anterior y en la muestra. Lo de las ventas, en lo que recordábamos y habíamos anotado cuando hacía falta. El precio y la disponibilidad de la nueva compra los supe allá.",
+
+      "codigo_ids": ["E04-C003", "E04-C007", "E04-C008"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO", "INTERPRETACION_PARTICIPANTE"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Fuentes distribuidas: objeto, nota, muestra, memoria y punto de compra."
+
+    },
+
+    {
+
+      "id": "E04-S072",
+
+      "parrafo_id": "E04-P128",
+
+      "cita": "No tengo todo junto en una sola hoja. Para esa reposición tampoco me hizo falta.",
+
+      "codigo_ids": ["E04-C011"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO", "INTERPRETACION_PARTICIPANTE"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "La dispersión informativa no fue carencia en esta reposición."
+
+    },
+
+    {
+
+      "id": "E04-S073",
+
+      "parrafo_id": "E04-P130",
+
+      "cita": "Puedo acordarme de que era “el mediano”, pero esa palabra no le dice lo mismo a todo el mundo. Por eso reviso el ancho o la referencia.",
+
+      "codigo_ids": ["E04-C007"],
+
+      "estatus_epistemico": ["PRACTICA_GENERAL_DECLARADA"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Verifica identificadores porque un nombre recordado puede ser ambiguo."
+
+    },
+
+    {
+
+      "id": "E04-S074",
+
+      "parrafo_id": "E04-P131",
+
+      "cita": "Para saber si vale la pena revisar el rollo, la memoria me ayuda. Para pedirlo, ya quiero algo más concreto.",
+
+      "codigo_ids": ["E04-C003", "E04-C007"],
+
+      "estatus_epistemico": ["PRACTICA_GENERAL_DECLARADA"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Memoria para activar revisión; comprobación más concreta para pedir."
+
+    },
+
+    {
+
+      "id": "E04-S075",
+
+      "parrafo_id": "E04-P133",
+
+      "cita": "Si me dice qué presentación tiene o cuánto cuesta, eso corresponde a lo que me está vendiendo. Si hablamos de cómo va a quedar en una prenda, yo también tengo que considerar lo que no estamos viendo.",
+
+      "codigo_ids": ["E04-C008", "E04-C012"],
+
+      "estatus_epistemico": ["PRACTICA_GENERAL_DECLARADA", "INTERPRETACION_PARTICIPANTE"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Diferencia autoridad sobre la oferta y límites sobre efectos en una prenda."
+
+    },
+
+    {
+
+      "id": "E04-S076",
+
+      "parrafo_id": "E04-P134",
+
+      "cita": "Esa vez pude tocar el otro elástico y notar que se sentía más suave. Eso sí lo vi. Que fuera el adecuado para la persona que me preguntó, eso no lo podía saber.",
+
+      "codigo_ids": ["E04-C009", "E04-C012"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO", "DESCONOCIMIENTO_EXPLICITO"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Suavidad constatada al tacto; adecuación individual no constatada."
+
+    },
+
+    {
+
+      "id": "E04-S077",
+
+      "parrafo_id": "E04-P136",
+
+      "cita": "Que no coincidiera la referencia o que al compararlo encontrara una diferencia que no me supieran explicar. También que no estuviera claro qué cantidad me estaban ofreciendo. En ese caso no lo habría comprado como si fuera el mismo.",
+
+      "codigo_ids": ["E04-C011", "E04-C017"],
+
+      "estatus_epistemico": ["HIPOTETICO"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Condiciones hipotéticas de insuficiencia, no fallas ocurridas."
+
+    },
+
+    {
+
+      "id": "E04-S078",
+
+      "parrafo_id": "E04-P137",
+
+      "cita": "Pero no pasó. Lo que tenía me alcanzó para seguir.",
+
+      "codigo_ids": ["E04-C011"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO", "INTERPRETACION_PARTICIPANTE"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Niega que las contingencias de E04-P136 sucedieran."
+
+    },
+
+    {
+
+      "id": "E04-S079",
+
+      "parrafo_id": "E04-P139",
+
+      "cita": "Para reponer ese rollo, tenía suficiente. Donde sí me gustaría saber más es con los materiales que todavía no conozco bien. Por ejemplo, cómo queda ese otro elástico después de coserlo y usarlo, no nada más cómo se siente cuando está nuevo.",
+
+      "codigo_ids": ["E04-C011", "E04-C018"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO", "PREFERENCIA_DESEADA"],
+
+      "elicitacion": "EJERCICIO_IDEAL",
+
+      "nota_contexto": "El ejercicio ideal abre una carencia sobre nuevos materiales, no sobre la reposición conocida."
+
+    },
+
+    {
+
+      "id": "E04-S080",
+
+      "parrafo_id": "E04-P140",
+
+      "cita": "Me gustaría poder comparar eso antes de traer una cantidad grande.",
+
+      "codigo_ids": ["E04-C010", "E04-C018"],
+
+      "estatus_epistemico": ["PREFERENCIA_DESEADA"],
+
+      "elicitacion": "EJERCICIO_IDEAL",
+
+      "nota_contexto": "Desea comparar antes de comprometer una cantidad grande."
+
+    },
+
+    {
+
+      "id": "E04-S081",
+
+      "parrafo_id": "E04-P142",
+
+      "cita": "Si sigue recuperando su forma, si se enrolla dentro de la tela, si al estirarlo se pone tieso. Y en qué lo probaron, porque no es igual verlo suelto que dentro de una cintura.",
+
+      "codigo_ids": ["E04-C018", "E04-C020"],
+
+      "estatus_epistemico": ["PREFERENCIA_DESEADA"],
+
+      "elicitacion": "EJERCICIO_IDEAL",
+
+      "nota_contexto": "Comportamientos y contexto que querría conocer; no resultados de pruebas realizadas."
+
+    },
+
+    {
+
+      "id": "E04-S082",
+
+      "parrafo_id": "E04-P143",
+
+      "cita": "No te digo que al nuevo le pase algo de eso. No lo sé. Justamente, lo que vi en el mostrador de quien me vende no me permite contar cómo se comporta después.",
+
+      "codigo_ids": ["E04-C012"],
+
+      "estatus_epistemico": ["DESCONOCIMIENTO_EXPLICITO"],
+
+      "elicitacion": "EJERCICIO_IDEAL",
+
+      "nota_contexto": "Impide interpretar los ejemplos de E04-P142 como defectos observados."
+
+    },
+
+    {
+
+      "id": "E04-S083",
+
+      "parrafo_id": "E04-P145",
+
+      "cita": "Decidir si vale la pena traerlo para probarlo en el negocio y cómo explicarlo cuando alguien compare los dos. Quizá descubro que para lo que nos piden no aporta tanto. O que sí conviene tener una pequeña cantidad.",
+
+      "codigo_ids": ["E04-C018", "E04-C021"],
+
+      "estatus_epistemico": ["PREFERENCIA_DESEADA", "HIPOTETICO"],
+
+      "elicitacion": "EJERCICIO_IDEAL",
+
+      "nota_contexto": "Decisión deseada y posibles resultados; no intención firme de compra."
+
+    },
+
+    {
+
+      "id": "E04-S084",
+
+      "parrafo_id": "E04-P146",
+
+      "cita": "No me resolvería por sí solo cuánto se va a vender. Eso lo tendría que ir viendo.",
+
+      "codigo_ids": ["E04-C012", "E04-C021"],
+
+      "estatus_epistemico": ["INTERPRETACION_PARTICIPANTE", "HIPOTETICO"],
+
+      "elicitacion": "EJERCICIO_IDEAL",
+
+      "nota_contexto": "El conocimiento de uso no resolvería la venta futura."
+
+    },
+
+    {
+
+      "id": "E04-S085",
+
+      "parrafo_id": "E04-P148",
+
+      "cita": "Yo lo imagino como un cuaderno de muestras. Que pueda tener el pedacito de elástico y, junto, lo que se sabe de ese mismo. No pondría todos los blancos en una página solo por ser blancos; juntaría primero los del mismo ancho para poder comparar.",
+
+      "codigo_ids": ["E04-C019"],
+
+      "estatus_epistemico": ["PREFERENCIA_DESEADA"],
+
+      "elicitacion": "EJERCICIO_IDEAL",
+
+      "nota_contexto": "Formato imaginado; agrupación inicial por ancho para comparar."
+
+    },
+
+    {
+
+      "id": "E04-S086",
+
+      "parrafo_id": "E04-P149",
+
+      "cita": "Al abrirlo buscaría el que ya vendemos. Lo pondría al lado del que estoy considerando y vería qué diferencia tiene y qué pruebas hay. Si tengo que ir pasando por muchas cosas que no vienen al caso, acabaría sacando mis muestras como siempre.",
+
+      "codigo_ids": ["E04-C019", "E04-C021"],
+
+      "estatus_epistemico": ["PREFERENCIA_DESEADA", "HIPOTETICO"],
+
+      "elicitacion": "EJERCICIO_IDEAL",
+
+      "nota_contexto": "Entrada deseada por el conocido; anticipa abandonar una consulta sin pertinencia."
+
+    },
+
+    {
+
+      "id": "E04-S087",
+
+      "parrafo_id": "E04-P151",
+
+      "cita": "La referencia para volver a pedirla, dónde la vi y una nota clara de lo que se hizo con ella. Por ejemplo, si solo se tocó y estiró o si alguien la cosió en una tela. Si hubo lavado, también tendría que decirlo.",
+
+      "codigo_ids": ["E04-C007", "E04-C020"],
+
+      "estatus_epistemico": ["PREFERENCIA_DESEADA"],
+
+      "elicitacion": "EJERCICIO_IDEAL",
+
+      "nota_contexto": "Desea trazabilidad de acciones sobre cada material, incluidos lavado y confección si ocurrieron."
+
+    },
+
+    {
+
+      "id": "E04-S088",
+
+      "parrafo_id": "E04-P152",
+
+      "cita": "Y si hay una foto, que permita ver algo. Pero para la suavidad preferiría tener el pedazo en la mano.",
+
+      "codigo_ids": ["E04-C019"],
+
+      "estatus_epistemico": ["PREFERENCIA_DESEADA"],
+
+      "elicitacion": "EJERCICIO_IDEAL",
+
+      "nota_contexto": "Foto condicionada a visibilidad útil; tacto preferido para suavidad."
+
+    },
+
+    {
+
+      "id": "E04-S089",
+
+      "parrafo_id": "E04-P154",
+
+      "cita": "No lo tengo resuelto. Algunas cosas las podría revisar yo con una muestra. Otras me las podría contar quien sí la haya usado. En ese caso pondría que esa fue su experiencia, porque yo no la vi.",
+
+      "codigo_ids": ["E04-C012", "E04-C020"],
+
+      "estatus_epistemico": ["PREFERENCIA_DESEADA", "DESCONOCIMIENTO_EXPLICITO", "HIPOTETICO"],
+
+      "elicitacion": "EJERCICIO_IDEAL",
+
+      "nota_contexto": "Fuentes posibles sin responsable resuelto; distinguiría experiencia ajena de observación propia."
+
+    },
+
+    {
+
+      "id": "E04-S090",
+
+      "parrafo_id": "E04-P155",
+
+      "cita": "Lo ideal que estoy imaginando es tener esa comparación antes de comprar el rollo. Ahora no tengo ese cuaderno hecho para todos los materiales ni sé quién podría darme todas esas pruebas.",
+
+      "codigo_ids": ["E04-C012", "E04-C018", "E04-C020"],
+
+      "estatus_epistemico": ["PREFERENCIA_DESEADA", "DESCONOCIMIENTO_EXPLICITO"],
+
+      "elicitacion": "EJERCICIO_IDEAL",
+
+      "nota_contexto": "Comparación previa deseada; no cuenta con cobertura de todos los materiales ni fuente integral conocida. No precisa el alcance de algún registro parcial."
+
+    },
+
+    {
+
+      "id": "E04-S091",
+
+      "parrafo_id": "E04-P157",
+
+      "cita": "Empezaría con ese par de elásticos, si de verdad voy a decidir entre ellos. Si me pongo a juntar cosas de todo lo que vendo, ya sería otro trabajo.",
+
+      "codigo_ids": ["E04-C019"],
+
+      "estatus_epistemico": ["PREFERENCIA_DESEADA", "HIPOTETICO"],
+
+      "elicitacion": "OPCION_SUGERIDA",
+
+      "nota_contexto": "Ante alcance total sugerido dentro del ideal, limita el inicio al par pertinente y anticipa el trabajo de ampliarlo."
+
+    },
+
+    {
+
+      "id": "E04-S092",
+
+      "parrafo_id": "E04-P159",
+
+      "cita": "Con el nombre o la referencia que yo uso para saber dónde comprarla. También pondría si es una muestra que traje de ahí o algo que alguien me enseñó. Para esos lugares no necesito un mapa; sé dónde están.",
+
+      "codigo_ids": ["E04-C014", "E04-C020"],
+
+      "estatus_epistemico": ["PREFERENCIA_DESEADA", "PRACTICA_GENERAL_DECLARADA"],
+
+      "elicitacion": "EJERCICIO_IDEAL",
+
+      "nota_contexto": "Identidad y procedencia deseadas; conocimiento actual de los sitios que hace innecesaria la orientación."
+
+    },
+
+    {
+
+      "id": "E04-S093",
+
+      "parrafo_id": "E04-P160",
+
+      "cita": "Si fuera un lugar nuevo, entonces sí tendría que averiguar cómo llegar y en qué momento puedo ir. Pero eso lo consultaría cuando hiciera falta. Para comparar los elásticos, lo principal sería la muestra.",
+
+      "codigo_ids": ["E04-C014", "E04-C019"],
+
+      "estatus_epistemico": ["HIPOTETICO", "PREFERENCIA_DESEADA"],
+
+      "elicitacion": "EJERCICIO_IDEAL",
+
+      "nota_contexto": "Orientación y momento de visita solo para un lugar nuevo hipotético; prioridad comparativa de la muestra."
+
+    },
+
+    {
+
+      "id": "E04-S094",
+
+      "parrafo_id": "E04-P162",
+
+      "cita": "Poder ver el material conocido junto al otro y saber qué se comprobó de cada uno. La referencia sola ya la anoté; lo que me falta de la alternativa es conocerla más allá de tocarla un momento.",
+
+      "codigo_ids": ["E04-C018", "E04-C020"],
+
+      "estatus_epistemico": ["PREFERENCIA_DESEADA", "RELATO_EPISODIO"],
+
+      "elicitacion": "EJERCICIO_IDEAL",
+
+      "nota_contexto": "Prioriza contraste con evidencia de lo comprobado; distingue ese deseo de la referencia que ya guardó."
+
+    },
+
+    {
+
+      "id": "E04-S095",
+
+      "parrafo_id": "E04-P164",
+
+      "cita": "Si cuando vuelva a considerar comprarlo puedo decir por qué quiero probarlo o por qué prefiero dejarlo. Algo concreto, como “este lo vi cosido y se comportó así”, en vez de acordarme nada más de que se sentía suave.",
+
+      "codigo_ids": ["E04-C021"],
+
+      "estatus_epistemico": ["PREFERENCIA_DESEADA"],
+
+      "elicitacion": "EJERCICIO_IDEAL",
+
+      "nota_contexto": "Señal deseada de utilidad: justificar probar o dejar con una observación concreta. El ejemplo no afirma que ya lo vio cosido."
+
+    },
+
+    {
+
+      "id": "E04-S096",
+
+      "parrafo_id": "E04-P165",
+
+      "cita": "Luego tendría que coincidir con lo que encuentre al usar la muestra o al empezar a venderlo. Si las notas no me ayudan a distinguir nada, no tendría sentido seguir llenándolas.",
+
+      "codigo_ids": ["E04-C021"],
+
+      "estatus_epistemico": ["PREFERENCIA_DESEADA", "HIPOTETICO"],
+
+      "elicitacion": "EJERCICIO_IDEAL",
+
+      "nota_contexto": "Contraste posterior deseado y abandono hipotético del registro si no permite distinguir."
+
+    },
+
+    {
+
+      "id": "E04-S097",
+
+      "parrafo_id": "E04-P167",
+
+      "cita": "Serviría para explicar mejor lo que sé. Recomendarlo dependería de lo que busque esa persona. No le diría que es el indicado para cualquier prenda solo porque tenga una página en el cuaderno.",
+
+      "codigo_ids": ["E04-C006", "E04-C021"],
+
+      "estatus_epistemico": ["PREFERENCIA_DESEADA", "HIPOTETICO"],
+
+      "elicitacion": "OPCION_SUGERIDA",
+
+      "nota_contexto": "Ante recomendación sugerida, acota utilidad a explicar lo sabido según cada necesidad."
+
+    },
+
+    {
+
+      "id": "E04-S098",
+
+      "parrafo_id": "E04-P168",
+
+      "cita": "A veces lo más útil es poner las dos muestras y que la persona las toque. Hay quien ya tiene muy claro lo que necesita.",
+
+      "codigo_ids": ["E04-C002", "E04-C009"],
+
+      "estatus_epistemico": ["PRACTICA_GENERAL_DECLARADA"],
+
+      "elicitacion": "OPCION_SUGERIDA",
+
+      "nota_contexto": "Continúa esa respuesta con comparación táctil habitual y criterio del cliente."
+
+    },
+
+    {
+
+      "id": "E04-S099",
+
+      "parrafo_id": "E04-P170",
+
+      "cita": "Las muestras en la mano, hablar con la persona que comparte el mostrador y revisar físicamente lo que queda. También seguiría separando lo que sí voy a comprar de lo que solamente quiero preguntar.",
+
+      "codigo_ids": ["E04-C005", "E04-C022"],
+
+      "estatus_epistemico": ["PREFERENCIA_DESEADA"],
+
+      "elicitacion": "EJERCICIO_IDEAL",
+
+      "nota_contexto": "Recursos que mantendría aun con el cuaderno ideal."
+
+    },
+
+    {
+
+      "id": "E04-S100",
+
+      "parrafo_id": "E04-P171",
+
+      "cita": "No dejaría de escuchar a quien llega con su prenda. Ahí aparece un detalle que no estaba en mi lista, como pasó con la suavidad.",
+
+      "codigo_ids": ["E04-C006", "E04-C022"],
+
+      "estatus_epistemico": ["PREFERENCIA_DESEADA", "RELATO_EPISODIO"],
+
+      "elicitacion": "EJERCICIO_IDEAL",
+
+      "nota_contexto": "Mantendría escucha; vincula su valor con el episodio de suavidad."
+
+    },
+
+    {
+
+      "id": "E04-S101",
+
+      "parrafo_id": "E04-P173",
+
+      "cita": "Tal vez me habría ayudado con la consulta del otro elástico, si hubiera tenido esa información. Pero no puedo decirte que lo habría comprado. La cantidad que tenía que traer seguía siendo parte de la decisión.",
+
+      "codigo_ids": ["E04-C010", "E04-C018"],
+
+      "estatus_epistemico": ["HIPOTETICO"],
+
+      "elicitacion": "EJERCICIO_IDEAL",
+
+      "nota_contexto": "Contrafáctico del cuaderno: posible ayuda sin compra asegurada por el límite de cantidad."
+
+    },
+
+    {
+
+      "id": "E04-S102",
+
+      "parrafo_id": "E04-P174",
+
+      "cita": "El rollo de siempre lo habría repuesto igual.",
+
+      "codigo_ids": ["E04-C005", "E04-C011"],
+
+      "estatus_epistemico": ["HIPOTETICO"],
+
+      "elicitacion": "EJERCICIO_IDEAL",
+
+      "nota_contexto": "En ese mismo contrafáctico mantendría la reposición conocida."
+
+    },
+
+    {
+
+      "id": "E04-S103",
+
+      "parrafo_id": "E04-P176",
+
+      "cita": "No, dejarla aparte. La conservé como pregunta, solo que no la puse al mismo nivel que reponer lo que ya estaba vendiendo.",
+
+      "codigo_ids": ["E04-C005", "E04-C013"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO", "INTERPRETACION_PARTICIPANTE"],
+
+      "elicitacion": "CORRECCION_DE_RECAPITULACION",
+
+      "nota_contexto": "Corrige interpretar el colador como descarte de la petición."
+
+    },
+
+    {
+
+      "id": "E04-S104",
+
+      "parrafo_id": "E04-P177",
+
+      "cita": "Quizá “colador” suena a que unas cosas se tiran y otras se quedan. No lo pensaba así. Hay cosas que esperan. Esa referencia del otro elástico la guardé.",
+
+      "codigo_ids": ["E04-C013"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO", "INTERPRETACION_PARTICIPANTE"],
+
+      "elicitacion": "CORRECCION_DE_RECAPITULACION",
+
+      "nota_contexto": "Aclara la metáfora con conservación efectiva de la referencia."
+
+    },
+
+    {
+
+      "id": "E04-S105",
+
+      "parrafo_id": "E04-P181",
+
+      "cita": "Dejé la nota y se lo conté al regresar. Si vuelve a salir la pregunta, cualquiera de las dos personas puede ubicar qué fue lo que averigüé. Pero no quedamos en preguntarles a todos los clientes si quieren otro elástico. Tampoco hicimos de eso una tarea diaria.",
+
+      "codigo_ids": ["E04-C001", "E04-C013"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Nota y relato compartidos habilitan recuperación futura; no informa seguimiento diario ni consulta a toda la clientela."
+
+    },
+
+    {
+
+      "id": "E04-S106",
+
+      "parrafo_id": "E04-P183",
+
+      "cita": "Porque si contamos todo desde la pregunta de lo suave, parece que yo salí a buscarle algo a esa persona. Y no fue así.",
+
+      "codigo_ids": ["E04-C005"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO", "INTERPRETACION_PARTICIPANTE"],
+
+      "elicitacion": "RECAPITULACION_CONFIRMADA",
+
+      "nota_contexto": "Confirma la recapitulación corregida con una negación sustantiva de la lectura inicial."
+
+    },
+
+    {
+
+      "id": "E04-S107",
+
+      "parrafo_id": "E04-P185",
+
+      "cita": "estar pendiente de lo que se acaba no significa mirar solamente lo que más se vende. Hay cosas que se mueven poco y de todos modos conviene tener, porque quien las busca necesita esa pieza y no otra.",
+
+      "codigo_ids": ["E04-C003"],
+
+      "estatus_epistemico": ["PRACTICA_GENERAL_DECLARADA"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Matiz general: bajo movimiento no excluye utilidad dentro del surtido. La cita comienza dentro de la oración original."
+
+    },
+
+    {
+
+      "id": "E04-S108",
+
+      "parrafo_id": "E04-P186",
+
+      "cita": "Pero eso no lo decidí en esta compra del elástico. Ahí sí estaba reponiendo algo que sale con regularidad.",
+
+      "codigo_ids": ["E04-C003"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO", "INTERPRETACION_PARTICIPANTE"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Acota el matiz anterior: esa decisión no se tomó en este episodio."
+
+    },
+
+    {
+
+      "id": "E04-S109",
+
+      "parrafo_id": "E04-P188",
+
+      "cita": "Un botón especial puede tardar en salir y ocupar muy poco espacio. Otro artículo puede ocupar más y tener alternativas. Lo miro distinto.",
+
+      "codigo_ids": ["E04-C003", "E04-C010"],
+
+      "estatus_epistemico": ["PRACTICA_GENERAL_DECLARADA"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Criterios generales por tipo de artículo; no compras adicionales reconstruidas."
+
+    },
+
+    {
+
+      "id": "E04-S110",
+
+      "parrafo_id": "E04-P189",
+
+      "cita": "No tengo una sola regla para toda la mercería.",
+
+      "codigo_ids": ["E04-C003"],
+
+      "estatus_epistemico": ["PRACTICA_GENERAL_DECLARADA", "INTERPRETACION_PARTICIPANTE"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Expresa el límite de una regla única para toda la mercería."
+
+    },
+
+    {
+
+      "id": "E04-S111",
+
+      "parrafo_id": "E04-P191",
+
+      "cita": "Me sirve saber que existe, guardar la referencia y seguir trabajando. Esta vez regresé con lo que necesitábamos y con un dato más sobre otra opción. Para mí estuvo bien así.",
+
+      "codigo_ids": ["E04-C005", "E04-C011", "E04-C013"],
+
+      "estatus_epistemico": ["RELATO_EPISODIO", "INTERPRETACION_PARTICIPANTE"],
+
+      "elicitacion": "PREGUNTA_ABIERTA",
+
+      "nota_contexto": "Evalúa suficiente el resultado: reposición resuelta y conocimiento adicional conservado."
+
+    }
+
+  ],
+
+  "cobertura": [
+
+    {"parrafo_id": "E04-P006", "estado": "ADMINISTRATIVO", "segmento_ids": [], "justificacion": "Aceptación de condiciones de participación y grabación."},
+
+    {"parrafo_id": "E04-P008", "estado": "CODIFICADO", "segmento_ids": ["E04-S001"], "justificacion": "Funciones y organización del relevo."},
+
+    {"parrafo_id": "E04-P009", "estado": "CODIFICADO", "segmento_ids": ["E04-S002"], "justificacion": "Alcance del servicio y exclusión de confección."},
+
+    {"parrafo_id": "E04-P011", "estado": "CODIFICADO", "segmento_ids": ["E04-S003"], "justificacion": "Revisión y notas en la apertura."},
+
+    {"parrafo_id": "E04-P012", "estado": "CODIFICADO", "segmento_ids": ["E04-S004"], "justificacion": "Atención variable y compras agrupadas."},
+
+    {"parrafo_id": "E04-P014", "estado": "CODIFICADO", "segmento_ids": ["E04-S005"], "justificacion": "Presentación del episodio de reposición."},
+
+    {"parrafo_id": "E04-P015", "estado": "CODIFICADO", "segmento_ids": ["E04-S006"], "justificacion": "Continuidad del conocido sin sustitución obligada."},
+
+    {"parrafo_id": "E04-P017", "estado": "CODIFICADO", "segmento_ids": ["E04-S007"], "justificacion": "Petición individual sin encargo acordado."},
+
+    {"parrafo_id": "E04-P018", "estado": "CODIFICADO", "segmento_ids": ["E04-S008"], "justificacion": "Incorporación de la consulta a la compra."},
+
+    {"parrafo_id": "E04-P020", "estado": "CODIFICADO", "segmento_ids": ["E04-S009"], "justificacion": "Distinción sustantiva entre reponer y consultar."},
+
+    {"parrafo_id": "E04-P022", "estado": "CODIFICADO", "segmento_ids": ["E04-S010"], "justificacion": "Actores participantes en la ocasión."},
+
+    {"parrafo_id": "E04-P023", "estado": "CODIFICADO", "segmento_ids": ["E04-S011"], "justificacion": "Ventas previas y límite de reconstrucción."},
+
+    {"parrafo_id": "E04-P025", "estado": "CONTEXTO", "segmento_ids": [], "justificacion": "Solicita aclarar el ejercicio de comparación; no describe una actividad del negocio."},
+
+    {"parrafo_id": "E04-P027", "estado": "CODIFICADO", "segmento_ids": ["E04-S012"], "justificacion": "Clientes como muestrario de usos y peticiones."},
+
+    {"parrafo_id": "E04-P029", "estado": "CODIFICADO", "segmento_ids": ["E04-S013"], "justificacion": "Suavidad relevante para una persona concreta."},
+
+    {"parrafo_id": "E04-P030", "estado": "CODIFICADO", "segmento_ids": ["E04-S014"], "justificacion": "Límite de extrapolación a otros compradores."},
+
+    {"parrafo_id": "E04-P032", "estado": "CODIFICADO", "segmento_ids": ["E04-S015"], "justificacion": "Rechaza cambiar a partir de una conversación."},
+
+    {"parrafo_id": "E04-P034", "estado": "CODIFICADO", "segmento_ids": ["E04-S016"], "justificacion": "Significado funcional del relevo."},
+
+    {"parrafo_id": "E04-P036", "estado": "CODIFICADO", "segmento_ids": ["E04-S017"], "justificacion": "Coordinación e identificación compartida del ancho."},
+
+    {"parrafo_id": "E04-P037", "estado": "CODIFICADO", "segmento_ids": ["E04-S018"], "justificacion": "Autonomía de quien queda atendiendo."},
+
+    {"parrafo_id": "E04-P039", "estado": "CODIFICADO", "segmento_ids": ["E04-S019"], "justificacion": "Devolución recíproca de lo ocurrido."},
+
+    {"parrafo_id": "E04-P041", "estado": "CONTEXTO", "segmento_ids": [], "justificacion": "Nombra la bisagra sin explicarla; su significado se codifica en E04-P043 y E04-P044."},
+
+    {"parrafo_id": "E04-P043", "estado": "CODIFICADO", "segmento_ids": ["E04-S020"], "justificacion": "Capacidades y límites de quien vende."},
+
+    {"parrafo_id": "E04-P044", "estado": "CODIFICADO", "segmento_ids": ["E04-S021"], "justificacion": "Responsabilidad de precisar lo solicitado."},
+
+    {"parrafo_id": "E04-P046", "estado": "CONTEXTO", "segmento_ids": [], "justificacion": "Propone tentativamente el colador; su alcance se desarrolla en E04-P048 y E04-P049 y se corrige en E04-P176 y E04-P177."},
+
+    {"parrafo_id": "E04-P048", "estado": "CODIFICADO", "segmento_ids": ["E04-S022"], "justificacion": "Diferenciación de motivos y límites de compra."},
+
+    {"parrafo_id": "E04-P049", "estado": "CODIFICADO", "segmento_ids": ["E04-S023"], "justificacion": "Límite de la metáfora respecto a sus funciones."},
+
+    {"parrafo_id": "E04-P051", "estado": "CODIFICADO", "segmento_ids": ["E04-S024"], "justificacion": "Inicio del episodio en revisión de existencias."},
+
+    {"parrafo_id": "E04-P053", "estado": "CODIFICADO", "segmento_ids": ["E04-S025"], "justificacion": "Entrada de reposición con identificación precisa."},
+
+    {"parrafo_id": "E04-P054", "estado": "CODIFICADO", "segmento_ids": ["E04-S026"], "justificacion": "Reposición selectiva dentro de la sección."},
+
+    {"parrafo_id": "E04-P055", "estado": "CODIFICADO", "segmento_ids": ["E04-S027"], "justificacion": "Integración de notas y agrupación por lugar."},
+
+    {"parrafo_id": "E04-P057", "estado": "CODIFICADO", "segmento_ids": ["E04-S028"], "justificacion": "Criterio situado sin cantidad universal."},
+
+    {"parrafo_id": "E04-P058", "estado": "CODIFICADO", "segmento_ids": ["E04-S029"], "justificacion": "Medición y margen para organizar salida."},
+
+    {"parrafo_id": "E04-P060", "estado": "CODIFICADO", "segmento_ids": ["E04-S030"], "justificacion": "Confirmación y alternativa contrafáctica de aplazamiento."},
+
+    {"parrafo_id": "E04-P062", "estado": "CODIFICADO", "segmento_ids": ["E04-S031"], "justificacion": "Preparación de referencia y muestra física."},
+
+    {"parrafo_id": "E04-P063", "estado": "CODIFICADO", "segmento_ids": ["E04-S032"], "justificacion": "Momento de salida y consulta separada."},
+
+    {"parrafo_id": "E04-P065", "estado": "CODIFICADO", "segmento_ids": ["E04-S033"], "justificacion": "Marca escrita de consulta frente a compra."},
+
+    {"parrafo_id": "E04-P067", "estado": "CODIFICADO", "segmento_ids": ["E04-S034"], "justificacion": "Oferta y precio aún por conocer."},
+
+    {"parrafo_id": "E04-P069", "estado": "CODIFICADO", "segmento_ids": ["E04-S035"], "justificacion": "Verificación del conocido y consulta posterior."},
+
+    {"parrafo_id": "E04-P070", "estado": "CODIFICADO", "segmento_ids": ["E04-S036"], "justificacion": "Tacto distinto de adecuación en prenda."},
+
+    {"parrafo_id": "E04-P072", "estado": "CODIFICADO", "segmento_ids": ["E04-S037"], "justificacion": "Presentación y cantidad que frenan incorporación."},
+
+    {"parrafo_id": "E04-P073", "estado": "CODIFICADO", "segmento_ids": ["E04-S038"], "justificacion": "Referencia conservada y reposición realizada."},
+
+    {"parrafo_id": "E04-P075", "estado": "CODIFICADO", "segmento_ids": ["E04-S039"], "justificacion": "Cantidad y conveniencia, además del precio."},
+
+    {"parrafo_id": "E04-P077", "estado": "CODIFICADO", "segmento_ids": ["E04-S040"], "justificacion": "Corrección de sustitución supuesta."},
+
+    {"parrafo_id": "E04-P079", "estado": "CODIFICADO", "segmento_ids": ["E04-S041"], "justificacion": "Confianza por coincidencias y experiencia."},
+
+    {"parrafo_id": "E04-P080", "estado": "CODIFICADO", "segmento_ids": ["E04-S042"], "justificacion": "Suficiencia de una comprobación parcial."},
+
+    {"parrafo_id": "E04-P082", "estado": "CODIFICADO", "segmento_ids": ["E04-S043"], "justificacion": "Agrupación y segundo lugar no visitado."},
+
+    {"parrafo_id": "E04-P083", "estado": "CODIFICADO", "segmento_ids": ["E04-S044"], "justificacion": "Tiempo de salida, atención y retorno."},
+
+    {"parrafo_id": "E04-P085", "estado": "CODIFICADO", "segmento_ids": ["E04-S045"], "justificacion": "Decisión de detener consulta y regresar."},
+
+    {"parrafo_id": "E04-P087", "estado": "CODIFICADO", "segmento_ids": ["E04-S046"], "justificacion": "Recorrido conocido y contingencia no ocurrida."},
+
+    {"parrafo_id": "E04-P089", "estado": "CODIFICADO", "segmento_ids": ["E04-S047"], "justificacion": "Límite de inferencias sobre barrio y preferencias."},
+
+    {"parrafo_id": "E04-P090", "estado": "CODIFICADO", "segmento_ids": ["E04-S048"], "justificacion": "Mostrador como referencia para reponer."},
+
+    {"parrafo_id": "E04-P092", "estado": "CODIFICADO", "segmento_ids": ["E04-S049"], "justificacion": "Control y comunicación al retornar."},
+
+    {"parrafo_id": "E04-P093", "estado": "CODIFICADO", "segmento_ids": ["E04-S050"], "justificacion": "Pendiente documentado sin disponibilidad comercial."},
+
+    {"parrafo_id": "E04-P095", "estado": "CODIFICADO", "segmento_ids": ["E04-S051"], "justificacion": "Separación y orden de uso de rollos."},
+
+    {"parrafo_id": "E04-P096", "estado": "CODIFICADO", "segmento_ids": ["E04-S052"], "justificacion": "Conservación de muestra y acomodo existente."},
+
+    {"parrafo_id": "E04-P098", "estado": "CODIFICADO", "segmento_ids": ["E04-S053"], "justificacion": "Cierre de reposición distinto del cierre de compra."},
+
+    {"parrafo_id": "E04-P100", "estado": "CODIFICADO", "segmento_ids": ["E04-S054"], "justificacion": "Recorte separado y apertura del nuevo."},
+
+    {"parrafo_id": "E04-P101", "estado": "CODIFICADO", "segmento_ids": ["E04-S055"], "justificacion": "Primer corte como comprobación y cierre."},
+
+    {"parrafo_id": "E04-P103", "estado": "CODIFICADO", "segmento_ids": ["E04-S056"], "justificacion": "Ausencia de retorno y resultado desconocido."},
+
+    {"parrafo_id": "E04-P105", "estado": "CODIFICADO", "segmento_ids": ["E04-S057"], "justificacion": "Consulta abierta sin expectativa atribuida al cliente."},
+
+    {"parrafo_id": "E04-P107", "estado": "CODIFICADO", "segmento_ids": ["E04-S058"], "justificacion": "Nombre y alcance de primera fase."},
+
+    {"parrafo_id": "E04-P108", "estado": "CODIFICADO", "segmento_ids": ["E04-S059"], "justificacion": "Nombre y alcance de segunda fase."},
+
+    {"parrafo_id": "E04-P109", "estado": "CODIFICADO", "segmento_ids": ["E04-S060"], "justificacion": "Nombre y alcance de tercera fase."},
+
+    {"parrafo_id": "E04-P110", "estado": "CODIFICADO", "segmento_ids": ["E04-S061"], "justificacion": "Formulación inicial de última fase."},
+
+    {"parrafo_id": "E04-P112", "estado": "CODIFICADO", "segmento_ids": ["E04-S062"], "justificacion": "Renombra cierre para incluir primer despacho."},
+
+    {"parrafo_id": "E04-P114", "estado": "CODIFICADO", "segmento_ids": ["E04-S063"], "justificacion": "Superposición de actividades y lista progresiva."},
+
+    {"parrafo_id": "E04-P116", "estado": "CODIFICADO", "segmento_ids": ["E04-S064"], "justificacion": "Petición previa sin función detonante de reposición."},
+
+    {"parrafo_id": "E04-P118", "estado": "CODIFICADO", "segmento_ids": ["E04-S065"], "justificacion": "Variaciones de muestras y reposición."},
+
+    {"parrafo_id": "E04-P119", "estado": "CODIFICADO", "segmento_ids": ["E04-S066"], "justificacion": "Alternancia en compras y coordinación."},
+
+    {"parrafo_id": "E04-P121", "estado": "CODIFICADO", "segmento_ids": ["E04-S067"], "justificacion": "Opciones de consulta o aplazamiento ante dudas."},
+
+    {"parrafo_id": "E04-P122", "estado": "CODIFICADO", "segmento_ids": ["E04-S068"], "justificacion": "Alternativas generales ausentes del episodio."},
+
+    {"parrafo_id": "E04-P124", "estado": "CODIFICADO", "segmento_ids": ["E04-S069"], "justificacion": "Información necesaria para decidir la reposición."},
+
+    {"parrafo_id": "E04-P125", "estado": "CODIFICADO", "segmento_ids": ["E04-S070"], "justificacion": "Observación compartida y medición de existencias."},
+
+    {"parrafo_id": "E04-P127", "estado": "CODIFICADO", "segmento_ids": ["E04-S071"], "justificacion": "Distribución de fuentes utilizadas."},
+
+    {"parrafo_id": "E04-P128", "estado": "CODIFICADO", "segmento_ids": ["E04-S072"], "justificacion": "Información distribuida suficiente en esta ocasión."},
+
+    {"parrafo_id": "E04-P130", "estado": "CODIFICADO", "segmento_ids": ["E04-S073"], "justificacion": "Comprobación frente a denominaciones ambiguas."},
+
+    {"parrafo_id": "E04-P131", "estado": "CODIFICADO", "segmento_ids": ["E04-S074"], "justificacion": "Diferente uso de memoria y precisión."},
+
+    {"parrafo_id": "E04-P133", "estado": "CODIFICADO", "segmento_ids": ["E04-S075"], "justificacion": "Alcance desigual de información del proveedor."},
+
+    {"parrafo_id": "E04-P134", "estado": "CODIFICADO", "segmento_ids": ["E04-S076"], "justificacion": "Observación táctil sin adecuación comprobada."},
+
+    {"parrafo_id": "E04-P136", "estado": "CODIFICADO", "segmento_ids": ["E04-S077"], "justificacion": "Condiciones hipotéticas de información insuficiente."},
+
+    {"parrafo_id": "E04-P137", "estado": "CODIFICADO", "segmento_ids": ["E04-S078"], "justificacion": "Niega ocurrencia de las fallas hipotéticas."},
+
+    {"parrafo_id": "E04-P139", "estado": "CODIFICADO", "segmento_ids": ["E04-S079"], "justificacion": "Suficiencia actual y conocimiento de uso deseado."},
+
+    {"parrafo_id": "E04-P140", "estado": "CODIFICADO", "segmento_ids": ["E04-S080"], "justificacion": "Comparación deseada antes de comprar mucho."},
+
+    {"parrafo_id": "E04-P142", "estado": "CODIFICADO", "segmento_ids": ["E04-S081"], "justificacion": "Comportamientos y contexto de prueba deseados."},
+
+    {"parrafo_id": "E04-P143", "estado": "CODIFICADO", "segmento_ids": ["E04-S082"], "justificacion": "Desconocimiento explícito de comportamiento posterior."},
+
+    {"parrafo_id": "E04-P145", "estado": "CODIFICADO", "segmento_ids": ["E04-S083"], "justificacion": "Decisiones que permitiría el conocimiento deseado."},
+
+    {"parrafo_id": "E04-P146", "estado": "CODIFICADO", "segmento_ids": ["E04-S084"], "justificacion": "Límite para anticipar ventas futuras."},
+
+    {"parrafo_id": "E04-P148", "estado": "CODIFICADO", "segmento_ids": ["E04-S085"], "justificacion": "Cuaderno imaginado y comparación por ancho."},
+
+    {"parrafo_id": "E04-P149", "estado": "CODIFICADO", "segmento_ids": ["E04-S086"], "justificacion": "Entrada por conocido y pertinencia de consulta."},
+
+    {"parrafo_id": "E04-P151", "estado": "CODIFICADO", "segmento_ids": ["E04-S087"], "justificacion": "Identidad, procedencia y acciones documentadas deseadas."},
+
+    {"parrafo_id": "E04-P152", "estado": "CODIFICADO", "segmento_ids": ["E04-S088"], "justificacion": "Utilidad condicionada de foto y preferencia táctil."},
+
+    {"parrafo_id": "E04-P154", "estado": "CODIFICADO", "segmento_ids": ["E04-S089"], "justificacion": "Fuentes posibles y experiencia ajena distinguida."},
+
+    {"parrafo_id": "E04-P155", "estado": "CODIFICADO", "segmento_ids": ["E04-S090"], "justificacion": "Ideal previo a compra y fuentes sin resolver."},
+
+    {"parrafo_id": "E04-P157", "estado": "CODIFICADO", "segmento_ids": ["E04-S091"], "justificacion": "Alcance inicial reducido al par pertinente."},
+
+    {"parrafo_id": "E04-P159", "estado": "CODIFICADO", "segmento_ids": ["E04-S092"], "justificacion": "Identificación de lugar y procedencia sin mapa."},
+
+    {"parrafo_id": "E04-P160", "estado": "CODIFICADO", "segmento_ids": ["E04-S093"], "justificacion": "Orientación eventual ante lugar nuevo."},
+
+    {"parrafo_id": "E04-P162", "estado": "CODIFICADO", "segmento_ids": ["E04-S094"], "justificacion": "Prioridad de comparación con evidencia de uso."},
+
+    {"parrafo_id": "E04-P164", "estado": "CODIFICADO", "segmento_ids": ["E04-S095"], "justificacion": "Señal de ayuda basada en justificar una decisión."},
+
+    {"parrafo_id": "E04-P165", "estado": "CODIFICADO", "segmento_ids": ["E04-S096"], "justificacion": "Contraste posterior y límite al trabajo de registro."},
+
+    {"parrafo_id": "E04-P167", "estado": "CODIFICADO", "segmento_ids": ["E04-S097"], "justificacion": "Explicación situada sin recomendación universal."},
+
+    {"parrafo_id": "E04-P168", "estado": "CODIFICADO", "segmento_ids": ["E04-S098"], "justificacion": "Comparación física y conocimiento del comprador."},
+
+    {"parrafo_id": "E04-P170", "estado": "CODIFICADO", "segmento_ids": ["E04-S099"], "justificacion": "Recursos actuales que conservaría."},
+
+    {"parrafo_id": "E04-P171", "estado": "CODIFICADO", "segmento_ids": ["E04-S100"], "justificacion": "Valor de escuchar detalles traídos por clientes."},
+
+    {"parrafo_id": "E04-P173", "estado": "CODIFICADO", "segmento_ids": ["E04-S101"], "justificacion": "Ayuda hipotética sin compra alternativa asegurada."},
+
+    {"parrafo_id": "E04-P174", "estado": "CODIFICADO", "segmento_ids": ["E04-S102"], "justificacion": "Reposición conocida se mantendría con el ideal."},
+
+    {"parrafo_id": "E04-P176", "estado": "CODIFICADO", "segmento_ids": ["E04-S103"], "justificacion": "Corrección de pendiente interpretado como descarte."},
+
+    {"parrafo_id": "E04-P177", "estado": "CODIFICADO", "segmento_ids": ["E04-S104"], "justificacion": "Límite de metáfora y referencia guardada."},
+
+    {"parrafo_id": "E04-P179", "estado": "CONTEXTO", "segmento_ids": [], "justificacion": "Asentimiento aislado a E04-P178; la interpretación se sostiene en E04-P176 y E04-P177, no en este asentimiento."},
+
+    {"parrafo_id": "E04-P181", "estado": "CODIFICADO", "segmento_ids": ["E04-S105"], "justificacion": "Pendiente compartido sin seguimiento sistemático acordado."},
+
+    {"parrafo_id": "E04-P183", "estado": "CODIFICADO", "segmento_ids": ["E04-S106"], "justificacion": "Confirma sustantivamente corrección del origen de compra."},
+
+    {"parrafo_id": "E04-P185", "estado": "CODIFICADO", "segmento_ids": ["E04-S107"], "justificacion": "Valor de artículos de poco movimiento."},
+
+    {"parrafo_id": "E04-P186", "estado": "CODIFICADO", "segmento_ids": ["E04-S108"], "justificacion": "Separa matiz general del episodio reconstruido."},
+
+    {"parrafo_id": "E04-P188", "estado": "CODIFICADO", "segmento_ids": ["E04-S109"], "justificacion": "Espacio y alternativas según tipo de artículo."},
+
+    {"parrafo_id": "E04-P189", "estado": "CODIFICADO", "segmento_ids": ["E04-S110"], "justificacion": "Ausencia declarada de regla única de surtido."},
+
+    {"parrafo_id": "E04-P191", "estado": "CODIFICADO", "segmento_ids": ["E04-S111"], "justificacion": "Valoración suficiente de reposición y dato adicional."},
+
+    {"parrafo_id": "E04-P193", "estado": "ADMINISTRATIVO", "segmento_ids": [], "justificacion": "Agradecimiento de cierre."}
+
+  ],
+
+  "memos": [
+
+    {
+
+      "id": "E04-M001",
+
+      "titulo": "Una reposición con consulta adicional",
+
+      "interpretacion": "La revisión del remanente activa la compra; la suavidad abre una consulta separada sin encargo. Mantener ambas líneas evita convertir todo el recorrido en búsqueda para una persona. La compra resuelve la reposición y conserva una posibilidad.",
+
+      "evidencia_ids": ["E04-S005", "E04-S007", "E04-S009", "E04-S024", "E04-S033", "E04-S064", "E04-S106", "E04-S111"],
+
+      "lectura_alternativa": "Leer la petición inicial como detonante de sustitución. La participante corrige esa lectura.",
+
+      "limites": "No se conoce si después adquirió la alternativa ni si el cliente regresó."
+
+    },
+
+    {
+
+      "id": "E04-M002",
+
+      "titulo": "Poder local y alcance de las metáforas",
+
+      "interpretacion": "La participante decide qué incorporar dentro de límites materiales; la otra persona sostiene ventas y aporta observaciones con autonomía; el proveedor controla acceso a lo que ofrece; clientes hacen visibles usos. Muestrario, relevo, bisagra y colador expresan relaciones, no perfiles definitivos. Colador se corrige: hay pendientes, no solo descarte.",
+
+      "evidencia_ids": ["E04-S010", "E04-S012", "E04-S016", "E04-S017", "E04-S018", "E04-S019", "E04-S020", "E04-S021", "E04-S022", "E04-S023", "E04-S103", "E04-S104", "E04-S105"],
+
+      "lectura_alternativa": "Suponer jefatura exclusiva, subordinación por cada venta, decisión del proveedor o mandato de clientes.",
+
+      "limites": "Solo se entrevista a una persona; no se infieren propiedad, cargos formales ni posiciones ante políticas ausentes. Los actores mencionados no constituyen otras perspectivas entrevistadas."
+
+    },
+
+    {
+
+      "id": "E04-M003",
+
+      "titulo": "Información distribuida que sí basta",
+
+      "interpretacion": "Rollo, notas, referencia, muestra, observación y oferta del día cubren esta decisión. Memoria activa revisión; identificadores y medición precisan pedidos. La dispersión no implica una necesidad de centralización.",
+
+      "evidencia_ids": ["E04-S003", "E04-S028", "E04-S029", "E04-S041", "E04-S042", "E04-S069", "E04-S070", "E04-S071", "E04-S072", "E04-S073", "E04-S074", "E04-S078", "E04-S079"],
+
+      "lectura_alternativa": "Convertir falta de una sola hoja o ausencia de inventario diario en déficit demostrado.",
+
+      "limites": "Suficiencia declarada para este artículo y esta ocasión; no auditoría del inventario ni comprobación integral de calidad."
+
+    },
+
+    {
+
+      "id": "E04-M004",
+
+      "titulo": "Tacto, desempeño y resultado no son equivalentes",
+
+      "interpretacion": "La participante observa suavidad, pero no conoce adecuación en la prenda ni resultado del corte vendido. Las propiedades mencionadas en el ideal son preguntas deseadas, no defectos comprobados. Experiencia ajena debe identificarse como tal.",
+
+      "evidencia_ids": ["E04-S036", "E04-S056", "E04-S057", "E04-S075", "E04-S076", "E04-S081", "E04-S082", "E04-S089", "E04-S090"],
+
+      "lectura_alternativa": "Tratar suavidad como garantía de idoneidad o retorno ausente como insatisfacción.",
+
+      "limites": "No hay pruebas de confección, lavado o uso documentadas para la alternativa; sus fuentes siguen abiertas."
+
+    },
+
+    {
+
+      "id": "E04-M005",
+
+      "titulo": "Cantidad y conveniencia limitan la incorporación",
+
+      "interpretacion": "La presentación requiere más cantidad que la deseada para explorar. El precio es necesario, pero no causa única del rechazo. Más información podría ayudar sin resolver cantidad, convivencia del surtido ni ventas futuras.",
+
+      "evidencia_ids": ["E04-S037", "E04-S039", "E04-S040", "E04-S083", "E04-S084", "E04-S101", "E04-S102"],
+
+      "lectura_alternativa": "Atribuir el rechazo a precio alto o asumir compra automática con información adicional.",
+
+      "limites": "No se informan cantidades, precios ni presupuesto numéricos; no se proponen umbrales."
+
+    },
+
+    {
+
+      "id": "E04-M006",
+
+      "titulo": "Cierre y fases desde la actividad",
+
+      "interpretacion": "Se conserva ver qué hace falta, armar la vuelta, escoger allá y el nombre final acomodarlo y empezar a usarlo. El nombre anterior dejarlo listo para vender se revisa para incluir primer corte. La lista es progresiva y las fases se superponen.",
+
+      "evidencia_ids": ["E04-S053", "E04-S054", "E04-S055", "E04-S058", "E04-S059", "E04-S060", "E04-S061", "E04-S062", "E04-S063"],
+
+      "lectura_alternativa": "Cerrar al pago o acomodo, exigir venta total o imponer una secuencia rígida.",
+
+      "limites": "La generalización a otros artículos se limita por variaciones declaradas; usar aquí significa despachar, no coser."
+
+    },
+
+    {
+
+      "id": "E04-M007",
+
+      "titulo": "Lo espacial tiene una función concreta y acotada",
+
+      "interpretacion": "Se agrupa compra por sitio y se reserva tiempo de ida, atención y retorno. Cercanía permite, pero no obliga a otra visita. Saber llegar resuelve la orientación actual; un sitio nuevo abriría otra necesidad. El barrio no permite inferir preferencias de elástico.",
+
+      "evidencia_ids": ["E04-S043", "E04-S044", "E04-S045", "E04-S046", "E04-S047", "E04-S048", "E04-S092", "E04-S093"],
+
+      "lectura_alternativa": "Deducir necesidad de mapa o búsqueda exhaustiva por tratarse de información sobre lugares.",
+
+      "limites": "Sin direcciones, tiempos medidos ni observación de trayectos; no se niega utilidad espacial en otras situaciones."
+
+    },
+
+    {
+
+      "id": "E04-M008",
+
+      "titulo": "Ideal acotado y criterio de ayuda",
+
+      "interpretacion": "La prioridad es contrastar conocido y alternativa con evidencia de uso antes de comprar mucho. Cuaderno de muestras es su imagen de organización, no especificación tecnológica. Se inicia con el par pertinente. Ayudar implica justificar probar o dejar y contrastar después, conservando tacto, conversación, revisión y escucha.",
+
+      "evidencia_ids": ["E04-S079", "E04-S080", "E04-S085", "E04-S086", "E04-S087", "E04-S088", "E04-S090", "E04-S091", "E04-S094", "E04-S095", "E04-S096", "E04-S097", "E04-S098", "E04-S099", "E04-S100"],
+
+      "lectura_alternativa": "Transformar el formato imaginado en aplicación, catálogo completo o recomendación universal.",
+
+      "limites": "Origen de todas las pruebas sin resolver; no hay criterios numéricos ni diseño validado. E04-P155 no permite precisar si ya existe algún registro parcial comparable."
+
+    },
+
+    {
+
+      "id": "E04-M009",
+
+      "titulo": "Variaciones y contrafácticos no añaden sucesos",
+
+      "interpretacion": "La otra persona también puede comprar; muestra no siempre hace falta; algunas existencias no se reponen al agotarse. Consulta al negocio, visita alternativa y aplazamiento se describen como posibilidades o prácticas generales, no como eventos de esta compra. Poco movimiento tampoco basta para excluir un artículo.",
+
+      "evidencia_ids": ["E04-S030", "E04-S046", "E04-S065", "E04-S066", "E04-S067", "E04-S068", "E04-S077", "E04-S107", "E04-S108", "E04-S109", "E04-S110"],
+
+      "lectura_alternativa": "Inventar una segunda visita, un faltante o convertir rotación en regla universal.",
+
+      "limites": "No se reconstruyen episodios alternativos ni se infiere un método cuantitativo de surtido."
+
+    },
+
+    {
+
+      "id": "E04-M010",
+
+      "titulo": "Elicitación y alcance de afirmaciones mixtas",
+
+      "interpretacion": "La clasificación sigue la pregunta y el turno, incluidas continuaciones. El ejercicio de metáforas es abierto, no ideal. Se marca opción sugerida cuando se propone cambio, precio, cantidad establecida, cercanía, cierre, alcance total o recomendación; recapitulación cuando se confirma o corrige una lectura. E04-P112 ajusta el nombre mediante contraste del cierre. E04-P067 responde al componente abierto de una recapitulación. E04-P157 y E04-P167 siguen en el ideal, pero se registra la sugerencia inmediata. Los estatus múltiples separan hecho, práctica, interpretación, deseo y condición según la nota de cada segmento.",
+
+      "evidencia_ids": ["E04-S012", "E04-S015", "E04-S028", "E04-S029", "E04-S030", "E04-S034", "E04-S039", "E04-S040", "E04-S045", "E04-S053", "E04-S062", "E04-S063", "E04-S079", "E04-S091", "E04-S097", "E04-S101", "E04-S103", "E04-S106"],
+
+      "lectura_alternativa": "Tratar respuestas sugeridas como necesidades espontáneas o todo condicional como un hecho ocurrido. También sería inadecuado llamar ideal al ejercicio de metáforas solo porque solicita una comparación.",
+
+      "limites": "Las categorías describen producción del relato, no sinceridad ni verificación externa. E04-P179 no aporta evidencia independiente. La clasificación de preguntas mixtas es una decisión analítica provisional."
+
+    }
+
+  ],
+
+  "incidencias": [
+
+    {
+
+      "id": "E04-I001",
+
+      "descripcion": "Fecha de entrevista y guion declarado no informados; identificación fiable del modelo y parámetros no disponible para este registro.",
+
+      "severidad": "BAJA",
+
+      "estado": "ABIERTA",
+
+      "resolucion": "Se conservan ausencias y valores null; no se completan por conjetura."
+
+    },
+
+    {
+
+      "id": "E04-I002",
+
+      "descripcion": "El hash del DOCX procede del paquete; no se dispone aquí del archivo original para cotejarlo.",
+
+      "severidad": "MEDIA",
+
+      "estado": "ABIERTA",
+
+      "resolucion": "Se transcribe el sha256_docx suministrado, sin afirmar verificación del DOCX."
+
+    },
+
+    {
+
+      "id": "E04-I003",
+
+      "descripcion": "Se desconocen resultado del corte comprado, adecuación de la alternativa y retorno posterior del cliente.",
+
+      "severidad": "MEDIA",
+
+      "estado": "ABIERTA",
+
+      "resolucion": "Se registran límites explícitos; no se infiere insatisfacción, demanda general ni encargo vigente."
+
+    },
+
+    {
+
+      "id": "E04-I004",
+
+      "descripcion": "No están resueltos responsables ni disponibilidad de las pruebas imaginadas; tampoco el alcance de un eventual registro parcial actual.",
+
+      "severidad": "MEDIA",
+
+      "estado": "ABIERTA",
+
+      "resolucion": "Se mantiene como deseo local y fuente pendiente; no se inventan ensayos, proveedores de evidencia ni un cuaderno operativo."
+
+    },
+
+    {
+
+      "id": "E04-I005",
+
+      "descripcion": "La revisión humana independiente está pendiente.",
+
+      "severidad": "BAJA",
+
+      "estado": "ABIERTA",
+
+      "resolucion": "Las comprobaciones internas de citas y referencias no equivalen a revisión independiente ni acuerdo entre observadores."
+
+    }
+
+  ]
+
+}

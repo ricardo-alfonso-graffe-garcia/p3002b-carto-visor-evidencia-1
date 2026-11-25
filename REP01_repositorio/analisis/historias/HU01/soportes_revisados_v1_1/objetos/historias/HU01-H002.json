@@ -1,0 +1,104 @@
+{
+  "id": "HU01-H002",
+  "titulo": "Devolver una revisión que pueda explicarse",
+  "formulacion": "Como persona que devuelve una relación revisada, quiero reconocer la copia consultada y comunicar qué cambió, con qué respaldo y con qué límites, para responder la consulta sobre la calle sin ampliar lo comprobado.",
+  "actores": [
+    "ACT01-A001"
+  ],
+  "perfil": "HU01-P001",
+  "necesidades": [
+    "N01-N003"
+  ],
+  "entrevistas": [
+    "E01"
+  ],
+  "tipo": "ACTUAL_A_PRESERVAR",
+  "contexto": "La copia se releyó y se explicó la diferencia; identificar versiones distintas es práctica general declarada y no un incidente demostrado de este episodio.",
+  "objetivo": "reconocer la copia consultada y comunicar qué cambió, con qué respaldo y con qué límites",
+  "beneficio_o_decision": "responder la consulta sobre la calle sin ampliar lo comprobado",
+  "restricciones": [
+    "No es actualizar automáticamente todas las bases ni enviar cada intercambio interno."
+  ],
+  "preservar": [
+    "Releer conjunto",
+    "Explicación breve pertinente",
+    "Conservar condiciones que cambian la lectura"
+  ],
+  "evidencias": [
+    "N01-V0009",
+    "N01-V0019",
+    "N01-V0020",
+    "N01-V0021",
+    "N01-V0022",
+    "N01-V0023",
+    "N01-V0024",
+    "N01-V0025",
+    "N01-V0026",
+    "N01-V0027"
+  ],
+  "limites": "No se dispone de copias originales ni prueba de uso en visitas.. Las formulaciones son derivaciones analíticas, no citas ni compromisos de participantes. La pertinencia de un producto sigue por validar.",
+  "criterios": [
+    {
+      "id": "HU01-K003",
+      "dado": "se recibe una pregunta sobre una copia concreta",
+      "cuando": "se identifica la revisión consultada y su respaldo",
+      "entonces": "se explica el cambio de calle y lo no comprobado sin atribuir uso posterior en visitas",
+      "origen": "ADAPTADO_DE_CRITERIO_N01",
+      "criterios_n01": [
+        "N01-K003"
+      ],
+      "estado": "PROPUESTO_NO_EJECUTADO",
+      "limites": "Adaptación analítica de N01-K003. Observable N01 de origen PROPUESTA_ANALITICA; Dado/Cuando/Entonces y el cotejo son propuestas del análisis, no aceptación recabada. No es actualizar automáticamente todas las bases ni enviar cada intercambio interno. Soportes originales no aportados; no se ejecutó esta comprobación."
+    }
+  ],
+  "prioridad": {
+    "nivel": "ALTA",
+    "ambito": "E01: actividad actual: Devolver una revisión que pueda explicarse",
+    "origen": "ANALISIS_CONDICIONAL",
+    "razon": "Alta solo al devolver o atender una pregunta sobre la copia. No crea obligación de propagar cambios a otras bases. Importancia expresada: No hay priorización comparable explícita de esta pieza por la persona. El nivel asignado es del análisis.",
+    "limites": "Orden local parcial y condicional al momento señalado. No ranking urbano, cartera implementable, aceptación ADIP ni factibilidad comprobada."
+  },
+  "perfil_metadatos": "HU01-M002",
+  "metaalgoritmo": [
+    {
+      "id": "HU01-OP005",
+      "nombre": "Ubicar consulta",
+      "entrada": "Pregunta y copia concreta",
+      "operacion": "Propuesta: Reconocer la revisión vista sin simular confusión de versiones ocurrida.",
+      "salida": "Documento al que responde",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP006",
+      "nombre": "Comprobar respaldo",
+      "entrada": "Copia y aclaración guardada",
+      "operacion": "Propuesta: Releer qué se cambió y qué no se observó.",
+      "salida": "Alcance de revisión",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP007",
+      "nombre": "Preparar explicación",
+      "entrada": "Cambios y límites pertinentes",
+      "operacion": "Propuesta: Mostrar diferencia de calle y procedencia breve sin toda conversación interna.",
+      "salida": "Respuesta comprensible",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP008",
+      "nombre": "Confirmar y responder",
+      "entrada": "Explicación y pregunta inicial",
+      "operacion": "Propuesta: Comprobar que responde la duda y decidir si hace falta aclaración nueva.",
+      "salida": "Consulta atendible con límites",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    }
+  ]
+}

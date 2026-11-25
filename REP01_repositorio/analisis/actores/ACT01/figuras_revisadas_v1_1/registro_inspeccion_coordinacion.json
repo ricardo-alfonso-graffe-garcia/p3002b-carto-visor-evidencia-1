@@ -1,0 +1,10 @@
+{
+  "version": "1.1",
+  "revision": "ASISTIDA_POR_LLM",
+  "revision_humana_independiente": "PENDIENTE",
+  "resultado": "INSPECCIONADAS",
+  "figuras_originales_vistas": 18,
+  "figuras_revisadas_vistas": 6,
+  "detalle": "Se releyeron ficha E03 y cinco redes regeneradas. Las doce restantes se reutilizan tras lectura visual de sus PNG originales sin cambios. E03 ya no superpone encabezados; verde/azul distinguen fuente de acción. Redes extensas requieren SVG ampliado, no son todavía figuras de diez páginas.",
+  "cotejo_svg": "46 actores y 44 relaciones: ids y extremos coinciden con JSON; hipótesis aparte."
+}

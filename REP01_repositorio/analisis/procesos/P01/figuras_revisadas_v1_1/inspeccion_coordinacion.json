@@ -1,0 +1,28 @@
+{
+  "responsable": "Coordinación asistida por LLM",
+  "metodo": "Lectura de las cinco exportaciones PNG generadas de los DOT revisados mediante dot -Tpng; originales PNG son intermedios, SVG es la entrega.",
+  "resultado": "INSPECCIONADAS",
+  "limite": "No acredita revisión humana independiente ni veracidad externa; SVG de soporte ampliables, no maquetación final del reporte.",
+  "casos": [
+    {
+      "entrevista": "E01",
+      "observacion": "Espera explícita junto a otros registros; pregunta posterior y cierre colocados debajo de devolución. No se observa texto cortado."
+    },
+    {
+      "entrevista": "E02",
+      "observacion": "Revisión durante campo y retornos visibles; se elimina simultaneidad específica no demostrada. Devolución parcial queda lateral sin fecha uniforme. Hay cruces de retornos, con ids y extremos consultables en tabla."
+    },
+    {
+      "entrevista": "E03",
+      "observacion": "Ajuste de puerta cerca de recepción; aprendizaje entre sesiones separado de mediación cultural. Etiquetas completas y continuidad sin asistencia obligatoria."
+    },
+    {
+      "entrevista": "E04",
+      "observacion": "Relevo contextual junto a proveedor; comparación de conocido y no incorporación alternativa distinguidas. Recorte y primer despacho permanecen antes del cierre."
+    },
+    {
+      "entrevista": "E05",
+      "observacion": "Reconfirmar y salir separados; preparación material no queda ordenada frente a reconfirmar. Exploración, sección y lectura alineadas sin nuevas precedencias; cierre tras conversar."
+    }
+  ]
+}

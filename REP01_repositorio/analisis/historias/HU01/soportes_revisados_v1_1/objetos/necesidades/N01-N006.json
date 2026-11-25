@@ -1,0 +1,238 @@
+{
+  "id": "N01-N006",
+  "titulo": "Unidad y relaciones que hacen comparables las salidas",
+  "enunciado": "La investigadora universitaria necesita conocer qué actividades integra cada salida, desde dónde empieza, para qué se compra y cómo importan tiempo y posición relativa, para elegir qué unidades puede comparar sin equiparar tiempos de recorridos distintos, en el contexto de investigación universitaria sobre salidas de compra de alimentos.",
+  "actores": [
+    "ACT01-A005"
+  ],
+  "entrevistas": [
+    "E02"
+  ],
+  "contexto": "Desde revisar conversaciones exploratorias y delimitar una pregunta con una colega hasta presentar una lectura de casos y ajustar el texto.",
+  "decision": "Elegir qué unidades puede comparar sin equiparar tiempos de recorridos distintos",
+  "objeto_informacion": "qué actividades integra cada salida, desde dónde empieza, para qué se compra y cómo importan tiempo y posición relativa",
+  "tipo": "NECESIDAD_ACTUAL",
+  "estado_actual": "ATENDIDA_EN_EPISODIO",
+  "informacion_actual": "Notas, reconstrucción posterior, conversación, esquemas y mapa permitieron distinguir visita-compra de comprar-volver; se corrigió la comparación inicial.",
+  "faltante_o_deseada": "No se necesitó toda la semana para corregir la unidad. No todas las razones se redujeron a una categoría única.",
+  "condiciones_y_limites": "Distancia y tiempo siguen importando situadamente. Un mapa sin explicación no establece relación social o causa de elección.",
+  "soportes_mencionados": [
+    "Notas",
+    "Reconstrucción con persona",
+    "Esquemas manuales",
+    "Mapa de calles",
+    "Hoja de cálculo localizadora"
+  ],
+  "conservar": [
+    "Contraste con colega",
+    "Escuchar explicación posterior",
+    "Casos simples como contraste"
+  ],
+  "evidencias": [
+    "N01-V0044",
+    "N01-V0045",
+    "N01-V0046",
+    "N01-V0047",
+    "N01-V0048",
+    "N01-V0049",
+    "N01-V0050",
+    "N01-V0051",
+    "N01-V0052",
+    "N01-V0053",
+    "N01-V0054"
+  ],
+  "evidencia_que_limita": [
+    "N01-V0055",
+    "N01-V0056",
+    "N01-V0057",
+    "N01-V0058"
+  ],
+  "razon_sin_contraevidencia": null,
+  "contexto_elicitacion": "Reconstrucción retrospectiva del episodio y repreguntas sobre decisión y suficiencia. La atribución descansa en respuestas de participante; preguntas, metáforas y recapitulaciones no son corroboración. Los localizadores del contexto están en cada evidencia.",
+  "codigos_comunes": [
+    "C024",
+    "C025",
+    "C019",
+    "C023",
+    "C014"
+  ],
+  "hallazgos_s01": [
+    "S01-H001",
+    "S01-H003",
+    "S01-H004",
+    "S01-H011"
+  ],
+  "componentes_p01": [
+    "P01-E02-N001",
+    "P01-E02-N002",
+    "P01-E02-N005",
+    "P01-E02-N007",
+    "P01-E02-N008",
+    "P01-E02-N009"
+  ],
+  "preferencias_act01": [
+    "ACT01-PR006"
+  ],
+  "variantes_por_caso": [],
+  "vinculo_territorial": {
+    "tipo": "ESPACIAL_DIRECTO",
+    "razon": "Las relaciones entre lugares se entienden dentro de actividades, no mediante ruta más corta supuesta.",
+    "evidencias": [
+      "N01-V0044",
+      "N01-V0045"
+    ],
+    "limites": "La pertinencia del lugar no demuestra necesidad de coordenadas o de un mapa. Pocos casos por contactos, sin representatividad de zonas o ciudad; colegas y participantes internos son terceros relatados. No existe devolución completa acreditada."
+  },
+  "vinculos_sectoriales": [
+    {
+      "sector": "ACADEMICO",
+      "actividad": "Investigación universitaria sobre salidas de compra de alimentos",
+      "iniciativa": null,
+      "estatus_iniciativa": "ACTIVIDAD_RELATADA_SIN_NOMBRE_FORMAL",
+      "nexo": "RELEVANCIA_PUBLICA_POR_VALIDAR",
+      "razon": "La investigación trata relaciones urbanas de compras; su eventual aporte público requeriría definir destinatario y decisión, sin programa identificado.",
+      "evidencias": [
+        "N01-V0345",
+        "N01-V0044",
+        "N01-V0045"
+      ],
+      "limites": "No se identificó programa público que origine esta necesidad. Pocos casos por contactos, sin representatividad de zonas o ciudad; colegas y participantes internos son terceros relatados. No existe devolución completa acreditada."
+    }
+  ],
+  "verificacion": [
+    {
+      "id": "N01-K006",
+      "observable": "Puede mostrar por qué dos tiempos no son equivalentes y qué comparación acotada sí sostendría; conserva la función temporal y casos simples.",
+      "metodo": "Revisión analítica de secuencias y explicación asociada; contrastar la unidad propuesta con orígenes, propósitos y casos discrepantes. Si se aporta el material original, cotejarlo sin completar ausencias.",
+      "origen": "PROPUESTA_ANALITICA",
+      "estado": "PROPUESTA_NO_EJECUTADA",
+      "evidencias": [
+        "N01-V0044",
+        "N01-V0045",
+        "N01-V0046",
+        "N01-V0047",
+        "N01-V0048",
+        "N01-V0049",
+        "N01-V0050",
+        "N01-V0051",
+        "N01-V0052",
+        "N01-V0053",
+        "N01-V0054"
+      ],
+      "limites": "Comprobación futura; no se ejecutó ni acredita aceptación humana. No se fijan umbrales numéricos. Distancia y tiempo siguen importando situadamente. Un mapa sin explicación no establece relación social o causa de elección.",
+      "desglose_origen": {
+        "observable": "PROPUESTA_ANALITICA",
+        "operacionalizacion_metodo": "PROPUESTA_ANALITICA",
+        "aceptacion": "NO_RECABADA"
+      }
+    }
+  ],
+  "prioridad": {
+    "ambito": "E02",
+    "nivel": "ALTA",
+    "origen": "ANALISIS_CONDICIONAL",
+    "criterios": [
+      "N01-CP001",
+      "N01-CP002",
+      "N01-CP003",
+      "N01-CP004"
+    ],
+    "razon": "Define qué se está comparando; evita que una escala de tiempos o proximidad borre diferencias que cambiaron la lectura.",
+    "comparables": [
+      "N01-N007",
+      "N01-N008"
+    ],
+    "limites": "Orden parcial dentro de esta actividad. No compara importancia urbana ni factibilidad técnica; evidencia más sólida no equivale a más impacto. Comparar distingue dependencias y momentos; las necesidades no son sustitutos y se admiten empates. En ideales frente a actuales, el nivel se lee dentro de su modalidad."
+  },
+  "importancia_expresada": "No hay priorización comparable explícita de esta pieza por la persona. El nivel asignado es del análisis.",
+  "pertinencia_diseno_posterior": "PENDIENTE: revisar con usuarios y encargo; la legitimidad de la necesidad no prescribe un soporte ni su incorporación a un visor.",
+  "factibilidad": "NO_DETERMINADA",
+  "incognitas": [
+    "No se cuenta con notas originales ni toda variación temporal de cada caso."
+  ],
+  "enlaces_codigos_asignados": [
+    {
+      "codigo": "C024",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R02-S011",
+        "R02-S047",
+        "R02-S051",
+        "R02-S140"
+      ],
+      "evidencias": [
+        "N01-V0044",
+        "N01-V0046",
+        "N01-V0049"
+      ]
+    },
+    {
+      "codigo": "C025",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R02-S057"
+      ],
+      "evidencias": [
+        "N01-V0051"
+      ]
+    },
+    {
+      "codigo": "C019",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R02-S045",
+        "R02-S049",
+        "R02-S058",
+        "R02-S059",
+        "R02-S063",
+        "R02-S124"
+      ],
+      "evidencias": [
+        "N01-V0045",
+        "N01-V0047",
+        "N01-V0052",
+        "N01-V0053",
+        "N01-V0054",
+        "N01-V0058"
+      ]
+    },
+    {
+      "codigo": "C023",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R02-S028",
+        "R02-S050",
+        "R02-S053",
+        "R02-S124"
+      ],
+      "evidencias": [
+        "N01-V0048",
+        "N01-V0056",
+        "N01-V0057",
+        "N01-V0058"
+      ]
+    },
+    {
+      "codigo": "C014",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R02-S051",
+        "R02-S052",
+        "R02-S053"
+      ],
+      "evidencias": [
+        "N01-V0049",
+        "N01-V0050",
+        "N01-V0057"
+      ]
+    }
+  ],
+  "codigos_contextuales": [
+    {
+      "codigo": "C063",
+      "tipo": "RELACION_CONCEPTUAL_DEL_ANALISIS",
+      "justificacion": "Revisar desde dónde y para qué se compara se relaciona con orientar la pregunta; C063 no figura asignado en los segmentos citados.",
+      "limites": "No es una ocurrencia codificada en estos pasajes ni una revisión de la codificación fuente."
+    }
+  ]
+}

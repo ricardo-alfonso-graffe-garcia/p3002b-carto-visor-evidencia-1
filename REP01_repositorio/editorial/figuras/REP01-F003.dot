@@ -1,0 +1,21 @@
+digraph G {
+graph [bgcolor="white", pad="0.25", nodesep="0.30", ranksep="0.42", fontname="DejaVu Sans", fontsize=16];
+node [shape=box, style="rounded,filled", fillcolor="#edf4f6", color="#507084", penwidth=1.3, fontname="DejaVu Sans", fontsize=15, margin="0.18,0.12"];
+edge [color="#435a69", fontname="DejaVu Sans", fontsize=12, arrowsize=0.8];
+
+rankdir=TB;
+a [label="Recepción y control inicial\nOriginal, permiso y procedencia"];
+b [label="Control semántico y alineación\nEntidad, unidad y CRS si procede"];
+c [label="Agregación optativa\nPartición, pertenencia y denominador"];
+d [label="Construcción versionada\nFuentes, relaciones y derivados"];
+e [label="Revisión humana propuesta\nSuficiencia, respaldo y límites"];
+f [label="Productos candidatos\nExpediente · Cuaderno · Memoria"];
+g [label="Revisión de incidencia\nConservar fuente y motivo",fillcolor="#fff4dd"];
+a -> b;
+b -> c [label="si la pregunta lo requiere"];
+b -> d [label="por caso", color="#246c80"];
+c -> d;
+d -> e -> f;
+e -> g [style=dashed,label="revisar contrato o insumo"];
+g -> b [style=dashed,label="nueva versión propuesta"];
+}

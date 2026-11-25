@@ -1,0 +1,2949 @@
+{
+  "metadatos": {
+    "tarea": "D01",
+    "resultado_version": "1.1",
+    "corpus_version": "1.0",
+    "sintesis_version": "1.1",
+    "procesos_version": "1.1",
+    "estado": "CONTRASTE_REVISADO_EN_COORDINACION",
+    "tipo_revision": "ASISTIDA_POR_LLM",
+    "revision_humana_independiente": "PENDIENTE",
+    "modelo": null,
+    "parametros": null,
+    "fuente_modelo": "Instrucciones del entorno de esta ejecución: agente Codex basado en GPT-6. No se expusieron parámetros ni una versión de despliegue verificable. La etiqueta declarada en el original se conserva en ese archivo; modelo técnico verificable y parámetros no constan. Revisión de coordinación asistida por LLM, no humana independiente."
+  },
+  "fuentes": [
+    {
+      "id": "D01-F001",
+      "titulo": "Carto-Visor. Ficha ejecutiva de reto, Bloque Integrador 2026",
+      "emisor": "ADIP / síntesis ejecutiva aportada para el Bloque Integrador",
+      "tipo": "ENCARGO_CLIENTE",
+      "url": null,
+      "archivo_aportado": "fuentes_aportadas/ficha_cliente.pdf",
+      "fecha_publicacion": null,
+      "fecha_actualizacion": null,
+      "fecha_consulta": "2026-11-25",
+      "vigencia": "NO_APLICA",
+      "fundamento_vigencia": "Perspectiva y alcance de un encargo; no disposición normativa. El pie de p. 3 declara una síntesis de una ficha interna no aportada. El año 2026 no constituye una fecha de emisión.",
+      "lectura_realizada": "COMPLETA",
+      "localizadores_leidos": [
+        "PDF pp. 1–3, texto y composición visual; secciones 01–11; cotejo de ficha_cliente_extraccion.txt"
+      ],
+      "ambito": "Prototipo de diez semanas y planteamiento del cliente para CDMX.",
+      "limites_aplicabilidad": "No acredita disponibilidad de capas, periodicidad, ausencia de plataformas, prioridad, cumplimiento o consentimiento de los casos. Se omiten nombres y datos de contacto.",
+      "referencia_bibliografica": "ADIP / síntesis ejecutiva aportada para el Bloque Integrador. Carto-Visor. Ficha ejecutiva de reto, Bloque Integrador 2026. Publicación: sin fecha identificada; actualización: no identificada. fuentes_aportadas/ficha_cliente.pdf. Consulta: 2026-11-25. Localizadores: PDF pp. 1–3, texto y composición visual; secciones 01–11; cotejo de ficha_cliente_extraccion.txt.",
+      "independencia_y_dependencias": "Fuente interesada; su ficha interna antecedente no está disponible. No es corroboración independiente de su propio diagnóstico."
+    },
+    {
+      "id": "D01-F002",
+      "titulo": "Acuerdo por el que se emite la Política de Gestión de Datos de la Ciudad de México, GOCDMX 467",
+      "emisor": "Agencia Digital de Innovación Pública",
+      "tipo": "NORMA",
+      "url": "https://adip.cdmx.gob.mx/storage/app/uploads/public/6a9/89e/098/6a989e098bf82257765831.pdf",
+      "archivo_aportado": null,
+      "fecha_publicacion": "2020-11-05",
+      "fecha_actualizacion": null,
+      "fecha_consulta": "2026-11-25",
+      "vigencia": "NO_DETERMINADA",
+      "fundamento_vigencia": "Se comprobó la publicación oficial en Gaceta 467, pp. 4–26, y transitorios: entrada el día siguiente y sustitución de la política de 2019. El marco normativo del emisor sigue enlazando esta gaceta. Las búsquedas de reformas no localizaron sustitución; ello no certifica ausencia de reformas posteriores ni actualidad de las referencias legales u oficinas del texto.",
+      "lectura_realizada": "SECCIONES_IDENTIFICADAS",
+      "localizadores_leidos": [
+        "Gaceta pp. 4–8: considerandos, numerales primero–décimo primero",
+        "pp. 11–15: décimo octavo–cuadragésimo quinto",
+        "pp. 16–17: seguimiento y transitorios",
+        "pp. 13–14: comprobación visual de vías y actualización"
+      ],
+      "ambito": "Entes de la administración pública de CDMX; datos, inventario, SIU y publicación abierta.",
+      "limites_aplicabilidad": "Versión publicada en 2020; no demuestra operación efectiva en 2026 ni aplicabilidad directa a episodios anónimos. No equivale a un manual técnico de cada conjunto.",
+      "referencia_bibliografica": "Agencia Digital de Innovación Pública. Acuerdo por el que se emite la Política de Gestión de Datos de la Ciudad de México, GOCDMX 467. Publicación: 2020-11-05; actualización: no identificada. https://adip.cdmx.gob.mx/storage/app/uploads/public/6a9/89e/098/6a989e098bf82257765831.pdf. Consulta: 2026-11-25. Localizadores: Gaceta pp. 4–8: considerandos, numerales primero–décimo primero; pp. 11–15: décimo octavo–cuadragésimo quinto; pp. 16–17: seguimiento y transitorios; pp. 13–14: comprobación visual de vías y actualización.",
+      "independencia_y_dependencias": "Es una norma emitida por la misma agencia del encargo; tiene fuerza y finalidad documental diferentes, pero no corrobora empíricamente su diagnóstico. Gaceta del repositorio de Consejería también abierta: https://data.consejeria.cdmx.gob.mx/portal_old/uploads/gacetas/e4cf4cdc90578a4898a7d643cbb21295.pdf . Copia textual de Transparencia contrastada en los numerales usados."
+    },
+    {
+      "id": "D01-F003",
+      "titulo": "Ley de Operación e Innovación Digital para la Ciudad de México. Compilación con última reforma declarada 13-07-2026",
+      "emisor": "Congreso / Jefatura de Gobierno; compilación distribuida por ADIP",
+      "tipo": "NORMA",
+      "url": "https://adip.cdmx.gob.mx/storage/app/uploads/public/6a9/881/f6a/6a9881f6ad8e7284077488.pdf",
+      "archivo_aportado": null,
+      "fecha_publicacion": "2018-12-31",
+      "fecha_actualizacion": "2026-07-13 (según encabezado de la compilación)",
+      "fecha_consulta": "2026-11-25",
+      "vigencia": "NO_DETERMINADA",
+      "fundamento_vigencia": "Se abrió el PDF del emisor, encabezado y artículos 1, 5, 14–17, más transitorios finales. Su actualización declarada supera la copia de PAOT de 2022. El índice de Gaceta 1901, 13-07-2026, en copia oficial PAOT confirma una reforma a la ley; no se reconstruyó toda la cadena de reformas ni se comprobó exhaustivamente legislación posterior.",
+      "lectura_realizada": "SECCIONES_IDENTIFICADAS",
+      "localizadores_leidos": [
+        "PDF p. 1: encabezado y art. 1",
+        "pp. 1–3: art. 5",
+        "pp. 8–10: arts. 14–17",
+        "pp. 23–24: transitorios de la reforma publicada 13-07-2026"
+      ],
+      "ambito": "Atribuciones de ADIP y obligaciones de entes públicos de CDMX.",
+      "limites_aplicabilidad": "Atribución y mandato no prueban circuito operativo, integración efectiva o cumplimiento de los cinco perfiles. Se usa la versión identificada, sin certificar vigencia integral.",
+      "referencia_bibliografica": "Congreso / Jefatura de Gobierno; compilación distribuida por ADIP. Ley de Operación e Innovación Digital para la Ciudad de México. Compilación con última reforma declarada 13-07-2026. Publicación: 2018-12-31; actualización: 2026-07-13 (según encabezado de la compilación). https://adip.cdmx.gob.mx/storage/app/uploads/public/6a9/881/f6a/6a9881f6ad8e7284077488.pdf. Consulta: 2026-11-25. Localizadores: PDF p. 1: encabezado y art. 1; pp. 1–3: art. 5; pp. 8–10: arts. 14–17; pp. 23–24: transitorios de la reforma publicada 13-07-2026.",
+      "independencia_y_dependencias": "Norma legislativa distinta del encargo; la copia es distribuida por ADIP. La reproducción de PAOT de 2022 no es otra observación empírica ni prevalece sobre una versión posterior identificada."
+    },
+    {
+      "id": "D01-F004",
+      "titulo": "Descarga de datos. Sistema Abierto de Información Geográfica (SIGCDMX)",
+      "emisor": "Agencia Digital de Innovación Pública",
+      "tipo": "DOCUMENTACION_PORTAL",
+      "url": "https://sig.cdmx.gob.mx/datos/descarga",
+      "archivo_aportado": null,
+      "fecha_publicacion": null,
+      "fecha_actualizacion": null,
+      "fecha_consulta": "2026-11-25",
+      "vigencia": "NO_APLICA",
+      "fundamento_vigencia": "Página técnica observada el día de consulta. No tiene fecha de actualización identificada; disponibilidad de la página no acredita actualidad de sus datos.",
+      "lectura_realizada": "COMPLETA",
+      "localizadores_leidos": [
+        "Sobre los Datos",
+        "Descarga de datos del catastro y relación por FID",
+        "Diccionario de datos del catastro: fid, fid_2, calle_numero y demás campos",
+        "Descarga de datos SEDUVI",
+        "Capas adicionales; Cómo citar este recurso"
+      ],
+      "ambito": "Fuentes, unidades, claves de relación, formatos y acceso descritos para SIGCDMX.",
+      "limites_aplicabilidad": "Se leyó el HTML completo por descarga directa después de fallos del lector web. No se probaron cada descarga, geometrías, servicio en vivo ni actualización institucional. Los nombres de dependencias se conservan como aparecen en la documentación.",
+      "referencia_bibliografica": "Agencia Digital de Innovación Pública. Descarga de datos. Sistema Abierto de Información Geográfica (SIGCDMX). Publicación: sin fecha identificada; actualización: no identificada. https://sig.cdmx.gob.mx/datos/descarga. Consulta: 2026-11-25. Localizadores: Sobre los Datos; Descarga de datos del catastro y relación por FID; Diccionario de datos del catastro: fid, fid_2, calle_numero y demás campos; Descarga de datos SEDUVI; Capas adicionales; Cómo citar este recurso.",
+      "independencia_y_dependencias": "Documentación del propio sistema ADIP. Su existencia es observable; su autodescripción no demuestra homologación completa ni constituye corroboración independiente del diagnóstico del cliente."
+    },
+    {
+      "id": "D01-F005",
+      "titulo": "Presenta Gobierno capitalino Sistema Abierto de Información Geográfica de la Ciudad de México",
+      "emisor": "Jefatura de Gobierno de la Ciudad de México",
+      "tipo": "DOCUMENTO_INSTITUCIONAL",
+      "url": "https://www.jefaturadegobierno.cdmx.gob.mx/comunicacion/nota/presenta-gobierno-capitalino-sistema-abierto-de-informacion-geografica-de-la-ciudad-de-mexico",
+      "archivo_aportado": null,
+      "fecha_publicacion": "2020-07-29",
+      "fecha_actualizacion": null,
+      "fecha_consulta": "2026-11-25",
+      "vigencia": "HISTORICA",
+      "fundamento_vigencia": "Nota de lanzamiento fechada en 2020. Se conserva como antecedente, no certificación del estado presente.",
+      "lectura_realizada": "SECCIONES_IDENTIFICADAS",
+      "localizadores_leidos": [
+        "Título y fecha",
+        "Párrafos sobre SIG, catastro, capas y dependencias participantes; líneas del lector 43–56"
+      ],
+      "ambito": "Anuncio institucional de capacidades y participantes en el SIG de 2020.",
+      "limites_aplicabilidad": "No demuestra que todas las capacidades anunciadas operaran, que sigan funcionando o que exista una base común para todos los límites. Se excluyen otros trámites de la nota.",
+      "referencia_bibliografica": "Jefatura de Gobierno de la Ciudad de México. Presenta Gobierno capitalino Sistema Abierto de Información Geográfica de la Ciudad de México. Publicación: 2020-07-29; actualización: no identificada. https://www.jefaturadegobierno.cdmx.gob.mx/comunicacion/nota/presenta-gobierno-capitalino-sistema-abierto-de-informacion-geografica-de-la-ciudad-de-mexico. Consulta: 2026-11-25. Localizadores: Título y fecha; Párrafos sobre SIG, catastro, capas y dependencias participantes; líneas del lector 43–56.",
+      "independencia_y_dependencias": "Jefatura informa un proyecto de ADIP: no es una evaluación independiente del sistema ni del encargo."
+    },
+    {
+      "id": "D01-F006",
+      "titulo": "Cuadrantes. Catálogo de datos abiertos",
+      "emisor": "Secretaría de Seguridad Ciudadana; portal administrado por ADIP",
+      "tipo": "METADATOS_CONJUNTO",
+      "url": "https://www.datos.cdmx.gob.mx/dataset/cuadrantes",
+      "archivo_aportado": null,
+      "fecha_publicacion": null,
+      "fecha_actualizacion": "2026-09-01 22:36 UTC (campo de catálogo)",
+      "fecha_consulta": "2026-11-25",
+      "vigencia": "NO_APLICA",
+      "fundamento_vigencia": "Se observó la ficha el 25-11-2026. La fecha es de catálogo; no se equipara a revisión geométrica o vigencia operativa.",
+      "lectura_realizada": "COMPLETA",
+      "localizadores_leidos": [
+        "Descripción del conjunto",
+        "Datos y Recursos: Diccionario XLSX, Cuadrantes SHP y CSV",
+        "Información Adicional: mantenedor, última actualización y frecuencia",
+        "Licencia y advertencia de cambios retroactivos"
+      ],
+      "ambito": "Conjunto público descrito como 847 cuadrantes de la estrategia de proximidad.",
+      "limites_aplicabilidad": "No se descargó ni contó la geometría. Su identidad y periodo no se han igualado a las dos capas no aportadas por el cliente.",
+      "referencia_bibliografica": "Secretaría de Seguridad Ciudadana; portal administrado por ADIP. Cuadrantes. Catálogo de datos abiertos. Publicación: sin fecha identificada; actualización: 2026-09-01 22:36 UTC (campo de catálogo). https://www.datos.cdmx.gob.mx/dataset/cuadrantes. Consulta: 2026-11-25. Localizadores: Descripción del conjunto; Datos y Recursos: Diccionario XLSX, Cuadrantes SHP y CSV; Información Adicional: mantenedor, última actualización y frecuencia; Licencia y advertencia de cambios retroactivos.",
+      "independencia_y_dependencias": "SSC es productor/mantenedor declarado; la ficha y su diccionario pertenecen al mismo conjunto. Su concordancia interna no es corroboración independiente de los archivos del encargo."
+    },
+    {
+      "id": "D01-F007",
+      "titulo": "Diccionario del conjunto Cuadrantes",
+      "emisor": "Secretaría de Seguridad Ciudadana / Portal de Datos Abiertos",
+      "tipo": "METADATOS_CONJUNTO",
+      "url": "https://datos.cdmx.gob.mx/dataset/43e489b6-3b45-49ee-bd2c-e86db2e33599/resource/b4213fbb-2fc2-4ff8-8902-bb8b0f7a4ce7/download/b4213fbb-2fc2-4ff8-8902-bb8b0f7a4ce7.xlsx",
+      "archivo_aportado": null,
+      "fecha_publicacion": null,
+      "fecha_actualizacion": null,
+      "fecha_consulta": "2026-11-25",
+      "vigencia": "NO_APLICA",
+      "fundamento_vigencia": "Recurso XLSX descargado desde el enlace de la ficha; no contiene una vigencia territorial identificada.",
+      "lectura_realizada": "COMPLETA",
+      "localizadores_leidos": [
+        "Hoja 1, A1:C8 (8 filas, 3 columnas), valores y tipos de celda"
+      ],
+      "ambito": "Semántica de los siete campos del conjunto público Cuadrantes.",
+      "limites_aplicabilidad": "No acredita reglas de producción, controles internos, georreferencia, año de límites ni correspondencia con las capas del cliente. La celda C3 se interpreta como fecha por la biblioteca; no se convierte en rango numérico de regiones.",
+      "referencia_bibliografica": "Secretaría de Seguridad Ciudadana / Portal de Datos Abiertos. Diccionario del conjunto Cuadrantes. Publicación: sin fecha identificada; actualización: no identificada. https://datos.cdmx.gob.mx/dataset/43e489b6-3b45-49ee-bd2c-e86db2e33599/resource/b4213fbb-2fc2-4ff8-8902-bb8b0f7a4ce7/download/b4213fbb-2fc2-4ff8-8902-bb8b0f7a4ce7.xlsx. Consulta: 2026-11-25. Localizadores: Hoja 1, A1:C8 (8 filas, 3 columnas), valores y tipos de celda.",
+      "independencia_y_dependencias": "Recurso dependiente de la ficha D01-F006; no son dos constataciones independientes."
+    },
+    {
+      "id": "D01-F008",
+      "titulo": "Comunicado 1080. La SSC invita a conocer al jefe de su cuadrante a través de Mi Policía",
+      "emisor": "Secretaría de Seguridad Ciudadana",
+      "tipo": "DOCUMENTO_INSTITUCIONAL",
+      "url": "https://www.ssc.cdmx.gob.mx/comunicacion/nota/1080-la-ssc-invita-la-ciudadania-conocer-al-jefe-de-su-cuadrante-traves-de-la-aplicacion-mi-policia",
+      "archivo_aportado": null,
+      "fecha_publicacion": "2022-04-26",
+      "fecha_actualizacion": null,
+      "fecha_consulta": "2026-11-25",
+      "vigencia": "HISTORICA",
+      "fundamento_vigencia": "Fecha visible de la nota: 26 de abril de 2022. No se presenta como distribución actual.",
+      "lectura_realizada": "SECCIONES_IDENTIFICADAS",
+      "localizadores_leidos": [
+        "Título y fecha",
+        "Cuerpo del comunicado, especialmente párrafo: cinco zonas, 14 regiones, 73 sectores, 847 cuadrantes"
+      ],
+      "ambito": "Comunicación pública de SSC sobre organización territorial y consulta ciudadana en 2022.",
+      "limites_aplicabilidad": "No contiene geometrías, revisión anual ni vínculo a las capas privadas del encargo. No se usa su afirmación de tiempos de respuesta.",
+      "referencia_bibliografica": "Secretaría de Seguridad Ciudadana. Comunicado 1080. La SSC invita a conocer al jefe de su cuadrante a través de Mi Policía. Publicación: 2022-04-26; actualización: no identificada. https://www.ssc.cdmx.gob.mx/comunicacion/nota/1080-la-ssc-invita-la-ciudadania-conocer-al-jefe-de-su-cuadrante-traves-de-la-aplicacion-mi-policia. Consulta: 2026-11-25. Localizadores: Título y fecha; Cuerpo del comunicado, especialmente párrafo: cinco zonas, 14 regiones, 73 sectores, 847 cuadrantes.",
+      "independencia_y_dependencias": "Emisor SSC distinto del cliente ADIP, pero relacionado con la misma materia; no evalúa por sí mismo fragmentación u homologación."
+    },
+    {
+      "id": "D01-F009",
+      "titulo": "Manual Administrativo PAOT. Registro MA-18/260521-E-SEDEMA-PAOT-23/011118",
+      "emisor": "Procuraduría Ambiental y del Ordenamiento Territorial de CDMX",
+      "tipo": "MANUAL",
+      "url": "https://paot.org.mx/contenidos/paot_docs/pdf/Manual_Administrativo_2021.pdf",
+      "archivo_aportado": null,
+      "fecha_publicacion": "2021-06-10",
+      "fecha_actualizacion": null,
+      "fecha_consulta": "2026-11-25",
+      "vigencia": "VERIFICADA",
+      "fundamento_vigencia": "Versión enlazada en el portal del emisor, portada con registro coincidente; aviso en Gaceta 615, p. 4, abierto: entrada el 10-06-2021 y sustitución de 2019. Normateca del emisor, disposición 10, lo lista vigente al 12-11-2026. Verificación de esa versión según el emisor, no de su ejecución o aplicabilidad a E01.",
+      "lectura_realizada": "SECCIONES_IDENTIFICADAS",
+      "localizadores_leidos": [
+        "PDF pp. 1–8: portada, índice y presentación/antecedentes iniciales",
+        "pp. 128–131: funciones de estudios de ordenamiento territorial y listado de procedimientos",
+        "pp. 241–256: OCR exploratorio del capítulo de Coordinación Técnica y de Sistemas; búsqueda temática",
+        "pp. 128 y 130: lectura visual directa de funciones utilizadas"
+      ],
+      "ambito": "Funciones publicadas de unidades específicas de PAOT; producción de información espacial y cartografía como soporte de documentos técnicos.",
+      "limites_aplicabilidad": "PDF de 452 páginas: no se declara lectura completa. La extracción era casi vacía; se hizo OCR para localizar y se verificaron visualmente las pp. 128 y 130 usadas. No es manual de una alcaldía ni de las entrevistas. No se afirma un procedimiento geográfico completo.",
+      "referencia_bibliografica": "Procuraduría Ambiental y del Ordenamiento Territorial de CDMX. Manual Administrativo PAOT. Registro MA-18/260521-E-SEDEMA-PAOT-23/011118. Publicación: 2021-06-10; actualización: no identificada. https://paot.org.mx/contenidos/paot_docs/pdf/Manual_Administrativo_2021.pdf. Consulta: 2026-11-25. Localizadores: PDF pp. 1–8: portada, índice y presentación/antecedentes iniciales; pp. 128–131: funciones de estudios de ordenamiento territorial y listado de procedimientos; pp. 241–256: OCR exploratorio del capítulo de Coordinación Técnica y de Sistemas; búsqueda temática; pp. 128 y 130: lectura visual directa de funciones utilizadas.",
+      "independencia_y_dependencias": "Manual del emisor; el aviso y la normateca son parte de su misma cadena documental, no observaciones independientes de cumplimiento."
+    },
+    {
+      "id": "D01-F010",
+      "titulo": "Ley Orgánica de la Procuraduría Ambiental y del Ordenamiento Territorial de la Ciudad de México. Texto compilado",
+      "emisor": "Legislador local; repositorio oficial PAOT",
+      "tipo": "NORMA",
+      "url": "https://paot.org.mx/centro/leyes-normas-htmls/ley-org-nica-de-666.html",
+      "archivo_aportado": null,
+      "fecha_publicacion": "2001-04-24",
+      "fecha_actualizacion": "2025-12-24 (encabezado de la compilación)",
+      "fecha_consulta": "2026-11-25",
+      "vigencia": "NO_DETERMINADA",
+      "fundamento_vigencia": "Se leyó el encabezado con última reforma declarada de 24-12-2025 y los arts. 1–3 y 5 XXIX BIS. Se identifican anotaciones de reformas 2017/2021. El enlace antiguo de portada del marco legal apuntaba a una versión 2017 y falló. No se cotejaron todas las reformas en sus gacetas.",
+      "lectura_realizada": "SECCIONES_IDENTIFICADAS",
+      "localizadores_leidos": [
+        "Encabezado; arts. 1–3, especialmente 3 XIV BIS",
+        "Art. 5, fracción XXIX BIS, incluidos párrafos de validación e incorporación (líneas del lector 265–271)"
+      ],
+      "ambito": "Definición de SIG-PAOT y condiciones legales para incorporación de información ambiental y territorial.",
+      "limites_aplicabilidad": "No identifica E01 ni acredita cumplimiento del plazo o proceso interno de validación. El texto contiene una excepción respecto a información generada por otras instituciones; no se borra ni se interpreta como control de PAOT sobre toda cartografía de la ciudad.",
+      "referencia_bibliografica": "Legislador local; repositorio oficial PAOT. Ley Orgánica de la Procuraduría Ambiental y del Ordenamiento Territorial de la Ciudad de México. Texto compilado. Publicación: 2001-04-24; actualización: 2025-12-24 (encabezado de la compilación). https://paot.org.mx/centro/leyes-normas-htmls/ley-org-nica-de-666.html. Consulta: 2026-11-25. Localizadores: Encabezado; arts. 1–3, especialmente 3 XIV BIS; Art. 5, fracción XXIX BIS, incluidos párrafos de validación e incorporación (líneas del lector 265–271).",
+      "independencia_y_dependencias": "Norma distinta de las entrevistas y del encargo, alojada por su sujeto institucional; no es evidencia de práctica efectiva."
+    },
+    {
+      "id": "D01-F011",
+      "titulo": "Datálogo: el inventario de datos de la Ciudad de México",
+      "emisor": "ADIP, Portal de la Política de Datos",
+      "tipo": "DOCUMENTACION_PORTAL",
+      "url": "https://politicadedatos.cdmx.gob.mx/datalogo",
+      "archivo_aportado": null,
+      "fecha_publicacion": null,
+      "fecha_actualizacion": null,
+      "fecha_consulta": "2026-11-25",
+      "vigencia": "NO_APLICA",
+      "fundamento_vigencia": "Página sin fecha identificada; contiene una sección prospectiva sobre 2021. Se usa como explicación del diseño, no prueba de despliegue actual.",
+      "lectura_realizada": "COMPLETA",
+      "localizadores_leidos": [
+        "Qué es el Datálogo",
+        "Objetivos",
+        "Cómo se verá el datálogo en 2021"
+      ],
+      "ambito": "Descripción del catálogo de metadatos y objetivos de descubrimiento.",
+      "limites_aplicabilidad": "No equivale a repositorio de todos los datos, ni a base geográfica común funcionando hoy.",
+      "referencia_bibliografica": "ADIP, Portal de la Política de Datos. Datálogo: el inventario de datos de la Ciudad de México. Publicación: sin fecha identificada; actualización: no identificada. https://politicadedatos.cdmx.gob.mx/datalogo. Consulta: 2026-11-25. Localizadores: Qué es el Datálogo; Objetivos; Cómo se verá el datálogo en 2021.",
+      "independencia_y_dependencias": "Desarrolla la política de ADIP; dependiente conceptualmente de D01-F002 y D01-F003, no corroboración independiente del diagnóstico."
+    },
+    {
+      "id": "D01-F012",
+      "titulo": "Sistema de Información de la Ciudad de México (SIEG)",
+      "emisor": "Instituto de Planeación Democrática y Prospectiva",
+      "tipo": "DOCUMENTACION_PORTAL",
+      "url": "https://sieg.cdmx.gob.mx/",
+      "archivo_aportado": null,
+      "fecha_publicacion": null,
+      "fecha_actualizacion": null,
+      "fecha_consulta": "2026-11-25",
+      "vigencia": "NO_APLICA",
+      "fundamento_vigencia": "Se observó el HTML de inicio por descarga directa, sin fecha editorial ni de actualización identificada.",
+      "lectura_realizada": "COMPLETA",
+      "localizadores_leidos": [
+        "Página de inicio: objeto del sistema y navegación a visualizador, información estadística y geográfica"
+      ],
+      "ambito": "Autodescripción de un sistema para información de planeación.",
+      "limites_aplicabilidad": "No se inspeccionaron sus bases, servicios o procedimientos. El objetivo declarado no demuestra integración, interoperabilidad o cobertura efectiva.",
+      "referencia_bibliografica": "Instituto de Planeación Democrática y Prospectiva. Sistema de Información de la Ciudad de México (SIEG). Publicación: sin fecha identificada; actualización: no identificada. https://sieg.cdmx.gob.mx/. Consulta: 2026-11-25. Localizadores: Página de inicio: objeto del sistema y navegación a visualizador, información estadística y geográfica.",
+      "independencia_y_dependencias": "Otra institución del sistema territorial; autodescripción, no auditoría independiente ni confirmación del encargo."
+    },
+    {
+      "id": "D01-F013",
+      "titulo": "Norma Técnica para la Elaboración de Metadatos Geográficos",
+      "emisor": "INEGI, Junta de Gobierno; publicación DOF",
+      "tipo": "NORMA",
+      "url": "https://sidof.segob.gob.mx/notas/docFuente/5746647",
+      "archivo_aportado": null,
+      "fecha_publicacion": "2025-01-03",
+      "fecha_actualizacion": null,
+      "fecha_consulta": "2026-11-25",
+      "vigencia": "VERIFICADA",
+      "fundamento_vigencia": "El repertorio oficial vigente F020 incluye esta norma y enlaza la ficha F021, con publicación 03-01-2025 e inicio de vigencia 04-01-2025. Verificación acotada al estado publicado por el emisor al 25-11-2026; no prueba aplicabilidad a los casos.",
+      "lectura_realizada": "SECCIONES_IDENTIFICADAS",
+      "localizadores_leidos": [
+        "Ficha DOF: fecha 03-01-2025, sección única, matutina",
+        "Texto: considerandos y arts. 1–2",
+        "Art. 7: secciones 1–9; elementos de identificación, fechas, referencia y calidad/linaje",
+        "Art. 8 y transitorios primero–tercero"
+      ],
+      "ambito": "Unidades del Estado y datos geográficos de interés nacional, compartidos o usados para generarlos, según arts. 1–2.",
+      "limites_aplicabilidad": "Referencia normativa nacional de alcance condicionado; no se acreditó que los episodios o las capas del encargo caigan en ese supuesto. No es procedimiento local de publicación ni evidencia de cumplimiento.",
+      "referencia_bibliografica": "INEGI, Junta de Gobierno; publicación DOF. Norma Técnica para la Elaboración de Metadatos Geográficos. Publicación: 2025-01-03; actualización: no identificada. https://sidof.segob.gob.mx/notas/docFuente/5746647. Consulta: 2026-11-25. Localizadores: Ficha DOF: fecha 03-01-2025, sección única, matutina; Texto: considerandos y arts. 1–2; Art. 7: secciones 1–9; elementos de identificación, fechas, referencia y calidad/linaje; Art. 8 y transitorios primero–tercero.",
+      "independencia_y_dependencias": "Emisor independiente de ADIP. Su contenido técnico puede orientar preguntas, no demostrar problemas de la ciudad."
+    },
+    {
+      "id": "D01-F014",
+      "titulo": "Normateca interna PAOT. Otras disposiciones",
+      "emisor": "PAOT",
+      "tipo": "DOCUMENTO_INSTITUCIONAL",
+      "url": "https://paot.mx/leyes/scripts/vista_otras_disposiciones.php?opt=8",
+      "archivo_aportado": null,
+      "fecha_publicacion": null,
+      "fecha_actualizacion": "2026-11-12 (pie de la página)",
+      "fecha_consulta": "2026-11-25",
+      "vigencia": "NO_APLICA",
+      "fundamento_vigencia": "Registro institucional observado; la etiqueta vigente es una declaración del emisor, corroborada con el aviso de 2021 para la versión del manual.",
+      "lectura_realizada": "SECCIONES_IDENTIFICADAS",
+      "localizadores_leidos": [
+        "Disposición 10: Manual Administrativo, 10-06-2021, columna Vigencia",
+        "Pie: última actualización 12-11-2026"
+      ],
+      "ambito": "Control de versión y estatus institucional del manual PAOT.",
+      "limites_aplicabilidad": "No prueba cumplimiento ni la aplicabilidad a ningún perfil anónimo. No se toma su fecha de pie como fecha del manual.",
+      "referencia_bibliografica": "PAOT. Normateca interna PAOT. Otras disposiciones. Publicación: sin fecha identificada; actualización: 2026-11-12 (pie de la página). https://paot.mx/leyes/scripts/vista_otras_disposiciones.php?opt=8. Consulta: 2026-11-25. Localizadores: Disposición 10: Manual Administrativo, 10-06-2021, columna Vigencia; Pie: última actualización 12-11-2026.",
+      "independencia_y_dependencias": "Dependiente de la misma PAOT y de la publicación D01-F015."
+    },
+    {
+      "id": "D01-F015",
+      "titulo": "Aviso del Manual Administrativo PAOT, GOCDMX 615",
+      "emisor": "PAOT / Gaceta Oficial de la Ciudad de México",
+      "tipo": "DOCUMENTO_INSTITUCIONAL",
+      "url": "https://data.consejeria.cdmx.gob.mx/portal_old/uploads/gacetas/94d33a1223f1a4bf872b43de312dacc5.pdf",
+      "archivo_aportado": null,
+      "fecha_publicacion": "2021-06-10",
+      "fecha_actualizacion": null,
+      "fecha_consulta": "2026-11-25",
+      "vigencia": "HISTORICA",
+      "fundamento_vigencia": "Acto de publicación fechado; se usa para identificar versión y entrada original, complementado con la normateca actual.",
+      "lectura_realizada": "SECCIONES_IDENTIFICADAS",
+      "localizadores_leidos": [
+        "Portada e índice",
+        "p. 4: aviso, registro MA-18/260521-E-SEDEMA-PAOT-23/011118, enlace y transitorios primero–tercero"
+      ],
+      "ambito": "Procedencia y reemplazo de la edición anterior del manual.",
+      "limites_aplicabilidad": "El aviso no reproduce funciones ni demuestra que se cumplan.",
+      "referencia_bibliografica": "PAOT / Gaceta Oficial de la Ciudad de México. Aviso del Manual Administrativo PAOT, GOCDMX 615. Publicación: 2021-06-10; actualización: no identificada. https://data.consejeria.cdmx.gob.mx/portal_old/uploads/gacetas/94d33a1223f1a4bf872b43de312dacc5.pdf. Consulta: 2026-11-25. Localizadores: Portada e índice; p. 4: aviso, registro MA-18/260521-E-SEDEMA-PAOT-23/011118, enlace y transitorios primero–tercero.",
+      "independencia_y_dependencias": "Mismo acto y documento que el manual; no corroboración empírica independiente."
+    },
+    {
+      "id": "D01-F016",
+      "titulo": "Marco Normativo ADIP",
+      "emisor": "Agencia Digital de Innovación Pública",
+      "tipo": "DOCUMENTO_INSTITUCIONAL",
+      "url": "https://adip.cdmx.gob.mx/dependencia/marco-normativo",
+      "archivo_aportado": null,
+      "fecha_publicacion": null,
+      "fecha_actualizacion": null,
+      "fecha_consulta": "2026-11-25",
+      "vigencia": "NO_APLICA",
+      "fundamento_vigencia": "HTML descargado y enlaces inspeccionados. El rótulo 13072026 se comprobó abriendo la compilación correspondiente; no se infiere de la URL.",
+      "lectura_realizada": "SECCIONES_IDENTIFICADAS",
+      "localizadores_leidos": [
+        "Leyes: Ley de Operación e Innovación para CDMX 13072026 y enlace PDF",
+        "Políticas: Política de Gestión de Datos y enlace a Gaceta 467"
+      ],
+      "ambito": "Rutas oficiales de publicación y versiones distribuidas por el emisor.",
+      "limites_aplicabilidad": "La página no sustituye el texto normativo ni garantiza que todas las entradas estén actualizadas.",
+      "referencia_bibliografica": "Agencia Digital de Innovación Pública. Marco Normativo ADIP. Publicación: sin fecha identificada; actualización: no identificada. https://adip.cdmx.gob.mx/dependencia/marco-normativo. Consulta: 2026-11-25. Localizadores: Leyes: Ley de Operación e Innovación para CDMX 13072026 y enlace PDF; Políticas: Política de Gestión de Datos y enlace a Gaceta 467.",
+      "independencia_y_dependencias": "Índice de la misma agencia; solo evidencia de procedencia de F002/F003."
+    },
+    {
+      "id": "D01-F017",
+      "titulo": "Ley de Operación e Innovación Digital. Compilación PAOT con reforma declarada 27-10-2022",
+      "emisor": "Repositorio normativo oficial PAOT",
+      "tipo": "NORMA",
+      "url": "https://paot.org.mx/centro/leyes-normas-htmls/ley-de-operaci-n-2170.html",
+      "archivo_aportado": null,
+      "fecha_publicacion": "2018-12-31",
+      "fecha_actualizacion": "2022-10-27 (encabezado)",
+      "fecha_consulta": "2026-11-25",
+      "vigencia": "HISTORICA",
+      "fundamento_vigencia": "Existe una compilación posterior de julio de 2026 distribuida por ADIP. Esta copia se conserva para registrar el desfase entre repositorios; no se usa para certificar texto vigente.",
+      "lectura_realizada": "SECCIONES_IDENTIFICADAS",
+      "localizadores_leidos": [
+        "Encabezado y arts. 1–6"
+      ],
+      "ambito": "Antecedente de versión y control de procedencia.",
+      "limites_aplicabilidad": "No usar como consolidación más reciente ni atribuir su desfase a un entrevistado.",
+      "referencia_bibliografica": "Repositorio normativo oficial PAOT. Ley de Operación e Innovación Digital. Compilación PAOT con reforma declarada 27-10-2022. Publicación: 2018-12-31; actualización: 2022-10-27 (encabezado). https://paot.org.mx/centro/leyes-normas-htmls/ley-de-operaci-n-2170.html. Consulta: 2026-11-25. Localizadores: Encabezado y arts. 1–6.",
+      "independencia_y_dependencias": "Reproducción de la misma ley, no una norma distinta ni corroboración independiente."
+    },
+    {
+      "id": "D01-F018",
+      "titulo": "Mi Policía. Sitio SSC",
+      "emisor": "Secretaría de Seguridad Ciudadana",
+      "tipo": "DOCUMENTACION_PORTAL",
+      "url": "https://mipolicia.ssp.cdmx.gob.mx/",
+      "archivo_aportado": null,
+      "fecha_publicacion": null,
+      "fecha_actualizacion": null,
+      "fecha_consulta": "2026-11-25",
+      "vigencia": "NO_DETERMINADA",
+      "fundamento_vigencia": "Se abrió, pero el lector devolvió cero líneas y la descarga solo un contenedor HTML de 437 bytes. No se pudo verificar el contenido dinámico.",
+      "lectura_realizada": "NO_ACCESIBLE",
+      "localizadores_leidos": [],
+      "ambito": "Ruta explorada sobre divisiones de seguridad.",
+      "limites_aplicabilidad": "Los números visibles en resultados de búsqueda no se usan como evidencia leída.",
+      "referencia_bibliografica": "Secretaría de Seguridad Ciudadana. Mi Policía. Sitio SSC. Publicación: sin fecha identificada; actualización: no identificada. https://mipolicia.ssp.cdmx.gob.mx/. Consulta: 2026-11-25. Localizadores: .",
+      "independencia_y_dependencias": "Mismo emisor que F008; no se obtiene evidencia documental de esta ruta."
+    },
+    {
+      "id": "D01-F019",
+      "titulo": "Ruta fallida atribuida al repertorio SNIEG en la entrega original",
+      "emisor": "No verificado para esta URL; atribución SNIEG / INEGI en el registro original",
+      "tipo": "DOCUMENTO_INSTITUCIONAL",
+      "url": "https://sneig.gob.mx/scn-vigente/",
+      "archivo_aportado": null,
+      "fecha_publicacion": null,
+      "fecha_actualizacion": null,
+      "fecha_consulta": "2026-11-25",
+      "vigencia": "NO_DETERMINADA",
+      "fundamento_vigencia": "La búsqueda ofreció la ruta, pero apertura y descarga directa fallaron (502 y 503).",
+      "lectura_realizada": "NO_ACCESIBLE",
+      "localizadores_leidos": [],
+      "ambito": "Verificación de vigencia de estándares nacionales.",
+      "limites_aplicabilidad": "No sustenta evidencia ni se afirma comprobación de su listado.",
+      "referencia_bibliografica": "Registro de consulta fallida de la entrega original, no fuente leída ni ruta oficial verificada: https://sneig.gob.mx/scn-vigente/. Consulta original y reintento: 2026-11-25.",
+      "independencia_y_dependencias": "La URL original contiene sneig.gob.mx y no se verificó su pertenencia institucional. Se conserva como intento fallido; F020 registra por separado el repertorio oficial www.snieg.mx."
+    },
+    {
+      "id": "D01-F020",
+      "titulo": "Normativa vigente. Sistema de Compilación Normativa del SNIEG",
+      "emisor": "SNIEG / INEGI",
+      "tipo": "DOCUMENTO_INSTITUCIONAL",
+      "url": "https://www.snieg.mx/scn-vigente/",
+      "archivo_aportado": null,
+      "fecha_publicacion": null,
+      "fecha_actualizacion": null,
+      "fecha_consulta": "2026-11-25",
+      "vigencia": "NO_APLICA",
+      "fundamento_vigencia": "Consulta del repertorio oficial de versiones vigentes; se observa la entrada de metadatos geográficos.",
+      "lectura_realizada": "SECCIONES_IDENTIFICADAS",
+      "localizadores_leidos": [
+        "Presentación del repertorio (lector web líneas 161–164)",
+        "Técnica Geográfica: entrada Norma Técnica para la Elaboración de Metadatos Geográficos (línea 288) y enlaces"
+      ],
+      "ambito": "Control de versión según el emisor.",
+      "limites_aplicabilidad": "No demuestra aplicación a los cinco casos, cumplimiento ni vigencia de normas locales distintas.",
+      "referencia_bibliografica": "SNIEG / INEGI. Normativa vigente, sección Técnica Geográfica, entrada de metadatos geográficos. Sin fecha editorial identificada. https://www.snieg.mx/scn-vigente/. Consulta: 2026-11-25.",
+      "independencia_y_dependencias": "Índice del mismo emisor de F013 y F021; forman una cadena documental, no corroboración empírica independiente."
+    },
+    {
+      "id": "D01-F021",
+      "titulo": "Ficha técnica de la Norma Técnica para la Elaboración de Metadatos Geográficos",
+      "emisor": "INEGI / SNIEG",
+      "tipo": "DOCUMENTO_INSTITUCIONAL",
+      "url": "https://www.snieg.mx/Documentos/Normatividad/Vigente/FT_Tecnica/12.FT_NT_MetadGeo.pdf",
+      "archivo_aportado": null,
+      "fecha_publicacion": null,
+      "fecha_actualizacion": null,
+      "fecha_consulta": "2026-11-25",
+      "vigencia": "NO_APLICA",
+      "fundamento_vigencia": "Ficha enlazada por el repertorio vigente; fechas de la norma expresas. La fecha editorial de la ficha no está identificada.",
+      "lectura_realizada": "COMPLETA",
+      "localizadores_leidos": [
+        "PDF p. 1 completa: síntesis, aprobación, inicio de vigencia, publicación, modificaciones y nota al pie"
+      ],
+      "ambito": "Identificación y estado documental de la norma nacional.",
+      "limites_aplicabilidad": "Ficha de la misma disposición, no procedimiento local, dictamen de aplicabilidad ni nueva reforma inferida.",
+      "referencia_bibliografica": "INEGI / SNIEG. Ficha técnica de la Norma Técnica para la Elaboración de Metadatos Geográficos, p. 1. Sin fecha editorial identificada. https://www.snieg.mx/Documentos/Normatividad/Vigente/FT_Tecnica/12.FT_NT_MetadGeo.pdf. Consulta: 2026-11-25.",
+      "independencia_y_dependencias": "Depende de la norma F013 y el repertorio F020. La nota al pie identifica la actual Unidad de Geografía y Medio Ambiente; no cambia retrospectivamente la autoría del texto de 2025."
+    }
+  ],
+  "evidencias_documentales": [
+    {
+      "id": "D01-V001",
+      "fuente": "D01-F001",
+      "localizador": "p. 1, reto en una frase y sección 02",
+      "parafrasis": "Propone un prototipo para homologar y visualizar capas y permitir consulta institucional desde una base común.",
+      "alcance": "Intervención propuesta.",
+      "limites": "No demuestra necesidad ni eficacia de esa intervención.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V002",
+      "fuente": "D01-F001",
+      "localizador": "p. 1, sección 01, primera oración",
+      "parafrasis": "Afirma que no existe una plataforma única que concentre y homologue límites cartográficos para consulta y reutilización institucional.",
+      "alcance": "Diagnóstico del cliente sobre CDMX.",
+      "limites": "No ofrece inventario, evaluación de sistemas ni criterio de unicidad.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V003",
+      "fuente": "D01-F001",
+      "localizador": "p. 1, sección 01, segunda oración",
+      "parafrasis": "Describe información distribuida entre dependencias y atribuye necesidades de estandarización, actualización y consumo común.",
+      "alcance": "Frase mixta de situación y necesidades.",
+      "limites": "Distribución y déficit requieren contrastes distintos.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V004",
+      "fuente": "D01-F001",
+      "localizador": "p. 1, sección 03",
+      "parafrasis": "Busca una propuesta de visualización y prototipo para validar consulta, capas y ciclo básico; excluye producción.",
+      "alcance": "Objetivo del bloque.",
+      "limites": "Validación futura, no resultado obtenido.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V005",
+      "fuente": "D01-F001",
+      "localizador": "p. 1, recuadro duración",
+      "parafrasis": "Fija un bloque de diez semanas.",
+      "alcance": "Duración planteada.",
+      "limites": "No es una fecha de entrega ni evidencia de factibilidad.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V006",
+      "fuente": "D01-F001",
+      "localizador": "p. 2, sección 04, fuente y tipo",
+      "parafrasis": "Identifica a SSC como fuente de límites para asignar patrullas y policías a áreas.",
+      "alcance": "Descripción de datos del encargo.",
+      "limites": "No se recibieron esas capas ni su linaje.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V007",
+      "fuente": "D01-F001",
+      "localizador": "p. 2, sección 04, volumen",
+      "parafrasis": "Plantea dos capas, de 72 y 1,022 polígonos.",
+      "alcance": "Volumen declarado.",
+      "limites": "Sin archivos no se verifica cardinalidad, cobertura ni equivalencia con sectores/cuadrantes públicos.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V008",
+      "fuente": "D01-F001",
+      "localizador": "p. 2, sección 04, periodicidad",
+      "parafrasis": "Declara actualización anual.",
+      "alcance": "Periodicidad atribuida a las capas.",
+      "limites": "No incluye calendario, registro de revisiones o responsable operativo.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V009",
+      "fuente": "D01-F001",
+      "localizador": "p. 2, sección 04, formato",
+      "parafrasis": "Identifica formato Shapefile y escribe la extensión como .shape.",
+      "alcance": "Formato declarado, incluida su notación.",
+      "limites": "Se conserva la notación sin corregir silenciosamente; no se inspeccionaron archivos o componentes.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V010",
+      "fuente": "D01-F001",
+      "localizador": "p. 2, sección 04, acceso",
+      "parafrasis": "Indica que las capas pueden entregarse al equipo sin restricciones para el ejercicio.",
+      "alcance": "Condición de acceso declarada por el cliente.",
+      "limites": "No equivale a autorización de publicación abierta o cesión de cualquier dato.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V011",
+      "fuente": "D01-F001",
+      "localizador": "p. 2, sección 05, funcionalidades",
+      "parafrasis": "Propone mapa interactivo, encendido y apagado, descarga, metadatos y lógica básica de actualización.",
+      "alcance": "Funciones mínimas esperadas.",
+      "limites": "No son hallazgos de entrevistas ni capacidades verificadas.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V012",
+      "fuente": "D01-F001",
+      "localizador": "p. 2, sección 05, criterio de éxito",
+      "parafrasis": "Espera interacción clara y estable, una ruta viable de homologación, seguridad básica y una base para integración posterior.",
+      "alcance": "Criterios propuestos.",
+      "limites": "No son resultados de pruebas, medidas de prioridad ni clasificación jurídica de datos.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V013",
+      "fuente": "D01-F001",
+      "localizador": "p. 2, sección 06",
+      "parafrasis": "Prevé validación con una contraparte ADIP, fuente SSC y apoyo técnico para accesos; otras dependencias quedan para fases posteriores.",
+      "alcance": "Actores y participación previstos.",
+      "limites": "No acredita participación realizada, acceso concedido o representación de todas las instituciones.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V014",
+      "fuente": "D01-F001",
+      "localizador": "p. 2, sección 07",
+      "parafrasis": "Incluye diseño, consulta y estandarización inicial con SSC; excluye producción, ingesta masiva, IA obligatoria y publicación de bases sensibles o no validadas.",
+      "alcance": "Límites del encargo.",
+      "limites": "No prueba la clasificación concreta de las dos capas.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V015",
+      "fuente": "D01-F001",
+      "localizador": "p. 3, sección 08",
+      "parafrasis": "Propone arquitectura funcional, visor, metodología de homologación y recomendaciones para una fase posterior.",
+      "alcance": "Entregables de otra etapa.",
+      "limites": "D01 los contrasta sin diseñarlos.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V016",
+      "fuente": "D01-F001",
+      "localizador": "p. 3, sección 09",
+      "parafrasis": "Sitúa la innovación en visualización útil, flujo replicable y crecimiento; propone mapear actores y validar con usuarios ADIP, sin requerir IA.",
+      "alcance": "Hipótesis de valor y orientaciones.",
+      "limites": "No se ha medido utilidad, replicabilidad o escalamiento.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V017",
+      "fuente": "D01-F001",
+      "localizador": "p. 3, sección 10",
+      "parafrasis": "Sugiere una entrevista de validación sobre necesidades, prioridades, operación del dato y aceptación.",
+      "alcance": "Validación propuesta.",
+      "limites": "No es una sexta entrevista efectuada ni autorización para identificar a los casos.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V018",
+      "fuente": "D01-F001",
+      "localizador": "p. 3, sección 11 y recuadro final",
+      "parafrasis": "Condiciona el escalamiento al funcionamiento del prototipo y deja por validar producción, gobierno del dato, responsables, nuevas dependencias y condiciones de privacidad o seguridad.",
+      "alcance": "Escenario futuro y decisiones abiertas.",
+      "limites": "No demuestra ausencia general de normas de actualización.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V019",
+      "fuente": "D01-F001",
+      "localizador": "p. 3, pie de página",
+      "parafrasis": "El documento se presenta como síntesis ejecutiva de una ficha interna ADIP.",
+      "alcance": "Linaje declarado del encargo.",
+      "limites": "La ficha interna original no fue aportada ni leída.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V020",
+      "fuente": "D01-F002",
+      "localizador": "Gaceta pp. 5–7, primero, tercero, sexto",
+      "parafrasis": "La política fija reglas para entes públicos y objetivos de calidad e intercambio; recomienda fuente autorizada identificable.",
+      "alcance": "Mandatos y objetivos del texto de 2020.",
+      "limites": "No evidencia cumplimiento o déficit actual.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V021",
+      "fuente": "D01-F002",
+      "localizador": "Gaceta pp. 11–12, décimo octavo–vigésimo octavo",
+      "parafrasis": "Distingue inventario de metadatos y SIU interoperable, de integración gradual.",
+      "alcance": "Diseño normativo del sistema.",
+      "limites": "Ninguno acredita una base cartográfica única ya operativa.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V022",
+      "fuente": "D01-F002",
+      "localizador": "Gaceta pp. 12–13, trigésimo–trigésimo cuarto",
+      "parafrasis": "Para publicación abierta prevé formatos espaciales, metadatos y diccionario; permite publicar con usuario o solicitar publicación por correo.",
+      "alcance": "Vías publicadas de apertura.",
+      "limites": "No describe revisión interna de geometría ni certifica elegibilidad de una capa.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V023",
+      "fuente": "D01-F002",
+      "localizador": "Gaceta p. 14, trigésimo quinto–trigésimo sexto",
+      "parafrasis": "El ente define periodicidad; puede actualizar por usuario, solicitud de correo o API que desarrolle.",
+      "alcance": "Actualización publicada.",
+      "limites": "La API es posibilidad prevista; no se comprobó servicio de cada conjunto.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V024",
+      "fuente": "D01-F002",
+      "localizador": "Gaceta p. 14, trigésimo séptimo–trigésimo noveno",
+      "parafrasis": "Los cambios necesarios de estructura deben documentarse y comunicarse; las revisiones se explicitan; ADIP solicita datos si hay retraso.",
+      "alcance": "Control y seguimiento publicados.",
+      "limites": "No determina revisores geométricos, criterios de aceptación o tiempos internos.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V025",
+      "fuente": "D01-F002",
+      "localizador": "Gaceta pp. 16–17, transitorios primero y noveno",
+      "parafrasis": "La política entró en vigor al día siguiente de publicarse y dejó sin efectos la de 2019.",
+      "alcance": "Historia de vigencia.",
+      "limites": "No certifica inexistencia de reformas posteriores.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V026",
+      "fuente": "D01-F003",
+      "localizador": "PDF pp. 8–10, arts. 14 XXVI–XXVII, 16 y 17 V/VIII",
+      "parafrasis": "La ley atribuye sistemas e infraestructura de datos a ADIP y dispone inventario, SIU y obligaciones de actualización para los entes.",
+      "alcance": "Atribuciones y obligaciones en la compilación identificada.",
+      "limites": "No es una secuencia operativa ni demuestra implementación.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V027",
+      "fuente": "D01-F003",
+      "localizador": "PDF p. 1, art. 1; pp. 1–3, art. 5 XII/XVIII",
+      "parafrasis": "El ámbito incluye entes y alcaldías; la interoperabilidad y la calidad son principios de gestión.",
+      "alcance": "Marco general de CDMX.",
+      "limites": "Una obligación general no identifica unidad, conjunto y periodo de E01.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V028",
+      "fuente": "D01-F004",
+      "localizador": "Sobre los Datos; Descarga de datos del catastro; Diccionario: fid/fid_2",
+      "parafrasis": "El portal distingue cuentas catastrales y polígonos de predios, relacionables por FID; fid_2 identifica interiores o subdivisiones.",
+      "alcance": "Semántica de estas descargas.",
+      "limites": "No convierte FID en el identificador de E01 ni garantiza coincidencia entre bases.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V029",
+      "fuente": "D01-F004",
+      "localizador": "Descarga de datos SEDUVI; Capas adicionales",
+      "parafrasis": "La documentación describe puntos que representan predios con información normativa y remite a conjuntos de diversas materias.",
+      "alcance": "Representación y consulta documentadas.",
+      "limites": "No es precisión de puerta ni circuito completo de actualización.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V030",
+      "fuente": "D01-F005",
+      "localizador": "Fecha y párrafos SIG/catastro/capas, lector líneas 43–56",
+      "parafrasis": "El anuncio de 2020 presentó un SIG público con catastro y diversas capas y dependencias.",
+      "alcance": "Antecedente de una plataforma previa.",
+      "limites": "No verifica homologación total, permanencia o estado de 2026.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V031",
+      "fuente": "D01-F006",
+      "localizador": "Descripción; Datos y Recursos",
+      "parafrasis": "La ficha pública describe 847 cuadrantes y ofrece diccionario, SHP y CSV.",
+      "alcance": "Descripción del catálogo abierto.",
+      "limites": "No se contó el archivo geográfico; no se iguala a la capa de 1,022 polígonos.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V032",
+      "fuente": "D01-F006",
+      "localizador": "Información Adicional; licencia; advertencia inicial",
+      "parafrasis": "Declara frecuencia no_aplica, fecha de catálogo 01-09-2026 y licencia CC-BY-4.0-ESP; advierte posibles revisiones retroactivas.",
+      "alcance": "Metadatos observados.",
+      "limites": "No es prueba de fecha o permiso de las capas del cliente.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V033",
+      "fuente": "D01-F007",
+      "localizador": "Hoja 1 A1:C8, especialmente filas 4 y 6–8",
+      "parafrasis": "El diccionario distingue Sector, Clave_sector, No_cuadrante y Nomenclatura, además de alcaldía, región y zona.",
+      "alcance": "Campos de ese recurso público.",
+      "limites": "No explica validación o actualización ni define la identidad de capas no aportadas.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V034",
+      "fuente": "D01-F008",
+      "localizador": "Comunicado 1080, 26-04-2022, párrafo de división territorial",
+      "parafrasis": "SSC comunicó 73 sectores y 847 cuadrantes en 2022.",
+      "alcance": "Distribución anunciada en ese momento.",
+      "limites": "No determina qué versión usa el encargo de 2026.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V035",
+      "fuente": "D01-F009",
+      "localizador": "PDF pp. 128 y 130: Subdirección de Estudios y Reportes de OT / Líder Coordinador de Proyectos de Estudios de OT",
+      "parafrasis": "La subdirección organiza y supervisa generación espacial; el líder procesa datos de campo y genera bases y productos cartográficos para documentos técnicos.",
+      "alcance": "Funciones publicadas de unidades PAOT.",
+      "limites": "No es procedimiento de revisión de tres registros ni se atribuye a E01.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V036",
+      "fuente": "D01-F010",
+      "localizador": "Art. 5 XXIX BIS, párrafos de validación e incorporación; art. 3 XIV BIS",
+      "parafrasis": "El texto atribuye funciones sobre SIG-PAOT y condiciona incorporación a entrega oficial, metadatos y compatibilidad; señala revisión y publicación en hasta 15 días hábiles.",
+      "alcance": "Condiciones normativas del SIG-PAOT.",
+      "limites": "No detalla pasos internos. Se conserva la excepción sobre información de otras instituciones y no se acredita cumplimiento.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V037",
+      "fuente": "D01-F011",
+      "localizador": "Qué es el Datálogo; Objetivos; sección prospectiva 2021",
+      "parafrasis": "El Datálogo se describe como catálogo de metadatos para descubrir información; no contiene los datos mismos.",
+      "alcance": "Diseño explicado por ADIP.",
+      "limites": "No acredita ejecución actual ni una base común de geometrías.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V038",
+      "fuente": "D01-F012",
+      "localizador": "Inicio, párrafo de objeto del sistema",
+      "parafrasis": "SIEG declara generar, organizar, actualizar y difundir información para planeación y monitoreo.",
+      "alcance": "Objeto institucional declarado.",
+      "limites": "No se verifican flujo operativo o bases internas.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V039",
+      "fuente": "D01-F013",
+      "localizador": "Arts. 1–2 y 7, secciones 1, 2, 5 y 6 (calidad/linaje)",
+      "parafrasis": "La norma delimita su ámbito y estructura metadatos que distinguen identificación, fechas, referencia y calidad/linaje.",
+      "alcance": "Especificación nacional condicionada a su ámbito.",
+      "limites": "No prueba aplicabilidad a las entrevistas ni controles de CDMX.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V040",
+      "fuente": "D01-F013",
+      "localizador": "Transitorios primero–segundo; ficha DOF 03-01-2025",
+      "parafrasis": "Dispone entrada al día siguiente de publicación y abroga la norma de 2010.",
+      "alcance": "Cambio normativo de 2025.",
+      "limites": "No se comprobó ausencia de cambios posteriores.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V041",
+      "fuente": "D01-F014",
+      "localizador": "Disposición 10; pie de página",
+      "parafrasis": "La normateca lista el manual de 10-06-2021 como vigente y muestra actualización de página 12-11-2026.",
+      "alcance": "Estatus declarado por el emisor.",
+      "limites": "No demuestra aplicabilidad o cumplimiento de casos.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V042",
+      "fuente": "D01-F015",
+      "localizador": "Gaceta 615, p. 4, aviso y transitorios segundo–tercero",
+      "parafrasis": "El aviso identifica el registro y enlace del manual de 2021, entra en vigor al publicarse y deja sin efectos el de 2019.",
+      "alcance": "Procedencia de la edición consultada.",
+      "limites": "No contiene operaciones del manual.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V043",
+      "fuente": "D01-F016",
+      "localizador": "Leyes y Políticas, enlaces de descarga inspeccionados",
+      "parafrasis": "El índice ADIP enlaza una ley rotulada 13072026 y la Política de Gestión de Datos; se abrieron ambos PDFs.",
+      "alcance": "Ruta y selección de versión.",
+      "limites": "No certifica vigencia integral por sí solo.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V044",
+      "fuente": "D01-F017",
+      "localizador": "Encabezado de la compilación",
+      "parafrasis": "La copia PAOT declara última reforma 27-10-2022.",
+      "alcance": "Control de desfase documental.",
+      "limites": "No se usa como texto más reciente.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V045",
+      "fuente": "D01-F020",
+      "localizador": "Presentación y Técnica Geográfica, entrada de metadatos geográficos",
+      "parafrasis": "El repertorio que presenta las versiones vigentes incluye la norma de metadatos geográficos y su ficha técnica.",
+      "alcance": "Vigencia según el catálogo oficial observado el 25-11-2026.",
+      "limites": "No acredita aplicabilidad a los episodios ni cumplimiento.",
+      "extracto_breve": null
+    },
+    {
+      "id": "D01-V046",
+      "fuente": "D01-F021",
+      "localizador": "PDF p. 1, inicio de vigencia, publicación DOF, modificaciones y nota al pie",
+      "parafrasis": "La ficha sitúa la publicación el 03-01-2025, el inicio de vigencia el 04-01-2025 y la abrogación de la norma de 2010. Su nota aclara la denominación actual Unidad de Geografía y Medio Ambiente.",
+      "alcance": "Control de versión y denominación del órgano según el emisor.",
+      "limites": "La denominación actualizada no acredita una modificación del contenido técnico ni identifica responsables de los cinco casos.",
+      "extracto_breve": null
+    }
+  ],
+  "busquedas": [
+    {
+      "consulta": "site.cdmx.gob.mx información geográfica plataforma datos abiertos lineamientos interoperabilidad metadatos ADIP",
+      "medio": "Búsqueda web, motor 2",
+      "fecha": "2026-11-25",
+      "resultado": "Orientó a política, portal, SIG y catálogos; se abrieron rutas pertinentes.",
+      "fuentes": [
+        "D01-F002",
+        "D01-F004",
+        "D01-F006",
+        "D01-F011",
+        "D01-F012"
+      ],
+      "limite": "Búsqueda acotada; no acredita inexistencia universal."
+    },
+    {
+      "consulta": "site.paot.org.mx sistema información geográfica sig cdmx metadatos actualización",
+      "medio": "Búsqueda web, motor 2",
+      "fecha": "2026-11-25",
+      "resultado": "Localizó atribuciones y marco de SIG-PAOT.",
+      "fuentes": [
+        "D01-F010"
+      ],
+      "limite": "Búsqueda acotada; no acredita inexistencia universal."
+    },
+    {
+      "consulta": "site.consejeria.cdmx.gob.mx lineamientos datos abiertos 2019 2020 ADIP",
+      "medio": "Búsqueda web, motor 2",
+      "fecha": "2026-11-25",
+      "resultado": "Orientó a normativa local y política de 2020.",
+      "fuentes": [
+        "D01-F002"
+      ],
+      "limite": "Búsqueda acotada; no acredita inexistencia universal."
+    },
+    {
+      "consulta": "site.politicadedatos.cdmx.gob.mx lineamientos gestión datos metadatos gaceta",
+      "medio": "Búsqueda web, motor 1",
+      "fecha": "2026-11-25",
+      "resultado": "Se localizó marco legal y Gaceta de política; se excluye asumir que ejemplos de estándares son disposiciones adoptadas.",
+      "fuentes": [
+        "D01-F002",
+        "D01-F011"
+      ],
+      "limite": "Búsqueda acotada; no acredita inexistencia universal."
+    },
+    {
+      "consulta": "site.paot.org.mx \"manual\" \"metadatos\"",
+      "medio": "Búsqueda web, motor 1",
+      "fecha": "2026-11-25",
+      "resultado": "Localizó normateca y rutas del manual; contenido específico se recuperó luego del emisor.",
+      "fuentes": [
+        "D01-F009",
+        "D01-F014",
+        "D01-F015"
+      ],
+      "limite": "Búsqueda acotada; no acredita inexistencia universal."
+    },
+    {
+      "consulta": "site.sig.cdmx.gob.mx \"metadatos\"",
+      "medio": "Búsqueda web, motor 1",
+      "fecha": "2026-11-25",
+      "resultado": "La consulta no proporcionó un protocolo comprobado de actualización del conjunto de E01.",
+      "fuentes": [
+        "D01-F004"
+      ],
+      "limite": "No se conoce institución exacta, conjunto o periodo de E01; temática no establece atribución."
+    },
+    {
+      "consulta": "site.datos.cdmx.gob.mx \"Cuadrantes\" \"Actualización\"",
+      "medio": "Búsqueda web, motor 1",
+      "fecha": "2026-11-25",
+      "resultado": "Halló catálogo público de 847 cuadrantes; apertura por descarga directa y diccionario.",
+      "fuentes": [
+        "D01-F006",
+        "D01-F007"
+      ],
+      "limite": "Búsqueda acotada; no acredita inexistencia universal."
+    },
+    {
+      "consulta": "site.datos.cdmx.gob.mx \"sectores\" \"policía\"",
+      "medio": "Búsqueda web, motor 1",
+      "fecha": "2026-11-25",
+      "resultado": "Halló referencias a divisiones SSC; la página dinámica Mi Policía no dio contenido verificable.",
+      "fuentes": [
+        "D01-F008",
+        "D01-F018"
+      ],
+      "limite": "No se usan los números del snippet dinámico."
+    },
+    {
+      "consulta": "site.paot.org.mx \"Manual_Administrativo_2021\" gaceta",
+      "medio": "Búsqueda web, motor 1",
+      "fecha": "2026-11-25",
+      "resultado": "Orientó al índice oficial; se descargó el manual y se buscó el aviso exacto.",
+      "fuentes": [
+        "D01-F009",
+        "D01-F014",
+        "D01-F015"
+      ],
+      "limite": "Búsqueda acotada; no acredita inexistencia universal."
+    },
+    {
+      "consulta": "\"Política de Gestión de Datos\" \"modifica\" \"2025\" \"2026\"",
+      "medio": "Búsqueda web, motor 1",
+      "fecha": "2026-11-25",
+      "resultado": "No se localizó una disposición modificatoria pertinente en esta consulta.",
+      "fuentes": [
+        "D01-F002"
+      ],
+      "limite": "No es certificación de que no exista modificación."
+    },
+    {
+      "consulta": "site.politicadedatos.cdmx.gob.mx \"Estándar\" \"Metadatos\"",
+      "medio": "Búsqueda web, motor 1",
+      "fecha": "2026-11-25",
+      "resultado": "Halló explicaciones y ejemplos; no se identificó aquí una edición final local de estándar con adopción verificada.",
+      "fuentes": [
+        "D01-F011"
+      ],
+      "limite": "No se transforma una propuesta o ejemplo en estándar obligatorio."
+    },
+    {
+      "consulta": "site.consejeria.cdmx.gob.mx \"Política de Gestión de Datos\" \"2026\"",
+      "medio": "Búsqueda web, motor 1",
+      "fecha": "2026-11-25",
+      "resultado": "Se localizó marco normativo de ADIP y copia de política.",
+      "fuentes": [
+        "D01-F002",
+        "D01-F016"
+      ],
+      "limite": "Búsqueda acotada; no acredita inexistencia universal."
+    },
+    {
+      "consulta": "site.consejeria.cdmx.gob.mx \"Ley de Operación e Innovación Digital\" \"2025\"",
+      "medio": "Búsqueda web, motor 1",
+      "fecha": "2026-11-25",
+      "resultado": "Resultados aún describían reforma de 2022; se buscó versión posterior en emisor.",
+      "fuentes": [
+        "D01-F003",
+        "D01-F017"
+      ],
+      "limite": "Snippet no acredita actualidad normativa."
+    },
+    {
+      "consulta": "\"Estándar de Metadatos\" \"Ciudad de México\"",
+      "medio": "Búsqueda web, motor 1",
+      "fecha": "2026-11-25",
+      "resultado": "Halló norma nacional 2025 y referencia a propuesta de Plaza Pública. Se abrió DOF; no se adopta propuesta como norma local.",
+      "fuentes": [
+        "D01-F013"
+      ],
+      "limite": "No se localizó un estándar local final aplicable al conjunto de E01."
+    },
+    {
+      "consulta": "\"interoperabilidad\" \"cartográfica\" \"CDMX\"",
+      "medio": "Búsqueda web, motor 1",
+      "fecha": "2026-11-25",
+      "resultado": "Aparecieron normas y convenios nacionales; se excluyen como prueba de procedimiento común de los cinco casos.",
+      "fuentes": [
+        "D01-F013"
+      ],
+      "limite": "No se importan flujos de otro territorio ni convenios de otra entidad."
+    },
+    {
+      "consulta": "\"MA-18/260521\"",
+      "medio": "Búsqueda web, motor 1",
+      "fecha": "2026-11-25",
+      "resultado": "Confirmó pistas de publicación y evaluaciones; se prefirió el manual y aviso del emisor.",
+      "fuentes": [
+        "D01-F009",
+        "D01-F015"
+      ],
+      "limite": "Búsqueda acotada; no acredita inexistencia universal."
+    },
+    {
+      "consulta": "site.paot.org.mx \"Manual Administrativo\" \"2026\" \"2025\"",
+      "medio": "Búsqueda web, motor 1",
+      "fecha": "2026-11-25",
+      "resultado": "Se halló normateca con registro vigente de 2021; no se identificó reemplazo en esta consulta.",
+      "fuentes": [
+        "D01-F014"
+      ],
+      "limite": "Resultado negativo acotado, no búsqueda exhaustiva de todo acto."
+    },
+    {
+      "consulta": "site.congresocdmx.gob.mx \"LEY DE OPERACIÓN E INNOVACIÓN DIGITAL\" pdf",
+      "medio": "Búsqueda web, motor 1",
+      "fecha": "2026-11-25",
+      "resultado": "Localizó compilaciones antiguas; no se usó un dictamen como texto vigente.",
+      "fuentes": [
+        "D01-F003",
+        "D01-F017"
+      ],
+      "limite": "Búsqueda acotada; no acredita inexistencia universal."
+    },
+    {
+      "consulta": "site.sidof.segob.gob.mx \"5746647\"",
+      "medio": "Búsqueda web, motor 1",
+      "fecha": "2026-11-25",
+      "resultado": "Identificó fecha oficial 03-01-2025; texto y ficha abiertos.",
+      "fuentes": [
+        "D01-F013"
+      ],
+      "limite": "Búsqueda acotada; no acredita inexistencia universal."
+    },
+    {
+      "consulta": "site.paot.org.mx \"Manual\" \"2021\" \"Gaceta\" \"junio\"",
+      "medio": "Búsqueda web, motor 1",
+      "fecha": "2026-11-25",
+      "resultado": "Localizó tabla normativa y referencias al aviso.",
+      "fuentes": [
+        "D01-F014",
+        "D01-F015"
+      ],
+      "limite": "Búsqueda acotada; no acredita inexistencia universal."
+    },
+    {
+      "consulta": "\"Ley de Operación\" \"13 de julio de 2026\"",
+      "medio": "Búsqueda web, motor 1",
+      "fecha": "2026-11-25",
+      "resultado": "Localizó copia oficial parcial de Gaceta 1901, índice con reforma LOID; se abrió, pero no contiene íntegra la sección de LOID.",
+      "fuentes": [
+        "D01-F003"
+      ],
+      "limite": "Copia PAOT GOCDMX_130726_AUSTERIDAD.pdf: índice y fragmento de decreto; no sustituye cadena completa de reformas."
+    },
+    {
+      "consulta": "\"Política de Gestión de Datos\" \"reforma\" \"2026\" \"2025\"",
+      "medio": "Búsqueda web, motor 1",
+      "fecha": "2026-11-25",
+      "resultado": "No se localizó sustitución concreta de la política en esta consulta; hay resultados de marcos legales más amplios.",
+      "fuentes": [
+        "D01-F002"
+      ],
+      "limite": "La vigencia integral se conserva no determinada."
+    },
+    {
+      "consulta": "\"Manual Administrativo\" \"PAOT\" \"10 de junio de 2021\" gaceta",
+      "medio": "Búsqueda web, motor 1",
+      "fecha": "2026-11-25",
+      "resultado": "Orientó a aviso y auditoría; se abrió la gaceta exacta.",
+      "fuentes": [
+        "D01-F015"
+      ],
+      "limite": "Búsqueda acotada; no acredita inexistencia universal."
+    },
+    {
+      "consulta": "\"10 de junio de 2021\" \"MA-18/260521\"",
+      "medio": "Búsqueda web, motor 2",
+      "fecha": "2026-11-25",
+      "resultado": "Localizó Gaceta 615 y copia del expediente institucional de publicación; se abrieron ambas.",
+      "fuentes": [
+        "D01-F009",
+        "D01-F015"
+      ],
+      "limite": "Búsqueda acotada; no acredita inexistencia universal."
+    },
+    {
+      "consulta": "\"10 de junio de 2021\" \"Gaceta\" \"Procuraduría\" \"manual\"",
+      "medio": "Búsqueda web, motor 2",
+      "fecha": "2026-11-25",
+      "resultado": "Confirmó ruta del aviso. Se excluyen blogs y agregadores como sustento.",
+      "fuentes": [
+        "D01-F015"
+      ],
+      "limite": "Búsqueda acotada; no acredita inexistencia universal."
+    },
+    {
+      "consulta": "Aperturas y recuperación alternativa: SIGCDMX, SIEG, Cuadrantes y manual PAOT",
+      "medio": "Apertura web y descarga pública oficial mediante HTTPS/Python",
+      "fecha": "2026-11-25",
+      "resultado": "El lector web falló con 502/timeout o límite de tamaño (manual 23,790,288 bytes). Descarga directa oficial recuperó HTML/PDF/XLSX; lectura efectiva documentada en F004, F006, F007, F009, F012.",
+      "fuentes": [
+        "D01-F004",
+        "D01-F006",
+        "D01-F007",
+        "D01-F009",
+        "D01-F012"
+      ],
+      "limite": "La recuperación no prueba cada función del portal ni lectura integral de 452 páginas."
+    },
+    {
+      "consulta": "Apertura de https://mipolicia.ssp.cdmx.gob.mx/",
+      "medio": "Apertura web + descarga HTTPS",
+      "fecha": "2026-11-25",
+      "resultado": "Cero líneas en lector y HTML mínimo; no se leyó el contenido dinámico.",
+      "fuentes": [
+        "D01-F018"
+      ],
+      "limite": "Sin evidencia; no se rescatan números del resultado de búsqueda."
+    },
+    {
+      "consulta": "Apertura de https://sneig.gob.mx/scn-vigente/",
+      "medio": "Apertura web + descarga HTTPS",
+      "fecha": "2026-11-25",
+      "resultado": "Falló apertura con 502 y descarga directa con 503.",
+      "fuentes": [
+        "D01-F019"
+      ],
+      "limite": "Se comprobó publicación y abrogación en DOF, no repertorio vigente."
+    },
+    {
+      "consulta": "Apertura normativa: Consejería LOID, marco ADIP y rutas PDF",
+      "medio": "Apertura web + descarga HTTPS",
+      "fecha": "2026-11-25",
+      "resultado": "Consejería falló 502/503. El marco ADIP falló en lector, pero descargó HTML; permitió recuperar compilación 2026 y gaceta de política.",
+      "fuentes": [
+        "D01-F002",
+        "D01-F003",
+        "D01-F016",
+        "D01-F017"
+      ],
+      "limite": "Se conserva el conflicto de versiones y no se certifica vigencia integral."
+    },
+    {
+      "consulta": "Apertura de https://www.snieg.mx/scn-vigente/ y de la ficha técnica oficial enlazada de metadatos geográficos",
+      "medio": "Lector web y descarga pública de coordinación; seguimiento de ruta oficial alternativa",
+      "fecha": "2026-11-25",
+      "resultado": "Se leyó la entrada en el repertorio vigente y la ficha de una página. Se agregan F020/F021 y V045/V046.",
+      "fuentes": [
+        "D01-F020",
+        "D01-F021",
+        "D01-F013"
+      ],
+      "limite": "No acredita revisión de toda la normativa o aplicabilidad de la norma a los episodios. Las 29 búsquedas anteriores se conservan como registro recibido, sin afirmar que coordinación las repitiera todas."
+    }
+  ],
+  "cobertura_casos": [
+    {
+      "entrevista": "E01",
+      "estado": "SIN_FUENTE_DIRECTA_IDENTIFICADA",
+      "fuentes": [
+        "D01-F002",
+        "D01-F003",
+        "D01-F004",
+        "D01-F009",
+        "D01-F010"
+      ],
+      "componentes_p01": [
+        "P01-E01-N001",
+        "P01-E01-N002",
+        "P01-E01-N003",
+        "P01-E01-N004",
+        "P01-E01-N005",
+        "P01-E01-N006",
+        "P01-E01-N007",
+        "P01-E01-N008",
+        "P01-E01-N009",
+        "P01-E01-N010",
+        "P01-E01-N011",
+        "P01-E01-N012",
+        "P01-E01-N013",
+        "P01-E01-N014",
+        "P01-E01-N015",
+        "P01-E01-R001",
+        "P01-E01-R002",
+        "P01-E01-R003",
+        "P01-E01-R004",
+        "P01-E01-R005",
+        "P01-E01-R006",
+        "P01-E01-R007",
+        "P01-E01-R008",
+        "P01-E01-R009",
+        "P01-E01-R010",
+        "P01-E01-R011",
+        "P01-E01-R012",
+        "P01-E01-R013",
+        "P01-E01-R014",
+        "P01-E01-R015",
+        "P01-E01-R016",
+        "P01-E01-R017"
+      ],
+      "criterio_correspondencia": "Institución/unidad exacta, conjunto, procedimiento y periodo no identificados. Las fuentes listadas son marco o referencias contextuales, nunca manual del perfil.",
+      "limitacion": "No se aportaron tabla, croquis, copia revisada ni aclaraciones; no se verifica uso posterior."
+    },
+    {
+      "entrevista": "E02",
+      "estado": "SIN_FUENTE_DIRECTA_IDENTIFICADA",
+      "fuentes": [
+        "D01-F013"
+      ],
+      "componentes_p01": [
+        "P01-E02-N001",
+        "P01-E02-N002",
+        "P01-E02-N003",
+        "P01-E02-N004",
+        "P01-E02-N005",
+        "P01-E02-N006",
+        "P01-E02-N007",
+        "P01-E02-N008",
+        "P01-E02-N009",
+        "P01-E02-N010",
+        "P01-E02-N011",
+        "P01-E02-N012",
+        "P01-E02-N013",
+        "P01-E02-N014",
+        "P01-E02-N015",
+        "P01-E02-N016",
+        "P01-E02-R001",
+        "P01-E02-R002",
+        "P01-E02-R003",
+        "P01-E02-R004",
+        "P01-E02-R005",
+        "P01-E02-R006",
+        "P01-E02-R008",
+        "P01-E02-R009",
+        "P01-E02-R010",
+        "P01-E02-R011",
+        "P01-E02-R012",
+        "P01-E02-R013",
+        "P01-E02-R014",
+        "P01-E02-R015",
+        "P01-E02-R016",
+        "P01-E02-R017",
+        "P01-E02-R018",
+        "P01-E02-R019"
+      ],
+      "criterio_correspondencia": "No se identifica universidad, proyecto ni protocolo; el estándar nacional se usa como referencia condicionada, sin vínculo directo.",
+      "limitacion": "Pauta, consentimientos, notas y versiones no aportados; no se documenta una selección representativa."
+    },
+    {
+      "entrevista": "E03",
+      "estado": "SIN_FUENTE_DIRECTA_IDENTIFICADA",
+      "fuentes": [],
+      "componentes_p01": [
+        "P01-E03-N001",
+        "P01-E03-N002",
+        "P01-E03-N003",
+        "P01-E03-N004",
+        "P01-E03-N005",
+        "P01-E03-N006",
+        "P01-E03-N007",
+        "P01-E03-N008",
+        "P01-E03-N009",
+        "P01-E03-N010",
+        "P01-E03-N011",
+        "P01-E03-N012",
+        "P01-E03-N013",
+        "P01-E03-N014",
+        "P01-E03-N015",
+        "P01-E03-N016",
+        "P01-E03-N017",
+        "P01-E03-N018",
+        "P01-E03-R001",
+        "P01-E03-R002",
+        "P01-E03-R003",
+        "P01-E03-R004",
+        "P01-E03-R005",
+        "P01-E03-R006",
+        "P01-E03-R007",
+        "P01-E03-R008",
+        "P01-E03-R009",
+        "P01-E03-R010",
+        "P01-E03-R011",
+        "P01-E03-R012",
+        "P01-E03-R013",
+        "P01-E03-R014",
+        "P01-E03-R015",
+        "P01-E03-R016",
+        "P01-E03-R017",
+        "P01-E03-R018",
+        "P01-E03-R019",
+        "P01-E03-R020",
+        "P01-E03-R021",
+        "P01-E03-R022",
+        "P01-E03-R023",
+        "P01-E03-R024"
+      ],
+      "criterio_correspondencia": "Organización, espacio, serie y fechas exactas no se identifican. No se busca desanonimizar ni atribuir un manual por actividad cultural.",
+      "limitacion": "Mensajes, invitación, calendario y notas de sesión no aportados; práctica relatada sin norma específica identificada."
+    },
+    {
+      "entrevista": "E04",
+      "estado": "SIN_FUENTE_DIRECTA_IDENTIFICADA",
+      "fuentes": [],
+      "componentes_p01": [
+        "P01-E04-N001",
+        "P01-E04-N002",
+        "P01-E04-N003",
+        "P01-E04-N004",
+        "P01-E04-N005",
+        "P01-E04-N006",
+        "P01-E04-N007",
+        "P01-E04-N008",
+        "P01-E04-N009",
+        "P01-E04-N010",
+        "P01-E04-N011",
+        "P01-E04-N012",
+        "P01-E04-N013",
+        "P01-E04-N014",
+        "P01-E04-N015",
+        "P01-E04-N016",
+        "P01-E04-R001",
+        "P01-E04-R002",
+        "P01-E04-R003",
+        "P01-E04-R004",
+        "P01-E04-R005",
+        "P01-E04-R006",
+        "P01-E04-R007",
+        "P01-E04-R008",
+        "P01-E04-R009",
+        "P01-E04-R010",
+        "P01-E04-R011",
+        "P01-E04-R012",
+        "P01-E04-R013",
+        "P01-E04-R014",
+        "P01-E04-R015",
+        "P01-E04-R016",
+        "P01-E04-R017"
+      ],
+      "criterio_correspondencia": "Negocio, proveedor, artículo y periodo no identificados para asignar un documento; no se presupone manual de pequeño comercio.",
+      "limitacion": "Faltan soportes de compra y acuerdos internos; no se deduce que no existan por no estar aportados."
+    },
+    {
+      "entrevista": "E05",
+      "estado": "SIN_FUENTE_DIRECTA_IDENTIFICADA",
+      "fuentes": [],
+      "componentes_p01": [
+        "P01-E05-N001",
+        "P01-E05-N002",
+        "P01-E05-N003",
+        "P01-E05-N004",
+        "P01-E05-N005",
+        "P01-E05-N006",
+        "P01-E05-N007",
+        "P01-E05-N008",
+        "P01-E05-N009",
+        "P01-E05-N010",
+        "P01-E05-N011",
+        "P01-E05-N012",
+        "P01-E05-N013",
+        "P01-E05-N014",
+        "P01-E05-N015",
+        "P01-E05-N016",
+        "P01-E05-N017",
+        "P01-E05-R001",
+        "P01-E05-R003",
+        "P01-E05-R004",
+        "P01-E05-R005",
+        "P01-E05-R006",
+        "P01-E05-R007",
+        "P01-E05-R008",
+        "P01-E05-R009",
+        "P01-E05-R010",
+        "P01-E05-R011",
+        "P01-E05-R012",
+        "P01-E05-R013",
+        "P01-E05-R014",
+        "P01-E05-R015",
+        "P01-E05-R016",
+        "P01-E05-R017"
+      ],
+      "criterio_correspondencia": "Establecimiento y fecha de salida no identificados; no se sustituye soporte histórico por página actual.",
+      "limitacion": "Faltan mensajes y copia histórica del horario; desconocida comprobación de la amistad."
+    }
+  ],
+  "cobertura_agenda": [
+    {
+      "pregunta_id": "P01-DOC001",
+      "estado": "PENDIENTE",
+      "fuentes": [
+        "D01-F004"
+      ],
+      "detalle": "SIGCDMX ayuda a distinguir unidades de otros datos, pero no responde por el conjunto de E01. La pregunta específica sigue sin soporte del episodio. El paquete solo contiene relatos y análisis; las búsquedas oficiales del sistema territorial no recuperan esos documentos propios. No se declara OBTENIDA ni PARCIAL por semejanza temática.",
+      "proxima_accion": "Obtener, si existe y se facilita para contraste, especificación del mismo conjunto y alcance de la petición; comprobar institución/unidad y periodo sin desanonimizar en la entrega."
+    },
+    {
+      "pregunta_id": "P01-DOC002",
+      "estado": "PENDIENTE",
+      "fuentes": [],
+      "detalle": "La pregunta específica sigue sin soporte del episodio. El paquete solo contiene relatos y análisis; las búsquedas oficiales del sistema territorial no recuperan esos documentos propios. No se declara OBTENIDA ni PARCIAL por semejanza temática.",
+      "proxima_accion": "Cotejar tabla, croquis, copia entregada y aclaración del mismo encargo si son aportados con acceso autorizado."
+    },
+    {
+      "pregunta_id": "P01-DOC003",
+      "estado": "PENDIENTE",
+      "fuentes": [],
+      "detalle": "La pregunta específica sigue sin soporte del episodio. El paquete solo contiene relatos y análisis; las búsquedas oficiales del sistema territorial no recuperan esos documentos propios. No se declara OBTENIDA ni PARCIAL por semejanza temática.",
+      "proxima_accion": "Consultar pauta y acuerdos del ejercicio, con acceso autorizado y sin publicar identificadores de participantes."
+    },
+    {
+      "pregunta_id": "P01-DOC004",
+      "estado": "PENDIENTE",
+      "fuentes": [],
+      "detalle": "La pregunta específica sigue sin soporte del episodio. El paquete solo contiene relatos y análisis; las búsquedas oficiales del sistema territorial no recuperan esos documentos propios. No se declara OBTENIDA ni PARCIAL por semejanza temática.",
+      "proxima_accion": "Comparar notas y versiones de texto/presentación del mismo ejercicio, distinguiendo observado, relatado y cambios."
+    },
+    {
+      "pregunta_id": "P01-DOC005",
+      "estado": "PENDIENTE",
+      "fuentes": [],
+      "detalle": "La pregunta específica sigue sin soporte del episodio. El paquete solo contiene relatos y análisis; las búsquedas oficiales del sistema territorial no recuperan esos documentos propios. No se declara OBTENIDA ni PARCIAL por semejanza temática.",
+      "proxima_accion": "Cotejar mensajes de confirmación, resumen, calendario e invitación de las tres fechas, si se conservan y son aportados."
+    },
+    {
+      "pregunta_id": "P01-DOC006",
+      "estado": "PENDIENTE",
+      "fuentes": [],
+      "detalle": "La pregunta específica sigue sin soporte del episodio. El paquete solo contiene relatos y análisis; las búsquedas oficiales del sistema territorial no recuperan esos documentos propios. No se declara OBTENIDA ni PARCIAL por semejanza temática.",
+      "proxima_accion": "Cotejar notas y comunicaciones posteriores del episodio si existen; separar ajustes, ideas y resultados de impacto."
+    },
+    {
+      "pregunta_id": "P01-DOC007",
+      "estado": "PENDIENTE",
+      "fuentes": [],
+      "detalle": "La pregunta específica sigue sin soporte del episodio. El paquete solo contiene relatos y análisis; las búsquedas oficiales del sistema territorial no recuperan esos documentos propios. No se declara OBTENIDA ni PARCIAL por semejanza temática.",
+      "proxima_accion": "Cotejar notas, muestra, lista y referencia del artículo y compra concretos si se conservan y se autoriza su acceso."
+    },
+    {
+      "pregunta_id": "P01-DOC008",
+      "estado": "PENDIENTE",
+      "fuentes": [],
+      "detalle": "La pregunta específica sigue sin soporte del episodio. El paquete solo contiene relatos y análisis; las búsquedas oficiales del sistema territorial no recuperan esos documentos propios. No se declara OBTENIDA ni PARCIAL por semejanza temática.",
+      "proxima_accion": "Establecer con documentación propia aportada si el acuerdo se escribió; admitir práctica situada sin imponer manual."
+    },
+    {
+      "pregunta_id": "P01-DOC009",
+      "estado": "PENDIENTE",
+      "fuentes": [],
+      "detalle": "La pregunta específica sigue sin soporte del episodio. El paquete solo contiene relatos y análisis; las búsquedas oficiales del sistema territorial no recuperan esos documentos propios. No se declara OBTENIDA ni PARCIAL por semejanza temática.",
+      "proxima_accion": "Usar solo mensajes y publicación histórica de esa ocasión, si se aportan; no certificar pasado con consulta actual."
+    },
+    {
+      "pregunta_id": "P01-DOC010",
+      "estado": "PENDIENTE",
+      "fuentes": [],
+      "detalle": "La pregunta específica sigue sin soporte del episodio. El paquete solo contiene relatos y análisis; las búsquedas oficiales del sistema territorial no recuperan esos documentos propios. No se declara OBTENIDA ni PARCIAL por semejanza temática.",
+      "proxima_accion": "Establecer por separado para E03, E04 y E05 si existen soportes pertinentes de su actividad; no buscar manual común ni identificar personas."
+    }
+  ],
+  "modelos_documentales": [
+    {
+      "id": "D01-M001",
+      "nombre": "Vías publicadas de apertura y actualización en el Portal de Datos Abiertos (texto de 2020)",
+      "ambito": "Entes públicos de CDMX y ADIP; publicación abierta, no todo intercambio institucional.",
+      "alcance": "Modelo parcial de operaciones y condiciones expresas; separa vías alternativas y obligaciones transversales.",
+      "limites": "No prueba funcionamiento presente. No dibuja revisión geométrica, visto bueno, rechazo o tiempos que el texto no describe. No se aplica a entrevistas. Vigencia integral no determinada. Las relaciones CONDICION no fijan orden cronológico adicional.",
+      "evidencias_documentales": [
+        "D01-V022",
+        "D01-V023",
+        "D01-V024"
+      ],
+      "nodos": [
+        {
+          "id": "D01-M001-N001",
+          "etiqueta": "Preparar conjunto y descripción",
+          "descripcion": "Datos en formatos abiertos, metadatos y diccionario.",
+          "actor_documentado": "Ente público",
+          "evidencias_documentales": [
+            "D01-V022"
+          ]
+        },
+        {
+          "id": "D01-M001-N002",
+          "etiqueta": "Publicar con usuario",
+          "descripcion": "Vía de usuario del portal.",
+          "actor_documentado": "Ente público",
+          "evidencias_documentales": [
+            "D01-V022"
+          ]
+        },
+        {
+          "id": "D01-M001-N003",
+          "etiqueta": "Solicitar publicación",
+          "descripcion": "Vía alternativa de solicitud a ADIP.",
+          "actor_documentado": "Ente público",
+          "evidencias_documentales": [
+            "D01-V022"
+          ]
+        },
+        {
+          "id": "D01-M001-N004",
+          "etiqueta": "Definir periodicidad",
+          "descripcion": "Responsabilidad sobre calendario declarado.",
+          "actor_documentado": "Ente público",
+          "evidencias_documentales": [
+            "D01-V023"
+          ]
+        },
+        {
+          "id": "D01-M001-N005",
+          "etiqueta": "Actualizar por una de tres vías",
+          "descripcion": "Usuario, solicitud o API desarrollada por el ente.",
+          "actor_documentado": "Ente público",
+          "evidencias_documentales": [
+            "D01-V023"
+          ]
+        },
+        {
+          "id": "D01-M001-N006",
+          "etiqueta": "Documentar y explicitar cambios",
+          "descripcion": "Cambios necesarios de estructura: documentación y oficio; revisiones visibles.",
+          "actor_documentado": "Ente público",
+          "evidencias_documentales": [
+            "D01-V024"
+          ]
+        },
+        {
+          "id": "D01-M001-N007",
+          "etiqueta": "Solicitar datos ante retraso",
+          "descripcion": "Seguimiento por correo cuando la actualización no es oportuna.",
+          "actor_documentado": "ADIP",
+          "evidencias_documentales": [
+            "D01-V024"
+          ]
+        }
+      ],
+      "relaciones": [
+        {
+          "id": "D01-M001-R001",
+          "origen": "D01-M001-N001",
+          "destino": "D01-M001-N002",
+          "tipo": "CONDICION",
+          "justificacion": "Los requisitos de publicación acompañan la vía de usuario; no se agrega aprobación.",
+          "evidencias_documentales": [
+            "D01-V022"
+          ]
+        },
+        {
+          "id": "D01-M001-R002",
+          "origen": "D01-M001-N001",
+          "destino": "D01-M001-N003",
+          "tipo": "CONDICION",
+          "justificacion": "La solicitud incluye conjunto, diccionario y descripción; alternativa a usuario.",
+          "evidencias_documentales": [
+            "D01-V022"
+          ]
+        },
+        {
+          "id": "D01-M001-R003",
+          "origen": "D01-M001-N004",
+          "destino": "D01-M001-N005",
+          "tipo": "CONDICION",
+          "justificacion": "La actualización atiende la periodicidad definida; no fija cuándo debe producirse internamente el dato.",
+          "evidencias_documentales": [
+            "D01-V023"
+          ]
+        },
+        {
+          "id": "D01-M001-R004",
+          "origen": "D01-M001-N005",
+          "destino": "D01-M001-N006",
+          "tipo": "CONDICION",
+          "justificacion": "Obligaciones de documentación y explicitación al modificar; no es una etapa siempre posterior.",
+          "evidencias_documentales": [
+            "D01-V024"
+          ]
+        },
+        {
+          "id": "D01-M001-R005",
+          "origen": "D01-M001-N004",
+          "destino": "D01-M001-N007",
+          "tipo": "CONDICION",
+          "justificacion": "Si se incumple oportunidad de actualización, el texto prevé solicitud ADIP.",
+          "evidencias_documentales": [
+            "D01-V023",
+            "D01-V024"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D01-M002",
+      "nombre": "Funciones publicadas de producción espacial en estudios de ordenamiento territorial de PAOT",
+      "ambito": "Subdirección de Estudios y Reportes de Ordenamiento Territorial y Líder Coordinador de Proyectos de Estudios de Ordenamiento Territorial de PAOT.",
+      "alcance": "Grafo de funciones atribuidas, con productos vinculados a documentos técnicos. No es procedimiento completo.",
+      "limites": "No añade secuencia de aprobación, metadatos o publicación. El manual corresponde a PAOT; E01 refiere trabajo en una alcaldía sin identificación exacta. No se equiparan cargos por semejanza.",
+      "evidencias_documentales": [
+        "D01-V035"
+      ],
+      "nodos": [
+        {
+          "id": "D01-M002-N001",
+          "etiqueta": "Subdirección de Estudios y Reportes de OT",
+          "descripcion": "Unidad nombrada en p. 128.",
+          "actor_documentado": "PAOT: Subdirección de Estudios y Reportes de Ordenamiento Territorial",
+          "evidencias_documentales": [
+            "D01-V035"
+          ]
+        },
+        {
+          "id": "D01-M002-N002",
+          "etiqueta": "Organizar y supervisar generación espacial",
+          "descripcion": "Función respecto de actividades y visitas para documentos técnicos.",
+          "actor_documentado": "PAOT: Subdirección de Estudios y Reportes de Ordenamiento Territorial",
+          "evidencias_documentales": [
+            "D01-V035"
+          ]
+        },
+        {
+          "id": "D01-M002-N003",
+          "etiqueta": "Líder de Proyectos de Estudios de OT",
+          "descripcion": "Puesto desarrollado en pp. 129–130.",
+          "actor_documentado": "PAOT: Líder Coordinador de Proyectos de Estudios de Ordenamiento Territorial",
+          "evidencias_documentales": [
+            "D01-V035"
+          ]
+        },
+        {
+          "id": "D01-M002-N004",
+          "etiqueta": "Procesar datos de campo en bases espaciales",
+          "descripcion": "Función de elaboración de bases de información espacial.",
+          "actor_documentado": "PAOT: Líder Coordinador de Proyectos de Estudios de Ordenamiento Territorial",
+          "evidencias_documentales": [
+            "D01-V035"
+          ]
+        },
+        {
+          "id": "D01-M002-N005",
+          "etiqueta": "Generar productos cartográficos",
+          "descripcion": "Soporte de documentos técnicos del área.",
+          "actor_documentado": "PAOT: Líder Coordinador de Proyectos de Estudios de Ordenamiento Territorial",
+          "evidencias_documentales": [
+            "D01-V035"
+          ]
+        }
+      ],
+      "relaciones": [
+        {
+          "id": "D01-M002-R001",
+          "origen": "D01-M002-N001",
+          "destino": "D01-M002-N002",
+          "tipo": "ATRIBUCION",
+          "justificacion": "Función expresamente asignada en p. 128.",
+          "evidencias_documentales": [
+            "D01-V035"
+          ]
+        },
+        {
+          "id": "D01-M002-R002",
+          "origen": "D01-M002-N003",
+          "destino": "D01-M002-N004",
+          "tipo": "ATRIBUCION",
+          "justificacion": "Función expresamente asignada en p. 130.",
+          "evidencias_documentales": [
+            "D01-V035"
+          ]
+        },
+        {
+          "id": "D01-M002-R003",
+          "origen": "D01-M002-N003",
+          "destino": "D01-M002-N005",
+          "tipo": "ATRIBUCION",
+          "justificacion": "Función expresamente asignada en p. 130; no constituye una aprobación de la subdirección.",
+          "evidencias_documentales": [
+            "D01-V035"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D01-M003",
+      "nombre": "Relaciones de unidades y datos descritas por SIGCDMX",
+      "ambito": "Documentación de descarga del SIGCDMX; catastro y datos normativos de predios.",
+      "alcance": "Modelo de relaciones de datos y representación; no circuito de producción ni homologación de toda la ciudad.",
+      "limites": "No se abrieron todos los recursos ni se verificó una unión ejecutada. FID no se traslada a E01. Las correspondencias son las descritas por esta página, no una garantía de integridad de las descargas.",
+      "evidencias_documentales": [
+        "D01-V028",
+        "D01-V029"
+      ],
+      "nodos": [
+        {
+          "id": "D01-M003-N001",
+          "etiqueta": "Cuentas catastrales",
+          "descripcion": "Registros en archivo plano.",
+          "actor_documentado": "Secretaría de Administración y Finanzas, según documentación",
+          "evidencias_documentales": [
+            "D01-V028"
+          ]
+        },
+        {
+          "id": "D01-M003-N002",
+          "etiqueta": "Polígonos de predios",
+          "descripcion": "Un predio puede tener varias cuentas.",
+          "actor_documentado": "Secretaría de Administración y Finanzas, según documentación",
+          "evidencias_documentales": [
+            "D01-V028"
+          ]
+        },
+        {
+          "id": "D01-M003-N003",
+          "etiqueta": "Clave FID",
+          "descripcion": "Identificador descrito para relacionar cuenta y predio.",
+          "actor_documentado": null,
+          "evidencias_documentales": [
+            "D01-V028"
+          ]
+        },
+        {
+          "id": "D01-M003-N004",
+          "etiqueta": "Puntos con información normativa",
+          "descripcion": "Cada punto representa un predio en descarga SEDUVI.",
+          "actor_documentado": "SEDUVI, denominación en la documentación",
+          "evidencias_documentales": [
+            "D01-V029"
+          ]
+        },
+        {
+          "id": "D01-M003-N005",
+          "etiqueta": "Predio representado",
+          "descripcion": "Unidad declarada por el texto para los puntos normativos.",
+          "actor_documentado": null,
+          "evidencias_documentales": [
+            "D01-V029"
+          ]
+        }
+      ],
+      "relaciones": [
+        {
+          "id": "D01-M003-R001",
+          "origen": "D01-M003-N001",
+          "destino": "D01-M003-N003",
+          "tipo": "ARTICULACION_ANALITICA",
+          "justificacion": "Representación de la instrucción de unir por FID; no secuencia operativa institucional.",
+          "evidencias_documentales": [
+            "D01-V028"
+          ]
+        },
+        {
+          "id": "D01-M003-R002",
+          "origen": "D01-M003-N003",
+          "destino": "D01-M003-N002",
+          "tipo": "ARTICULACION_ANALITICA",
+          "justificacion": "Completa gráficamente la relación cuenta–predio descrita; no identifica un registro del corpus.",
+          "evidencias_documentales": [
+            "D01-V028"
+          ]
+        },
+        {
+          "id": "D01-M003-R003",
+          "origen": "D01-M003-N004",
+          "destino": "D01-M003-N005",
+          "tipo": "ARTICULACION_ANALITICA",
+          "justificacion": "Expresa la semántica punto–predio de la página; no conecta los puntos con polígonos por una clave no documentada.",
+          "evidencias_documentales": [
+            "D01-V029"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D01-M004",
+      "nombre": "Condiciones legales de incorporación al SIG-PAOT",
+      "ambito": "Art. 5 XXIX BIS de la Ley Orgánica PAOT; información ambiental y territorial aportada al SIG-PAOT.",
+      "alcance": "Relación normativa mínima de insumo y condiciones con revisión/publicación; no desglose operativo completo.",
+      "limites": "Texto compilado con vigencia integral no determinada. Las condiciones no prueban cumplimiento ni explican el detalle de controles. No se integra con el manual de estudios como si publicaran un mismo flujo. Se conserva la excepción relativa a información de otras instituciones.",
+      "evidencias_documentales": [
+        "D01-V036"
+      ],
+      "nodos": [
+        {
+          "id": "D01-M004-N001",
+          "etiqueta": "Aportación de dependencias competentes",
+          "descripcion": "Información pertinente a suelo, ambiente y ordenamiento territorial.",
+          "actor_documentado": "Dependencias en el ámbito de la fracción",
+          "evidencias_documentales": [
+            "D01-V036"
+          ]
+        },
+        {
+          "id": "D01-M004-N002",
+          "etiqueta": "Entrega oficial y compatibilidad",
+          "descripcion": "Ficha de metadatos, especificaciones técnicas y estándares cartográficos.",
+          "actor_documentado": "Dependencia aportante; condiciones establecidas por PAOT",
+          "evidencias_documentales": [
+            "D01-V036"
+          ]
+        },
+        {
+          "id": "D01-M004-N003",
+          "etiqueta": "Revisión y publicación previstas",
+          "descripcion": "La disposición señala un máximo de 15 días hábiles bajo las condiciones expresas.",
+          "actor_documentado": "PAOT",
+          "evidencias_documentales": [
+            "D01-V036"
+          ]
+        },
+        {
+          "id": "D01-M004-N004",
+          "etiqueta": "Validación y carácter de uso",
+          "descripcion": "Atribuciones sobre información que genere e ingrese; excepción de información generada por otras instituciones.",
+          "actor_documentado": "PAOT, con excepción indicada en la ley",
+          "evidencias_documentales": [
+            "D01-V036"
+          ]
+        }
+      ],
+      "relaciones": [
+        {
+          "id": "D01-M004-R001",
+          "origen": "D01-M004-N001",
+          "destino": "D01-M004-N002",
+          "tipo": "CONDICION",
+          "justificacion": "La aportación debe entregarse oficialmente y cumplir condiciones técnicas para la incorporación descrita.",
+          "evidencias_documentales": [
+            "D01-V036"
+          ]
+        },
+        {
+          "id": "D01-M004-R002",
+          "origen": "D01-M004-N002",
+          "destino": "D01-M004-N003",
+          "tipo": "CONDICION",
+          "justificacion": "El plazo se condiciona expresamente a entrega oficial y cumplimiento técnico; no se inventa inicio distinto del cómputo.",
+          "evidencias_documentales": [
+            "D01-V036"
+          ]
+        }
+      ]
+    }
+  ],
+  "contrastes": [
+    {
+      "id": "D01-C001",
+      "entrevistas": [
+        "E01"
+      ],
+      "componentes_p01": [
+        "P01-E01-N003",
+        "P01-E01-N006",
+        "P01-E01-N009"
+      ],
+      "evidencias_entrevistas": [
+        "P01-V0014",
+        "P01-V0034"
+      ],
+      "evidencias_documentales": [
+        "D01-V028",
+        "D01-V029"
+      ],
+      "tipo": "REFERENCIA_CONTEXTUAL",
+      "aplicabilidad_directa_establecida": false,
+      "correspondencia": "Operación comparada: precisar qué representa un objeto espacial antes de modificarlo. Coincide el nivel de pregunta, no el conjunto ni su identificador.",
+      "descripcion": "SIGCDMX diferencia cuenta, polígono de predio y punto normativo; E01 distingue punto del espacio y puerta. Es compatible con exigir semántica explícita, sin atribuir esos campos al caso.",
+      "explicacion": "E01 explica que su intención inicial de mover el punto no se ejecutó porque confundía sitio y puerta; la revisión con su compañera cambió su lectura. Es explicación testimonial de su decisión, no de una supuesta infracción.",
+      "tipo_explicacion": "RESPALDADA",
+      "limites": "No hay vínculo comprobado entre registros E01 y SIGCDMX. No se certifican precisión, deber de mover, incumplimiento o regla FID."
+    },
+    {
+      "id": "D01-C002",
+      "entrevistas": [
+        "E01"
+      ],
+      "componentes_p01": [
+        "P01-E01-N010",
+        "P01-E01-N011",
+        "P01-E01-N012",
+        "P01-E01-N015"
+      ],
+      "evidencias_entrevistas": [
+        "P01-V0017",
+        "P01-V0018"
+      ],
+      "evidencias_documentales": [
+        "D01-V024"
+      ],
+      "tipo": "TENSION_PARA_VERIFICAR",
+      "aplicabilidad_directa_establecida": false,
+      "correspondencia": "Operación comparable: documentar una modificación y hacerla comprensible. El documento regula publicación abierta; el relato trata una copia de trabajo.",
+      "descripcion": "La política exige documentar cambios de estructura y explicitar revisiones. E01 guarda aclaración y limita el cambio a la descripción de acceso. Se desconoce si existe un conjunto publicado al que deba propagarse.",
+      "explicacion": "Guardar el origen responde a poder explicar después por qué ajustó la copia. Que no relate publicación puede deberse al alcance del encargo o a una responsabilidad de otra unidad; son alternativas analíticas, no hechos del circuito.",
+      "tipo_explicacion": "HIPOTESIS_ANALITICA",
+      "limites": "Sin institución/unidad, conjunto y periodo no se puede afirmar divergencia, falta de propagación ni incumplimiento del portal."
+    },
+    {
+      "id": "D01-C003",
+      "entrevistas": [
+        "E01"
+      ],
+      "componentes_p01": [
+        "P01-E01-N002",
+        "P01-E01-N009",
+        "P01-E01-N014"
+      ],
+      "evidencias_entrevistas": [
+        "P01-V0001",
+        "P01-V0022",
+        "P01-V0046"
+      ],
+      "evidencias_documentales": [
+        "D01-V035",
+        "D01-V036"
+      ],
+      "tipo": "NO_COMPARABLE",
+      "aplicabilidad_directa_establecida": false,
+      "correspondencia": "El manual se refiere a producción espacial de estudios PAOT y la ley a incorporación a SIG-PAOT. E01 se limita a revisar tres registros para visitas. No es la misma operación institucional.",
+      "descripcion": "No se atribuye a E01 la generación de bases de campo, validación SIG-PAOT o publicación en quince días. La similitud del vocabulario territorial no crea correspondencia.",
+      "explicacion": "El relato declara que no organiza visitas ni describe un circuito de toda la alcaldía. La causa de cualquier diferencia respecto a PAOT es desconocida porque no se ha establecido una obligación común.",
+      "tipo_explicacion": "NO_DETERMINADA",
+      "limites": "El manual es específico de otra entidad y el caso está anonimizado. No se deduce identidad de alcaldía o puesto."
+    },
+    {
+      "id": "D01-C004",
+      "entrevistas": [
+        "E02"
+      ],
+      "componentes_p01": [
+        "P01-E02-N006",
+        "P01-E02-N007",
+        "P01-E02-N011",
+        "P01-E02-N015"
+      ],
+      "evidencias_entrevistas": [
+        "P01-V0064",
+        "P01-V0080",
+        "P01-V0112",
+        "P01-V0116"
+      ],
+      "evidencias_documentales": [
+        "D01-V039"
+      ],
+      "tipo": "REFERENCIA_CONTEXTUAL",
+      "aplicabilidad_directa_establecida": false,
+      "correspondencia": "Operación comparada: conservar origen, unidad y alcance para interpretar datos. Se comparan principios de documentación con práctica de investigación, no un protocolo común.",
+      "descripcion": "La norma nacional distingue identificación, fechas y linaje. E02 separa observado, dicho y preguntas, y corrige comparar tiempos con orígenes distintos. La analogía no hace de sus notas metadatos certificados.",
+      "explicacion": "La objeción de la colega sobre desde dónde y para qué motivó la revisión de unidades; el texto se acotó después de la discusión. Esa explicación está en el testimonio.",
+      "tipo_explicacion": "RESPALDADA",
+      "limites": "No se identificó universidad, protocolo, proyecto ni categoría de información de interés nacional. No se evalúa cumplimiento INEGI de E02."
+    },
+    {
+      "id": "D01-C005",
+      "entrevistas": [
+        "E02"
+      ],
+      "componentes_p01": [
+        "P01-E02-N008",
+        "P01-E02-N012"
+      ],
+      "evidencias_entrevistas": [
+        "P01-V0084",
+        "P01-V0085",
+        "P01-V0087",
+        "P01-V0088"
+      ],
+      "evidencias_documentales": [
+        "D01-V029",
+        "D01-V038"
+      ],
+      "tipo": "REFERENCIA_CONTEXTUAL",
+      "aplicabilidad_directa_establecida": false,
+      "correspondencia": "Operación comparada: situar información para consulta e interpretación territorial; los propósitos son distintos.",
+      "descripcion": "Los portales describen acceso territorial y planeación. E02 usa mapa para situar actividades, pero su relación depende de las explicaciones del recorrido. Un visor permite consulta espacial y no acredita por sí mismo interpretación social.",
+      "explicacion": "La explicación de la persona acompañada permitió entender por qué visita y compra se narraban juntas. Cercanía sola admitía una lectura distinta.",
+      "tipo_explicacion": "RESPALDADA",
+      "limites": "No se identifica software, capa pública o portal usado por E02. No se concluye que mapas sean inútiles ni que el visor del cliente resuelva su tarea."
+    },
+    {
+      "id": "D01-C006",
+      "entrevistas": [
+        "E03"
+      ],
+      "componentes_p01": [
+        "P01-E03-N004",
+        "P01-E03-N005",
+        "P01-E03-N007",
+        "P01-E03-N008",
+        "P01-E03-N013"
+      ],
+      "evidencias_entrevistas": [
+        "P01-V0137",
+        "P01-V0155",
+        "P01-V0156",
+        "P01-V0173"
+      ],
+      "evidencias_documentales": [
+        "D01-V023",
+        "D01-V039"
+      ],
+      "tipo": "NO_COMPARABLE",
+      "aplicabilidad_directa_establecida": false,
+      "correspondencia": "No hay operación institucional común: periodicidad de un conjunto y fechas de metadatos no son confirmación de un salón y acuerdos de tres encuentros.",
+      "descripcion": "E03 coteja uso y capacidad con anfitriones y equipo, precisa la puerta y ajusta recepción. Las fuentes de datos no certifican esas disponibilidades o aprendizajes.",
+      "explicacion": "El testimonio explica que observar un día no garantizaba las tres fechas. Esa razón sostiene su consulta, sin inventar una regla formal de la organización.",
+      "tipo_explicacion": "RESPALDADA",
+      "limites": "No se atribuye un manual cultural genérico ni se interpreta la ausencia de cartografía como carencia."
+    },
+    {
+      "id": "D01-C007",
+      "entrevistas": [
+        "E04"
+      ],
+      "componentes_p01": [
+        "P01-E04-N006",
+        "P01-E04-N008",
+        "P01-E04-N011",
+        "P01-E04-N012",
+        "P01-E04-N013",
+        "P01-E04-N014"
+      ],
+      "evidencias_entrevistas": [
+        "P01-V0247",
+        "P01-V0257",
+        "P01-V0259",
+        "P01-V0261",
+        "P01-V0264",
+        "P01-V0265"
+      ],
+      "evidencias_documentales": [
+        "D01-V022",
+        "D01-V035"
+      ],
+      "tipo": "NO_COMPARABLE",
+      "aplicabilidad_directa_establecida": false,
+      "correspondencia": "Identificación y orden comercial no son producción o publicación de datos territoriales. No existe un procedimiento común identificable.",
+      "descripcion": "Muestra, referencia y orden de rollos sostienen compra y despacho. El manual PAOT y la política de publicación no establecen obligaciones para esa actividad.",
+      "explicacion": "E04 distingue tacto de desempeño, consulta de disponibilidad y cantidad conveniente. Más información o una base común no eliminarían necesariamente la restricción de presentación.",
+      "tipo_explicacion": "RESPALDADA",
+      "limites": "No se presume manual, umbral automático, costura realizada ni identidad del negocio. La causa de una hipotética diferencia normativa es desconocida."
+    },
+    {
+      "id": "D01-C008",
+      "entrevistas": [
+        "E05"
+      ],
+      "componentes_p01": [
+        "P01-E05-N005",
+        "P01-E05-N009",
+        "P01-E05-N015"
+      ],
+      "evidencias_entrevistas": [
+        "P01-V0346",
+        "P01-V0347",
+        "P01-V0348",
+        "P01-V0351",
+        "P01-V0359",
+        "P01-V0411"
+      ],
+      "evidencias_documentales": [],
+      "tipo": "FALTA_DOCUMENTACION",
+      "aplicabilidad_directa_establecida": false,
+      "correspondencia": "La comparación específica requeriría la página histórica consultada y los mensajes de esa salida; no hay fuente documental correspondiente disponible.",
+      "descripcion": "Se conserva que el horario del propio lugar y el margen bastaron para decidir; no se certifica su vigencia ni qué consultó la amistad.",
+      "explicacion": "La suficiencia es explicada por fuente propia, margen y ausencia de indicios de duda. La apertura real del lugar y el estado histórico del horario carecen de contraste externo.",
+      "tipo_explicacion": "RESPALDADA",
+      "limites": "No se busca identificar la librería; una página actual no acreditaría el horario pasado. La lista documental queda vacía por falta del soporte específico."
+    },
+    {
+      "id": "D01-C009",
+      "entrevistas": [
+        "E01"
+      ],
+      "componentes_p01": [
+        "P01-E01-N001",
+        "P01-E01-N010",
+        "P01-E01-N012",
+        "P01-E01-N014"
+      ],
+      "evidencias_entrevistas": [
+        "P01-V0001",
+        "P01-V0018",
+        "P01-V0022"
+      ],
+      "evidencias_documentales": [],
+      "tipo": "FALTA_DOCUMENTACION",
+      "aplicabilidad_directa_establecida": false,
+      "correspondencia": "Revisar y devolver la misma copia solo puede cotejarse con tabla, croquis, versiones y aclaraciones del encargo concreto.",
+      "descripcion": "El paquete no contiene esos soportes originales. Ninguna fuente pública identifica las tres filas o el cambio realizado.",
+      "explicacion": "El relato explica el respaldo conservado, pero no puede establecerse documentalmente el linaje real de la copia ni su uso posterior.",
+      "tipo_explicacion": "NO_DETERMINADA",
+      "limites": "No se sustituye la tabla por una base parecida ni recepción por uso efectivo. Vacío documental, no prueba de inexistencia de respaldo."
+    },
+    {
+      "id": "D01-C010",
+      "entrevistas": [
+        "E02"
+      ],
+      "componentes_p01": [
+        "P01-E02-N002",
+        "P01-E02-N003",
+        "P01-E02-N004",
+        "P01-E02-N006",
+        "P01-E02-N014",
+        "P01-E02-N015"
+      ],
+      "evidencias_entrevistas": [
+        "P01-V0074",
+        "P01-V0080",
+        "P01-V0116"
+      ],
+      "evidencias_documentales": [],
+      "tipo": "FALTA_DOCUMENTACION",
+      "aplicabilidad_directa_establecida": false,
+      "correspondencia": "El cotejo específico requiere pauta, acuerdos de participación, notas y versiones de ese ejercicio. No se identificaron públicamente.",
+      "descripcion": "Puede reconstruirse la práctica relatada, pero no un protocolo escrito aplicable ni la cadena exacta de cambios del texto.",
+      "explicacion": "Se desconoce si existió documentación adicional. Contactos, consentimiento y devoluciones parciales no equivalen a una muestra representativa o aprobación completa.",
+      "tipo_explicacion": "NO_DETERMINADA",
+      "limites": "No se deduce universidad o proyecto ni se aplica por parecido un manual etnográfico. Las evidencias documentales están vacías porque faltan soportes del ejercicio."
+    },
+    {
+      "id": "D01-C011",
+      "entrevistas": [
+        "E03"
+      ],
+      "componentes_p01": [
+        "P01-E03-N005",
+        "P01-E03-N008",
+        "P01-E03-N012",
+        "P01-E03-N013",
+        "P01-E03-N018"
+      ],
+      "evidencias_entrevistas": [
+        "P01-V0155",
+        "P01-V0156",
+        "P01-V0170",
+        "P01-V0173",
+        "P01-V0222"
+      ],
+      "evidencias_documentales": [],
+      "tipo": "FALTA_DOCUMENTACION",
+      "aplicabilidad_directa_establecida": false,
+      "correspondencia": "La misma confirmación, invitación y cierre exigirían mensajes, calendario y versiones de los tres encuentros.",
+      "descripcion": "La narrativa distingue ajuste de puerta durante sesión, aclaración entre sesiones e interés sin nueva programación. No se recibieron sus registros propios.",
+      "explicacion": "No se determina si la invitación escrita reflejaba todos los acuerdos ni la experiencia del conjunto de asistentes. La ausencia de esos archivos no vuelve falso el relato.",
+      "tipo_explicacion": "NO_DETERMINADA",
+      "limites": "No se atribuyen facultades formales, calendario público parecido o impacto. Lista documental vacía por soporte de episodio no disponible."
+    },
+    {
+      "id": "D01-C012",
+      "entrevistas": [
+        "E04"
+      ],
+      "componentes_p01": [
+        "P01-E04-N003",
+        "P01-E04-N008",
+        "P01-E04-N011",
+        "P01-E04-N012",
+        "P01-E04-N013",
+        "P01-E04-N014",
+        "P01-E04-N015"
+      ],
+      "evidencias_entrevistas": [
+        "P01-V0261",
+        "P01-V0264",
+        "P01-V0265",
+        "P01-V0271"
+      ],
+      "evidencias_documentales": [],
+      "tipo": "FALTA_DOCUMENTACION",
+      "aplicabilidad_directa_establecida": false,
+      "correspondencia": "El contraste de compra, consulta y primer despacho exige nota anterior, muestra, lista, referencia y acuerdos del mismo negocio.",
+      "descripcion": "Los soportes se relatan, pero no están aportados. No se identifica una práctica escrita sobre orden de rollos.",
+      "explicacion": "Puede existir un acuerdo situado, una anotación o ninguna formalización; no se selecciona una explicación sin evidencia. El cierre se conserva en primer despacho, no en costura o venta total.",
+      "tipo_explicacion": "NO_DETERMINADA",
+      "limites": "No se impone formalización al comercio. Lista documental vacía por soportes propios no disponibles, no porque se haya probado que no existan."
+    },
+    {
+      "id": "D01-C013",
+      "entrevistas": [
+        "E01",
+        "E02",
+        "E03",
+        "E04",
+        "E05"
+      ],
+      "componentes_p01": [
+        "P01-E01-N014",
+        "P01-E02-N011",
+        "P01-E03-N008",
+        "P01-E04-N009",
+        "P01-E05-N015"
+      ],
+      "evidencias_entrevistas": [
+        "P01-V0054",
+        "P01-V0128",
+        "P01-V0215",
+        "P01-V0303",
+        "P01-V0408"
+      ],
+      "evidencias_documentales": [
+        "D01-V001",
+        "D01-V003",
+        "D01-V011"
+      ],
+      "tipo": "NO_COMPARABLE",
+      "aplicabilidad_directa_establecida": false,
+      "correspondencia": "La ficha propone consumo institucional de capas; los cinco relatos no prueban uso de las capas SSC ni constituyen una muestra de instituciones. Se contrasta el alcance de la propuesta con el de los casos.",
+      "descripcion": "Los recursos situados pueden bastar y los deseos de memoria tienen objetos diferentes. Esto limita inferir una necesidad común de plataforma desde el corpus, sin refutar un problema sistémico posible.",
+      "explicacion": "La suficiencia de estos episodios es compatible con carencias en otros periodos o conjuntos y con apoyos futuros deseados. No se tiene evidencia para elegir una causa general de fragmentación ni prioridad de una solución.",
+      "tipo_explicacion": "NO_DETERMINADA",
+      "limites": "No representa la ciudad ni mide eficacia de homologación. Los testimonios no se alteran para ajustarlos a la ficha."
+    }
+  ],
+  "afirmaciones_encargo": [
+    {
+      "id": "D01-A001",
+      "enunciado": "No existe una plataforma única que concentre y homologue límites cartográficos de CDMX.",
+      "evidencias_cliente": [
+        "D01-V002"
+      ],
+      "clasificacion": "SUPUESTO_SIN_VERIFICAR",
+      "argumento": "La formulación absoluta requiere precisar qué es única, qué límites, usuarios y funciones abarca. SIGCDMX tiene documentación pública y antecedente de 2020; SIEG y SIG-PAOT tienen ámbitos propios. Son evidencia contraria acotada a una lectura de ausencia de plataformas, no prueba de homologación total. El supuesto más estrecho sobre una base común interinstitucional queda sin verificación.",
+      "evidencias_entrevistas": [],
+      "evidencias_documentales": [
+        "D01-V028",
+        "D01-V029",
+        "D01-V030",
+        "D01-V036",
+        "D01-V038"
+      ],
+      "limites": "No se infiere representatividad del corpus ni verificación de las capas no aportadas."
+    },
+    {
+      "id": "D01-A002",
+      "enunciado": "La información territorial está distribuida entre dependencias.",
+      "evidencias_cliente": [
+        "D01-V003"
+      ],
+      "clasificacion": "SITUACION_CON_RESPALDO_ACOTADO",
+      "argumento": "Hay respaldo acotado de pluralidad de fuentes: SIGCDMX identifica administradores diferentes y el catálogo SSC ofrece otro conjunto. Distribución no equivale a descoordinación perjudicial; el efecto problemático y su extensión no se han medido. Se registra como situación observada; llamarla problema exige establecer consecuencias perjudiciales para actividades o decisiones delimitadas.",
+      "evidencias_entrevistas": [],
+      "evidencias_documentales": [
+        "D01-V028",
+        "D01-V029",
+        "D01-V031",
+        "D01-V038"
+      ],
+      "limites": "No se infiere representatividad del corpus ni verificación de las capas no aportadas."
+    },
+    {
+      "id": "D01-A003",
+      "enunciado": "La distribución implica necesidades de estandarización y homologación.",
+      "evidencias_cliente": [
+        "D01-V003"
+      ],
+      "clasificacion": "HIPOTESIS_CLIENTE",
+      "argumento": "La política contempla calidad, intercambio y un SIU; eso hace pertinente investigar interoperabilidad, pero una norma no comprueba carencias. La discrepancia entre volúmenes de la ficha y catálogo señala una pregunta de versiones/alcance; sin equivalencia no demuestra error geométrico ni su causa.",
+      "evidencias_entrevistas": [
+        "P01-V0014",
+        "P01-V0064",
+        "P01-V0085"
+      ],
+      "evidencias_documentales": [
+        "D01-V020",
+        "D01-V021",
+        "D01-V031",
+        "D01-V033"
+      ],
+      "limites": "Identificar sitio, comparar salidas e interoperar geometrías son operaciones de escala distinta; no se suman como un único problema."
+    },
+    {
+      "id": "D01-A004",
+      "enunciado": "Se requiere una base común para consulta y consumo institucional.",
+      "evidencias_cliente": [
+        "D01-V001",
+        "D01-V003"
+      ],
+      "clasificacion": "OBJETIVO_O_SOLUCION_PROPUESTA",
+      "argumento": "Es una intervención planteada por el cliente. El inventario y el SIU del marco general tienen alcances distintos de un visor o una base física común. Los casos aportan memoria, conversación, materialidad y consulta situada, sin probar la necesidad de esta arquitectura.",
+      "evidencias_entrevistas": [
+        "P01-V0047",
+        "P01-V0128",
+        "P01-V0203",
+        "P01-V0303",
+        "P01-V0408"
+      ],
+      "evidencias_documentales": [
+        "D01-V021",
+        "D01-V037"
+      ],
+      "limites": "No se infiere representatividad del corpus ni verificación de las capas no aportadas."
+    },
+    {
+      "id": "D01-A005",
+      "enunciado": "El objetivo del bloque es validar experiencia, capas y ciclo de datos con un prototipo, sin producción.",
+      "evidencias_cliente": [
+        "D01-V004",
+        "D01-V014",
+        "D01-V015"
+      ],
+      "clasificacion": "OBJETIVO_O_SOLUCION_PROPUESTA",
+      "argumento": "Es una delimitación del encargo, no diagnóstico corroborable con entrevistas. D01 conserva ese alcance para no adelantar arquitectura o implementación.",
+      "evidencias_entrevistas": [],
+      "evidencias_documentales": [],
+      "limites": "No se afirma validación ya efectuada, despliegue o aceptación de usuarios."
+    },
+    {
+      "id": "D01-A006",
+      "enunciado": "Las capas proceden de SSC y se usan para asignación territorial de patrullas y policías.",
+      "evidencias_cliente": [
+        "D01-V006"
+      ],
+      "clasificacion": "SUPUESTO_SIN_VERIFICAR",
+      "argumento": "Las fuentes SSC describen divisiones de seguridad y el conjunto público Cuadrantes. Esto es compatible con la materia, pero no identifica los dos archivos del encargo, sus campos o función exacta en asignación.",
+      "evidencias_entrevistas": [],
+      "evidencias_documentales": [
+        "D01-V031",
+        "D01-V033",
+        "D01-V034"
+      ],
+      "limites": "No se infiere representatividad del corpus ni verificación de las capas no aportadas."
+    },
+    {
+      "id": "D01-A007",
+      "enunciado": "Una capa contiene 72 polígonos.",
+      "evidencias_cliente": [
+        "D01-V007"
+      ],
+      "clasificacion": "SUPUESTO_SIN_VERIFICAR",
+      "argumento": "No se recibió la capa. El comunicado SSC de 2022 habla de 73 sectores; no se asume que sean el mismo conjunto ni que haya una cifra incorrecta. Puede variar periodo, definición o cobertura, y no se elige entre esas alternativas.",
+      "evidencias_entrevistas": [],
+      "evidencias_documentales": [
+        "D01-V034"
+      ],
+      "limites": "No se infiere representatividad del corpus ni verificación de las capas no aportadas."
+    },
+    {
+      "id": "D01-A008",
+      "enunciado": "Otra capa contiene 1,022 polígonos.",
+      "evidencias_cliente": [
+        "D01-V007"
+      ],
+      "clasificacion": "SUPUESTO_SIN_VERIFICAR",
+      "argumento": "No se recibió la capa. La ficha pública Cuadrantes describe 847, coincidente con una comunicación de 2022. Esa diferencia no autoriza reemplazar 1,022 por 847 ni declarar obsolescencia: falta demostrar identidad y periodo.",
+      "evidencias_entrevistas": [],
+      "evidencias_documentales": [
+        "D01-V031",
+        "D01-V034"
+      ],
+      "limites": "No se infiere representatividad del corpus ni verificación de las capas no aportadas."
+    },
+    {
+      "id": "D01-A009",
+      "enunciado": "Las dos capas se actualizan anualmente.",
+      "evidencias_cliente": [
+        "D01-V008"
+      ],
+      "clasificacion": "SUPUESTO_SIN_VERIFICAR",
+      "argumento": "El catálogo público declara no_aplica. Su fecha de modificación de catálogo no es revisión territorial. Sin calendario y linaje de los archivos privados no puede establecerse una contradicción directa ni actualización anual efectiva.",
+      "evidencias_entrevistas": [],
+      "evidencias_documentales": [
+        "D01-V023",
+        "D01-V032"
+      ],
+      "limites": "No se infiere representatividad del corpus ni verificación de las capas no aportadas."
+    },
+    {
+      "id": "D01-A010",
+      "enunciado": "Las capas están disponibles como Shapefile (.shape).",
+      "evidencias_cliente": [
+        "D01-V009"
+      ],
+      "clasificacion": "SUPUESTO_SIN_VERIFICAR",
+      "argumento": "El catálogo ofrece SHP y la política contempla formatos espaciales, lo que muestra compatibilidad de formato general. No verifica la entrega del cliente. Se conserva la notación .shape de la ficha y se deja pendiente inspección de componentes y referencia espacial.",
+      "evidencias_entrevistas": [],
+      "evidencias_documentales": [
+        "D01-V022",
+        "D01-V031"
+      ],
+      "limites": "No se infiere representatividad del corpus ni verificación de las capas no aportadas."
+    },
+    {
+      "id": "D01-A011",
+      "enunciado": "Las capas pueden entregarse al equipo sin restricciones para el ejercicio.",
+      "evidencias_cliente": [
+        "D01-V010"
+      ],
+      "clasificacion": "SUPUESTO_SIN_VERIFICAR",
+      "argumento": "No se recibió entrega ni permiso con alcance concreto. Una licencia del conjunto público no se traslada a las capas del encargo ni amplía uso académico a publicación. La propia ficha excluye datos sensibles o no validados.",
+      "evidencias_entrevistas": [],
+      "evidencias_documentales": [
+        "D01-V032"
+      ],
+      "limites": "No se emite una autorización o clasificación jurídica; se distingue el permiso declarado del verificado."
+    },
+    {
+      "id": "D01-A012",
+      "enunciado": "Mapa, activación de capas, descarga, metadatos y actualización son el MVP esperado.",
+      "evidencias_cliente": [
+        "D01-V011"
+      ],
+      "clasificacion": "OBJETIVO_O_SOLUCION_PROPUESTA",
+      "argumento": "Es una lista de funciones por validar. Metadatos y actualización son compatibles con el marco general; su prioridad para usuarios concretos no deriva del corpus.",
+      "evidencias_entrevistas": [],
+      "evidencias_documentales": [
+        "D01-V022",
+        "D01-V023",
+        "D01-V039"
+      ],
+      "limites": "No se infiere representatividad del corpus ni verificación de las capas no aportadas."
+    },
+    {
+      "id": "D01-A013",
+      "enunciado": "Interacción clara y estable y una ruta viable de homologación son criterios de éxito.",
+      "evidencias_cliente": [
+        "D01-V012"
+      ],
+      "clasificacion": "OBJETIVO_O_SOLUCION_PROPUESTA",
+      "argumento": "Los criterios se registran como expectativas. No hubo pruebas de interacción, homologación o consumo que permitan calificarlos como alcanzados.",
+      "evidencias_entrevistas": [],
+      "evidencias_documentales": [],
+      "limites": "La aceptación debe quedar separada de evidencia de problema o prioridad."
+    },
+    {
+      "id": "D01-A014",
+      "enunciado": "La seguridad básica protegerá la metodología de trabajo.",
+      "evidencias_cliente": [
+        "D01-V012",
+        "D01-V014"
+      ],
+      "clasificacion": "OBJETIVO_O_SOLUCION_PROPUESTA",
+      "argumento": "Es una condición esperada del prototipo. No se describen activos, amenazas o restricciones específicas que permitan demostrar que esa medida resolvería un problema observado.",
+      "evidencias_entrevistas": [],
+      "evidencias_documentales": [],
+      "limites": "No se presupone que todas las capas sean sensibles ni se convierte seguridad en explicación única."
+    },
+    {
+      "id": "D01-A015",
+      "enunciado": "El área técnica podrá apoyar con accesos a los datos.",
+      "evidencias_cliente": [
+        "D01-V013"
+      ],
+      "clasificacion": "SUPUESTO_SIN_VERIFICAR",
+      "argumento": "La capacidad futura de apoyo no prueba acceso concedido, formatos entregados o disponibilidad operativa. La contraparte nombrada en la ficha se conserva como rol sin reproducir identificadores personales.",
+      "evidencias_entrevistas": [],
+      "evidencias_documentales": [],
+      "limites": "D01 no contacta personas ni crea nuevas entrevistas."
+    },
+    {
+      "id": "D01-A016",
+      "enunciado": "Otras dependencias no participan directamente en la primera versión.",
+      "evidencias_cliente": [
+        "D01-V013",
+        "D01-V014"
+      ],
+      "clasificacion": "OBJETIVO_O_SOLUCION_PROPUESTA",
+      "argumento": "Es una decisión de alcance declarada. Limita la posibilidad de validar desde este MVP la consulta conjunta entre múltiples instituciones.",
+      "evidencias_entrevistas": [],
+      "evidencias_documentales": [],
+      "limites": "No implica exclusión permanente ni ausencia de interés de esas dependencias."
+    },
+    {
+      "id": "D01-A017",
+      "enunciado": "La innovación consistirá en un flujo replicable de homologación y una base que pueda crecer.",
+      "evidencias_cliente": [
+        "D01-V016"
+      ],
+      "clasificacion": "HIPOTESIS_CLIENTE",
+      "argumento": "La replicabilidad y el crecimiento son beneficios esperados que dependen de semántica, linaje, responsables y acuerdos. Los modelos publicados muestran ámbitos diferenciados; no demuestran que un flujo único pueda cubrirlos.",
+      "evidencias_entrevistas": [],
+      "evidencias_documentales": [
+        "D01-V026",
+        "D01-V028",
+        "D01-V035",
+        "D01-V036",
+        "D01-V039"
+      ],
+      "limites": "No se infiere representatividad del corpus ni verificación de las capas no aportadas."
+    },
+    {
+      "id": "D01-A018",
+      "enunciado": "No se requiere IA ni ingesta masiva o despliegue a producción en este bloque.",
+      "evidencias_cliente": [
+        "D01-V014",
+        "D01-V016"
+      ],
+      "clasificacion": "OBJETIVO_O_SOLUCION_PROPUESTA",
+      "argumento": "Son límites explícitos que se conservan. No se agrega IA o producción por completar la entrega.",
+      "evidencias_entrevistas": [],
+      "evidencias_documentales": [],
+      "limites": "D01 no evalúa tecnología ni diseña una solución."
+    },
+    {
+      "id": "D01-A019",
+      "enunciado": "Si funciona, el prototipo podría escalar con otras capas y un mecanismo formal de actualización.",
+      "evidencias_cliente": [
+        "D01-V018"
+      ],
+      "clasificacion": "HIPOTESIS_CLIENTE",
+      "argumento": "Es un escenario condicional. La política ya publica responsabilidades y vías de actualización para datos abiertos, con otro alcance. Proponer un mecanismo para la fase siguiente no prueba que toda la ciudad carezca de mecanismos formales.",
+      "evidencias_entrevistas": [],
+      "evidencias_documentales": [
+        "D01-V023",
+        "D01-V024",
+        "D01-V026"
+      ],
+      "limites": "No se infiere representatividad del corpus ni verificación de las capas no aportadas."
+    },
+    {
+      "id": "D01-A020",
+      "enunciado": "La vista pública/API, gobierno del dato y responsables de la siguiente fase están por definirse.",
+      "evidencias_cliente": [
+        "D01-V018"
+      ],
+      "clasificacion": "OBJETIVO_O_SOLUCION_PROPUESTA",
+      "argumento": "Son decisiones pendientes del proyecto. No se confunden con ausencia general de atribuciones o con un servicio API existente para estas capas.",
+      "evidencias_entrevistas": [],
+      "evidencias_documentales": [
+        "D01-V026"
+      ],
+      "limites": "No se infiere representatividad del corpus ni verificación de las capas no aportadas."
+    },
+    {
+      "id": "D01-A021",
+      "enunciado": "Una entrevista con la contraparte ADIP validará necesidades, operación y aceptación.",
+      "evidencias_cliente": [
+        "D01-V017"
+      ],
+      "clasificacion": "OBJETIVO_O_SOLUCION_PROPUESTA",
+      "argumento": "La ficha sugiere una validación futura. Las cinco entrevistas recibidas no se identifican con esa contraparte, ni son una prueba de aceptación ADIP.",
+      "evidencias_entrevistas": [],
+      "evidencias_documentales": [],
+      "limites": "No se afirma que la entrevista sugerida haya ocurrido o que constituya corroboración independiente."
+    },
+    {
+      "id": "D01-A022",
+      "enunciado": "El bloque dura diez semanas.",
+      "evidencias_cliente": [
+        "D01-V005"
+      ],
+      "clasificacion": "OBJETIVO_O_SOLUCION_PROPUESTA",
+      "argumento": "Es una restricción temporal del encargo, sin fechas de inicio/fin verificadas. No se transforma en fecha de entrega o evidencia de viabilidad.",
+      "evidencias_entrevistas": [],
+      "evidencias_documentales": [],
+      "limites": "No se asigna un plazo calendario ni se programa trabajo posterior."
+    }
+  ],
+  "decisiones": [
+    {
+      "id": "D01-D001",
+      "decision": "Preservar corpus, recodificaciones y reconstrucción P01 sin modificaciones.",
+      "fundamento": "Se verifican huellas de 36 entradas; se conservan cinco procesos, 418 evidencias, 82 nodos y 92 relaciones. Los desacuerdos documentales no cambian entrevistas.",
+      "fuentes": []
+    },
+    {
+      "id": "D01-D002",
+      "decision": "Separar documentación del caso, marco del sistema y encargo.",
+      "fundamento": "No hay correspondencia institucional/temporal específica para ningún caso; la ficha es perspectiva de cliente y los manuales públicos tienen su propio ámbito.",
+      "fuentes": [
+        "D01-F001",
+        "D01-F002",
+        "D01-F009",
+        "D01-F010"
+      ]
+    },
+    {
+      "id": "D01-D003",
+      "decision": "No clasificar ninguna diferencia como DIVERGENCIA_DOCUMENTADA.",
+      "fundamento": "No existe fuente directa identificada que permita imponer una obligación concreta. La tensión E01 se mantiene por verificar; la explicación de decisiones sí puede apoyarse en testimonio sin inventar una infracción.",
+      "fuentes": [
+        "D01-F002",
+        "D01-F004",
+        "D01-F009"
+      ]
+    },
+    {
+      "id": "D01-D004",
+      "decision": "Representar operaciones solo donde el texto explicita vínculos.",
+      "fundamento": "M001 es parcial y normativo; M002 es de funciones, M003 de relaciones de datos y M004 de condiciones legales. No se unen como flujo común ni se conectan perfiles.",
+      "fuentes": [
+        "D01-F002",
+        "D01-F004",
+        "D01-F009",
+        "D01-F010"
+      ]
+    },
+    {
+      "id": "D01-D005",
+      "decision": "Priorizar lectura primaria y registrar acceso real.",
+      "fundamento": "Tras fallos del lector se recuperaron fuentes oficiales directamente; el manual fue localizado con OCR y páginas usadas cotejadas visualmente. Rutas sin contenido no sustentan evidencia.",
+      "fuentes": [
+        "D01-F004",
+        "D01-F006",
+        "D01-F007",
+        "D01-F009",
+        "D01-F018",
+        "D01-F019"
+      ]
+    },
+    {
+      "id": "D01-D006",
+      "decision": "No trasladar cifras o licencias del catálogo a las capas del cliente.",
+      "fundamento": "847, 1,022 y los sectores corresponden a descripciones con identidad/periodo no equiparados; la fecha del catálogo no es actualización geométrica.",
+      "fuentes": [
+        "D01-F001",
+        "D01-F006",
+        "D01-F007",
+        "D01-F008"
+      ]
+    },
+    {
+      "id": "D01-D007",
+      "decision": "Conservar control de versiones y vigencia no determinada cuando corresponde.",
+      "fundamento": "Se identificó compilación LOID 2026 frente a reproducción 2022; la norma INEGI de 2025 abroga 2010. No se presenta una búsqueda negativa como prueba de vigencia integral. En la revisión 1.1 se comprobó el repertorio oficial vigente y la ficha de metadatos (F020/F021), con lo que F013 cambia a verificada según el emisor; las normas locales mantienen sus límites.",
+      "fuentes": [
+        "D01-F002",
+        "D01-F003",
+        "D01-F013",
+        "D01-F017",
+        "D01-F019",
+        "D01-F020",
+        "D01-F021"
+      ]
+    },
+    {
+      "id": "D01-D008",
+      "decision": "Descomponer situación, déficit, beneficio esperado y funciones del encargo.",
+      "fundamento": "La pluralidad de fuentes tiene respaldo acotado; necesidad, prioridad, disponibilidad de datos y beneficios requieren prueba propia. Una propuesta no se vuelve diagnóstico.",
+      "fuentes": [
+        "D01-F001",
+        "D01-F004",
+        "D01-F006",
+        "D01-F011",
+        "D01-F012"
+      ]
+    },
+    {
+      "id": "D01-D009",
+      "decision": "Mantener las diez preguntas específicas pendientes.",
+      "fundamento": "La investigación pública del marco territorial no recupera tablas, acuerdos, muestras, mensajes y notas propios de episodios no identificados. Se evita OBTENIDA por semejanza temática.",
+      "fuentes": []
+    },
+    {
+      "id": "D01-D010",
+      "decision": "No buscar identidades ni publicar materiales privados.",
+      "fundamento": "Se conservan identificadores funcionales E01–E05. No se reproducen nombres/contactos de la ficha ni documentos privados o fuentes completas en los soportes.",
+      "fuentes": [
+        "D01-F001"
+      ]
+    },
+    {
+      "id": "D01-D011",
+      "decision": "Distinguir corroboración de dependencia documental.",
+      "fundamento": "Índice, aviso y manual conforman linaje; catálogo y diccionario son un conjunto. Jefatura/ADIP describen su propio SIG. Ninguna repetición cuenta como observación independiente.",
+      "fuentes": [
+        "D01-F001",
+        "D01-F004",
+        "D01-F005",
+        "D01-F006",
+        "D01-F007",
+        "D01-F009",
+        "D01-F014",
+        "D01-F015",
+        "D01-F016"
+      ]
+    },
+    {
+      "id": "D01-D012",
+      "decision": "Separar validación mecánica de revisión sustantiva.",
+      "fundamento": "El validador final verifica estructura y referencias; no demuestra veracidad de fuentes, interpretación, vigencia, aplicabilidad o revisión humana. No se redacta reporte final ni se diseñan soluciones.",
+      "fuentes": []
+    },
+    {
+      "id": "D01-D013",
+      "decision": "Separar distribución observada de daño o problema demostrado.",
+      "fundamento": "A002 y sus mismas evidencias sostienen pluralidad de fuentes, pero no su efecto perjudicial. La categoría adicional evita llamar problema a una condición descriptiva. No cambia el encargo o las entrevistas.",
+      "fuentes": [
+        "D01-F004",
+        "D01-F006",
+        "D01-F012"
+      ]
+    }
+  ],
+  "limites": [
+    {
+      "descripcion": "No hay documentación específica identificada para los cinco casos.",
+      "consecuencia": "No se puede resolver el contraste normativo directo ni certificar divergencias; la cobertura completa no equivale a rúbrica sustantiva resuelta.",
+      "fuentes": []
+    },
+    {
+      "descripcion": "No se recibieron las dos capas SSC, manuales de casos, mensajes, tablas originales, muestras o nuevos consentimientos.",
+      "consecuencia": "No se inspeccionan geometrías, nombres de campos, periodicidad o derechos de los archivos del encargo; no se simula su recepción.",
+      "fuentes": [
+        "D01-F001"
+      ]
+    },
+    {
+      "descripcion": "Vigencia integral de política y compilaciones legales locales no determinada; F013 verificada según repertorio nacional del emisor.",
+      "consecuencia": "Las disposiciones locales se usan con fecha y ámbito. La verificación nacional de vigencia no acredita obligación aplicada a los casos ni funcionamiento institucional.",
+      "fuentes": [
+        "D01-F002",
+        "D01-F003",
+        "D01-F010",
+        "D01-F013",
+        "D01-F017",
+        "D01-F019",
+        "D01-F020",
+        "D01-F021"
+      ]
+    },
+    {
+      "descripcion": "El manual PAOT tiene estatus vigente según aviso y normateca, pero solo se leyeron secciones.",
+      "consecuencia": "Se modelan funciones espacialmente pertinentes verificadas, sin declarar lectura completa ni circuito operativo de 452 páginas.",
+      "fuentes": [
+        "D01-F009",
+        "D01-F014",
+        "D01-F015"
+      ]
+    },
+    {
+      "descripcion": "Sitios dinámicos o rutas fallaron y algunos recursos no se probaron.",
+      "consecuencia": "Mi Policía y la ruta fallida F019 no sustentan evidencia. La comprobación del repertorio se resolvió en otra URL oficial F020. Página disponible no equivale a capacidades funcionando; F015 no pudo recuperarse de nuevo en coordinación.",
+      "fuentes": [
+        "D01-F004",
+        "D01-F006",
+        "D01-F012",
+        "D01-F018",
+        "D01-F019",
+        "D01-F020"
+      ]
+    },
+    {
+      "descripcion": "Cinco voces no forman una muestra representativa y sus terceros son relatados.",
+      "consecuencia": "No se infiere prevalencia, impacto, prioridad por frecuencia ni aceptación de otras instituciones o participantes.",
+      "fuentes": []
+    },
+    {
+      "descripcion": "Resultados suficientemente atendidos y deseos futuros coexisten.",
+      "consecuencia": "No se fabrica un déficit actual por cada ideal ni se refuta un posible problema urbano por cinco casos atendidos.",
+      "fuentes": []
+    },
+    {
+      "descripcion": "La ficha es síntesis de un antecedente interno no aportado.",
+      "consecuencia": "No puede cotejarse su fidelidad a ese antecedente; se contrasta la versión PDF recibida.",
+      "fuentes": [
+        "D01-F001"
+      ]
+    },
+    {
+      "descripcion": "No hay equivalencia establecida entre 72/1,022 polígonos, catálogo de 847 cuadrantes y nota SSC de 73 sectores.",
+      "consecuencia": "Se conservan hipótesis de versión, definición y cobertura; no se corrigen cifras ni se atribuye obsolescencia.",
+      "fuentes": [
+        "D01-F001",
+        "D01-F006",
+        "D01-F008"
+      ]
+    },
+    {
+      "descripcion": "Modelos documentales tienen objetos y fuentes distintos.",
+      "consecuencia": "No componen una cadena de producción de toda CDMX ni una solución unificada. Flechas analíticas se distinguen de secuencias expresas.",
+      "fuentes": [
+        "D01-F002",
+        "D01-F004",
+        "D01-F009",
+        "D01-F010"
+      ]
+    },
+    {
+      "descripcion": "Revisión asistida por LLM con revisión humana independiente pendiente.",
+      "consecuencia": "El resultado permanece para revisión; no se acredita concordancia, calidad interpretativa definitiva o cumplimiento de la rúbrica.",
+      "fuentes": []
+    }
+  ],
+  "cuestiones_pendientes": [
+    {
+      "descripcion": "Precisar qué límites, usuarios, instituciones y operaciones cubre la ausencia de plataforma que afirma la ficha.",
+      "por_que_importa": "Permite distinguir vacío funcional específico de ausencia absoluta de sistemas.",
+      "entrevistas": [],
+      "fuentes": [
+        "D01-F001",
+        "D01-F004",
+        "D01-F005",
+        "D01-F011",
+        "D01-F012"
+      ]
+    },
+    {
+      "descripcion": "Recibir e identificar las dos capas, su versión, linaje, responsable, frecuencia y alcance de acceso.",
+      "por_que_importa": "Sin ello no pueden compararse cifras públicas o evaluar homologación/actualización del encargo.",
+      "entrevistas": [],
+      "fuentes": [
+        "D01-F001",
+        "D01-F006",
+        "D01-F007",
+        "D01-F008"
+      ]
+    },
+    {
+      "descripcion": "Completar el control de vigencia de las disposiciones locales y el régimen temporal aplicable; la norma nacional ya está verificada según el repertorio del emisor.",
+      "por_que_importa": "La consulta del texto publicado no certifica vigencia integral o régimen temporal del episodio.",
+      "entrevistas": [],
+      "fuentes": [
+        "D01-F002",
+        "D01-F003",
+        "D01-F010",
+        "D01-F013",
+        "D01-F017",
+        "D01-F019",
+        "D01-F020",
+        "D01-F021"
+      ]
+    },
+    {
+      "descripcion": "Cotejar especificación de conjunto, tabla, croquis, copia y aclaración de E01 si se aportan.",
+      "por_que_importa": "Distingue identidad, cambios de acceso, versión y uso posterior sin atribuir el manual PAOT.",
+      "entrevistas": [
+        "E01"
+      ],
+      "fuentes": [
+        "D01-F004",
+        "D01-F009"
+      ]
+    },
+    {
+      "descripcion": "Cotejar pauta, acuerdos, notas, unidades comparadas y versiones del ejercicio E02.",
+      "por_que_importa": "Permite contrastar método escrito, cambios y consentimiento con su alcance parcial.",
+      "entrevistas": [
+        "E02"
+      ],
+      "fuentes": []
+    },
+    {
+      "descripcion": "Cotejar acuerdos de tres fechas, invitación, notas y comunicación de cierre E03.",
+      "por_que_importa": "Separa disponibilidad confirmada, ajustes y comentarios de una evaluación de impacto.",
+      "entrevistas": [
+        "E03"
+      ],
+      "fuentes": []
+    },
+    {
+      "descripcion": "Establecer si se conservan soportes y acuerdos propios de compra/orden de E04.",
+      "por_que_importa": "Permite reconocer artículo, consulta y primer despacho sin imponer formalización.",
+      "entrevistas": [
+        "E04"
+      ],
+      "fuentes": []
+    },
+    {
+      "descripcion": "Cotejar mensajes y horario histórico de la salida E05 solo si son aportados.",
+      "por_que_importa": "No se puede certificar pasado con el horario actual ni inferir verificaciones de la amistad.",
+      "entrevistas": [
+        "E05"
+      ],
+      "fuentes": []
+    },
+    {
+      "descripcion": "Distinguir falta de una capa, falta de descripción semántica, coordinación y vigencia temporal como posibles explicaciones.",
+      "por_que_importa": "Las fuentes admiten obstáculos diferentes; un visor o repositorio puede no resolverlos todos.",
+      "entrevistas": [
+        "E01",
+        "E02",
+        "E03",
+        "E04",
+        "E05"
+      ],
+      "fuentes": [
+        "D01-F001",
+        "D01-F002",
+        "D01-F004",
+        "D01-F006",
+        "D01-F009",
+        "D01-F013"
+      ]
+    },
+    {
+      "descripcion": "Revisar de forma humana e independiente las paráfrasis, aplicabilidad y explicaciones alternativas.",
+      "por_que_importa": "Es distinto de pasar un control de estructura y es requisito para estabilizar el contraste.",
+      "entrevistas": [],
+      "fuentes": []
+    }
+  ]
+}

@@ -1,0 +1,826 @@
+{
+  "estado": "ESTRUCTURA_CORRESPONDENCIAS_Y_CITAS_OK",
+  "alcance": "No acredita validez semántica, recodificación realizada, verdad externa o revisión humana independiente.",
+  "errores": [],
+  "advertencias": [],
+  "conteos": {
+    "codigos_locales_entrada": 105,
+    "correspondencias": 105,
+    "codigos_comunes": 60,
+    "ejemplos_literales": 116
+  },
+  "posiciones_citas": [
+    {
+      "codigo_id": "C001",
+      "ejemplo": 0,
+      "parrafo_id": "E01-P013",
+      "inicio_unicode": 138,
+      "fin_unicode_exclusivo": 335
+    },
+    {
+      "codigo_id": "C001",
+      "ejemplo": 1,
+      "parrafo_id": "E04-P009",
+      "inicio_unicode": 64,
+      "fin_unicode_exclusivo": 204
+    },
+    {
+      "codigo_id": "C001",
+      "ejemplo": 2,
+      "parrafo_id": "E05-P116",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 151
+    },
+    {
+      "codigo_id": "C002",
+      "ejemplo": 0,
+      "parrafo_id": "E01-P033",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 157
+    },
+    {
+      "codigo_id": "C002",
+      "ejemplo": 1,
+      "parrafo_id": "E04-P053",
+      "inicio_unicode": 143,
+      "fin_unicode_exclusivo": 264
+    },
+    {
+      "codigo_id": "C003",
+      "ejemplo": 0,
+      "parrafo_id": "E01-P107",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 172
+    },
+    {
+      "codigo_id": "C004",
+      "ejemplo": 0,
+      "parrafo_id": "E01-P065",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 135
+    },
+    {
+      "codigo_id": "C004",
+      "ejemplo": 1,
+      "parrafo_id": "E01-P159",
+      "inicio_unicode": 78,
+      "fin_unicode_exclusivo": 190
+    },
+    {
+      "codigo_id": "C005",
+      "ejemplo": 0,
+      "parrafo_id": "E01-P115",
+      "inicio_unicode": 102,
+      "fin_unicode_exclusivo": 271
+    },
+    {
+      "codigo_id": "C006",
+      "ejemplo": 0,
+      "parrafo_id": "E01-P037",
+      "inicio_unicode": 31,
+      "fin_unicode_exclusivo": 126
+    },
+    {
+      "codigo_id": "C007",
+      "ejemplo": 0,
+      "parrafo_id": "E01-P055",
+      "inicio_unicode": 18,
+      "fin_unicode_exclusivo": 163
+    },
+    {
+      "codigo_id": "C007",
+      "ejemplo": 1,
+      "parrafo_id": "E02-P033",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 120
+    },
+    {
+      "codigo_id": "C008",
+      "ejemplo": 0,
+      "parrafo_id": "E01-P071",
+      "inicio_unicode": 86,
+      "fin_unicode_exclusivo": 243
+    },
+    {
+      "codigo_id": "C009",
+      "ejemplo": 0,
+      "parrafo_id": "E01-P065",
+      "inicio_unicode": 242,
+      "fin_unicode_exclusivo": 361
+    },
+    {
+      "codigo_id": "C009",
+      "ejemplo": 1,
+      "parrafo_id": "E02-P060",
+      "inicio_unicode": 60,
+      "fin_unicode_exclusivo": 234
+    },
+    {
+      "codigo_id": "C009",
+      "ejemplo": 2,
+      "parrafo_id": "E03-P157",
+      "inicio_unicode": 244,
+      "fin_unicode_exclusivo": 362
+    },
+    {
+      "codigo_id": "C009",
+      "ejemplo": 3,
+      "parrafo_id": "E04-P151",
+      "inicio_unicode": 226,
+      "fin_unicode_exclusivo": 294
+    },
+    {
+      "codigo_id": "C009",
+      "ejemplo": 4,
+      "parrafo_id": "E05-P156",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 97
+    },
+    {
+      "codigo_id": "C010",
+      "ejemplo": 0,
+      "parrafo_id": "E01-P153",
+      "inicio_unicode": 23,
+      "fin_unicode_exclusivo": 179
+    },
+    {
+      "codigo_id": "C010",
+      "ejemplo": 1,
+      "parrafo_id": "E02-P115",
+      "inicio_unicode": 75,
+      "fin_unicode_exclusivo": 235
+    },
+    {
+      "codigo_id": "C010",
+      "ejemplo": 2,
+      "parrafo_id": "E03-P075",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 114
+    },
+    {
+      "codigo_id": "C011",
+      "ejemplo": 0,
+      "parrafo_id": "E01-P089",
+      "inicio_unicode": 146,
+      "fin_unicode_exclusivo": 247
+    },
+    {
+      "codigo_id": "C011",
+      "ejemplo": 1,
+      "parrafo_id": "E02-P113",
+      "inicio_unicode": 100,
+      "fin_unicode_exclusivo": 210
+    },
+    {
+      "codigo_id": "C011",
+      "ejemplo": 2,
+      "parrafo_id": "E03-P121",
+      "inicio_unicode": 165,
+      "fin_unicode_exclusivo": 245
+    },
+    {
+      "codigo_id": "C011",
+      "ejemplo": 3,
+      "parrafo_id": "E04-P112",
+      "inicio_unicode": 120,
+      "fin_unicode_exclusivo": 204
+    },
+    {
+      "codigo_id": "C011",
+      "ejemplo": 4,
+      "parrafo_id": "E05-P102",
+      "inicio_unicode": 88,
+      "fin_unicode_exclusivo": 183
+    },
+    {
+      "codigo_id": "C012",
+      "ejemplo": 0,
+      "parrafo_id": "E01-P095",
+      "inicio_unicode": 121,
+      "fin_unicode_exclusivo": 264
+    },
+    {
+      "codigo_id": "C013",
+      "ejemplo": 0,
+      "parrafo_id": "E01-P101",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 106
+    },
+    {
+      "codigo_id": "C013",
+      "ejemplo": 1,
+      "parrafo_id": "E04-P122",
+      "inicio_unicode": 48,
+      "fin_unicode_exclusivo": 236
+    },
+    {
+      "codigo_id": "C014",
+      "ejemplo": 0,
+      "parrafo_id": "E01-P109",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 112
+    },
+    {
+      "codigo_id": "C014",
+      "ejemplo": 1,
+      "parrafo_id": "E02-P083",
+      "inicio_unicode": 165,
+      "fin_unicode_exclusivo": 259
+    },
+    {
+      "codigo_id": "C014",
+      "ejemplo": 2,
+      "parrafo_id": "E04-P080",
+      "inicio_unicode": 41,
+      "fin_unicode_exclusivo": 126
+    },
+    {
+      "codigo_id": "C014",
+      "ejemplo": 3,
+      "parrafo_id": "E05-P058",
+      "inicio_unicode": 106,
+      "fin_unicode_exclusivo": 212
+    },
+    {
+      "codigo_id": "C015",
+      "ejemplo": 0,
+      "parrafo_id": "E01-P081",
+      "inicio_unicode": 110,
+      "fin_unicode_exclusivo": 185
+    },
+    {
+      "codigo_id": "C015",
+      "ejemplo": 1,
+      "parrafo_id": "E02-P042",
+      "inicio_unicode": 274,
+      "fin_unicode_exclusivo": 410
+    },
+    {
+      "codigo_id": "C015",
+      "ejemplo": 2,
+      "parrafo_id": "E03-P147",
+      "inicio_unicode": 117,
+      "fin_unicode_exclusivo": 161
+    },
+    {
+      "codigo_id": "C015",
+      "ejemplo": 3,
+      "parrafo_id": "E04-P103",
+      "inicio_unicode": 53,
+      "fin_unicode_exclusivo": 119
+    },
+    {
+      "codigo_id": "C015",
+      "ejemplo": 4,
+      "parrafo_id": "E05-P061",
+      "inicio_unicode": 140,
+      "fin_unicode_exclusivo": 185
+    },
+    {
+      "codigo_id": "C016",
+      "ejemplo": 0,
+      "parrafo_id": "E01-P137",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 150
+    },
+    {
+      "codigo_id": "C017",
+      "ejemplo": 0,
+      "parrafo_id": "E01-P125",
+      "inicio_unicode": 72,
+      "fin_unicode_exclusivo": 193
+    },
+    {
+      "codigo_id": "C017",
+      "ejemplo": 1,
+      "parrafo_id": "E02-P133",
+      "inicio_unicode": 99,
+      "fin_unicode_exclusivo": 236
+    },
+    {
+      "codigo_id": "C017",
+      "ejemplo": 2,
+      "parrafo_id": "E03-P156",
+      "inicio_unicode": 126,
+      "fin_unicode_exclusivo": 258
+    },
+    {
+      "codigo_id": "C017",
+      "ejemplo": 3,
+      "parrafo_id": "E04-P148",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 136
+    },
+    {
+      "codigo_id": "C017",
+      "ejemplo": 4,
+      "parrafo_id": "E05-P154",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 122
+    },
+    {
+      "codigo_id": "C018",
+      "ejemplo": 0,
+      "parrafo_id": "E01-P147",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 122
+    },
+    {
+      "codigo_id": "C018",
+      "ejemplo": 1,
+      "parrafo_id": "E02-P153",
+      "inicio_unicode": 69,
+      "fin_unicode_exclusivo": 205
+    },
+    {
+      "codigo_id": "C018",
+      "ejemplo": 2,
+      "parrafo_id": "E03-P182",
+      "inicio_unicode": 68,
+      "fin_unicode_exclusivo": 193
+    },
+    {
+      "codigo_id": "C018",
+      "ejemplo": 3,
+      "parrafo_id": "E04-P170",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 122
+    },
+    {
+      "codigo_id": "C018",
+      "ejemplo": 4,
+      "parrafo_id": "E05-P168",
+      "inicio_unicode": 46,
+      "fin_unicode_exclusivo": 126
+    },
+    {
+      "codigo_id": "C019",
+      "ejemplo": 0,
+      "parrafo_id": "E02-P012",
+      "inicio_unicode": 23,
+      "fin_unicode_exclusivo": 153
+    },
+    {
+      "codigo_id": "C019",
+      "ejemplo": 1,
+      "parrafo_id": "E04-P085",
+      "inicio_unicode": 43,
+      "fin_unicode_exclusivo": 173
+    },
+    {
+      "codigo_id": "C019",
+      "ejemplo": 2,
+      "parrafo_id": "E05-P094",
+      "inicio_unicode": 48,
+      "fin_unicode_exclusivo": 170
+    },
+    {
+      "codigo_id": "C020",
+      "ejemplo": 0,
+      "parrafo_id": "E02-P045",
+      "inicio_unicode": 59,
+      "fin_unicode_exclusivo": 267
+    },
+    {
+      "codigo_id": "C020",
+      "ejemplo": 1,
+      "parrafo_id": "E03-P068",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 151
+    },
+    {
+      "codigo_id": "C021",
+      "ejemplo": 0,
+      "parrafo_id": "E02-P065",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 179
+    },
+    {
+      "codigo_id": "C022",
+      "ejemplo": 0,
+      "parrafo_id": "E02-P046",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 220
+    },
+    {
+      "codigo_id": "C023",
+      "ejemplo": 0,
+      "parrafo_id": "E02-P058",
+      "inicio_unicode": 53,
+      "fin_unicode_exclusivo": 286
+    },
+    {
+      "codigo_id": "C024",
+      "ejemplo": 0,
+      "parrafo_id": "E02-P028",
+      "inicio_unicode": 238,
+      "fin_unicode_exclusivo": 429
+    },
+    {
+      "codigo_id": "C025",
+      "ejemplo": 0,
+      "parrafo_id": "E02-P088",
+      "inicio_unicode": 86,
+      "fin_unicode_exclusivo": 232
+    },
+    {
+      "codigo_id": "C026",
+      "ejemplo": 0,
+      "parrafo_id": "E02-P066",
+      "inicio_unicode": 66,
+      "fin_unicode_exclusivo": 165
+    },
+    {
+      "codigo_id": "C027",
+      "ejemplo": 0,
+      "parrafo_id": "E02-P117",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 132
+    },
+    {
+      "codigo_id": "C027",
+      "ejemplo": 1,
+      "parrafo_id": "E03-P175",
+      "inicio_unicode": 71,
+      "fin_unicode_exclusivo": 193
+    },
+    {
+      "codigo_id": "C028",
+      "ejemplo": 0,
+      "parrafo_id": "E02-P123",
+      "inicio_unicode": 63,
+      "fin_unicode_exclusivo": 254
+    },
+    {
+      "codigo_id": "C029",
+      "ejemplo": 0,
+      "parrafo_id": "E02-P143",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 127
+    },
+    {
+      "codigo_id": "C030",
+      "ejemplo": 0,
+      "parrafo_id": "E01-P141",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 131
+    },
+    {
+      "codigo_id": "C030",
+      "ejemplo": 1,
+      "parrafo_id": "E02-P148",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 130
+    },
+    {
+      "codigo_id": "C030",
+      "ejemplo": 2,
+      "parrafo_id": "E03-P171",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 134
+    },
+    {
+      "codigo_id": "C030",
+      "ejemplo": 3,
+      "parrafo_id": "E04-P164",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 117
+    },
+    {
+      "codigo_id": "C030",
+      "ejemplo": 4,
+      "parrafo_id": "E05-P162",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 143
+    },
+    {
+      "codigo_id": "C031",
+      "ejemplo": 0,
+      "parrafo_id": "E02-P159",
+      "inicio_unicode": 70,
+      "fin_unicode_exclusivo": 184
+    },
+    {
+      "codigo_id": "C031",
+      "ejemplo": 1,
+      "parrafo_id": "E03-P172",
+      "inicio_unicode": 42,
+      "fin_unicode_exclusivo": 171
+    },
+    {
+      "codigo_id": "C031",
+      "ejemplo": 2,
+      "parrafo_id": "E04-P165",
+      "inicio_unicode": 93,
+      "fin_unicode_exclusivo": 176
+    },
+    {
+      "codigo_id": "C031",
+      "ejemplo": 3,
+      "parrafo_id": "E05-P165",
+      "inicio_unicode": 174,
+      "fin_unicode_exclusivo": 230
+    },
+    {
+      "codigo_id": "C032",
+      "ejemplo": 0,
+      "parrafo_id": "E02-P174",
+      "inicio_unicode": 136,
+      "fin_unicode_exclusivo": 286
+    },
+    {
+      "codigo_id": "C032",
+      "ejemplo": 1,
+      "parrafo_id": "E05-P127",
+      "inicio_unicode": 18,
+      "fin_unicode_exclusivo": 131
+    },
+    {
+      "codigo_id": "C033",
+      "ejemplo": 0,
+      "parrafo_id": "E03-P047",
+      "inicio_unicode": 44,
+      "fin_unicode_exclusivo": 163
+    },
+    {
+      "codigo_id": "C034",
+      "ejemplo": 0,
+      "parrafo_id": "E03-P190",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 168
+    },
+    {
+      "codigo_id": "C034",
+      "ejemplo": 1,
+      "parrafo_id": "E05-P025",
+      "inicio_unicode": 109,
+      "fin_unicode_exclusivo": 211
+    },
+    {
+      "codigo_id": "C035",
+      "ejemplo": 0,
+      "parrafo_id": "E03-P139",
+      "inicio_unicode": 42,
+      "fin_unicode_exclusivo": 246
+    },
+    {
+      "codigo_id": "C036",
+      "ejemplo": 0,
+      "parrafo_id": "E03-P101",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 213
+    },
+    {
+      "codigo_id": "C037",
+      "ejemplo": 0,
+      "parrafo_id": "E03-P029",
+      "inicio_unicode": 18,
+      "fin_unicode_exclusivo": 175
+    },
+    {
+      "codigo_id": "C038",
+      "ejemplo": 0,
+      "parrafo_id": "E03-P033",
+      "inicio_unicode": 310,
+      "fin_unicode_exclusivo": 400
+    },
+    {
+      "codigo_id": "C039",
+      "ejemplo": 0,
+      "parrafo_id": "E03-P036",
+      "inicio_unicode": 124,
+      "fin_unicode_exclusivo": 281
+    },
+    {
+      "codigo_id": "C039",
+      "ejemplo": 1,
+      "parrafo_id": "E05-P008",
+      "inicio_unicode": 54,
+      "fin_unicode_exclusivo": 133
+    },
+    {
+      "codigo_id": "C040",
+      "ejemplo": 0,
+      "parrafo_id": "E03-P056",
+      "inicio_unicode": 118,
+      "fin_unicode_exclusivo": 255
+    },
+    {
+      "codigo_id": "C040",
+      "ejemplo": 1,
+      "parrafo_id": "E05-P098",
+      "inicio_unicode": 41,
+      "fin_unicode_exclusivo": 121
+    },
+    {
+      "codigo_id": "C040",
+      "ejemplo": 2,
+      "parrafo_id": "E05-P140",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 172
+    },
+    {
+      "codigo_id": "C041",
+      "ejemplo": 0,
+      "parrafo_id": "E03-P077",
+      "inicio_unicode": 106,
+      "fin_unicode_exclusivo": 233
+    },
+    {
+      "codigo_id": "C041",
+      "ejemplo": 1,
+      "parrafo_id": "E05-P038",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 138
+    },
+    {
+      "codigo_id": "C041",
+      "ejemplo": 2,
+      "parrafo_id": "E05-P074",
+      "inicio_unicode": 30,
+      "fin_unicode_exclusivo": 108
+    },
+    {
+      "codigo_id": "C042",
+      "ejemplo": 0,
+      "parrafo_id": "E03-P134",
+      "inicio_unicode": 89,
+      "fin_unicode_exclusivo": 247
+    },
+    {
+      "codigo_id": "C042",
+      "ejemplo": 1,
+      "parrafo_id": "E05-P124",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 136
+    },
+    {
+      "codigo_id": "C043",
+      "ejemplo": 0,
+      "parrafo_id": "E03-P089",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 158
+    },
+    {
+      "codigo_id": "C044",
+      "ejemplo": 0,
+      "parrafo_id": "E03-P094",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 147
+    },
+    {
+      "codigo_id": "C045",
+      "ejemplo": 0,
+      "parrafo_id": "E03-P108",
+      "inicio_unicode": 138,
+      "fin_unicode_exclusivo": 222
+    },
+    {
+      "codigo_id": "C045",
+      "ejemplo": 1,
+      "parrafo_id": "E04-P017",
+      "inicio_unicode": 188,
+      "fin_unicode_exclusivo": 331
+    },
+    {
+      "codigo_id": "C046",
+      "ejemplo": 0,
+      "parrafo_id": "E03-P150",
+      "inicio_unicode": 99,
+      "fin_unicode_exclusivo": 278
+    },
+    {
+      "codigo_id": "C047",
+      "ejemplo": 0,
+      "parrafo_id": "E04-P037",
+      "inicio_unicode": 105,
+      "fin_unicode_exclusivo": 257
+    },
+    {
+      "codigo_id": "C048",
+      "ejemplo": 0,
+      "parrafo_id": "E04-P057",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 121
+    },
+    {
+      "codigo_id": "C048",
+      "ejemplo": 1,
+      "parrafo_id": "E04-P188",
+      "inicio_unicode": 103,
+      "fin_unicode_exclusivo": 240
+    },
+    {
+      "codigo_id": "C049",
+      "ejemplo": 0,
+      "parrafo_id": "E04-P055",
+      "inicio_unicode": 95,
+      "fin_unicode_exclusivo": 252
+    },
+    {
+      "codigo_id": "C050",
+      "ejemplo": 0,
+      "parrafo_id": "E04-P029",
+      "inicio_unicode": 75,
+      "fin_unicode_exclusivo": 213
+    },
+    {
+      "codigo_id": "C051",
+      "ejemplo": 0,
+      "parrafo_id": "E04-P043",
+      "inicio_unicode": 101,
+      "fin_unicode_exclusivo": 284
+    },
+    {
+      "codigo_id": "C052",
+      "ejemplo": 0,
+      "parrafo_id": "E04-P069",
+      "inicio_unicode": 94,
+      "fin_unicode_exclusivo": 142
+    },
+    {
+      "codigo_id": "C052",
+      "ejemplo": 1,
+      "parrafo_id": "E05-P087",
+      "inicio_unicode": 108,
+      "fin_unicode_exclusivo": 160
+    },
+    {
+      "codigo_id": "C053",
+      "ejemplo": 0,
+      "parrafo_id": "E04-P075",
+      "inicio_unicode": 30,
+      "fin_unicode_exclusivo": 114
+    },
+    {
+      "codigo_id": "C054",
+      "ejemplo": 0,
+      "parrafo_id": "E04-P181",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 153
+    },
+    {
+      "codigo_id": "C055",
+      "ejemplo": 0,
+      "parrafo_id": "E04-P139",
+      "inicio_unicode": 151,
+      "fin_unicode_exclusivo": 254
+    },
+    {
+      "codigo_id": "C056",
+      "ejemplo": 0,
+      "parrafo_id": "E05-P014",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 200
+    },
+    {
+      "codigo_id": "C057",
+      "ejemplo": 0,
+      "parrafo_id": "E05-P032",
+      "inicio_unicode": 24,
+      "fin_unicode_exclusivo": 171
+    },
+    {
+      "codigo_id": "C058",
+      "ejemplo": 0,
+      "parrafo_id": "E04-P087",
+      "inicio_unicode": 140,
+      "fin_unicode_exclusivo": 209
+    },
+    {
+      "codigo_id": "C058",
+      "ejemplo": 1,
+      "parrafo_id": "E05-P052",
+      "inicio_unicode": 209,
+      "fin_unicode_exclusivo": 315
+    },
+    {
+      "codigo_id": "C059",
+      "ejemplo": 0,
+      "parrafo_id": "E05-P167",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 158
+    },
+    {
+      "codigo_id": "C060",
+      "ejemplo": 0,
+      "parrafo_id": "E03-P161",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 92
+    },
+    {
+      "codigo_id": "C060",
+      "ejemplo": 1,
+      "parrafo_id": "E05-P157",
+      "inicio_unicode": 104,
+      "fin_unicode_exclusivo": 160
+    },
+    {
+      "codigo_id": "C060",
+      "ejemplo": 2,
+      "parrafo_id": "E05-P160",
+      "inicio_unicode": 33,
+      "fin_unicode_exclusivo": 143
+    }
+  ]
+}

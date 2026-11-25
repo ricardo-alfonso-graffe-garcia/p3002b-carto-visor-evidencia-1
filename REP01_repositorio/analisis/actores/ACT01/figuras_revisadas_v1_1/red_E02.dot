@@ -1,0 +1,20 @@
+digraph G {
+graph [rankdir=LR, bgcolor="white", pad="0.4", nodesep="0.45", ranksep="1.0", fontname="DejaVu Sans", fontsize=22, labelloc=t, label="Investigación urbana de compras alimentarias\nACT01-AMB002\nVerde continuo: acción propia declarada · Azul continuo: tercero relatado\nVioleta discontinuo: atribución documental\nÁmbar punteado: hipótesis (solo en figura separada)"];
+node [shape=box, style="rounded,filled", fillcolor="#edf5f8", color="#467187", fontname="DejaVu Sans", fontsize=17, margin="0.18,0.12"];
+edge [fontname="DejaVu Sans", fontsize=13, arrowsize=0.8];
+"ACT01-A005" [label="Investigadora\n(ACT01-A005)", fillcolor="#e3f4ee"];
+"ACT01-A006" [label="Colega investigadora\n(ACT01-A006)", fillcolor="#edf5f8"];
+"ACT01-A007" [label="Colaboradora de campo\n(ACT01-A007)", fillcolor="#edf5f8"];
+"ACT01-A008" [label="Personas de los casos\n(ACT01-A008)", fillcolor="#edf5f8"];
+"ACT01-A009" [label="Comentaristas de investigación\n(ACT01-A009)", fillcolor="#edf5f8"];
+"ACT01-A010" [label="Familiares mencionados en la\ninvestigación\n(ACT01-A010)", fillcolor="#edf5f8"];
+"ACT01-A011" [label="Comerciantes mencionados en la\ninvestigación\n(ACT01-A011)", fillcolor="#edf5f8"];
+"ACT01-A028" [label="Contactos que facilitan\ninvitaciones a la investigación\n(ACT01-A028)", fillcolor="#edf5f8"];
+"ACT01-A032" [label="Otras personas del hogar\nmencionadas en la investigación\n(ACT01-A032)", fillcolor="#edf5f8"];
+"ACT01-A006" -> "ACT01-A005" [id="ACT01-R006", label="Coacuerda foco y cuestiona\ncomparabilidad\nACT01-R006", color="#176d9b", fontcolor="#175578", style="solid", tooltip="RELATADA_POR_TERCERO: voz entrevistada; contraparte sin voz independiente"];
+"ACT01-A007" -> "ACT01-A005" [id="ACT01-R007", label="Aporta notas y discute\ninterpretación\nACT01-R007", color="#176d9b", fontcolor="#175578", style="solid", tooltip="RELATADA_POR_TERCERO: voz entrevistada; contraparte sin voz independiente"];
+"ACT01-A008" -> "ACT01-A005" [id="ACT01-R008", label="Regula experiencia\ncompartida y aclara\nACT01-R008", color="#176d9b", fontcolor="#175578", style="solid", tooltip="RELATADA_POR_TERCERO: voz entrevistada; contraparte sin voz independiente"];
+"ACT01-A005" -> "ACT01-A008" [id="ACT01-R009", label="Conversa y acompaña según\nacuerdo\nACT01-R009", color="#16785b", fontcolor="#146449", style="solid", tooltip="DECLARADA: voz entrevistada; contraparte sin voz independiente"];
+"ACT01-A009" -> "ACT01-A005" [id="ACT01-R010", label="Cuestiona alcance de\nafirmaciones\nACT01-R010", color="#176d9b", fontcolor="#175578", style="solid", tooltip="RELATADA_POR_TERCERO: voz entrevistada; contraparte sin voz independiente"];
+"ACT01-A028" -> "ACT01-A005" [id="ACT01-R011", label="Facilita invitaciones y\nacceso al campo\nACT01-R011", color="#176d9b", fontcolor="#175578", style="solid", tooltip="RELATADA_POR_TERCERO: voz entrevistada; contraparte sin voz independiente"];
+}

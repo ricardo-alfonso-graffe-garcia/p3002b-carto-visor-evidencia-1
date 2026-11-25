@@ -1,0 +1,19 @@
+digraph H {
+graph [rankdir=TB, pad=0.5, nodesep=0.6, ranksep=0.8, fontname="DejaVu Sans", fontsize=23, labelloc=t, label="Hipótesis condicionales de coordinación
+Homologación situada (ACT01-AMB007)
+Ámbar punteado: posibilidad del análisis; no apoyo o conflicto declarado"];
+node [shape=box, style="rounded,filled", fillcolor="#fff6e3", color="#ba8424", fontname="DejaVu Sans", fontsize=17];
+edge [color="#ba8424", style=dotted, fontname="DejaVu Sans", fontsize=15];
+subgraph cluster_ACT01_H001 { label="ACT01-H001 · ALIANZA_POTENCIAL"; color="#ead9b7";
+"ACT01-A001" [label="Técnica de registros\nACT01-A001"];
+"ACT01-A004" [label="Compañera de revisión\nACT01-A004"];
+"ACT01-A001" -> "ACT01-A004" [dir=none,label="Condiciones y alternativa:\nhipotesis.csv / JSON\nACT01-H001"]; }
+subgraph cluster_ACT01_H002 { label="ACT01-H002 · ALIANZA_POTENCIAL"; color="#ead9b7";
+"ACT01-A012" [label="Coordinadora\nACT01-A012"];
+"ACT01-A013" [label="Dos interlocutores del espacio\nACT01-A013"];
+"ACT01-A012" -> "ACT01-A013" [dir=none,label="Condiciones y alternativa:\nhipotesis.csv / JSON\nACT01-H002"]; }
+subgraph cluster_ACT01_H003 { label="ACT01-H003 · TENSION_POTENCIAL"; color="#ead9b7";
+"ACT01-A005" [label="Investigadora\nACT01-A005"];
+"ACT01-A008" [label="Personas de los casos\nACT01-A008"];
+"ACT01-A005" -> "ACT01-A008" [dir=none,label="Condiciones y alternativa:\nhipotesis.csv / JSON\nACT01-H003"]; }
+}

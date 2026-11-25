@@ -1,0 +1,198 @@
+{
+  "id": "N01-N014",
+  "titulo": "Observaciones para ajustar entre y durante los encuentros",
+  "enunciado": "La coordinadora de proyectos culturales necesita conocer qué está ocurriendo con recepción, audición, tiempos y participación y qué ajuste corresponde a cada momento, para resolver ajustes locales con la mediadora y preparar cambios pertinentes para el siguiente encuentro, en el contexto de coordinación de tres encuentros de lectura y conversación en un espacio comunitario.",
+  "actores": [
+    "ACT01-A012"
+  ],
+  "entrevistas": [
+    "E03"
+  ],
+  "contexto": "Desde la conversación que invita a regresar al espacio hasta comunicar, después de la serie y la consulta al equipo, interés sin nueva programación.",
+  "decision": "Resolver ajustes locales con la mediadora y preparar cambios pertinentes para el siguiente encuentro",
+  "objeto_informacion": "qué está ocurriendo con recepción, audición, tiempos y participación y qué ajuste corresponde a cada momento",
+  "tipo": "NECESIDAD_ACTUAL",
+  "estado_actual": "ATENDIDA_EN_EPISODIO",
+  "informacion_actual": "Un comentario sobre puerta cerrada motivó entreabrirla y mover sillas; después revisaron tiempo, interés y acomodo; una conversación emergente cambió la entrada de escritura.",
+  "faltante_o_deseada": "No se declara falta de un sistema de seguimiento; los intercambios permitieron ajustes distintos.",
+  "condiciones_y_limites": "Ajuste de puerta durante sesión, mediación de contenido y aprendizaje entre sesiones no son un solo evento ni un fallo general. No debe fijarse por anticipado toda conversación.",
+  "soportes_mencionados": [
+    "Comentario de anfitriones",
+    "Conversación con mediadora",
+    "Observación durante sesión"
+  ],
+  "conservar": [
+    "Margen de mediación",
+    "Revisión breve después del encuentro",
+    "Resolver dentro del alcance de quienes están presentes"
+  ],
+  "evidencias": [
+    "N01-V0148",
+    "N01-V0149",
+    "N01-V0150",
+    "N01-V0151",
+    "N01-V0152",
+    "N01-V0153",
+    "N01-V0137",
+    "N01-V0139"
+  ],
+  "evidencia_que_limita": [
+    "N01-V0138",
+    "N01-V0154",
+    "N01-V0155",
+    "N01-V0156"
+  ],
+  "razon_sin_contraevidencia": null,
+  "contexto_elicitacion": "Reconstrucción retrospectiva del episodio y repreguntas sobre decisión y suficiencia. La atribución descansa en respuestas de participante; preguntas, metáforas y recapitulaciones no son corroboración. Los localizadores del contexto están en cada evidencia.",
+  "codigos_comunes": [
+    "C043",
+    "C044",
+    "C038",
+    "C040"
+  ],
+  "hallazgos_s01": [
+    "S01-H009",
+    "S01-H012",
+    "S01-H020"
+  ],
+  "componentes_p01": [
+    "P01-E03-N011",
+    "P01-E03-N012",
+    "P01-E03-N013",
+    "P01-E03-N014",
+    "P01-E03-N015"
+  ],
+  "preferencias_act01": [
+    "ACT01-PR009",
+    "ACT01-PR011"
+  ],
+  "variantes_por_caso": [],
+  "vinculo_territorial": {
+    "tipo": "REFERENCIA_DE_LUGAR",
+    "razon": "La recepción y audición se sitúan en salón y puerta; el sentido de la conversación no se reduce al espacio físico.",
+    "evidencias": [
+      "N01-V0148",
+      "N01-V0149"
+    ],
+    "limites": "La pertinencia del lugar no demuestra necesidad de coordenadas o de un mapa. Organización y espacio sin nombre formal; consulta parcial, sin motivos de no asistencia ni impacto total conocidos. No identifica un programa público."
+  },
+  "vinculos_sectoriales": [
+    {
+      "sector": "SOCIEDAD_CIVIL",
+      "actividad": "Coordinación de tres encuentros de lectura y conversación en un espacio comunitario",
+      "iniciativa": null,
+      "estatus_iniciativa": "ACTIVIDAD_RELATADA_SIN_NOMBRE_FORMAL",
+      "nexo": "RELEVANCIA_PUBLICA_POR_VALIDAR",
+      "razon": "La actividad cultural tiene uso comunitario relatado; una política o programa público de origen no fue identificado.",
+      "evidencias": [
+        "N01-V0346",
+        "N01-V0148",
+        "N01-V0149"
+      ],
+      "limites": "No se identificó programa público que origine esta necesidad. Organización y espacio sin nombre formal; consulta parcial, sin motivos de no asistencia ni impacto total conocidos. No identifica un programa público."
+    }
+  ],
+  "verificacion": [
+    {
+      "id": "N01-K014",
+      "observable": "Se distingue qué información condujo al ajuste local y cuál informó la sesión siguiente, manteniendo audición y posibilidad de entrar sin abandonar la propuesta.",
+      "metodo": "Revisar secuencia de observación, comentario y decisión relatados; cotejar notas propias si se aportan. Una comprobación futura debe diferenciar recepción y contenido.",
+      "origen": "PROPUESTA_ANALITICA",
+      "estado": "PROPUESTA_NO_EJECUTADA",
+      "evidencias": [
+        "N01-V0148",
+        "N01-V0149",
+        "N01-V0150",
+        "N01-V0151",
+        "N01-V0152",
+        "N01-V0153",
+        "N01-V0137",
+        "N01-V0139"
+      ],
+      "limites": "Comprobación futura; no se ejecutó ni acredita aceptación humana. No se fijan umbrales numéricos. Ajuste de puerta durante sesión, mediación de contenido y aprendizaje entre sesiones no son un solo evento ni un fallo general. No debe fijarse por anticipado toda conversación.",
+      "desglose_origen": {
+        "observable": "PROPUESTA_ANALITICA",
+        "operacionalizacion_metodo": "PROPUESTA_ANALITICA",
+        "aceptacion": "NO_RECABADA"
+      }
+    }
+  ],
+  "prioridad": {
+    "ambito": "E03",
+    "nivel": "MEDIA",
+    "origen": "ANALISIS_CONDICIONAL",
+    "criterios": [
+      "N01-CP001",
+      "N01-CP002",
+      "N01-CP003",
+      "N01-CP004"
+    ],
+    "razon": "Habilita continuidad adaptable una vez iniciada la serie. No exige recopilar toda experiencia o elevar cada ajuste a programación.",
+    "comparables": [],
+    "limites": "Orden parcial dentro de esta actividad. No compara importancia urbana ni factibilidad técnica; evidencia más sólida no equivale a más impacto. No hay otra necesidad con la misma subdecisión y modalidad para establecer una comparación homogénea; el nivel expresa pertinencia condicional, sin ranking total."
+  },
+  "importancia_expresada": "No hay priorización comparable explícita de esta pieza por la persona. El nivel asignado es del análisis.",
+  "pertinencia_diseno_posterior": "PENDIENTE: revisar con usuarios y encargo; la legitimidad de la necesidad no prescribe un soporte ni su incorporación a un visor.",
+  "factibilidad": "NO_DETERMINADA",
+  "incognitas": [
+    "No están aportadas notas de sesión ni las voces de quienes dieron comentarios."
+  ],
+  "enlaces_codigos_asignados": [
+    {
+      "codigo": "C043",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R03-S056",
+        "R03-S057",
+        "R03-S058"
+      ],
+      "evidencias": [
+        "N01-V0150",
+        "N01-V0151",
+        "N01-V0152"
+      ]
+    },
+    {
+      "codigo": "C044",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R03-S059",
+        "R03-S060",
+        "R03-S062",
+        "R03-S126",
+        "R03-S127"
+      ],
+      "evidencias": [
+        "N01-V0153",
+        "N01-V0137",
+        "N01-V0138",
+        "N01-V0154"
+      ]
+    },
+    {
+      "codigo": "C038",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R03-S016",
+        "R03-S017",
+        "R03-S128"
+      ],
+      "evidencias": [
+        "N01-V0148",
+        "N01-V0149",
+        "N01-V0155"
+      ]
+    },
+    {
+      "codigo": "C040",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R03-S057"
+      ],
+      "evidencias": [
+        "N01-V0151"
+      ]
+    }
+  ],
+  "codigos_contextuales": []
+}

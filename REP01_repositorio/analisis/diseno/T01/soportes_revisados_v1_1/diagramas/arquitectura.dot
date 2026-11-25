@@ -1,0 +1,34 @@
+digraph Arquitectura {
+ graph [rankdir=TB,bgcolor="white",pad="0.35",nodesep="0.65",ranksep="0.8",label="ARQUITECTURA PROPUESTA · T01\nRamas por pregunta y soporte; retornos sin sobrescribir originales",labelloc=t,fontname="DejaVu Sans",fontsize=22];
+ node [shape=box,style="rounded,filled",fillcolor="#EDF3F7",color="#42657D",fontname="DejaVu Sans",fontsize=17,margin="0.18,0.13"];
+ edge [fontname="DejaVu Sans",fontsize=12,color="#315E78",arrowsize=0.8];
+ fuente [label="Fuente externa o soporte aportado\nPermiso y custodia por confirmar",fillcolor="#F2EFE8"];
+ recep [label="Recepción · M001\nOriginal, finalidad y procedencia\nContrato de recepción C001"];
+ unify [label="Unificación · M002\nIdentidad, significado y referencia\nC002 / C003"];
+ agg [label="Agregación optativa · M003\nUnidad, miembros y denominador\nConfiguración C004 / resumen C005"];
+ build [label="Construcción · M004\nOcasión / revisión / acuerdo\nC006 / C007 / C008"];
+ ana [label="Análisis · M005\nComparabilidad y alcance\nLectura con límites C009"];
+ prod [label="Productos · M006\nConsulta o documento mínimo\nSalida con trazas C010"];
+ humano [label="Actividad humana\nInterpretar, conversar, revalidar\ny decidir; responsable por confirmar",fillcolor="#F4EBD9"];
+ fuente -> recep [label="aporte autorizado"];
+ recep -> unify [label="original y contexto"];
+ {rank=same;agg;build;}
+ unify -> agg [label="si requiere resumen"];
+ unify -> build [label="notas sin agregación"];
+ agg -> build [label="asignaciones útiles"];
+ agg -> ana [label="contraste de unidades"];
+ build -> ana [label="examinar suficiencia"];
+ build -> prod [label="consulta descriptiva"];
+ ana -> prod [label="lectura revisable"];
+ prod -> humano [label="vista y pregunta"];
+ humano -> prod [style=dashed,color="#A45D27",label="duda C011",constraint=false];
+ prod -> build [style=dashed,color="#A45D27",label="revisar contenido",constraint=false];
+ prod -> ana [style=dashed,color="#A45D27",label="cuestionar lectura",constraint=false];
+ ana -> build [style=dashed,color="#A45D27",label="volver al respaldo",constraint=false];
+ ana -> agg [style=dashed,color="#A45D27",label="revisar unidad",constraint=false];
+ build -> unify [style=dashed,color="#A45D27",label="aclarar identidad",constraint=false];
+ agg -> unify [style=dashed,color="#A45D27",label="pertenencia dudosa",constraint=false];
+ unify -> recep [style=dashed,color="#A45D27",label="fuente o permiso",constraint=false];
+ leyenda [shape=note,fillcolor="white",color="#A8ADB2",fontsize=13,label="Continuas: flujos propuestos y condicionales.\nDiscontinuas: retorno de dudas/correcciones (C011).\nM = módulo; C = contrato; prefijo T01 omitido para lectura.\nNo son procesos institucionales observados entre E01–E05.\nNingún servicio o producto se ejecutó."];
+ humano -> leyenda [style=invis];
+}

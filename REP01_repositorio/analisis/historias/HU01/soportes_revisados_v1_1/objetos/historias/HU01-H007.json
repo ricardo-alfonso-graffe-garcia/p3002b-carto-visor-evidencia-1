@@ -1,0 +1,142 @@
+{
+  "id": "HU01-H007",
+  "titulo": "Acordar una propuesta cultural que se pueda anunciar",
+  "formulacion": "Como persona que coordina encuentros culturales, quiero construir con equipo y anfitriones una propuesta con fechas confirmadas y condiciones adecuadas del salón, para decidir cuándo se puede anunciar lo que podemos sostener.",
+  "actores": [
+    "ACT01-A012"
+  ],
+  "perfil": "HU01-P003",
+  "necesidades": [
+    "N01-N010",
+    "N01-N011"
+  ],
+  "entrevistas": [
+    "E03"
+  ],
+  "tipo": "ACTUAL_A_PRESERVAR",
+  "contexto": "La visita en horario parecido complementó la confirmación de las tres fechas. La disponibilidad sola no daba sentido a la propuesta; se mantuvieron tres encuentros sin agregar otro no acordado.",
+  "objetivo": "construir con equipo y anfitriones una propuesta con fechas confirmadas y condiciones adecuadas del salón",
+  "beneficio_o_decision": "decidir cuándo se puede anunciar lo que podemos sostener",
+  "restricciones": [
+    "Interés en volver y compatibilidad horaria son distintos. No determina horario favorito de la comunidad ni compromete sola salón, equipo o contenido.",
+    "No busca el mejor salón de la ciudad, silencio absoluto, medición acústica o aforo técnico. Con otro propósito la revisión puede cambiar."
+  ],
+  "preservar": [
+    "Construir sentido de la propuesta entre varias personas",
+    "Confirmar antes de anunciar",
+    "Consulta acotada sin representatividad",
+    "Visitar cuando lo amerita la actividad",
+    "Prueba situada de escucha",
+    "Conocimiento operativo de anfitriones"
+  ],
+  "evidencias": [
+    "N01-V0099",
+    "N01-V0100",
+    "N01-V0101",
+    "N01-V0102",
+    "N01-V0103",
+    "N01-V0104",
+    "N01-V0105",
+    "N01-V0106",
+    "N01-V0107",
+    "N01-V0108",
+    "N01-V0109",
+    "N01-V0110",
+    "N01-V0111",
+    "N01-V0112",
+    "N01-V0113",
+    "N01-V0114",
+    "N01-V0115",
+    "N01-V0116",
+    "N01-V0117",
+    "N01-V0118",
+    "N01-V0119",
+    "N01-V0120",
+    "N01-V0121",
+    "N01-V0122",
+    "N01-V0123",
+    "N01-V0124",
+    "N01-V0125",
+    "N01-V0126",
+    "N01-V0127",
+    "N01-V0128",
+    "N01-V0129"
+  ],
+  "limites": "No están aportados mensajes, calendario ni invitación originales.; Se desconoce motivo de no respuesta o inasistencia.; No hay mediciones o registro externo de la visita.; Cambios de uso futuros requieren nueva comprobación.. Las formulaciones son derivaciones analíticas, no citas ni compromisos de participantes. La pertinencia de un producto sigue por validar.",
+  "criterios": [
+    {
+      "id": "HU01-K009",
+      "dado": "la propuesta cultural fue construida con las personas involucradas",
+      "cuando": "se considera circular la invitación",
+      "entonces": "se distinguen posibilidades y confirmaciones de fechas, equipo e interés parcial, y cualquier pendiente que impida cumplirla queda visible",
+      "origen": "ADAPTADO_DE_CRITERIO_N01",
+      "criterios_n01": [
+        "N01-K010"
+      ],
+      "estado": "PROPUESTO_NO_EJECUTADO",
+      "limites": "Adaptación analítica de N01-K010. Observable N01 de origen PROPUESTA_ANALITICA; Dado/Cuando/Entonces y el cotejo son propuestas del análisis, no aceptación recabada. Interés en volver y compatibilidad horaria son distintos. No determina horario favorito de la comunidad ni compromete sola salón, equipo o contenido. Soportes originales no aportados; no se ejecutó esta comprobación."
+    },
+    {
+      "id": "HU01-K010",
+      "dado": "la actividad requiere lectura, conversación y apoyo de hojas",
+      "cuando": "se valoran salón y patio con visita pertinente y confirmaciones de fechas",
+      "entonces": "se explica por qué el salón sirve a esta propuesta y qué procede de observar un día y qué de confirmar las fechas",
+      "origen": "ADAPTADO_DE_CRITERIO_N01",
+      "criterios_n01": [
+        "N01-K011"
+      ],
+      "estado": "PROPUESTO_NO_EJECUTADO",
+      "limites": "Adaptación analítica de N01-K011. Observable N01 de origen PROPUESTA_ANALITICA; Dado/Cuando/Entonces y el cotejo son propuestas del análisis, no aceptación recabada. No busca el mejor salón de la ciudad, silencio absoluto, medición acústica o aforo técnico. Con otro propósito la revisión puede cambiar. Soportes originales no aportados; no se ejecutó esta comprobación."
+    }
+  ],
+  "prioridad": {
+    "nivel": "ALTA",
+    "ambito": "E03: actividad actual: Acordar una propuesta cultural que se pueda anunciar",
+    "origen": "ANALISIS_CONDICIONAL",
+    "razon": "Ambas necesidades son altas al decidir anunciar: aptitud del salón y compromisos se complementan. Una consulta parcial basta para esta propuesta, sin ranking del mejor horario comunitario. Importancia expresada: No hay priorización comparable explícita de esta pieza por la persona. El nivel asignado es del análisis.",
+    "limites": "Orden local parcial y condicional al momento señalado. No ranking urbano, cartera implementable, aceptación ADIP ni factibilidad comprobada."
+  },
+  "perfil_metadatos": "HU01-M007",
+  "metaalgoritmo": [
+    {
+      "id": "HU01-OP027",
+      "nombre": "Construir propuesta",
+      "entrada": "Invitación del espacio, contenido y agendas",
+      "operacion": "Propuesta: Conversar con equipo y anfitriones el sentido y capacidad de lo ofrecido.",
+      "salida": "Propuesta compartida",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP028",
+      "nombre": "Comprobar aptitud y fechas",
+      "entrada": "Visita, usos, disponibilidad del equipo y del salón",
+      "operacion": "Propuesta: Distinguir experiencia de un horario y confirmación de las tres fechas.",
+      "salida": "Condiciones situadas y compromisos",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP029",
+      "nombre": "Revisar interés y pendientes",
+      "entrada": "Consulta parcial y resumen",
+      "operacion": "Propuesta: Distinguir interés, posibilidad de asistir y asistencia no garantizada; separar pendientes bloqueantes de lecturas ajustables.",
+      "salida": "Base suficiente para invitar o pendiente",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP030",
+      "nombre": "Confirmar y decidir anuncio",
+      "entrada": "Propuesta, condiciones y resumen",
+      "operacion": "Propuesta: Volver a acuerdos con personas involucradas antes de circular; presentar lo realizable.",
+      "salida": "Decisión de anunciar y calendario pertinente",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+digraph D01 {
+  graph [rankdir=TB, bgcolor="white", pad="0.3", nodesep="0.35", ranksep="0.55", fontname="DejaVu Sans", fontsize=17, labelloc="t", label="D01-M004 · Condiciones legales de incorporación al SIG-PAOT\nÁmbito propio; sin atribución a entrevistas"];
+  node [shape=box, style="rounded,filled", fillcolor="#edf3f6", color="#3c6174", fontname="DejaVu Sans", fontsize=11, margin="0.16,0.12"];
+  edge [fontname="DejaVu Sans", fontsize=9, color="#536a73"];
+  "D01-M004-N001" [id="D01-M004-N001", label="Aportación de dependencias\ncompetentes\nD01-M004-N001\nD01-V036"];
+  "D01-M004-N002" [id="D01-M004-N002", label="Entrega oficial y compatibilidad\nD01-M004-N002\nD01-V036"];
+  "D01-M004-N003" [id="D01-M004-N003", label="Revisión y publicación previstas\nD01-M004-N003\nD01-V036"];
+  "D01-M004-N004" [id="D01-M004-N004", label="Validación y carácter de uso\nD01-M004-N004\nD01-V036"];
+  "D01-M004-N001" -> "D01-M004-N002" [id="D01-M004-R001", label="CONDICION\nD01-M004-R001", color="#536a73", style="solid"];
+  "D01-M004-N002" -> "D01-M004-N003" [id="D01-M004-R002", label="CONDICION\nD01-M004-R002", color="#536a73", style="solid"];
+}

@@ -1,0 +1,134 @@
+{
+  "id": "HU01-H014",
+  "titulo": "Explorar una alternativa y dejar clara su situación",
+  "formulacion": "Como persona que evalúa otro elástico, quiero distinguir precio y cantidad de la oferta, lo comprobado al tacto y lo que solo queda anotado, para decidir no incorporarlo por ahora y permitir recuperar la consulta sin anunciar existencias falsas.",
+  "actores": [
+    "ACT01-A019"
+  ],
+  "perfil": "HU01-P004",
+  "necesidades": [
+    "N01-N020",
+    "N01-N021"
+  ],
+  "entrevistas": [
+    "E04"
+  ],
+  "tipo": "ACTUAL_A_PRESERVAR",
+  "contexto": "Se vio y estiró la alternativa; la presentación exigía más cantidad de la deseada para conocerla. Se guardó referencia con nota y se contó al regresar; no había pedido confirmado.",
+  "objetivo": "distinguir precio y cantidad de la oferta, lo comprobado al tacto y lo que solo queda anotado",
+  "beneficio_o_decision": "decidir no incorporarlo por ahora y permitir recuperar la consulta sin anunciar existencias falsas",
+  "restricciones": [
+    "No es sustituir de fuerza al conocido ni un descarte solo por precio. Más información no elimina la restricción de cantidad.",
+    "No retorno de quien preguntó no significa abandono, satisfacción ni que siga esperando un encargo."
+  ],
+  "preservar": [
+    "Dejar pendiente cuando no conviene",
+    "Separar consulta de compra",
+    "No generalizar una petición",
+    "Relevo recíproco",
+    "No confundir visto y disponible",
+    "Consulta que puede esperar"
+  ],
+  "evidencias": [
+    "N01-V0210",
+    "N01-V0211",
+    "N01-V0212",
+    "N01-V0213",
+    "N01-V0214",
+    "N01-V0215",
+    "N01-V0216",
+    "N01-V0206",
+    "N01-V0208",
+    "N01-V0217",
+    "N01-V0218",
+    "N01-V0219",
+    "N01-V0220",
+    "N01-V0221",
+    "N01-V0209",
+    "N01-V0222",
+    "N01-V0223",
+    "N01-V0224",
+    "N01-V0225",
+    "N01-V0226",
+    "N01-V0227",
+    "N01-V0228",
+    "N01-V0229"
+  ],
+  "limites": "No se conoce una presentación pequeña disponible ni demanda de tener ambos.; No consta retorno de cliente ni uso posterior de la nota.. Las formulaciones son derivaciones analíticas, no citas ni compromisos de participantes. La pertinencia de un producto sigue por validar.",
+  "criterios": [
+    {
+      "id": "HU01-K019",
+      "dado": "la alternativa se siente más suave pero exige determinada presentación",
+      "cuando": "se valora incorporarla con lo conocido y lo desconocido",
+      "entonces": "se explica no comprar por cantidad y conveniencia incierta sin atribuir defecto, sustitución obligatoria o rechazo definitivo",
+      "origen": "ADAPTADO_DE_CRITERIO_N01",
+      "criterios_n01": [
+        "N01-K020"
+      ],
+      "estado": "PROPUESTO_NO_EJECUTADO",
+      "limites": "Adaptación analítica de N01-K020. Observable N01 de origen PROPUESTA_ANALITICA; Dado/Cuando/Entonces y el cotejo son propuestas del análisis, no aceptación recabada. No es sustituir de fuerza al conocido ni un descarte solo por precio. Más información no elimina la restricción de cantidad. Soportes originales no aportados; no se ejecutó esta comprobación."
+    },
+    {
+      "id": "HU01-K020",
+      "dado": "se retoma la nota y referencia de la alternativa consultada",
+      "cuando": "se explica su situación en el mostrador",
+      "entonces": "se distingue visto de disponible para vender y de pedido confirmado, sin suponer que quien preguntó sigue esperando",
+      "origen": "ADAPTADO_DE_CRITERIO_N01",
+      "criterios_n01": [
+        "N01-K021"
+      ],
+      "estado": "PROPUESTO_NO_EJECUTADO",
+      "limites": "Adaptación analítica de N01-K021. Observable N01 de origen PROPUESTA_ANALITICA; Dado/Cuando/Entonces y el cotejo son propuestas del análisis, no aceptación recabada. No retorno de quien preguntó no significa abandono, satisfacción ni que siga esperando un encargo. Soportes originales no aportados; no se ejecutó esta comprobación."
+    }
+  ],
+  "prioridad": {
+    "nivel": "MEDIA",
+    "ambito": "E04: actividad actual: Explorar una alternativa y dejar clara su situación",
+    "origen": "ANALISIS_CONDICIONAL",
+    "razon": "N020 y N021 son medias dentro de consulta adicional: primero decidir qué no comprar, después comunicar el estado. Quedan por debajo de la reposición expresamente comprometida en esa vuelta. Importancia expresada: E04-P020 y P176 sitúan esta consulta por debajo de la reposición comprometida; no la descartan ni la convierten en obligación diaria. No hay priorización comparable explícita de esta pieza por la persona. El nivel asignado es del análisis.",
+    "limites": "Orden local parcial y condicional al momento señalado. No ranking urbano, cartera implementable, aceptación ADIP ni factibilidad comprobada."
+  },
+  "perfil_metadatos": "HU01-M014",
+  "metaalgoritmo": [
+    {
+      "id": "HU01-OP057",
+      "nombre": "Delimitar consulta",
+      "entrada": "Petición individual, nota y alternativa",
+      "operacion": "Propuesta: Distinguir interés sin pedido de reposición ya comprometida.",
+      "salida": "Pregunta adicional",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP058",
+      "nombre": "Examinar oferta y límite",
+      "entrada": "Tacto, estiramiento, precio y presentación",
+      "operacion": "Propuesta: Comparar lo observado con utilidad desconocida y cantidad conveniente.",
+      "salida": "Conocido, desconocido y restricción",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP059",
+      "nombre": "Decidir incorporación",
+      "entrada": "Lo anterior y necesidad de regresar",
+      "operacion": "Propuesta: Decidir no adquirir por ahora sin reducir todo a precio ni atribuir defecto.",
+      "salida": "Consulta cerrada con opción conservada",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP060",
+      "nombre": "Comunicar situación recuperable",
+      "entrada": "Nota y referencia guardada",
+      "operacion": "Propuesta: Presentar a la otra persona qué se vio y no se compró, sin prometer existencia o encargo.",
+      "salida": "Consulta disponible para retomar si surge",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    }
+  ]
+}

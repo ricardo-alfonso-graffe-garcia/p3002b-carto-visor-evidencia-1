@@ -1,0 +1,25 @@
+{
+  "fecha": "2026-11-25",
+  "estado": "DOS_PNG_INSPECCIONADOS_EN_COORDINACION",
+  "resultado": "Legibles al ampliar; sin recortes ni superposiciones observadas. SVG con ids existentes.",
+  "exportaciones": "REUTILIZADAS_SIN_CAMBIO",
+  "limite": "No aceptación ni revisión humana independiente. Compatibles con 1.1 porque no muestran valores de resolución/escala precisados.",
+  "archivos": [
+    {
+      "ruta": "figuras/perfiles.svg",
+      "sha256": "d0e3bdb80533edc9870e32c3b06e24943602474b1a1d68d4414463351e79a986"
+    },
+    {
+      "ruta": "figuras/perfiles.png",
+      "sha256": "440de71ca7057cd5fa4246b2a3668924369cfe0667acd1f15a5a3e8daf910d40"
+    },
+    {
+      "ruta": "figuras/recorrido.svg",
+      "sha256": "5e66ecc566e7530fa7a7c8dda2c411ed7985e9a0188f20fc2e64b8e419521f6f"
+    },
+    {
+      "ruta": "figuras/recorrido.png",
+      "sha256": "0c870ce854ee722103cebcd0502bdf176e3ff1561bac47af43ed2beb91cb7d37"
+    }
+  ]
+}

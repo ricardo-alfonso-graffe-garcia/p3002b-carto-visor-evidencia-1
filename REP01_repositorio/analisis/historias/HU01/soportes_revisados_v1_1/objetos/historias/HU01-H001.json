@@ -1,0 +1,128 @@
+{
+  "id": "HU01-H001",
+  "titulo": "Revisar identidad antes de conservar o modificar",
+  "formulacion": "Como persona que revisa registros territoriales, quiero contrastar la finalidad del encargo y el significado de la diferencia entre referencias, para decidir qué conservar o modificar sin confundir espacio, puerta y traslado.",
+  "actores": [
+    "ACT01-A001"
+  ],
+  "perfil": "HU01-P001",
+  "necesidades": [
+    "N01-N001",
+    "N01-N002"
+  ],
+  "entrevistas": [
+    "E01"
+  ],
+  "tipo": "ACTUAL_A_PRESERVAR",
+  "contexto": "La petición cubre tres espacios para preparar visitas. Nombre, esquina, antecedentes y aclaración mediada permitieron conservar identificador y punto; no hubo traslado ni movimiento inicial ejecutado.",
+  "objetivo": "contrastar la finalidad del encargo y el significado de la diferencia entre referencias",
+  "beneficio_o_decision": "decidir qué conservar o modificar sin confundir espacio, puerta y traslado",
+  "restricciones": [
+    "No organiza visitas ni decide actividades. El encargo no cambió en el episodio.",
+    "El punto representa el sitio y no una puerta levantada con precisión; la primera intención de moverlo no se ejecutó."
+  ],
+  "preservar": [
+    "Aclarar el uso antes de revisar",
+    "Distinguir responsabilidad propia de la de las visitas",
+    "Comparar antes de cambiar",
+    "Otra lectura con la compañera",
+    "Pregunta concreta a quien conoce el sitio"
+  ],
+  "evidencias": [
+    "N01-V0001",
+    "N01-V0002",
+    "N01-V0003",
+    "N01-V0004",
+    "N01-V0005",
+    "N01-V0006",
+    "N01-V0007",
+    "N01-V0008",
+    "N01-V0009",
+    "N01-V0010",
+    "N01-V0011",
+    "N01-V0012",
+    "N01-V0013",
+    "N01-V0014",
+    "N01-V0015",
+    "N01-V0016",
+    "N01-V0017",
+    "N01-V0018"
+  ],
+  "limites": "No se dispone de la petición original ni de su unidad institucional.; No consta estado del acceso anterior ni precisión de puerta.. Las formulaciones son derivaciones analíticas, no citas ni compromisos de participantes. La pertinencia de un producto sigue por validar.",
+  "criterios": [
+    {
+      "id": "HU01-K001",
+      "dado": "la petición y su finalidad están disponibles para revisión",
+      "cuando": "se delimita lo que debe devolverse",
+      "entonces": "se explica qué corresponde revisar y qué queda a cargo de quienes preparan las visitas",
+      "origen": "ADAPTADO_DE_CRITERIO_N01",
+      "criterios_n01": [
+        "N01-K001"
+      ],
+      "estado": "PROPUESTO_NO_EJECUTADO",
+      "limites": "Adaptación analítica de N01-K001. Observable N01 de origen PROPUESTA_ANALITICA; Dado/Cuando/Entonces y el cotejo son propuestas del análisis, no aceptación recabada. No organiza visitas ni decide actividades. El encargo no cambió en el episodio. Soportes originales no aportados; no se ejecutó esta comprobación."
+    },
+    {
+      "id": "HU01-K002",
+      "dado": "las referencias difieren en calle de entrada",
+      "cuando": "se comparan nombre, croquis, antecedentes y aclaración pertinente",
+      "entonces": "se justifica conservar o detener el cambio distinguiendo espacio, acceso y traslado, sin afirmar puerta única",
+      "origen": "ADAPTADO_DE_CRITERIO_N01",
+      "criterios_n01": [
+        "N01-K002"
+      ],
+      "estado": "PROPUESTO_NO_EJECUTADO",
+      "limites": "Adaptación analítica de N01-K002. Observable N01 de origen PROPUESTA_ANALITICA; Dado/Cuando/Entonces y el cotejo son propuestas del análisis, no aceptación recabada. El punto representa el sitio y no una puerta levantada con precisión; la primera intención de moverlo no se ejecutó. Soportes originales no aportados; no se ejecutó esta comprobación."
+    }
+  ],
+  "prioridad": {
+    "nivel": "ALTA",
+    "ambito": "E01: actividad actual: Revisar identidad antes de conservar o modificar",
+    "origen": "ANALISIS_CONDICIONAL",
+    "razon": "Al recibir el encargo se delimita su alcance; ante la discrepancia se resuelve identidad. Ambas necesidades tienen nivel local alto, por dependencia de la revisión, sin proponer corregir todo registro. Importancia expresada: No hay priorización comparable explícita de esta pieza por la persona. El nivel asignado es del análisis.",
+    "limites": "Orden local parcial y condicional al momento señalado. No ranking urbano, cartera implementable, aceptación ADIP ni factibilidad comprobada."
+  },
+  "perfil_metadatos": "HU01-M001",
+  "metaalgoritmo": [
+    {
+      "id": "HU01-OP001",
+      "nombre": "Delimitar y reconocer referencias",
+      "entrada": "Petición, tabla y finalidad",
+      "operacion": "Propuesta: Precisar qué revisión corresponde y reunir antecedentes del mismo registro.",
+      "salida": "Alcance y referencias pertinentes",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP002",
+      "nombre": "Contrastar significado e identidad",
+      "entrada": "Nombre, descripción, croquis y punto",
+      "operacion": "Propuesta: Comparar qué representa cada soporte, evitando equiparar puerta y sitio.",
+      "salida": "Diferencia concreta y pregunta de identidad",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP003",
+      "nombre": "Recuperar y valorar aclaración",
+      "entrada": "Pregunta, compañera y respuesta mediada del equipo",
+      "operacion": "Propuesta: Comprobar que la respuesta resuelve mismo espacio, acceso o traslado; dejar pendiente si no responde.",
+      "salida": "Fundamento y límites de correspondencia",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP004",
+      "nombre": "Decidir y presentar revisión",
+      "entrada": "Correspondencia comprobada para la tarea",
+      "operacion": "Propuesta: Conservar identificador y punto o detener modificación; explicar solo el ajuste respaldado.",
+      "salida": "Decisión técnica propia y copia explicable",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    }
+  ]
+}

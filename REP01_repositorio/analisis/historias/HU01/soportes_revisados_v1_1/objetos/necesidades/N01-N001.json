@@ -1,0 +1,151 @@
+{
+  "id": "N01-N001",
+  "titulo": "Alcance y finalidad de la revisión",
+  "enunciado": "La técnica de registros de la alcaldía necesita conocer para qué se usará la relación y qué debe revisar y devolver, para delimitar su trabajo y reconocer si una petición posterior cambia el encargo, en el contexto de revisión de registros de tres espacios para preparar visitas.",
+  "actores": [
+    "ACT01-A001"
+  ],
+  "entrevistas": [
+    "E01"
+  ],
+  "contexto": "Desde recibir la relación y petición hasta devolver la copia revisada y atender una pregunta posterior.",
+  "decision": "Delimitar su trabajo y reconocer si una petición posterior cambia el encargo",
+  "objeto_informacion": "para qué se usará la relación y qué debe revisar y devolver",
+  "tipo": "NECESIDAD_ACTUAL",
+  "estado_actual": "ATENDIDA_EN_EPISODIO",
+  "informacion_actual": "Recibe tabla de tres sitios y finalidad de preparar visitas; su parte termina al devolver y explicar la copia.",
+  "faltante_o_deseada": "No se declara una carencia para delimitar este encargo; cualquier nuevo uso debe explicitarse.",
+  "condiciones_y_limites": "No organiza visitas ni decide actividades. El encargo no cambió en el episodio.",
+  "soportes_mencionados": [
+    "Tabla recibida",
+    "Conversaciones de trabajo"
+  ],
+  "conservar": [
+    "Aclarar el uso antes de revisar",
+    "Distinguir responsabilidad propia de la de las visitas"
+  ],
+  "evidencias": [
+    "N01-V0001",
+    "N01-V0002",
+    "N01-V0003",
+    "N01-V0004"
+  ],
+  "evidencia_que_limita": [
+    "N01-V0005"
+  ],
+  "razon_sin_contraevidencia": null,
+  "contexto_elicitacion": "Reconstrucción retrospectiva del episodio y repreguntas sobre decisión y suficiencia. La atribución descansa en respuestas de participante; preguntas, metáforas y recapitulaciones no son corroboración. Los localizadores del contexto están en cada evidencia.",
+  "codigos_comunes": [
+    "C001"
+  ],
+  "hallazgos_s01": [
+    "S01-H004",
+    "S01-H020",
+    "S01-H022"
+  ],
+  "componentes_p01": [
+    "P01-E01-N001",
+    "P01-E01-N002",
+    "P01-E01-N014"
+  ],
+  "preferencias_act01": [
+    "ACT01-PR001"
+  ],
+  "variantes_por_caso": [],
+  "vinculo_territorial": {
+    "tipo": "REFERENCIA_DE_LUGAR",
+    "razon": "Las referencias se entregan para reconocer sitios, pero delimitar responsabilidad es principalmente informacional.",
+    "evidencias": [
+      "N01-V0001",
+      "N01-V0002"
+    ],
+    "limites": "La pertinencia del lugar no demuestra necesidad de coordenadas o de un mapa. Alcaldía y unidad no identificadas; el equipo relatado observó el acceso y la entrevistada revisó su incorporación. No consta uso posterior de la copia."
+  },
+  "vinculos_sectoriales": [
+    {
+      "sector": "PUBLICO",
+      "actividad": "Revisión de registros de tres espacios para preparar visitas",
+      "iniciativa": null,
+      "estatus_iniciativa": "ACTIVIDAD_RELATADA_SIN_NOMBRE_FORMAL",
+      "nexo": "PUBLICO_DIRECTO",
+      "razon": "La función se declara en una alcaldía y sirve a una petición de revisión, con responsabilidad acotada.",
+      "evidencias": [
+        "N01-V0344",
+        "N01-V0001",
+        "N01-V0002"
+      ],
+      "limites": "No se identificó programa público que origine esta necesidad. Alcaldía y unidad no identificadas; el equipo relatado observó el acceso y la entrevistada revisó su incorporación. No consta uso posterior de la copia."
+    }
+  ],
+  "verificacion": [
+    {
+      "id": "N01-K001",
+      "observable": "Puede explicar qué revisará y qué queda a cargo de quienes preparan las visitas.",
+      "metodo": "Contrastar la formulación con la petición y copia del mismo episodio si se aportan; revisión humana de correspondencia entre finalidad, alcance y entrega.",
+      "origen": "PROPUESTA_ANALITICA",
+      "estado": "PROPUESTA_NO_EJECUTADA",
+      "evidencias": [
+        "N01-V0001",
+        "N01-V0002",
+        "N01-V0003",
+        "N01-V0004"
+      ],
+      "limites": "Comprobación futura; no se ejecutó ni acredita aceptación humana. No se fijan umbrales numéricos. No organiza visitas ni decide actividades. El encargo no cambió en el episodio.",
+      "desglose_origen": {
+        "observable": "PROPUESTA_ANALITICA",
+        "operacionalizacion_metodo": "PROPUESTA_ANALITICA",
+        "aceptacion": "NO_RECABADA"
+      }
+    }
+  ],
+  "prioridad": {
+    "ambito": "E01",
+    "nivel": "ALTA",
+    "origen": "ANALISIS_CONDICIONAL",
+    "criterios": [
+      "N01-CP001",
+      "N01-CP002",
+      "N01-CP003",
+      "N01-CP004"
+    ],
+    "razon": "Delimita qué cuenta como suficiente antes de modificar registros; evita extender la tarea a decisiones ajenas.",
+    "comparables": [
+      "N01-N002",
+      "N01-N003"
+    ],
+    "limites": "Orden parcial dentro de esta actividad. No compara importancia urbana ni factibilidad técnica; evidencia más sólida no equivale a más impacto. Comparar distingue dependencias y momentos; las necesidades no son sustitutos y se admiten empates. En ideales frente a actuales, el nivel se lee dentro de su modalidad."
+  },
+  "importancia_expresada": "No hay priorización comparable explícita de esta pieza por la persona. El nivel asignado es del análisis.",
+  "pertinencia_diseno_posterior": "PENDIENTE: revisar con usuarios y encargo; la legitimidad de la necesidad no prescribe un soporte ni su incorporación a un visor.",
+  "factibilidad": "NO_DETERMINADA",
+  "incognitas": [
+    "No se dispone de la petición original ni de su unidad institucional."
+  ],
+  "enlaces_codigos_asignados": [
+    {
+      "codigo": "C001",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R01-S006",
+        "R01-S063",
+        "R01-S064",
+        "R01-S123",
+        "R01-S124"
+      ],
+      "evidencias": [
+        "N01-V0001",
+        "N01-V0003",
+        "N01-V0004",
+        "N01-V0005"
+      ]
+    }
+  ],
+  "codigos_contextuales": [
+    {
+      "codigo": "C014",
+      "tipo": "RELACION_CONCEPTUAL_DEL_ANALISIS",
+      "justificacion": "El propósito delimita qué cuenta como suficiente; es relación conceptual, sin nueva asignación C014 a esos segmentos.",
+      "limites": "No es una ocurrencia codificada en estos pasajes ni una revisión de la codificación fuente."
+    }
+  ]
+}

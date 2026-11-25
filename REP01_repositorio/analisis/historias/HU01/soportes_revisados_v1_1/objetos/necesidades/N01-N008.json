@@ -1,0 +1,171 @@
+{
+  "id": "N01-N008",
+  "titulo": "Alternativas conocidas y posibles antes de explicar una elección",
+  "enunciado": "La investigadora universitaria necesita conocer qué alternativas de compra conocía la persona y cuáles eran posibles en la ocasión que se pretende explicar, para elegir entre limitarse a describir el recorrido o sostener una explicación de elección respaldada, en el contexto de investigación universitaria sobre salidas de compra de alimentos.",
+  "actores": [
+    "ACT01-A005"
+  ],
+  "entrevistas": [
+    "E02"
+  ],
+  "contexto": "Desde revisar conversaciones exploratorias y delimitar una pregunta con una colega hasta presentar una lectura de casos y ajustar el texto.",
+  "decision": "Elegir entre limitarse a describir el recorrido o sostener una explicación de elección respaldada",
+  "objeto_informacion": "qué alternativas de compra conocía la persona y cuáles eran posibles en la ocasión que se pretende explicar",
+  "tipo": "NECESIDAD_ACTUAL",
+  "estado_actual": "CARENCIA_DECLARADA",
+  "informacion_actual": "Una objeción del grupo mostró que no habían reconstruido todas las alternativas; habían avanzado más en describir recorridos.",
+  "faltante_o_deseada": "Carencia declarada de reconstrucción completa de alternativas para esa explicación más amplia; no invalida la descripción realizada.",
+  "condiciones_y_limites": "No se conoce un conjunto exhaustivo de opciones ni una causa única. Abordar el asunto o renunciar a la afirmación depende de qué se quiera sostener.",
+  "soportes_mencionados": [
+    "Comentarios al texto",
+    "Relatos de compras",
+    "Cuaderno por caso imaginado"
+  ],
+  "conservar": [
+    "No imaginar perspectivas de comerciantes u hogares",
+    "Acotar lo que se afirma"
+  ],
+  "evidencias": [
+    "N01-V0078",
+    "N01-V0079",
+    "N01-V0080",
+    "N01-V0081",
+    "N01-V0082",
+    "N01-V0072"
+  ],
+  "evidencia_que_limita": [
+    "N01-V0056",
+    "N01-V0050",
+    "N01-V0071"
+  ],
+  "razon_sin_contraevidencia": null,
+  "contexto_elicitacion": "P69 pregunta qué vio el grupo de discusión; P70-P71 relatan crítica y límite asumido. P128 abre el ideal y P131 reconoce límites del recuerdo. P169-P171 distinguen asuntos abiertos de los indispensables para una afirmación.",
+  "codigos_comunes": [
+    "C015",
+    "C023"
+  ],
+  "hallazgos_s01": [
+    "S01-H003",
+    "S01-H005",
+    "S01-H022"
+  ],
+  "componentes_p01": [
+    "P01-E02-N011",
+    "P01-E02-N013",
+    "P01-E02-N015"
+  ],
+  "preferencias_act01": [
+    "ACT01-PR008"
+  ],
+  "variantes_por_caso": [],
+  "vinculo_territorial": {
+    "tipo": "RELACION_CONTEXTUAL",
+    "razon": "Opciones de compra pueden tener lugares, pero conocer alternativas viables no se deduce de catalogar comercios próximos.",
+    "evidencias": [
+      "N01-V0078",
+      "N01-V0079"
+    ],
+    "limites": "La pertinencia del lugar no demuestra necesidad de coordenadas o de un mapa. Pocos casos por contactos, sin representatividad de zonas o ciudad; colegas y participantes internos son terceros relatados. No existe devolución completa acreditada."
+  },
+  "vinculos_sectoriales": [
+    {
+      "sector": "ACADEMICO",
+      "actividad": "Investigación universitaria sobre salidas de compra de alimentos",
+      "iniciativa": null,
+      "estatus_iniciativa": "ACTIVIDAD_RELATADA_SIN_NOMBRE_FORMAL",
+      "nexo": "RELEVANCIA_PUBLICA_POR_VALIDAR",
+      "razon": "La investigación trata relaciones urbanas de compras; su eventual aporte público requeriría definir destinatario y decisión, sin programa identificado.",
+      "evidencias": [
+        "N01-V0345",
+        "N01-V0078",
+        "N01-V0079"
+      ],
+      "limites": "No se identificó programa público que origine esta necesidad. Pocos casos por contactos, sin representatividad de zonas o ciudad; colegas y participantes internos son terceros relatados. No existe devolución completa acreditada."
+    }
+  ],
+  "verificacion": [
+    {
+      "id": "N01-K008",
+      "observable": "La lectura distingue recorrido realizado de elección entre opciones y señala cuáles alternativas quedan sin conocer antes de generalizar.",
+      "metodo": "Auditar la afirmación y su respaldo disponible. Si se decide abordar esa pregunta posteriormente, contrastar opciones recordadas y viabilidad sin tratar lo no recordado como inexistente.",
+      "origen": "PROPUESTA_ANALITICA",
+      "estado": "PROPUESTA_NO_EJECUTADA",
+      "evidencias": [
+        "N01-V0078",
+        "N01-V0079",
+        "N01-V0080",
+        "N01-V0081",
+        "N01-V0082",
+        "N01-V0072"
+      ],
+      "limites": "Comprobación futura; no se ejecutó ni acredita aceptación humana. No se fijan umbrales numéricos. No se conoce un conjunto exhaustivo de opciones ni una causa única. Abordar el asunto o renunciar a la afirmación depende de qué se quiera sostener.",
+      "desglose_origen": {
+        "observable": "PROPUESTA_ANALITICA",
+        "operacionalizacion_metodo": "PROPUESTA_ANALITICA",
+        "aceptacion": "NO_RECABADA"
+      }
+    }
+  ],
+  "prioridad": {
+    "ambito": "E02",
+    "nivel": "MEDIA",
+    "origen": "ANALISIS_CONDICIONAL",
+    "criterios": [
+      "N01-CP001",
+      "N01-CP002",
+      "N01-CP003",
+      "N01-CP004"
+    ],
+    "razon": "Solo es indispensable si se pretende explicar elección entre alternativas; la salida y el texto acotados pudieron describirse sin resolverlo todo.",
+    "comparables": [
+      "N01-N006",
+      "N01-N007"
+    ],
+    "limites": "Orden parcial dentro de esta actividad. No compara importancia urbana ni factibilidad técnica; evidencia más sólida no equivale a más impacto. Comparar distingue dependencias y momentos; las necesidades no son sustitutos y se admiten empates. En ideales frente a actuales, el nivel se lee dentro de su modalidad."
+  },
+  "importancia_expresada": "No hay priorización comparable explícita de esta pieza por la persona. El nivel asignado es del análisis.",
+  "pertinencia_diseno_posterior": "PENDIENTE: revisar con usuarios y encargo; la legitimidad de la necesidad no prescribe un soporte ni su incorporación a un visor.",
+  "factibilidad": "NO_DETERMINADA",
+  "incognitas": [
+    "Alternativas específicas y su viabilidad por ocasión.",
+    "Disponibilidad y recuerdo para un futuro contraste."
+  ],
+  "enlaces_codigos_asignados": [
+    {
+      "codigo": "C015",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R02-S029",
+        "R02-S042",
+        "R02-S089",
+        "R02-S127",
+        "R02-S128"
+      ],
+      "evidencias": [
+        "N01-V0078",
+        "N01-V0080",
+        "N01-V0081",
+        "N01-V0082",
+        "N01-V0056"
+      ]
+    },
+    {
+      "codigo": "C023",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R02-S028"
+      ],
+      "evidencias": [
+        "N01-V0056"
+      ]
+    }
+  ],
+  "codigos_contextuales": [
+    {
+      "codigo": "C020",
+      "tipo": "RELACION_CONCEPTUAL_DEL_ANALISIS",
+      "justificacion": "Conocer el alcance de las alternativas respalda acotar la afirmación; no se atribuye a estos segmentos una nueva consulta o selección de casos.",
+      "limites": "No es una ocurrencia codificada en estos pasajes ni una revisión de la codificación fuente."
+    }
+  ]
+}

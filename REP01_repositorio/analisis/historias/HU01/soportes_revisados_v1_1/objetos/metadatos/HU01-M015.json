@@ -1,0 +1,342 @@
+{
+  "id": "HU01-M015",
+  "nombre": "Información para reconocer unidades y porciones al despachar",
+  "historias": [
+    "HU01-H015"
+  ],
+  "descripcion": "Perfil preliminar de conocimiento requerido para la decisión; separa información respaldada por relato, propuestas, desconocidos y no aplicables. No inventario de datos disponibles.",
+  "campos": [
+    {
+      "campo": "variables_significados",
+      "estado": "RESPALDADO",
+      "valor": [
+        "qué rollo se está cortando, cuál debe acabarse primero y qué remanente no sirve para cualquier medida"
+      ],
+      "justificacion": "Clases de información expresadas en el corpus, sin aportar sus valores originales ni afirmar que los soportes estén disponibles. Las variables conservan la decisión concreta de la historia.",
+      "evidencias": [
+        "N01-V0223",
+        "N01-V0230",
+        "N01-V0231",
+        "N01-V0232",
+        "N01-V0233",
+        "N01-V0234",
+        "N01-V0235",
+        "N01-V0236",
+        "N01-V0204"
+      ]
+    },
+    {
+      "campo": "fuente_responsable",
+      "estado": "RESPALDADO",
+      "valor": {
+        "fuentes_funcionales": "Rollos/porciones y práctica declarada de quienes despachan; sin atribuir a una persona cada corte.",
+        "responsable_formal": null,
+        "disponibilidad_materiales": "NO_ACREDITADA"
+      },
+      "justificacion": "La atribución funcional se respalda en lo relatado; no identifica autor formal ni responsable futuro de base.",
+      "evidencias": [
+        "N01-V0223",
+        "N01-V0230",
+        "N01-V0231",
+        "N01-V0232",
+        "N01-V0233",
+        "N01-V0234",
+        "N01-V0235",
+        "N01-V0236",
+        "N01-V0204"
+      ]
+    },
+    {
+      "campo": "unidad",
+      "estado": "RESPALDADO",
+      "valor": "Unidad física de rollo y porción disponible para una medida; recorte separado.",
+      "justificacion": "Clases de información expresadas en el corpus, sin aportar sus valores originales ni afirmar que los soportes estén disponibles. No se inventan códigos de artículo, metros, tiempos o precios ausentes.",
+      "evidencias": [
+        "N01-V0223",
+        "N01-V0230",
+        "N01-V0231",
+        "N01-V0232",
+        "N01-V0233",
+        "N01-V0234",
+        "N01-V0235",
+        "N01-V0236",
+        "N01-V0204"
+      ]
+    },
+    {
+      "campo": "cobertura_geografica",
+      "estado": "RESPALDADO",
+      "valor": {
+        "contexto": "Ciudad de México según perfil y relato; sin geometrías o sitios identificados.",
+        "unidad_situada": "Lugares de la actividad relatada, sin representatividad territorial."
+      },
+      "justificacion": "El contexto territorial no define extensión exacta del conjunto ni autoriza desanonimización.",
+      "evidencias": [
+        "N01-V0223",
+        "N01-V0230",
+        "N01-V0231",
+        "N01-V0232",
+        "N01-V0233",
+        "N01-V0234",
+        "N01-V0235",
+        "N01-V0236",
+        "N01-V0204"
+      ]
+    },
+    {
+      "campo": "escala_espacial",
+      "estado": "NO_APLICA",
+      "valor": null,
+      "justificacion": "Orden de rollos y porciones tiene disposición material, sin CRS. En este perfil de información no se prescribe dato métrico ni georreferenciación. Si un soporte geométrico futuro se justifica, se revisará ese subperfil.",
+      "evidencias": []
+    },
+    {
+      "campo": "resolucion_espacial",
+      "estado": "NO_APLICA",
+      "valor": null,
+      "justificacion": "Orden de rollos y porciones tiene disposición material, sin CRS. En este perfil de información no se prescribe dato métrico ni georreferenciación. Si un soporte geométrico futuro se justifica, se revisará ese subperfil.",
+      "evidencias": []
+    },
+    {
+      "campo": "representacion",
+      "estado": "RESPALDADO",
+      "valor": "Disposición física de rollos por ancho y recortes separados; no inventario digital obligatorio.",
+      "justificacion": "Soportes relatados que cumplieron una función; su mención no acredita recepción de sus archivos u objetos.",
+      "evidencias": [
+        "N01-V0223",
+        "N01-V0230",
+        "N01-V0231",
+        "N01-V0232",
+        "N01-V0233",
+        "N01-V0234",
+        "N01-V0235",
+        "N01-V0236",
+        "N01-V0204"
+      ]
+    },
+    {
+      "campo": "referencia_espacial",
+      "estado": "NO_APLICA",
+      "valor": null,
+      "justificacion": "Orden de rollos y porciones tiene disposición material, sin CRS. En este perfil de información no se prescribe dato métrico ni georreferenciación. Si un soporte geométrico futuro se justifica, se revisará ese subperfil.",
+      "evidencias": []
+    },
+    {
+      "campo": "periodo",
+      "estado": "DESCONOCIDO",
+      "valor": null,
+      "justificacion": "No se aportan fechas de levantamiento ni de los soportes originales. La fecha del encargo o de esta entrega no las sustituye. Referencia temporal relevante: Rollo abierto antes de nuevo, recorte separado y primer despacho como cierre.",
+      "evidencias": []
+    },
+    {
+      "campo": "resolucion_temporal",
+      "estado": "DESCONOCIDO",
+      "valor": null,
+      "justificacion": "No está fijado el mínimo intervalo temporal distinguible de un conjunto de datos para esta historia. El contexto cualitativo se conserva en contexto_temporal; no se confunde orden de acciones, periodo, vigencia o actualización con resolución. La granularidad requerida por el diseño sigue por proponer/validar, sin inventar una duración.",
+      "evidencias": []
+    },
+    {
+      "campo": "actualizacion",
+      "estado": "PROPUESTO",
+      "valor": "Comprobar vigencia al reutilizarla para una nueva petición o decisión, si corresponde.",
+      "justificacion": "Decisión de diseño condicionada al uso; no frecuencia anual, servicio automático o compromiso de fuente. Rollo abierto antes de nuevo, recorte separado y primer despacho como cierre.",
+      "evidencias": [
+        "N01-V0223",
+        "N01-V0230",
+        "N01-V0231",
+        "N01-V0232",
+        "N01-V0233",
+        "N01-V0234",
+        "N01-V0235",
+        "N01-V0236",
+        "N01-V0204"
+      ]
+    },
+    {
+      "campo": "calidad",
+      "estado": "PROPUESTO",
+      "valor": {
+        "observables": [
+          "se reconoce qué unidad se corta y si el recorte alcanza, ubicando el cierre de reposición en el primer despacho del nuevo"
+        ],
+        "regla": "Comprobar pertinencia para la decisión, significado y respaldo; no calidad por volumen o hash."
+      },
+      "justificacion": "Los criterios adaptados son propuestas observables de revisión y no una calificación del dato o comprobación ejecutada.",
+      "evidencias": [
+        "N01-V0223",
+        "N01-V0230",
+        "N01-V0231",
+        "N01-V0232",
+        "N01-V0233",
+        "N01-V0234",
+        "N01-V0235",
+        "N01-V0236",
+        "N01-V0204"
+      ]
+    },
+    {
+      "campo": "incertidumbre",
+      "estado": "RESPALDADO",
+      "valor": [
+        "No están disponibles los rollos ni observación directa del despacho.",
+        "No implica lote formal ni cantidades o pérdidas; cierre es primer despacho, no venta de todo el rollo y no coser prendas."
+      ],
+      "justificacion": "El relato y N01 delimitan lo no sabido; conservarlo no significa que deba resolverse todo antes de actuar.",
+      "evidencias": [
+        "N01-V0223",
+        "N01-V0230",
+        "N01-V0231",
+        "N01-V0232",
+        "N01-V0233",
+        "N01-V0234",
+        "N01-V0235",
+        "N01-V0236",
+        "N01-V0204"
+      ]
+    },
+    {
+      "campo": "agregacion",
+      "estado": "NO_APLICA",
+      "valor": null,
+      "justificacion": "No se propone agregado estadístico o clasificación territorial en esta historia. Integrar necesidades o comparar casos, ocasiones o muestras no autoriza sumarlas como población.",
+      "evidencias": []
+    },
+    {
+      "campo": "denominador",
+      "estado": "NO_APLICA",
+      "valor": null,
+      "justificacion": "La decisión no produce tasa, porcentaje o indicador poblacional. No hay un universo de personas u oportunidades definido que requiera denominador.",
+      "evidencias": []
+    },
+    {
+      "campo": "acceso",
+      "estado": "PROPUESTO",
+      "valor": "Consultar solo soportes que se aporten con acceso autorizado para revisar la decisión; la difusión requiere autorización independiente.",
+      "justificacion": "Propuesta de uso académico restringido a la tarea; no declaración de política institucional existente ni permiso de publicación.",
+      "evidencias": [
+        "N01-V0223",
+        "N01-V0230",
+        "N01-V0231",
+        "N01-V0232",
+        "N01-V0233",
+        "N01-V0234",
+        "N01-V0235",
+        "N01-V0236",
+        "N01-V0204"
+      ]
+    },
+    {
+      "campo": "licencia",
+      "estado": "DESCONOCIDO",
+      "valor": null,
+      "justificacion": "No consta licencia de los datos, relatos, muestras o notas concretos. Acceso técnico, consentimiento relatado y licencias de fuentes públicas no se extienden al corpus.",
+      "evidencias": []
+    },
+    {
+      "campo": "procedencia",
+      "estado": "PROPUESTO",
+      "valor": {
+        "traza": "Fuente/voz funcional, ocasión, acción observada o relatada, revisión consultada, transformación y duda relevante.",
+        "fuentes_de_formulacion": [
+          "N01-N022"
+        ],
+        "evidencias": [
+          "N01-V0223",
+          "N01-V0230",
+          "N01-V0231",
+          "N01-V0232",
+          "N01-V0233",
+          "N01-V0234",
+          "N01-V0235",
+          "N01-V0236",
+          "N01-V0204"
+        ]
+      },
+      "justificacion": "Perfil propuesto para preservar relaciones semánticas; conserva tipo y contexto de evidencia sin atribuir autoría de archivo a actores del relato.",
+      "evidencias": [
+        "N01-V0223",
+        "N01-V0230",
+        "N01-V0231",
+        "N01-V0232",
+        "N01-V0233",
+        "N01-V0234",
+        "N01-V0235",
+        "N01-V0236",
+        "N01-V0204"
+      ]
+    },
+    {
+      "campo": "versiones",
+      "estado": "PROPUESTO",
+      "valor": {
+        "regla": "Distinguir soporte o explicación que se consulta y revisión posterior, conservando el alcance anterior.",
+        "versiones_originales": null
+      },
+      "justificacion": "Las versiones originales no se aportan. La versión HU01 1.0 corresponde al artefacto analítico, no al dato descrito.",
+      "evidencias": [
+        "N01-V0223",
+        "N01-V0230",
+        "N01-V0231",
+        "N01-V0232",
+        "N01-V0233",
+        "N01-V0234",
+        "N01-V0235",
+        "N01-V0236",
+        "N01-V0204"
+      ]
+    },
+    {
+      "campo": "transformaciones",
+      "estado": "PROPUESTO",
+      "valor": "Seleccionar solo lo pertinente, separar tipos de evidencia y presentar comparación con límites; conservar relación con fuente sin imputar desconocidos.",
+      "justificacion": "Transformaciones propuestas para atender esta historia. No se ejecutó nueva observación, armonización de bases, geocodificación ni sustitución del soporte físico.",
+      "evidencias": [
+        "N01-V0223",
+        "N01-V0230",
+        "N01-V0231",
+        "N01-V0232",
+        "N01-V0233",
+        "N01-V0234",
+        "N01-V0235",
+        "N01-V0236",
+        "N01-V0204"
+      ]
+    },
+    {
+      "campo": "vocabulario",
+      "estado": "PROPUESTO",
+      "valor": {
+        "terminos": "Unidad física de rollo y porción disponible para una medida; recorte separado.",
+        "regla": "Aclarar significados cotidianos con quienes los usan; los ids solo apoyan trazabilidad."
+      },
+      "justificacion": "Convenciones locales de la historia; no vocabulario registrado o universal, sin nueva asignación de códigos.",
+      "evidencias": [
+        "N01-V0223",
+        "N01-V0230",
+        "N01-V0231",
+        "N01-V0232",
+        "N01-V0233",
+        "N01-V0234",
+        "N01-V0235",
+        "N01-V0236",
+        "N01-V0204"
+      ]
+    }
+  ],
+  "contexto_temporal": {
+    "descripcion": "Rollo abierto antes de nuevo, recorte separado y primer despacho como cierre.",
+    "origen": "DESCRIPCION_CUALITATIVA_DEL_ANALISIS",
+    "evidencias": [
+      "N01-V0223",
+      "N01-V0230",
+      "N01-V0231",
+      "N01-V0232",
+      "N01-V0233",
+      "N01-V0234",
+      "N01-V0235",
+      "N01-V0236",
+      "N01-V0204"
+    ],
+    "limite": "Conserva ocasiones, orden, vigencia o franja pertinente del relato/ideal; no especifica por sí solo resolución de un conjunto ni su disponibilidad. La granularidad necesaria se propondrá y validará por producto."
+  }
+}

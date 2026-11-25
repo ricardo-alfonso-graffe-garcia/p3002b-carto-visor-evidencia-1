@@ -1,0 +1,24 @@
+digraph Productos {
+ graph [rankdir=TB,bgcolor="white",pad="0.4",nodesep="0.55",ranksep="0.65",label="TRES PRODUCTOS CANDIDATOS · PROPUESTA NO IMPLEMENTADA\nFuentes requeridas → apoyo propuesto → decisión → comprobación futura",labelloc=t,fontname="DejaVu Sans",fontsize=22];
+ node [shape=box,style="rounded,filled",fontname="DejaVu Sans",fontsize=16,color="#42657D",margin="0.18,0.14",width=3.7];
+ edge [fontname="DejaVu Sans",fontsize=12,color="#315E78",arrowsize=0.8];
+ s1 [label="Fuentes funcionales E01\nPetición, copia, croquis y aclaración\nOriginales no aportados",fillcolor="#F2EFE8"];
+ s2 [label="Fuentes funcionales E02\nNotas y relatos de ocasiones\nSegunda ocasión por acordar",fillcolor="#F2EFE8"];
+ s3 [label="Fuentes funcionales E03\nAcuerdos, calendario y notas\nOriginales no aportados",fillcolor="#F2EFE8"];
+ p1 [label="Expediente de revisión · P001\nÚltimo cambio, respaldo y duda\nHistorias H001–H003",fillcolor="#E5EFF6"];
+ p2 [label="Cuaderno de contraste · P002\nOcasiones, unidad y afirmaciones\nHistorias H004–H006",fillcolor="#E5EFF6"];
+ p3 [label="Memoria cultural · P003\nAcuerdos y qué volver a preguntar\nH007–H008; H010–H012",fillcolor="#E5EFF6"];
+ d1 [label="Decisión técnica\nConservar / modificar / detener\no pedir nueva aclaración",fillcolor="#E8F1E8"];
+ d2 [label="Decisión de análisis\nQué comparar y hasta dónde afirmar\no detener seguimiento",fillcolor="#E8F1E8"];
+ d3 [label="Decisión de coordinación\nQué retomar, confirmar y anunciar\no conservar como idea",fillcolor="#E8F1E8"];
+ c1 [label="Comprobar en fase siguiente\nRetomar cambio y explicar límite\nCriterios K001–K004",fillcolor="#F4EBD9"];
+ c2 [label="Comprobar en fase siguiente\nQué cambia con otra ocasión\nCriterios K005–K008",fillcolor="#F4EBD9"];
+ c3 [label="Comprobar en fase siguiente\nRelevo, vigencia y comunicación\nCriterios K009–K012",fillcolor="#F4EBD9"];
+ {rank=same;s1;s2;s3;}{rank=same;p1;p2;p3;}{rank=same;d1;d2;d3;}{rank=same;c1;c2;c3;}
+ s1 -> p1 [label="evidencia autorizada"];s2 -> p2 [label="contraste voluntario"];s3 -> p3 [label="fuente y ocasión"];
+ p1 -> d1 [label="explicar revisión"];p2 -> d2 [label="examinar respaldo"];p3 -> d3 [label="preparar preguntas"];
+ d1 -> c1 [label="ensayo de tarea"];d2 -> c2 [label="comparar alcance"];d3 -> c3 [label="retomar y revalidar"];
+ c1 -> p1 [style=dashed,color="#A45D27",label="reformular",constraint=false];c2 -> p2 [style=dashed,color="#A45D27",label="reformular",constraint=false];c3 -> p3 [style=dashed,color="#A45D27",label="reformular",constraint=false];
+ legend [shape=note,fontsize=13,fillcolor="white",label="Cada columna es una relación de diseño, sin cadena entre casos.\nFlechas continuas: fundamento/uso/comprobación propuestos; discontinuas: reformulación.\nP y K usan prefijo T01; H usa HU01. Fuentes concretas y permisos por confirmar.\nTodas las pruebas son propuestas, sin adopción, desempeño o aceptación acreditados."];
+ c2 -> legend [style=invis];
+}

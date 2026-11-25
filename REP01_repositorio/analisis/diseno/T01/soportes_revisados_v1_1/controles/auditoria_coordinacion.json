@@ -1,0 +1,1843 @@
+{
+  "fecha_utc": "2026-11-25T14:59:20.589531+00:00",
+  "estado": "PASS",
+  "errores": [],
+  "controles": [
+    {
+      "control": "Tamaños/huellas de soportes revisados",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Manifiesto completo salvo sí mismo",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Control externo/interno idénticos",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Huellas de resultado y validador recibidos",
+      "resultado": "PASS"
+    },
+    {
+      "control": "84 entradas intactas",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Registro de fuentes idéntico",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Once contratos idénticos",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad de necesidades idéntica a fuentes preferidas",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Tabla completa tablas/lectura_entradas.csv",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Tabla completa tablas/decisiones_metodologicas.csv",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Tabla completa tablas/fuentes.csv",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Tabla completa tablas/afirmaciones_tecnicas.csv",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Tabla completa tablas/fundamentos_criticos.csv",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Tabla completa tablas/alternativas_agregacion.csv",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Tabla completa tablas/practicas_diseno.csv",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Tabla completa tablas/herramientas.csv",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Tabla completa tablas/lentes.csv",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Tabla completa tablas/productos.csv",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Tabla completa tablas/cobertura_historias.csv",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Tabla completa tablas/cobertura_requisitos.csv",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Tabla completa tablas/agenda_validacion.csv",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Tabla completa tablas/arquitectura_contratos.csv",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Tabla completa tablas/arquitectura_modulos.csv",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Tabla completa tablas/arquitectura_conexiones.csv",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Tabla completa tablas/arquitectura_representaciones.csv",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Tabla completa tablas/datos_productos.csv",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Tabla completa tablas/criterios_productos.csv",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Tabla completa tablas/trazabilidad_productos.csv",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Tabla completa tablas/campos_contratos.csv",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Tabla completa matrices/historias_21.csv",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Tabla completa matrices/requisitos_39.csv",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Tabla completa matrices/trazabilidad_necesidades.csv",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Todas las tablas cubiertas por cotejo",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0001",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0002",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0003",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0004",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0005",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0006",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0007",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0008",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0009",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0010",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0011",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0012",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0013",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0014",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0015",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0016",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0017",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0018",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0019",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0020",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0021",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0022",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0023",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0024",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0025",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0026",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0027",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0028",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0029",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0030",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0031",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0032",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0033",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0034",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0035",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0036",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0037",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0038",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0039",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0040",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0041",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0042",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0043",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0044",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0045",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0046",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0047",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0048",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0049",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0050",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0051",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0052",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0053",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0054",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0055",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0056",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0057",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0058",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0059",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0060",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0061",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0062",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0063",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0064",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0065",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0066",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0067",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0068",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0069",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0070",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0071",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0072",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0073",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0074",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0075",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0076",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0077",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0078",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0079",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0080",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0081",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0082",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0083",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0084",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0085",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0086",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0087",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0088",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0089",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0090",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0091",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0092",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0093",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0094",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0095",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0096",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0097",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0098",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0099",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0100",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0101",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0102",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0103",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0104",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0105",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0106",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0107",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0108",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0109",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0110",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0111",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0112",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0113",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0114",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0115",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0116",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0117",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0118",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0119",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0120",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0121",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0122",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0123",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0124",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0125",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0126",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0127",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0128",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0129",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0130",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0131",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0132",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0133",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0134",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0135",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0136",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0137",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0138",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0139",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0140",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0141",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0142",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0143",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0144",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0145",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0146",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0147",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0148",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0149",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0150",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0151",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0152",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0153",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0154",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0155",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0156",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0157",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0158",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0159",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0160",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0161",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0162",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0163",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0164",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0165",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0166",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0167",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0168",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0169",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0170",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0171",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0172",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0173",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0174",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0175",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0176",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0177",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0178",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0179",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0180",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0181",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0182",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0183",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0184",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0185",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0186",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0187",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0188",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0189",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0190",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0191",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0192",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0193",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0194",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0195",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0196",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0197",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0198",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0199",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0200",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0201",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0202",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0203",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0204",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0205",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0206",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0207",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0208",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0209",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0210",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0211",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0212",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0213",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0214",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0215",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0216",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0217",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0218",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0219",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0220",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0221",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0222",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0223",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0224",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0225",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0226",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0227",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0228",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0229",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0230",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0231",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0232",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0233",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0234",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0235",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0236",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0237",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0238",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0239",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0240",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0241",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0242",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0243",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0244",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0245",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0246",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0247",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0248",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0249",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0250",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0251",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0252",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0253",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0254",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0255",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0256",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0257",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0258",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0259",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0260",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0261",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0262",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0263",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0264",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0265",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0266",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0267",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0268",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0269",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0270",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0271",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0272",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0273",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0274",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0275",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0276",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0277",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0278",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0279",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0280",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0281",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0282",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0283",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0284",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0285",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0286",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0287",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0288",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0289",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0290",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0291",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0292",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0293",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0294",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0295",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0296",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0297",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0298",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0299",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0300",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0301",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0302",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0303",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0304",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0305",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0306",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0307",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0308",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0309",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0310",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0311",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0312",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0313",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0314",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0315",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0316",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0317",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0318",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0319",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0320",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0321",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0322",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0323",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0324",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0325",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0326",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0327",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0328",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0329",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0330",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0331",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0332",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0333",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0334",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0335",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0336",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0337",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0338",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0339",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0340",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0341",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0342",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0343",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0344",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0345",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0346",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0347",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita canónica N01-V0348",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita ilustrativa E01-P157",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita ilustrativa E02-P148",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita ilustrativa E03-P182",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita ilustrativa E04-P152",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Cita ilustrativa E05-P173",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Fuente de código inmutable T01-F020",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Fuente de código inmutable T01-F021",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Fuente de código inmutable T01-F022",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Fuente de código inmutable T01-F023",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Fuente de código inmutable T01-F024",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Fuente de código inmutable T01-F025",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Fuente de código inmutable T01-F026",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Fuente de código inmutable T01-F027",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Fuente de código inmutable T01-F028",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Fuente de código inmutable T01-F029",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Fuente de código inmutable T01-F030",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Fuente de código inmutable T01-F031",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Fuente de código inmutable T01-F032",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Fuente de código inmutable T01-F033",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P001 E01-P120–P137",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P001 E01-P155–P157",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P001 N01-N004",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P001 HU01-H003",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P001 E01-P029",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P001 E01-P049–P065",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P001 HU01-H001",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P001 HU01-H002",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P001 C002",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P001 C004",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P001 C009",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P001 C016",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P001 HU01-M001",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P001 HU01-M002",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P001 HU01-M003",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P002 E02-P128–P145",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P002 E02-P148",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P002 E02-P162",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P002 N01-N009",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P002 HU01-H006",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P002 E02-P058–P065",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P002 E02-P070–P097",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P002 HU01-H004",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P002 HU01-H005",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P002 C009",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P002 C023",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P002 C024",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P002 C029",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P002 HU01-M004",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P002 HU01-M005",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P002 HU01-M006",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P003 E03-P149–P169",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P003 E03-P181–P182",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P003 N01-N016",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P003 N01-N017",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P003 HU01-H011",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P003 HU01-H012",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P003 E03-P029",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P003 E03-P037–P040",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P003 E03-P050–P081",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P003 HU01-H007",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P003 HU01-H008",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P003 HU01-H010",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P003 C034",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P003 C042",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P003 C045",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P003 C060",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P003 HU01-M007",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P003 HU01-M008",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P003 HU01-M010",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P003 HU01-M011",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Trazabilidad argumental T01-P003 HU01-M012",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Párrafos citados en prosa existen",
+      "resultado": "PASS"
+    },
+    {
+      "control": "Conexiones de módulos DOT coinciden con JSON",
+      "resultado": "PASS"
+    }
+  ],
+  "conteos": {
+    "archivos_soportes": 77,
+    "huellas": 76,
+    "entradas": 84,
+    "tablas": 24,
+    "filas_tablas": 444,
+    "citas_canonicamente_cotejadas": 348,
+    "citas_ilustrativas": 5,
+    "productos": 3,
+    "datos_requeridos": 11,
+    "criterios_propuestos": 12,
+    "contratos": 11,
+    "campos_contrato": 119,
+    "historias_con_disposicion": 21,
+    "requisitos_diseno": 39,
+    "fuentes_codigo_cotejadas": 14,
+    "figuras_png_inspeccionadas": 2
+  },
+  "alcance": "Auditoría técnica/referencial contra entradas preferidas, con lectura de propuestas. Fuentes externas reconsultadas por separado. No acredita implementación, pruebas de producto, aceptación, revisión humana independiente o rúbrica completa.",
+  "sha256_resultado": "4b0442dab0d1d6814e68934ea17d0ef483c65fb40080f87adc2180e2e123f8e5"
+}

@@ -1,0 +1,127 @@
+{
+  "fecha": "2026-11-25",
+  "tablas": [
+    {
+      "ruta": "matrices/historias_21.csv",
+      "sha256": "c457f6e01e23413abc6a78b66dc3710a183594ea67ee1335eb3b9cc553565bd8",
+      "cotejo": "Celdas JSON contra proyección de resultado/entradas preferidas: PASS"
+    },
+    {
+      "ruta": "matrices/requisitos_39.csv",
+      "sha256": "8a3c59c4baa1eca8161920821b22672ad08d74c4955c321baa50e29513992537",
+      "cotejo": "Celdas JSON contra proyección de resultado/entradas preferidas: PASS"
+    },
+    {
+      "ruta": "matrices/trazabilidad_necesidades.csv",
+      "sha256": "2836c72d241baafc439abadb066497e6f13262209819854c431faf04ec4710c7",
+      "cotejo": "Celdas JSON contra proyección de resultado/entradas preferidas: PASS"
+    },
+    {
+      "ruta": "tablas/afirmaciones_tecnicas.csv",
+      "sha256": "fe9714270f4ad54e7d2c35da823cb39eacb6a3a959719633c7265b45f82b5b46",
+      "cotejo": "Celdas JSON contra proyección de resultado/entradas preferidas: PASS"
+    },
+    {
+      "ruta": "tablas/agenda_validacion.csv",
+      "sha256": "8ec138991f24ed4580ccdae243cdf1d87186ed07af75cd6b4cd7c87cd23d9ee6",
+      "cotejo": "Celdas JSON contra proyección de resultado/entradas preferidas: PASS"
+    },
+    {
+      "ruta": "tablas/alternativas_agregacion.csv",
+      "sha256": "bfe7b665e6a90796a1943ca536cd855d389a8f14d42f1a29c14d9ee2801cf877",
+      "cotejo": "Celdas JSON contra proyección de resultado/entradas preferidas: PASS"
+    },
+    {
+      "ruta": "tablas/arquitectura_conexiones.csv",
+      "sha256": "3a35cf4bd5e67e27b6c96c7b4cf69c49c6c59f8e1797316c9a806cbee84493b7",
+      "cotejo": "Celdas JSON contra proyección de resultado/entradas preferidas: PASS"
+    },
+    {
+      "ruta": "tablas/arquitectura_contratos.csv",
+      "sha256": "c93d0f515626d4637e45738b8473fd75c4a7ad83d41474cadb6429fd01eaf119",
+      "cotejo": "Celdas JSON contra proyección de resultado/entradas preferidas: PASS"
+    },
+    {
+      "ruta": "tablas/arquitectura_modulos.csv",
+      "sha256": "25b66adf11eed0c2c359e4d99612e40b86241927d8d5e83045045b5b8303a27d",
+      "cotejo": "Celdas JSON contra proyección de resultado/entradas preferidas: PASS"
+    },
+    {
+      "ruta": "tablas/arquitectura_representaciones.csv",
+      "sha256": "06edecaedbae9cc5050a5aa54bf197b2dd09a13f3ea9cb1938197bdd13fb8b85",
+      "cotejo": "Celdas JSON contra proyección de resultado/entradas preferidas: PASS"
+    },
+    {
+      "ruta": "tablas/campos_contratos.csv",
+      "sha256": "c84d44336de3e5a55135139e773e9242e4cf398968e9e268a83c846d32dddd20",
+      "cotejo": "Celdas JSON contra proyección de resultado/entradas preferidas: PASS"
+    },
+    {
+      "ruta": "tablas/cobertura_historias.csv",
+      "sha256": "4775c33376a4780eef0d91ffb472c2fe1457649586c60a78ec5514fbfa19cf47",
+      "cotejo": "Celdas JSON contra proyección de resultado/entradas preferidas: PASS"
+    },
+    {
+      "ruta": "tablas/cobertura_requisitos.csv",
+      "sha256": "119074bfaea021df7f9019ec6378a406dfd46805500e6ea407df2704766a688e",
+      "cotejo": "Celdas JSON contra proyección de resultado/entradas preferidas: PASS"
+    },
+    {
+      "ruta": "tablas/criterios_productos.csv",
+      "sha256": "0d1269106d7e383ce1d893c5147dc695d5cd636e2c87ed087e241b3c4f30b7f9",
+      "cotejo": "Celdas JSON contra proyección de resultado/entradas preferidas: PASS"
+    },
+    {
+      "ruta": "tablas/datos_productos.csv",
+      "sha256": "a86b00018214f0b67dbda25ea039292aa9824f1c77d6fa600ec60b175ba17aaf",
+      "cotejo": "Celdas JSON contra proyección de resultado/entradas preferidas: PASS"
+    },
+    {
+      "ruta": "tablas/decisiones_metodologicas.csv",
+      "sha256": "f1d54d7f63dd4daf0e25e82643873e3623800743fb6cc8b7e3a24560a607f6e4",
+      "cotejo": "Celdas JSON contra proyección de resultado/entradas preferidas: PASS"
+    },
+    {
+      "ruta": "tablas/fuentes.csv",
+      "sha256": "578e219ae5d25f160228d7d7ae0e8c493fe7b56bf5c1d5c5ab1c1c2e1ab230f6",
+      "cotejo": "Celdas JSON contra proyección de resultado/entradas preferidas: PASS"
+    },
+    {
+      "ruta": "tablas/fundamentos_criticos.csv",
+      "sha256": "422041ea616831c0285848701160017e38ee3a84a3a7c235ee3ebfaaec2ca327",
+      "cotejo": "Celdas JSON contra proyección de resultado/entradas preferidas: PASS"
+    },
+    {
+      "ruta": "tablas/herramientas.csv",
+      "sha256": "d75c3758375e2088af4deddf011e6f0951930be410537cfcbc0d05676286b529",
+      "cotejo": "Celdas JSON contra proyección de resultado/entradas preferidas: PASS"
+    },
+    {
+      "ruta": "tablas/lectura_entradas.csv",
+      "sha256": "dfd5855bd892e5bd7103f04dfd04416dc41465af77596213e83756ec3edf6294",
+      "cotejo": "Celdas JSON contra proyección de resultado/entradas preferidas: PASS"
+    },
+    {
+      "ruta": "tablas/lentes.csv",
+      "sha256": "238c9503c10fb642c0ccc022642781a66535857459e76131050bce8e3aff3cbf",
+      "cotejo": "Celdas JSON contra proyección de resultado/entradas preferidas: PASS"
+    },
+    {
+      "ruta": "tablas/practicas_diseno.csv",
+      "sha256": "f33b8ffec221d0d185ec7e9c3280a742460a8ad9574f844031387dd74564c740",
+      "cotejo": "Celdas JSON contra proyección de resultado/entradas preferidas: PASS"
+    },
+    {
+      "ruta": "tablas/productos.csv",
+      "sha256": "203abdf0b9a9d4f4ca11718a308effe27abe03619a24bab2e159f1d8ba494c63",
+      "cotejo": "Celdas JSON contra proyección de resultado/entradas preferidas: PASS"
+    },
+    {
+      "ruta": "tablas/trazabilidad_productos.csv",
+      "sha256": "0b8acbbfd61d5f45d9ebffb8d4090806253560006ac992083d77040b40d5b46a",
+      "cotejo": "Celdas JSON contra proyección de resultado/entradas preferidas: PASS"
+    }
+  ],
+  "cantidad": 24,
+  "estado": "PASS"
+}

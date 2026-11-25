@@ -1,0 +1,208 @@
+{
+  "id": "N01-N018",
+  "titulo": "Remanente y movimiento para decidir qué reponer",
+  "enunciado": "La persona que atiende y compra para la mercería necesita conocer cuánto queda del artículo, cómo se ha estado despachando y qué función cumple entre las alternativas del surtido, para mantenerlo en la lista de reposición o dejarlo para otra vuelta, en el contexto de reposición y atención de una mercería de barrio.",
+  "actores": [
+    "ACT01-A019"
+  ],
+  "entrevistas": [
+    "E04"
+  ],
+  "contexto": "Desde revisar el rollo reducido hasta el primer despacho del nuevo; petición de suavidad es antecedente.",
+  "decision": "Mantenerlo en la lista de reposición o dejarlo para otra vuelta",
+  "objeto_informacion": "cuánto queda del artículo, cómo se ha estado despachando y qué función cumple entre las alternativas del surtido",
+  "tipo": "NECESIDAD_ACTUAL",
+  "estado_actual": "ATENDIDA_EN_EPISODIO",
+  "informacion_actual": "Vio bajar el rollo, midió lo restante y confirmó la necesidad; alcanzaba para atender mientras hacía la compra. Otros elásticos no estaban igual de bajos.",
+  "faltante_o_deseada": "No hay falta declarada para decidir la reposición de este rollo. La función de piezas poco vendidas es una variación general, no otra compra ocurrida.",
+  "condiciones_y_limites": "No existe una cantidad igual para todos los artículos ni urgencia demostrada; la memoria orienta qué revisar y la medida precisa.",
+  "soportes_mencionados": [
+    "Rollo",
+    "Medición",
+    "Notas y memoria de ventas de ambas personas"
+  ],
+  "conservar": [
+    "Revisión física de lo que queda",
+    "Criterio situado por artículo",
+    "No reducir surtido a lo más vendido"
+  ],
+  "evidencias": [
+    "N01-V0183",
+    "N01-V0184",
+    "N01-V0185",
+    "N01-V0186",
+    "N01-V0187",
+    "N01-V0188",
+    "N01-V0189",
+    "N01-V0190",
+    "N01-V0191",
+    "N01-V0192",
+    "N01-V0193",
+    "N01-V0194",
+    "N01-V0195",
+    "N01-V0196",
+    "N01-V0197"
+  ],
+  "evidencia_que_limita": [
+    "N01-V0198",
+    "N01-V0199"
+  ],
+  "razon_sin_contraevidencia": null,
+  "contexto_elicitacion": "Reconstrucción retrospectiva del episodio y repreguntas sobre decisión y suficiencia. La atribución descansa en respuestas de participante; preguntas, metáforas y recapitulaciones no son corroboración. Los localizadores del contexto están en cada evidencia.",
+  "codigos_comunes": [
+    "C048",
+    "C014"
+  ],
+  "hallazgos_s01": [
+    "S01-H001",
+    "S01-H013"
+  ],
+  "componentes_p01": [
+    "P01-E04-N001",
+    "P01-E04-N002",
+    "P01-E04-N016"
+  ],
+  "preferencias_act01": [
+    "ACT01-PR018"
+  ],
+  "variantes_por_caso": [],
+  "vinculo_territorial": {
+    "tipo": "NO_CARTOGRAFICO_DIRECTO",
+    "razon": "Remanente, uso comercial y función del surtido no son atributos cartográficos.",
+    "evidencias": [
+      "N01-V0183",
+      "N01-V0184"
+    ],
+    "limites": "La pertinencia del lugar no demuestra necesidad de coordenadas o de un mapa. Negocio y proveedores no identificados; el perfil no es especialista cartográfico ni productor público. No hay prueba de costura o lavado ni resultado de la clienta conocidos."
+  },
+  "vinculos_sectoriales": [
+    {
+      "sector": "PRIVADO",
+      "actividad": "Reposición y atención de una mercería de barrio",
+      "iniciativa": null,
+      "estatus_iniciativa": "ACTIVIDAD_RELATADA_SIN_NOMBRE_FORMAL",
+      "nexo": "USO_PRIVADO",
+      "razon": "La decisión corresponde al surtido y atención de un comercio; cercanía barrial no demuestra iniciativa pública.",
+      "evidencias": [
+        "N01-V0347",
+        "N01-V0183",
+        "N01-V0184"
+      ],
+      "limites": "No se identificó programa público que origine esta necesidad. Negocio y proveedores no identificados; el perfil no es especialista cartográfico ni productor público. No hay prueba de costura o lavado ni resultado de la clienta conocidos."
+    }
+  ],
+  "verificacion": [
+    {
+      "id": "N01-K018",
+      "observable": "Puede explicar por qué ese rollo se repone ahora y otros no, diferenciando estimación inicial, medida y función sin umbral universal inventado.",
+      "metodo": "Contrastar revisión física y notas pertinentes si se aportan; reconstruir la decisión frente al criterio declarado y comprobar que no se impone una rotación única.",
+      "origen": "PROPUESTA_ANALITICA",
+      "estado": "PROPUESTA_NO_EJECUTADA",
+      "evidencias": [
+        "N01-V0183",
+        "N01-V0184",
+        "N01-V0185",
+        "N01-V0186",
+        "N01-V0187",
+        "N01-V0188",
+        "N01-V0189",
+        "N01-V0190",
+        "N01-V0191",
+        "N01-V0192",
+        "N01-V0193",
+        "N01-V0194",
+        "N01-V0195",
+        "N01-V0196",
+        "N01-V0197"
+      ],
+      "limites": "Comprobación futura; no se ejecutó ni acredita aceptación humana. No se fijan umbrales numéricos. No existe una cantidad igual para todos los artículos ni urgencia demostrada; la memoria orienta qué revisar y la medida precisa.",
+      "desglose_origen": {
+        "observable": "PROPUESTA_ANALITICA",
+        "operacionalizacion_metodo": "PROPUESTA_ANALITICA",
+        "aceptacion": "NO_RECABADA"
+      }
+    }
+  ],
+  "prioridad": {
+    "ambito": "E04",
+    "nivel": "ALTA",
+    "origen": "ANALISIS_CONDICIONAL",
+    "criterios": [
+      "N01-CP001",
+      "N01-CP002",
+      "N01-CP003",
+      "N01-CP004"
+    ],
+    "razon": "La reposición nació de revisar el rollo y debía decidirse aun sin la pregunta por suavidad; habilita continuidad del artículo conocido.",
+    "comparables": [
+      "N01-N019",
+      "N01-N022"
+    ],
+    "limites": "Orden parcial dentro de esta actividad. No compara importancia urbana ni factibilidad técnica; evidencia más sólida no equivale a más impacto. Comparar distingue dependencias y momentos; las necesidades no son sustitutos y se admiten empates. En ideales frente a actuales, el nivel se lee dentro de su modalidad."
+  },
+  "importancia_expresada": "E04-P020 distingue que la reposición sí debía decidirla y la otra opción era consulta en la misma vuelta; P176 dice que no puso la consulta al mismo nivel que reponer lo ya vendido. El orden no se extiende a todas las necesidades del negocio.",
+  "pertinencia_diseno_posterior": "PENDIENTE: revisar con usuarios y encargo; la legitimidad de la necesidad no prescribe un soporte ni su incorporación a un visor.",
+  "factibilidad": "NO_DETERMINADA",
+  "incognitas": [
+    "No constan metros restantes, volúmenes de venta ni cantidades futuras."
+  ],
+  "enlaces_codigos_asignados": [
+    {
+      "codigo": "C048",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R04-S007",
+        "R04-S032",
+        "R04-S034",
+        "R04-S036",
+        "R04-S037",
+        "R04-S038",
+        "R04-S039",
+        "R04-S040",
+        "R04-S041",
+        "R04-S096",
+        "R04-S146",
+        "R04-S147",
+        "R04-S148",
+        "R04-S149"
+      ],
+      "evidencias": [
+        "N01-V0183",
+        "N01-V0185",
+        "N01-V0186",
+        "N01-V0187",
+        "N01-V0188",
+        "N01-V0189",
+        "N01-V0191",
+        "N01-V0194",
+        "N01-V0195",
+        "N01-V0196",
+        "N01-V0197"
+      ]
+    },
+    {
+      "codigo": "C014",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R04-S038",
+        "R04-S095",
+        "R04-S100",
+        "R04-S105"
+      ],
+      "evidencias": [
+        "N01-V0188",
+        "N01-V0190",
+        "N01-V0193",
+        "N01-V0199"
+      ]
+    }
+  ],
+  "codigos_contextuales": [
+    {
+      "codigo": "C032",
+      "tipo": "RELACION_CONCEPTUAL_DEL_ANALISIS",
+      "justificacion": "Se vincula contextualmente con el criterio de propósito, sin afirmar preparación o método adicional: reponer según artículo no equivale a recodificarlo como C032.",
+      "limites": "No es una ocurrencia codificada en estos pasajes ni una revisión de la codificación fuente."
+    }
+  ]
+}

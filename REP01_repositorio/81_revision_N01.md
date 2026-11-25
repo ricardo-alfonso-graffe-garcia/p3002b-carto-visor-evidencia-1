@@ -1,0 +1,11 @@
+# Cierre operativo de N01
+
+25 de noviembre de 2026. Se recibió el cuarto archivo N01_soportes_v1.zip y se conserva íntegro junto a los tres originales. Sus 35 archivos incluyen 33 piezas de contenido manifestadas; las huellas coinciden y las copias internas de JSON, explicación y control son idénticas a los recibidos. Ocho tablas de objetos, 410 trazas, 29 prioridades y criterios y 112 huellas de entrada se cotejaron. Las cinco figuras coinciden con los campos de las necesidades seleccionadas y se inspeccionaron como PNG: legibles al ampliar y sin superposiciones observadas.
+
+Se cierra copia revisada 1.1 con 29 necesidades, 351 evidencias, cinco casos, 22 hallazgos y 29 propuestas de verificación. No cambian enunciados, estados, modalidades, prioridades o criterios. Se separan seis enlaces conceptuales del análisis de códigos asignados en los fragmentos citados. Los enlaces directos incluyen segmentos y evidencias; las relaciones contextuales mantienen justificación y límite, sin recodificar fuentes.
+
+Las frases metodológicas señaladas en la revisión parcial se precisan como alcance de esta etapa N01, sin añadir intervenciones o registros de campo. Los originales se mantienen intactos. La copia operativa es [82_necesidades_v1_1.md](82_necesidades_v1_1.md), con [JSON](82_necesidades_v1_1.json) y [soportes](analisis/necesidades/N01/soportes_revisados_v1_1/LEEME.md). Los cinco SVG/PNG originales se reutilizan sin cambio y se registra su compatibilidad con 1.1; no se afirma nueva exportación.
+
+N01 distingue veinte necesidades actuales atendidas, una parcial, una carencia declarada, seis deseos ideales y una inferencia condicional. Prioridades son locales, importancia expresada se registra aparte y portafolio entre casos sigue pendiente. Los controles y el cierre operativo no acreditan validación humana independiente, aceptación, impacto o conformidad FAIR integral. Se mantienen los límites documentales y de postura ante homologación.
+
+La siguiente tarea HU01 desarrolla historias de usuario y perfiles analíticos, con metadatos y prototipos locales de objetos digitales orientados a FDO. No fija una historia por entrevista ni convierte cada necesidad atendida en función nueva de software. Fundamentos, productos técnicos concretos y reporte/repositorio conservan sus etapas posteriores.

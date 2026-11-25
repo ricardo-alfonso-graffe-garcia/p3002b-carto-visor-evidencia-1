@@ -1,0 +1,176 @@
+{
+  "tarea": "REP01",
+  "version": "1.0",
+  "autor": "Ricardo Alfonso Graffe Garcia",
+  "matricula": "A01664904",
+  "corpus_version": "1.0",
+  "libro_version": "1.3",
+  "sintesis_procesos_documental_actores_necesidades_historias_diseno": "1.1",
+  "recodificaciones": {
+    "R01": "1.3",
+    "R02": "1.3",
+    "R03": "1.2",
+    "R04": "1.1",
+    "R05": "1.1"
+  },
+  "json_preferidos": [
+    "55_libro_comun_v1_3.json",
+    "63_sintesis_transversal_v1_1.json",
+    "67_procesos_descritos_v1_1.json",
+    "72_contraste_documental_v1_1.json",
+    "76_actores_y_preferencias_v1_1.json",
+    "82_necesidades_v1_1.json",
+    "88_historias_y_objetos_v1_1.json",
+    "93_diseno_y_fundamentos_v1_1.json",
+    "analisis/recodificacion/R01/R01_resultado_revisado_v1_3.json",
+    "analisis/recodificacion/R02/R02_resultado_revisado_v1_3.json",
+    "analisis/recodificacion/R03/R03_resultado_revisado_v1_2.json",
+    "analisis/recodificacion/R04/R04_resultado_revisado_v1_1.json",
+    "analisis/recodificacion/R05/R05_resultado_revisado_v1_1.json",
+    "analisis/sintesis/S01/S01_resultado_revisado_v1_1.json",
+    "analisis/procesos/P01/P01_resultado_revisado_v1_1.json",
+    "analisis/documental/D01/D01_resultado_revisado_v1_1.json",
+    "analisis/actores/ACT01/ACT01_resultado_revisado_v1_1.json",
+    "analisis/necesidades/N01/N01_resultado_revisado_v1_1.json",
+    "analisis/historias/HU01/HU01_resultado_revisado_v1_1.json",
+    "analisis/diseno/T01/T01_resultado_revisado_v1_1.json"
+  ],
+  "fuentes_inmutables": [
+    {
+      "ruta": "corpus/E01/E01_texto_con_localizadores.json",
+      "sha256": "f5d4c0e1462960ce2a853e5a51ee44cb943dc30ae2843b8c696a66ef2fa9fa34"
+    },
+    {
+      "ruta": "corpus/E01/E01_texto_con_localizadores.txt",
+      "sha256": "af3c340f8bdc032113dd7de42bea773cdd7f3e691aca12a66bacdff54ac2e7b0"
+    },
+    {
+      "ruta": "corpus/E01/E01_transcripcion_v1.docx",
+      "sha256": "c8d26940efe307a3b040502f6065cf771ca9ec05240b602be4d02f2ba113096b"
+    },
+    {
+      "ruta": "corpus/E02/E02_texto_con_localizadores.json",
+      "sha256": "1f29e324d23b29ae43f88bc7b94cbd198115cad539121e877f08565036799ea8"
+    },
+    {
+      "ruta": "corpus/E02/E02_texto_con_localizadores.txt",
+      "sha256": "555e83dd8545bb2fd4c0cbd3010727bbd07b2d8e82b313c02945a6772859abdd"
+    },
+    {
+      "ruta": "corpus/E02/E02_transcripcion_v1.docx",
+      "sha256": "9f2eaff6d62d33e892ea295bee4e1f00f22e681468e18267243728535b7d1f9f"
+    },
+    {
+      "ruta": "corpus/E03/E03_texto_con_localizadores.json",
+      "sha256": "1cca7d0a75e54c2416b3b038a1739e7233ce49cc0c9efa680879017307c8b517"
+    },
+    {
+      "ruta": "corpus/E03/E03_texto_con_localizadores.txt",
+      "sha256": "5a9b37c7252b6b6ab8178bd4ae7837fae616790f42aea34a993ab17a9704fff2"
+    },
+    {
+      "ruta": "corpus/E03/E03_transcripcion_v1.docx",
+      "sha256": "a9c883695bb2d5cbb8258ca76caedd885fb6db473423f48fe5157241999e3fb2"
+    },
+    {
+      "ruta": "corpus/E04/E04_texto_con_localizadores.json",
+      "sha256": "a773975b4fbb61c9b6fe50405f292c8912989b03fd694a8390bbf1802cb0c7ac"
+    },
+    {
+      "ruta": "corpus/E04/E04_texto_con_localizadores.txt",
+      "sha256": "f42f7bc82f7d63e941dc881d0ee3dd1bcd8e9271aeabf469ef8c5d150e5c12d5"
+    },
+    {
+      "ruta": "corpus/E04/E04_transcripcion_v1.docx",
+      "sha256": "b68b9ebe2d7836fc99c3df86b718cde2a38137a8b179dccc6feaf5117f57cd20"
+    },
+    {
+      "ruta": "corpus/E05/E05_texto_con_localizadores.json",
+      "sha256": "47b56a57df309d8f5d625c8f0c2f57ed0df55a424dfd99668ae9146a66a404a1"
+    },
+    {
+      "ruta": "corpus/E05/E05_texto_con_localizadores.txt",
+      "sha256": "d0818e738eaafb6af6e64d5877d7f87209127330b693b5d71465875b326ea837"
+    },
+    {
+      "ruta": "corpus/E05/E05_transcripcion_v1.docx",
+      "sha256": "f8ecccb57bd7103362a09c0153d072937ab330ebdabc55086caf32fe442f44a8"
+    },
+    {
+      "ruta": "analisis/insumos/E01_corpus_analisis_v1.json",
+      "sha256": "5e78d3188ecc419fec941d257122779239b268de4787c0cc5cdd871c331bb9c7"
+    },
+    {
+      "ruta": "analisis/insumos/E02_corpus_analisis_v1.json",
+      "sha256": "d3d02b351a4f3a82830c8c229c075ddba6231539f7a640150632aae1b6c16dfb"
+    },
+    {
+      "ruta": "analisis/insumos/E03_corpus_analisis_v1.json",
+      "sha256": "554e257c86c73f4e60dbf0a82eb54f65c294032b66edac1254b3ec474f6189d7"
+    },
+    {
+      "ruta": "analisis/insumos/E04_corpus_analisis_v1.json",
+      "sha256": "7b8e6a4fd6ac3ef550397a8b213779803134e8b1273c6f7c0eec3583ccfe995c"
+    },
+    {
+      "ruta": "analisis/insumos/E05_corpus_analisis_v1.json",
+      "sha256": "cfb5ca8eb03fd8c25d389de94840b7382c0d20cddbe00c70bce02ac08a8d4239"
+    },
+    {
+      "ruta": "55_libro_comun_v1_3.json",
+      "sha256": "64c7e9cf5c19fb8e4998563cef9ff1edbe173712d9f47e16a450b4cd14d1c3ad"
+    },
+    {
+      "ruta": "63_sintesis_transversal_v1_1.json",
+      "sha256": "fea5017f21d08ebbfa78916067a127a9f1010b3e74210262dc3c0f24a58550d7"
+    },
+    {
+      "ruta": "67_procesos_descritos_v1_1.json",
+      "sha256": "8d3e4d1d6eebe630523f57526d1f1950db315c730b4d7d58f2feba674921cb01"
+    },
+    {
+      "ruta": "72_contraste_documental_v1_1.json",
+      "sha256": "ebbcee70cb3498f5f82993d75374f03c8f63dd4cdb606c7b0fc66ba467fc825b"
+    },
+    {
+      "ruta": "76_actores_y_preferencias_v1_1.json",
+      "sha256": "6d0f93bd1a7568e4d698e752874925925fc609f168b1a564cdf73eea3b7397b0"
+    },
+    {
+      "ruta": "82_necesidades_v1_1.json",
+      "sha256": "f94ffa4bd1986d26bd2142cd7184c411fb7688d1c036c591e4397e76f62982fc"
+    },
+    {
+      "ruta": "88_historias_y_objetos_v1_1.json",
+      "sha256": "5c43fce0a9c49e130c12cc4b1152f84270acd24adf270f76ec3ea182389a52bd"
+    },
+    {
+      "ruta": "93_diseno_y_fundamentos_v1_1.json",
+      "sha256": "4b0442dab0d1d6814e68934ea17d0ef483c65fb40080f87adc2180e2e123f8e5"
+    },
+    {
+      "ruta": "analisis/recodificacion/R01/R01_resultado_revisado_v1_3.json",
+      "sha256": "64caceb1ef61af483e83af28e6eb4e83b78a3e599389854240efc87a1037cdef"
+    },
+    {
+      "ruta": "analisis/recodificacion/R02/R02_resultado_revisado_v1_3.json",
+      "sha256": "662378fc3f9f16265457d31aedf768c404eb5562d2dfb926e965603f6508c3dc"
+    },
+    {
+      "ruta": "analisis/recodificacion/R03/R03_resultado_revisado_v1_2.json",
+      "sha256": "d931d7c4788de2b61d934bc7847be7b7b69566b7d1176b51626a29435e519664"
+    },
+    {
+      "ruta": "analisis/recodificacion/R04/R04_resultado_revisado_v1_1.json",
+      "sha256": "772a4513cef334eba40df19e829a5f631cb496041d104b82f4b868ca24eb019e"
+    },
+    {
+      "ruta": "analisis/recodificacion/R05/R05_resultado_revisado_v1_1.json",
+      "sha256": "cc7f2e03fea8673cbbd0f83f7673d794f2c70b4417b9fe0b481b1731f74c1f2b"
+    }
+  ],
+  "base": "base_repositorio/",
+  "paginacion": "PENDIENTE_MAQUETACION",
+  "revision_humana_independiente": "PENDIENTE",
+  "alcance": "Copias seleccionadas y adaptación de rutas de textos humanos; no sustituyen expediente histórico completo. Ver catalogo_base.json."
+}

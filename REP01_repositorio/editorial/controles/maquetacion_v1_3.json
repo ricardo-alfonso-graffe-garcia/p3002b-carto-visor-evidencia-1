@@ -1,0 +1,78 @@
+{
+  "version": "1.3",
+  "docx_sha256": "dbde0d9881bac69427a4ff9ef8d7bf932c2bdc85ac09af3635667cf87f46513b",
+  "pdf_sha256": "ee21b711dc8e72c8311050ddc36547a9f6ba666d55e69faca99cca648550c38b",
+  "paginas_totales": 13,
+  "paginas_cuerpo": 10,
+  "paginas_pdf_cuerpo": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "figuras": 3,
+  "tablas": 6,
+  "revision_visual": "REALIZADA_ASISTIDA",
+  "revision_humana_independiente": "PENDIENTE",
+  "paginas_png": [
+    {
+      "pagina": 1,
+      "sha256": "7d8bacb2df750ff2834a0222cea5bd41c8efa89e144a7c9993b372a603c5a1a1"
+    },
+    {
+      "pagina": 2,
+      "sha256": "ed1a3c11259290c4900700089cb0146abf2e87c5513625cfe1805f2148dab7a5"
+    },
+    {
+      "pagina": 3,
+      "sha256": "1bfa241d186f2d4eb69cd679adbeec000a25e64bf9373633de499e6f0994aba8"
+    },
+    {
+      "pagina": 4,
+      "sha256": "c2c61f1e363c58ecb2e0890b71edb02d52453fcbc86b02d2a99cf7a2eb204d24"
+    },
+    {
+      "pagina": 5,
+      "sha256": "69863421db1ba12e54a021bc4984ad742b26236e0cd13adeae6684de3b79d47a"
+    },
+    {
+      "pagina": 6,
+      "sha256": "47755747301c1691de7e560141785e37aea715f05b3c8edf2db9187877652ac3"
+    },
+    {
+      "pagina": 7,
+      "sha256": "e78da5d4b6606dec8be0144e33ef8e08e133b4fe4551bbf52c98a9ab962810fd"
+    },
+    {
+      "pagina": 8,
+      "sha256": "971806edb29ae38e14836188d7cf163e578a7d0087115fcd1cc3bf39a2969cac"
+    },
+    {
+      "pagina": 9,
+      "sha256": "31447bb19b42d209c21b3fe418da999d975aaf554c20628d287ce59b00fa8d94"
+    },
+    {
+      "pagina": 10,
+      "sha256": "ca3ba8beb30f4a0e4b02f4ca0b8d1b98f5130c705f09144e2a7dff699ac00332"
+    },
+    {
+      "pagina": 11,
+      "sha256": "fffae04d2784d63d778f954c15307850d0eb6a780f64f424d16befcae76ac5e6"
+    },
+    {
+      "pagina": 12,
+      "sha256": "d84e3572bc03c6f91494ad7ea88ccce43db1fbd87c8874ae16d360553b9423a3"
+    },
+    {
+      "pagina": 13,
+      "sha256": "841bfa662520468fc52a380d6518f8bb673b2f3da29f3384ec85ffb17b2dadbc"
+    }
+  ],
+  "alcance_revision_visual": "Se inspeccionaron las trece páginas exportadas, incluidos gráficos, tablas y referencias; no revisión humana independiente."
+}

@@ -1,0 +1,78 @@
+{
+  "analisis": "A02",
+  "entrevista": "E02",
+  "fecha_revision": "2026-11-24",
+  "tipo_revision": "ASISTIDA_POR_LLM_MAS_VALIDACION_MECANICA",
+  "original_analisis": "A02_analisis_E02_v1.docx",
+  "library_file_id_original": "libfile_fde3_f-80c02755f45881918f10bfcdec6abd7c_6c45573f28988191995a53873b532314",
+  "sha256_analisis_docx": "2671c5724dcc9a9646e696bac62d91ec660ff0d02cc4bcac7399ce6a2419957b",
+  "sha256_transcripcion_docx_comprobado": "9f2eaff6d62d33e892ea295bee4e1f00f22e681468e18267243728535b7d1f9f",
+  "json_extraido_sin_cambios": true,
+  "version_libro_declarada_en_memo": "0.1",
+  "validacion": {
+    "estado": "ESTRUCTURA_Y_CITAS_OK",
+    "citas_segmentos": 111,
+    "citas_ejemplos": 22,
+    "apariciones_citas_narrativa": 8,
+    "errores": [],
+    "advertencias": []
+  },
+  "estado": "PRIMERA_LECTURA_LOCAL_REVISADA_PARA_CONSOLIDACION_POSTERIOR",
+  "revision_humana_independiente": "PENDIENTE",
+  "notas": [
+    "Metáforas introductorias y citas breves requieren sus párrafos de desarrollo al fundamentar afirmaciones.",
+    "No inferir una frecuencia de secuencia desde E02-S025.",
+    "Fronteras y criterios de segmentación se revisarán al consolidar, sin imponer el libro local a otras primeras lecturas.",
+    "Original E02 y su hash comprobados en coordinación; otros metadatos no informados permanecen pendientes."
+  ],
+  "citas_narrativa": [
+    {
+      "cita": "Yo estaba entendiendo la cercanía como una relación entre dos puntos, y ella estaba describiendo una secuencia de cosas que hacía.",
+      "parrafos_coincidentes": [
+        "E02-P012"
+      ]
+    },
+    {
+      "cita": "encontrar la pregunta",
+      "parrafos_coincidentes": [
+        "E02-P108"
+      ]
+    },
+    {
+      "cita": "seguir las salidas",
+      "parrafos_coincidentes": [
+        "E02-P109"
+      ]
+    },
+    {
+      "cita": "poner los casos a conversar",
+      "parrafos_coincidentes": [
+        "E02-P110"
+      ]
+    },
+    {
+      "cita": "escribir hasta dónde podemos decir",
+      "parrafos_coincidentes": [
+        "E02-P111"
+      ]
+    },
+    {
+      "cita": "La suficiencia dependía de la afirmación, no era una propiedad de todo el material de una vez.",
+      "parrafos_coincidentes": [
+        "E02-P083"
+      ]
+    },
+    {
+      "cita": "Lo que más tiempo tomó fue interpretar y escribir con cuidado.",
+      "parrafos_coincidentes": [
+        "E02-P153"
+      ]
+    },
+    {
+      "cita": "complicada",
+      "parrafos_coincidentes": [
+        "E02-P123"
+      ]
+    }
+  ]
+}

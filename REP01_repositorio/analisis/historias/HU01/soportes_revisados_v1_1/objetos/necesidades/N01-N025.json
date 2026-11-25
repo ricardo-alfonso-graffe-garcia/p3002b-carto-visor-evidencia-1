@@ -1,0 +1,292 @@
+{
+  "id": "N01-N025",
+  "titulo": "Acuerdo y condiciones mínimas para encontrarse",
+  "enunciado": "La persona que propone la salida con su amistad necesita conocer cuándo ambas personas pueden, dónde se encontrarán, apertura publicada de la librería y tiempo propio disponible, para concretar la salida y precisar el encuentro dejando abierto lo que no impide empezar, en el contexto de organización personal de una tarde para mirar libros y convivir.",
+  "actores": [
+    "ACT01-A024"
+  ],
+  "entrevistas": [
+    "E05"
+  ],
+  "contexto": "Desde terminar el libro anterior y querer mirar otro, seguido del mensaje que convierte idea en plan, hasta despedirse después de tomar algo.",
+  "decision": "Concretar la salida y precisar el encuentro dejando abierto lo que no impide empezar",
+  "objeto_informacion": "cuándo ambas personas pueden, dónde se encontrarán, apertura publicada de la librería y tiempo propio disponible",
+  "tipo": "NECESIDAD_ACTUAL",
+  "estado_actual": "ATENDIDA_EN_EPISODIO",
+  "informacion_actual": "Mensajes mientras revisaba pendientes, recuerdo de librería, horario de su página con margen al cierre, acuerdo y reconfirmación; avisó al entrar cerca de la entrada.",
+  "faltante_o_deseada": "No faltó trayecto preciso o cafetería elegida. No sabe qué consultó su amistad.",
+  "condiciones_y_limites": "Horario publicado bastó para este propósito sin llamada; título específico o lugar nuevo podrían exigir otra preparación. La segunda parada abierta fue acordada.",
+  "soportes_mencionados": [
+    "Mensajes",
+    "Página del propio lugar",
+    "Pendientes propios",
+    "Recuerdo de zona"
+  ],
+  "conservar": [
+    "Acuerdo recíproco",
+    "Margen para llegar",
+    "Decidir continuidad en destino"
+  ],
+  "evidencias": [
+    "N01-V0271",
+    "N01-V0272",
+    "N01-V0273",
+    "N01-V0274",
+    "N01-V0275",
+    "N01-V0276",
+    "N01-V0277",
+    "N01-V0278",
+    "N01-V0279",
+    "N01-V0280",
+    "N01-V0281",
+    "N01-V0282",
+    "N01-V0283",
+    "N01-V0284",
+    "N01-V0285",
+    "N01-V0286",
+    "N01-V0287",
+    "N01-V0288",
+    "N01-V0289",
+    "N01-V0290"
+  ],
+  "evidencia_que_limita": [
+    "N01-V0291",
+    "N01-V0292",
+    "N01-V0293",
+    "N01-V0294",
+    "N01-V0295"
+  ],
+  "razon_sin_contraevidencia": null,
+  "contexto_elicitacion": "Reconstrucción retrospectiva del episodio y repreguntas sobre decisión y suficiencia. La atribución descansa en respuestas de participante; preguntas, metáforas y recapitulaciones no son corroboración. Los localizadores del contexto están en cada evidencia.",
+  "codigos_comunes": [
+    "C034",
+    "C039",
+    "C041",
+    "C042",
+    "C058",
+    "C059"
+  ],
+  "hallazgos_s01": [
+    "S01-H001",
+    "S01-H006",
+    "S01-H008",
+    "S01-H011"
+  ],
+  "componentes_p01": [
+    "P01-E05-N002",
+    "P01-E05-N003",
+    "P01-E05-N004",
+    "P01-E05-N005",
+    "P01-E05-N006",
+    "P01-E05-N008",
+    "P01-E05-N009",
+    "P01-E05-N017"
+  ],
+  "preferencias_act01": [
+    "ACT01-PR022",
+    "ACT01-PR024"
+  ],
+  "variantes_por_caso": [],
+  "vinculo_territorial": {
+    "tipo": "REFERENCIA_DE_LUGAR",
+    "razon": "Nombre, entrada y aviso resuelven encuentro; conocía cómo llegar y no necesitó ruta nueva.",
+    "evidencias": [
+      "N01-V0271",
+      "N01-V0272"
+    ],
+    "limites": "La pertinencia del lugar no demuestra necesidad de coordenadas o de un mapa. Salida personal concreta; amistad y personal son terceros relatados. No se certifica externamente horario histórico, mesa futura o preferencias estables."
+  },
+  "vinculos_sectoriales": [
+    {
+      "sector": "CIUDADANIA",
+      "actividad": "Organización personal de una tarde para mirar libros y convivir",
+      "iniciativa": null,
+      "estatus_iniciativa": "ACTIVIDAD_RELATADA_SIN_NOMBRE_FORMAL",
+      "nexo": "USO_PRIVADO",
+      "razon": "Se trata de organizar ocio y convivencia propios; no hay servicio público o representación de ciudadanía atribuidos.",
+      "evidencias": [
+        "N01-V0348",
+        "N01-V0271",
+        "N01-V0272"
+      ],
+      "limites": "No se identificó programa público que origine esta necesidad. Salida personal concreta; amistad y personal son terceros relatados. No se certifica externamente horario histórico, mesa futura o preferencias estables."
+    }
+  ],
+  "verificacion": [
+    {
+      "id": "N01-K025",
+      "observable": "Puede identificar qué habría impedido iniciar y qué quedó abierto por acuerdo; el aviso precisa dónde encontrarse sin suponer traslado de sede.",
+      "metodo": "Contrastar mensajes y horario histórico si se aportan; revisar las condiciones que ella consideró suficientes sin certificar vigencia desde una página actual.",
+      "origen": "PROPUESTA_ANALITICA",
+      "estado": "PROPUESTA_NO_EJECUTADA",
+      "evidencias": [
+        "N01-V0271",
+        "N01-V0272",
+        "N01-V0273",
+        "N01-V0274",
+        "N01-V0275",
+        "N01-V0276",
+        "N01-V0277",
+        "N01-V0278",
+        "N01-V0279",
+        "N01-V0280",
+        "N01-V0281",
+        "N01-V0282",
+        "N01-V0283",
+        "N01-V0284",
+        "N01-V0285",
+        "N01-V0286",
+        "N01-V0287",
+        "N01-V0288",
+        "N01-V0289",
+        "N01-V0290"
+      ],
+      "limites": "Comprobación futura; no se ejecutó ni acredita aceptación humana. No se fijan umbrales numéricos. Horario publicado bastó para este propósito sin llamada; título específico o lugar nuevo podrían exigir otra preparación. La segunda parada abierta fue acordada.",
+      "desglose_origen": {
+        "observable": "PROPUESTA_ANALITICA",
+        "operacionalizacion_metodo": "PROPUESTA_ANALITICA",
+        "aceptacion": "NO_RECABADA"
+      }
+    }
+  ],
+  "prioridad": {
+    "ambito": "E05",
+    "nivel": "ALTA",
+    "origen": "ANALISIS_CONDICIONAL",
+    "criterios": [
+      "N01-CP001",
+      "N01-CP002",
+      "N01-CP003",
+      "N01-CP004"
+    ],
+    "razon": "Habilita que el plan ocurra: coincidencia, punto, apertura y tiempo son indispensables para empezar; conocer títulos o el segundo lugar no lo era.",
+    "comparables": [
+      "N01-N026",
+      "N01-N028"
+    ],
+    "limites": "Orden parcial dentro de esta actividad. No compara importancia urbana ni factibilidad técnica; evidencia más sólida no equivale a más impacto. Comparar distingue dependencias y momentos; las necesidades no son sustitutos y se admiten empates. En ideales frente a actuales, el nivel se lee dentro de su modalidad."
+  },
+  "importancia_expresada": "E05-P124 prioriza acordar lo que puede impedir que se encuentren o que el plan empiece frente a escoger el libro en destino; P125 aclara que no elegir cafetería no impedía ir a librería. Es una distinción de condiciones, no ranking urbano.",
+  "pertinencia_diseno_posterior": "PENDIENTE: revisar con usuarios y encargo; la legitimidad de la necesidad no prescribe un soporte ni su incorporación a un visor.",
+  "factibilidad": "NO_DETERMINADA",
+  "incognitas": [
+    "No se dispone de mensajes ni copia histórica del horario.",
+    "No se sabe qué verificó la amistad."
+  ],
+  "enlaces_codigos_asignados": [
+    {
+      "codigo": "C034",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R05-S013",
+        "R05-S034",
+        "R05-S048",
+        "R05-S050",
+        "R05-S051",
+        "R05-S057",
+        "R05-S058",
+        "R05-S146",
+        "R05-S150"
+      ],
+      "evidencias": [
+        "N01-V0271",
+        "N01-V0272",
+        "N01-V0278",
+        "N01-V0279",
+        "N01-V0282",
+        "N01-V0283",
+        "N01-V0290",
+        "N01-V0294"
+      ]
+    },
+    {
+      "codigo": "C039",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R05-S056",
+        "R05-S092"
+      ],
+      "evidencias": [
+        "N01-V0281",
+        "N01-V0287"
+      ]
+    },
+    {
+      "codigo": "C041",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R05-S047",
+        "R05-S060",
+        "R05-S061",
+        "R05-S062",
+        "R05-S098"
+      ],
+      "evidencias": [
+        "N01-V0278",
+        "N01-V0284",
+        "N01-V0285",
+        "N01-V0286",
+        "N01-V0292"
+      ]
+    },
+    {
+      "codigo": "C042",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R05-S039",
+        "R05-S040",
+        "R05-S050",
+        "R05-S091",
+        "R05-S092",
+        "R05-S094",
+        "R05-S095"
+      ],
+      "evidencias": [
+        "N01-V0274",
+        "N01-V0275",
+        "N01-V0279",
+        "N01-V0287",
+        "N01-V0288",
+        "N01-V0289"
+      ]
+    },
+    {
+      "codigo": "C058",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R05-S035",
+        "R05-S036",
+        "R05-S038",
+        "R05-S041",
+        "R05-S059",
+        "R05-S099",
+        "R05-S105"
+      ],
+      "evidencias": [
+        "N01-V0272",
+        "N01-V0273",
+        "N01-V0275",
+        "N01-V0283",
+        "N01-V0292",
+        "N01-V0293"
+      ]
+    },
+    {
+      "codigo": "C059",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R05-S013",
+        "R05-S051",
+        "R05-S052",
+        "R05-S095"
+      ],
+      "evidencias": [
+        "N01-V0271",
+        "N01-V0279",
+        "N01-V0280",
+        "N01-V0289"
+      ]
+    }
+  ],
+  "codigos_contextuales": []
+}

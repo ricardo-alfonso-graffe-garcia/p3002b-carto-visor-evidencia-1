@@ -1,0 +1,17 @@
+{
+  "validador": "Historias HU01 revisadas 1.1",
+  "estado": "SIN_ERRORES_ESTRUCTURALES",
+  "errores": [],
+  "advertencias": [],
+  "conteos": {
+    "perfiles": 5,
+    "historias": 21,
+    "perfiles_metadatos": 21,
+    "criterios": 28,
+    "pasos_propuestos": 90,
+    "necesidades_cubiertas": 29,
+    "objetos_digitales": 76,
+    "payloads_comprobados": 76
+  },
+  "alcance": "Control técnico local. No certifica interpretación, aceptación, metadatos adecuados, utilidad, PID externo, FAIR/FDO integral, fuentes web, figuras o revisión humana."
+}

@@ -1,0 +1,3124 @@
+[
+  {
+    "ruta": "corpus/E01/E01_texto_con_localizadores.json",
+    "fuente_expediente": "corpus/E01/E01_texto_con_localizadores.json",
+    "sha256_fuente": "f5d4c0e1462960ce2a853e5a51ee44cb943dc30ae2843b8c696a66ef2fa9fa34",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "f5d4c0e1462960ce2a853e5a51ee44cb943dc30ae2843b8c696a66ef2fa9fa34"
+  },
+  {
+    "ruta": "corpus/E01/E01_texto_con_localizadores.txt",
+    "fuente_expediente": "corpus/E01/E01_texto_con_localizadores.txt",
+    "sha256_fuente": "af3c340f8bdc032113dd7de42bea773cdd7f3e691aca12a66bacdff54ac2e7b0",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "af3c340f8bdc032113dd7de42bea773cdd7f3e691aca12a66bacdff54ac2e7b0"
+  },
+  {
+    "ruta": "corpus/E01/E01_transcripcion_v1.docx",
+    "fuente_expediente": "corpus/E01/E01_transcripcion_v1.docx",
+    "sha256_fuente": "c8d26940efe307a3b040502f6065cf771ca9ec05240b602be4d02f2ba113096b",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "c8d26940efe307a3b040502f6065cf771ca9ec05240b602be4d02f2ba113096b"
+  },
+  {
+    "ruta": "corpus/E01/LEEME.md",
+    "fuente_expediente": "corpus/E01/LEEME.md",
+    "sha256_fuente": "a3ad96fefa0a87856a21167b947e09623dde457f7ca0a6dce9586efcf889f61e",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "a3ad96fefa0a87856a21167b947e09623dde457f7ca0a6dce9586efcf889f61e"
+  },
+  {
+    "ruta": "corpus/E02/E02_texto_con_localizadores.json",
+    "fuente_expediente": "corpus/E02/E02_texto_con_localizadores.json",
+    "sha256_fuente": "1f29e324d23b29ae43f88bc7b94cbd198115cad539121e877f08565036799ea8",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "1f29e324d23b29ae43f88bc7b94cbd198115cad539121e877f08565036799ea8"
+  },
+  {
+    "ruta": "corpus/E02/E02_texto_con_localizadores.txt",
+    "fuente_expediente": "corpus/E02/E02_texto_con_localizadores.txt",
+    "sha256_fuente": "555e83dd8545bb2fd4c0cbd3010727bbd07b2d8e82b313c02945a6772859abdd",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "555e83dd8545bb2fd4c0cbd3010727bbd07b2d8e82b313c02945a6772859abdd"
+  },
+  {
+    "ruta": "corpus/E02/E02_transcripcion_v1.docx",
+    "fuente_expediente": "corpus/E02/E02_transcripcion_v1.docx",
+    "sha256_fuente": "9f2eaff6d62d33e892ea295bee4e1f00f22e681468e18267243728535b7d1f9f",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "9f2eaff6d62d33e892ea295bee4e1f00f22e681468e18267243728535b7d1f9f"
+  },
+  {
+    "ruta": "corpus/E02/LEEME.md",
+    "fuente_expediente": "corpus/E02/LEEME.md",
+    "sha256_fuente": "b3c8d383c73c8ccbd20ecd1a4bf9512dd3cc0007ec08c482ef8fb0fa67ed1e81",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "b3c8d383c73c8ccbd20ecd1a4bf9512dd3cc0007ec08c482ef8fb0fa67ed1e81"
+  },
+  {
+    "ruta": "corpus/E03/E03_texto_con_localizadores.json",
+    "fuente_expediente": "corpus/E03/E03_texto_con_localizadores.json",
+    "sha256_fuente": "1cca7d0a75e54c2416b3b038a1739e7233ce49cc0c9efa680879017307c8b517",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "1cca7d0a75e54c2416b3b038a1739e7233ce49cc0c9efa680879017307c8b517"
+  },
+  {
+    "ruta": "corpus/E03/E03_texto_con_localizadores.txt",
+    "fuente_expediente": "corpus/E03/E03_texto_con_localizadores.txt",
+    "sha256_fuente": "5a9b37c7252b6b6ab8178bd4ae7837fae616790f42aea34a993ab17a9704fff2",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "5a9b37c7252b6b6ab8178bd4ae7837fae616790f42aea34a993ab17a9704fff2"
+  },
+  {
+    "ruta": "corpus/E03/E03_transcripcion_v1.docx",
+    "fuente_expediente": "corpus/E03/E03_transcripcion_v1.docx",
+    "sha256_fuente": "a9c883695bb2d5cbb8258ca76caedd885fb6db473423f48fe5157241999e3fb2",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "a9c883695bb2d5cbb8258ca76caedd885fb6db473423f48fe5157241999e3fb2"
+  },
+  {
+    "ruta": "corpus/E03/LEEME.md",
+    "fuente_expediente": "corpus/E03/LEEME.md",
+    "sha256_fuente": "8a1122942ea2bcfa1a578a768b2941d1d231fd2808f814b20466ddeab85e62df",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "8a1122942ea2bcfa1a578a768b2941d1d231fd2808f814b20466ddeab85e62df"
+  },
+  {
+    "ruta": "corpus/E04/E04_texto_con_localizadores.json",
+    "fuente_expediente": "corpus/E04/E04_texto_con_localizadores.json",
+    "sha256_fuente": "a773975b4fbb61c9b6fe50405f292c8912989b03fd694a8390bbf1802cb0c7ac",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "a773975b4fbb61c9b6fe50405f292c8912989b03fd694a8390bbf1802cb0c7ac"
+  },
+  {
+    "ruta": "corpus/E04/E04_texto_con_localizadores.txt",
+    "fuente_expediente": "corpus/E04/E04_texto_con_localizadores.txt",
+    "sha256_fuente": "f42f7bc82f7d63e941dc881d0ee3dd1bcd8e9271aeabf469ef8c5d150e5c12d5",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "f42f7bc82f7d63e941dc881d0ee3dd1bcd8e9271aeabf469ef8c5d150e5c12d5"
+  },
+  {
+    "ruta": "corpus/E04/E04_transcripcion_v1.docx",
+    "fuente_expediente": "corpus/E04/E04_transcripcion_v1.docx",
+    "sha256_fuente": "b68b9ebe2d7836fc99c3df86b718cde2a38137a8b179dccc6feaf5117f57cd20",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "b68b9ebe2d7836fc99c3df86b718cde2a38137a8b179dccc6feaf5117f57cd20"
+  },
+  {
+    "ruta": "corpus/E04/LEEME.md",
+    "fuente_expediente": "corpus/E04/LEEME.md",
+    "sha256_fuente": "468b35aeb72f1d616b7dad8634a88a271dcafe7e5fa2fe1f9df5e17ea6ec3157",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "468b35aeb72f1d616b7dad8634a88a271dcafe7e5fa2fe1f9df5e17ea6ec3157"
+  },
+  {
+    "ruta": "corpus/E05/E05_texto_con_localizadores.json",
+    "fuente_expediente": "corpus/E05/E05_texto_con_localizadores.json",
+    "sha256_fuente": "47b56a57df309d8f5d625c8f0c2f57ed0df55a424dfd99668ae9146a66a404a1",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "47b56a57df309d8f5d625c8f0c2f57ed0df55a424dfd99668ae9146a66a404a1"
+  },
+  {
+    "ruta": "corpus/E05/E05_texto_con_localizadores.txt",
+    "fuente_expediente": "corpus/E05/E05_texto_con_localizadores.txt",
+    "sha256_fuente": "d0818e738eaafb6af6e64d5877d7f87209127330b693b5d71465875b326ea837",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "d0818e738eaafb6af6e64d5877d7f87209127330b693b5d71465875b326ea837"
+  },
+  {
+    "ruta": "corpus/E05/E05_transcripcion_v1.docx",
+    "fuente_expediente": "corpus/E05/E05_transcripcion_v1.docx",
+    "sha256_fuente": "f8ecccb57bd7103362a09c0153d072937ab330ebdabc55086caf32fe442f44a8",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "f8ecccb57bd7103362a09c0153d072937ab330ebdabc55086caf32fe442f44a8"
+  },
+  {
+    "ruta": "corpus/E05/LEEME.md",
+    "fuente_expediente": "corpus/E05/LEEME.md",
+    "sha256_fuente": "eb8a8db818b83af6849f4dd0d6ffc9fb1221e7a7c2c5aa5a28b8a328ceee5c1b",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "eb8a8db818b83af6849f4dd0d6ffc9fb1221e7a7c2c5aa5a28b8a328ceee5c1b"
+  },
+  {
+    "ruta": "analisis/insumos/E01_corpus_analisis_v1.json",
+    "fuente_expediente": "analisis/insumos/E01_corpus_analisis_v1.json",
+    "sha256_fuente": "5e78d3188ecc419fec941d257122779239b268de4787c0cc5cdd871c331bb9c7",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "5e78d3188ecc419fec941d257122779239b268de4787c0cc5cdd871c331bb9c7"
+  },
+  {
+    "ruta": "analisis/insumos/E02_corpus_analisis_v1.json",
+    "fuente_expediente": "analisis/insumos/E02_corpus_analisis_v1.json",
+    "sha256_fuente": "d3d02b351a4f3a82830c8c229c075ddba6231539f7a640150632aae1b6c16dfb",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "d3d02b351a4f3a82830c8c229c075ddba6231539f7a640150632aae1b6c16dfb"
+  },
+  {
+    "ruta": "analisis/insumos/E03_corpus_analisis_v1.json",
+    "fuente_expediente": "analisis/insumos/E03_corpus_analisis_v1.json",
+    "sha256_fuente": "554e257c86c73f4e60dbf0a82eb54f65c294032b66edac1254b3ec474f6189d7",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "554e257c86c73f4e60dbf0a82eb54f65c294032b66edac1254b3ec474f6189d7"
+  },
+  {
+    "ruta": "analisis/insumos/E04_corpus_analisis_v1.json",
+    "fuente_expediente": "analisis/insumos/E04_corpus_analisis_v1.json",
+    "sha256_fuente": "7b8e6a4fd6ac3ef550397a8b213779803134e8b1273c6f7c0eec3583ccfe995c",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "7b8e6a4fd6ac3ef550397a8b213779803134e8b1273c6f7c0eec3583ccfe995c"
+  },
+  {
+    "ruta": "analisis/insumos/E05_corpus_analisis_v1.json",
+    "fuente_expediente": "analisis/insumos/E05_corpus_analisis_v1.json",
+    "sha256_fuente": "cfb5ca8eb03fd8c25d389de94840b7382c0d20cddbe00c70bce02ac08a8d4239",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "cfb5ca8eb03fd8c25d389de94840b7382c0d20cddbe00c70bce02ac08a8d4239"
+  },
+  {
+    "ruta": "55_libro_comun_v1_3.md",
+    "fuente_expediente": "55_libro_comun_v1_3.md",
+    "sha256_fuente": "5a853da1e1276dbf8fb6309481f1e68a37fd209e92611f5ab209edee3791e34d",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "5a853da1e1276dbf8fb6309481f1e68a37fd209e92611f5ab209edee3791e34d"
+  },
+  {
+    "ruta": "55_libro_comun_v1_3.json",
+    "fuente_expediente": "55_libro_comun_v1_3.json",
+    "sha256_fuente": "64c7e9cf5c19fb8e4998563cef9ff1edbe173712d9f47e16a450b4cd14d1c3ad",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "64c7e9cf5c19fb8e4998563cef9ff1edbe173712d9f47e16a450b4cd14d1c3ad"
+  },
+  {
+    "ruta": "63_sintesis_transversal_v1_1.md",
+    "fuente_expediente": "63_sintesis_transversal_v1_1.md",
+    "sha256_fuente": "f11a1f61e11119995878b7db27c2d3fb19ec6d6ec9be8236baf62a9884ad28f5",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "f11a1f61e11119995878b7db27c2d3fb19ec6d6ec9be8236baf62a9884ad28f5"
+  },
+  {
+    "ruta": "63_sintesis_transversal_v1_1.json",
+    "fuente_expediente": "63_sintesis_transversal_v1_1.json",
+    "sha256_fuente": "fea5017f21d08ebbfa78916067a127a9f1010b3e74210262dc3c0f24a58550d7",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "fea5017f21d08ebbfa78916067a127a9f1010b3e74210262dc3c0f24a58550d7"
+  },
+  {
+    "ruta": "67_procesos_descritos_v1_1.md",
+    "fuente_expediente": "67_procesos_descritos_v1_1.md",
+    "sha256_fuente": "4d322012e78160f235112ed184c0a0a45d368d8f54635295a310589ea598cea1",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "4d322012e78160f235112ed184c0a0a45d368d8f54635295a310589ea598cea1"
+  },
+  {
+    "ruta": "67_procesos_descritos_v1_1.json",
+    "fuente_expediente": "67_procesos_descritos_v1_1.json",
+    "sha256_fuente": "8d3e4d1d6eebe630523f57526d1f1950db315c730b4d7d58f2feba674921cb01",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "8d3e4d1d6eebe630523f57526d1f1950db315c730b4d7d58f2feba674921cb01"
+  },
+  {
+    "ruta": "72_contraste_documental_v1_1.md",
+    "fuente_expediente": "72_contraste_documental_v1_1.md",
+    "sha256_fuente": "8385fd2c277e0e58f2083c6f217c7aecbef8826baba2d6330f0a1cd86e50c8f5",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "8385fd2c277e0e58f2083c6f217c7aecbef8826baba2d6330f0a1cd86e50c8f5"
+  },
+  {
+    "ruta": "72_contraste_documental_v1_1.json",
+    "fuente_expediente": "72_contraste_documental_v1_1.json",
+    "sha256_fuente": "ebbcee70cb3498f5f82993d75374f03c8f63dd4cdb606c7b0fc66ba467fc825b",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "ebbcee70cb3498f5f82993d75374f03c8f63dd4cdb606c7b0fc66ba467fc825b"
+  },
+  {
+    "ruta": "76_actores_y_preferencias_v1_1.md",
+    "fuente_expediente": "76_actores_y_preferencias_v1_1.md",
+    "sha256_fuente": "e53a237a2bc2ee0628ef6a394022ed581b620430b19b3c281a504269443f4182",
+    "tratamiento": "ADAPTACION_DE_RUTAS_EN_TEXTO_HUMANO_SIN_CAMBIAR_CITAS",
+    "sha256_base": "ad3d1d1f789575902b0f678de2bf986447c9198f16fda541459eec66d41528f5"
+  },
+  {
+    "ruta": "76_actores_y_preferencias_v1_1.json",
+    "fuente_expediente": "76_actores_y_preferencias_v1_1.json",
+    "sha256_fuente": "6d0f93bd1a7568e4d698e752874925925fc609f168b1a564cdf73eea3b7397b0",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "6d0f93bd1a7568e4d698e752874925925fc609f168b1a564cdf73eea3b7397b0"
+  },
+  {
+    "ruta": "82_necesidades_v1_1.md",
+    "fuente_expediente": "82_necesidades_v1_1.md",
+    "sha256_fuente": "1d8718c70fbeb84af60064477d70de65caa966f8e0d81be8baeb33dee7c8af56",
+    "tratamiento": "ADAPTACION_DE_RUTAS_EN_TEXTO_HUMANO_SIN_CAMBIAR_CITAS",
+    "sha256_base": "d7f2e47f0ed8120c9e527d2620d6e7784c298ac97d26d89f75473996167444c4"
+  },
+  {
+    "ruta": "82_necesidades_v1_1.json",
+    "fuente_expediente": "82_necesidades_v1_1.json",
+    "sha256_fuente": "f94ffa4bd1986d26bd2142cd7184c411fb7688d1c036c591e4397e76f62982fc",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "f94ffa4bd1986d26bd2142cd7184c411fb7688d1c036c591e4397e76f62982fc"
+  },
+  {
+    "ruta": "88_historias_y_objetos_v1_1.md",
+    "fuente_expediente": "88_historias_y_objetos_v1_1.md",
+    "sha256_fuente": "4f5f037d048376753373601d32b10abbd8f899d1de334b0d39485f351eed6034",
+    "tratamiento": "ADAPTACION_DE_RUTAS_EN_TEXTO_HUMANO_SIN_CAMBIAR_CITAS",
+    "sha256_base": "5029f395239f8e1f227d09f8a64c188280445eaaec30f8ca7e9d35b31a7a5533"
+  },
+  {
+    "ruta": "88_historias_y_objetos_v1_1.json",
+    "fuente_expediente": "88_historias_y_objetos_v1_1.json",
+    "sha256_fuente": "5c43fce0a9c49e130c12cc4b1152f84270acd24adf270f76ec3ea182389a52bd",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "5c43fce0a9c49e130c12cc4b1152f84270acd24adf270f76ec3ea182389a52bd"
+  },
+  {
+    "ruta": "93_diseno_y_fundamentos_v1_1.md",
+    "fuente_expediente": "93_diseno_y_fundamentos_v1_1.md",
+    "sha256_fuente": "760655e67e8ef9a2b88f7e9733e90c84cc62a40308bee3e47da8186502411880",
+    "tratamiento": "ADAPTACION_DE_RUTAS_EN_TEXTO_HUMANO_SIN_CAMBIAR_CITAS",
+    "sha256_base": "94ee172372a9fc090d61f6a6e148dc374ffafbcaefc1d60ad4ce3f75b1b97307"
+  },
+  {
+    "ruta": "93_diseno_y_fundamentos_v1_1.json",
+    "fuente_expediente": "93_diseno_y_fundamentos_v1_1.json",
+    "sha256_fuente": "4b0442dab0d1d6814e68934ea17d0ef483c65fb40080f87adc2180e2e123f8e5",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "4b0442dab0d1d6814e68934ea17d0ef483c65fb40080f87adc2180e2e123f8e5"
+  },
+  {
+    "ruta": "analisis/recodificacion/R01/R01_resultado_revisado_v1_3.json",
+    "fuente_expediente": "analisis/recodificacion/R01/R01_resultado_revisado_v1_3.json",
+    "sha256_fuente": "64caceb1ef61af483e83af28e6eb4e83b78a3e599389854240efc87a1037cdef",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "64caceb1ef61af483e83af28e6eb4e83b78a3e599389854240efc87a1037cdef"
+  },
+  {
+    "ruta": "analisis/recodificacion/R02/R02_resultado_revisado_v1_3.json",
+    "fuente_expediente": "analisis/recodificacion/R02/R02_resultado_revisado_v1_3.json",
+    "sha256_fuente": "662378fc3f9f16265457d31aedf768c404eb5562d2dfb926e965603f6508c3dc",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "662378fc3f9f16265457d31aedf768c404eb5562d2dfb926e965603f6508c3dc"
+  },
+  {
+    "ruta": "analisis/recodificacion/R03/R03_resultado_revisado_v1_2.json",
+    "fuente_expediente": "analisis/recodificacion/R03/R03_resultado_revisado_v1_2.json",
+    "sha256_fuente": "d931d7c4788de2b61d934bc7847be7b7b69566b7d1176b51626a29435e519664",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "d931d7c4788de2b61d934bc7847be7b7b69566b7d1176b51626a29435e519664"
+  },
+  {
+    "ruta": "analisis/recodificacion/R04/R04_resultado_revisado_v1_1.json",
+    "fuente_expediente": "analisis/recodificacion/R04/R04_resultado_revisado_v1_1.json",
+    "sha256_fuente": "772a4513cef334eba40df19e829a5f631cb496041d104b82f4b868ca24eb019e",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "772a4513cef334eba40df19e829a5f631cb496041d104b82f4b868ca24eb019e"
+  },
+  {
+    "ruta": "analisis/recodificacion/R05/R05_resultado_revisado_v1_1.json",
+    "fuente_expediente": "analisis/recodificacion/R05/R05_resultado_revisado_v1_1.json",
+    "sha256_fuente": "cc7f2e03fea8673cbbd0f83f7673d794f2c70b4417b9fe0b481b1731f74c1f2b",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "cc7f2e03fea8673cbbd0f83f7673d794f2c70b4417b9fe0b481b1731f74c1f2b"
+  },
+  {
+    "ruta": "analisis/sintesis/S01/S01_resultado_revisado_v1_1.json",
+    "fuente_expediente": "analisis/sintesis/S01/S01_resultado_revisado_v1_1.json",
+    "sha256_fuente": "fea5017f21d08ebbfa78916067a127a9f1010b3e74210262dc3c0f24a58550d7",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "fea5017f21d08ebbfa78916067a127a9f1010b3e74210262dc3c0f24a58550d7"
+  },
+  {
+    "ruta": "analisis/procesos/P01/P01_resultado_revisado_v1_1.json",
+    "fuente_expediente": "analisis/procesos/P01/P01_resultado_revisado_v1_1.json",
+    "sha256_fuente": "8d3e4d1d6eebe630523f57526d1f1950db315c730b4d7d58f2feba674921cb01",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "8d3e4d1d6eebe630523f57526d1f1950db315c730b4d7d58f2feba674921cb01"
+  },
+  {
+    "ruta": "analisis/documental/D01/D01_resultado_revisado_v1_1.json",
+    "fuente_expediente": "analisis/documental/D01/D01_resultado_revisado_v1_1.json",
+    "sha256_fuente": "ebbcee70cb3498f5f82993d75374f03c8f63dd4cdb606c7b0fc66ba467fc825b",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "ebbcee70cb3498f5f82993d75374f03c8f63dd4cdb606c7b0fc66ba467fc825b"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/ACT01_resultado_revisado_v1_1.json",
+    "fuente_expediente": "analisis/actores/ACT01/ACT01_resultado_revisado_v1_1.json",
+    "sha256_fuente": "6d0f93bd1a7568e4d698e752874925925fc609f168b1a564cdf73eea3b7397b0",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "6d0f93bd1a7568e4d698e752874925925fc609f168b1a564cdf73eea3b7397b0"
+  },
+  {
+    "ruta": "analisis/necesidades/N01/N01_resultado_revisado_v1_1.json",
+    "fuente_expediente": "analisis/necesidades/N01/N01_resultado_revisado_v1_1.json",
+    "sha256_fuente": "f94ffa4bd1986d26bd2142cd7184c411fb7688d1c036c591e4397e76f62982fc",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "f94ffa4bd1986d26bd2142cd7184c411fb7688d1c036c591e4397e76f62982fc"
+  },
+  {
+    "ruta": "analisis/historias/HU01/HU01_resultado_revisado_v1_1.json",
+    "fuente_expediente": "analisis/historias/HU01/HU01_resultado_revisado_v1_1.json",
+    "sha256_fuente": "5c43fce0a9c49e130c12cc4b1152f84270acd24adf270f76ec3ea182389a52bd",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "5c43fce0a9c49e130c12cc4b1152f84270acd24adf270f76ec3ea182389a52bd"
+  },
+  {
+    "ruta": "analisis/diseno/T01/T01_resultado_revisado_v1_1.json",
+    "fuente_expediente": "analisis/diseno/T01/T01_resultado_revisado_v1_1.json",
+    "sha256_fuente": "4b0442dab0d1d6814e68934ea17d0ef483c65fb40080f87adc2180e2e123f8e5",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "4b0442dab0d1d6814e68934ea17d0ef483c65fb40080f87adc2180e2e123f8e5"
+  },
+  {
+    "ruta": "analisis/procesos/P01/figuras_revisadas_v1_1/E01_proceso.dot",
+    "fuente_expediente": "analisis/procesos/P01/figuras_revisadas_v1_1/E01_proceso.dot",
+    "sha256_fuente": "d14558f9cfb3f7755e5c8468a50f6afb084f1982d08f11c8ee86c2d2b652359c",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "d14558f9cfb3f7755e5c8468a50f6afb084f1982d08f11c8ee86c2d2b652359c"
+  },
+  {
+    "ruta": "analisis/procesos/P01/figuras_revisadas_v1_1/E01_proceso.svg",
+    "fuente_expediente": "analisis/procesos/P01/figuras_revisadas_v1_1/E01_proceso.svg",
+    "sha256_fuente": "fb6e76b54f562326b0449a3d7d2e155bddc200c6a08267efd2ae680f581af73a",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "fb6e76b54f562326b0449a3d7d2e155bddc200c6a08267efd2ae680f581af73a"
+  },
+  {
+    "ruta": "analisis/procesos/P01/figuras_revisadas_v1_1/E02_proceso.dot",
+    "fuente_expediente": "analisis/procesos/P01/figuras_revisadas_v1_1/E02_proceso.dot",
+    "sha256_fuente": "50435d7145f22951fb342cd42bd95abcecc431c6577d7489485cc85b226a0174",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "50435d7145f22951fb342cd42bd95abcecc431c6577d7489485cc85b226a0174"
+  },
+  {
+    "ruta": "analisis/procesos/P01/figuras_revisadas_v1_1/E02_proceso.svg",
+    "fuente_expediente": "analisis/procesos/P01/figuras_revisadas_v1_1/E02_proceso.svg",
+    "sha256_fuente": "5c9ecf9a42e174cdc0b0cc7c3c280447b3de59a9ea918ba9995e2d5d8b7cf3b0",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "5c9ecf9a42e174cdc0b0cc7c3c280447b3de59a9ea918ba9995e2d5d8b7cf3b0"
+  },
+  {
+    "ruta": "analisis/procesos/P01/figuras_revisadas_v1_1/E03_proceso.dot",
+    "fuente_expediente": "analisis/procesos/P01/figuras_revisadas_v1_1/E03_proceso.dot",
+    "sha256_fuente": "f8f2e5ffd211448983438ef430694348595af4d6c090ff032c9581d035302dde",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "f8f2e5ffd211448983438ef430694348595af4d6c090ff032c9581d035302dde"
+  },
+  {
+    "ruta": "analisis/procesos/P01/figuras_revisadas_v1_1/E03_proceso.svg",
+    "fuente_expediente": "analisis/procesos/P01/figuras_revisadas_v1_1/E03_proceso.svg",
+    "sha256_fuente": "477eb737355275cee96a32fa2e39e8d6fe38afe14ebac51bde2b769ee6bf7ff7",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "477eb737355275cee96a32fa2e39e8d6fe38afe14ebac51bde2b769ee6bf7ff7"
+  },
+  {
+    "ruta": "analisis/procesos/P01/figuras_revisadas_v1_1/E04_proceso.dot",
+    "fuente_expediente": "analisis/procesos/P01/figuras_revisadas_v1_1/E04_proceso.dot",
+    "sha256_fuente": "f55f996abf0329709f0b62f035c5b69afcf77cbae96d45794b60b0eda580d129",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "f55f996abf0329709f0b62f035c5b69afcf77cbae96d45794b60b0eda580d129"
+  },
+  {
+    "ruta": "analisis/procesos/P01/figuras_revisadas_v1_1/E04_proceso.svg",
+    "fuente_expediente": "analisis/procesos/P01/figuras_revisadas_v1_1/E04_proceso.svg",
+    "sha256_fuente": "019275e5952f916096e3972154404b130974606916aecbda574dac8001f612b5",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "019275e5952f916096e3972154404b130974606916aecbda574dac8001f612b5"
+  },
+  {
+    "ruta": "analisis/procesos/P01/figuras_revisadas_v1_1/E05_proceso.dot",
+    "fuente_expediente": "analisis/procesos/P01/figuras_revisadas_v1_1/E05_proceso.dot",
+    "sha256_fuente": "ea2433e35f432f8922f11ada7a1d3267d6a3cb256ed06bf08ea775f5e1dddde5",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "ea2433e35f432f8922f11ada7a1d3267d6a3cb256ed06bf08ea775f5e1dddde5"
+  },
+  {
+    "ruta": "analisis/procesos/P01/figuras_revisadas_v1_1/E05_proceso.svg",
+    "fuente_expediente": "analisis/procesos/P01/figuras_revisadas_v1_1/E05_proceso.svg",
+    "sha256_fuente": "00af35959ecf60de889550e624949bbb6c3614e3089e1a0c883d20f6408b77be",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "00af35959ecf60de889550e624949bbb6c3614e3089e1a0c883d20f6408b77be"
+  },
+  {
+    "ruta": "analisis/procesos/P01/figuras_revisadas_v1_1/LEEME.md",
+    "fuente_expediente": "analisis/procesos/P01/figuras_revisadas_v1_1/LEEME.md",
+    "sha256_fuente": "aaceec87a2d093d4879a303ce5fdbff5f3c4ef0f17b569766821432966479807",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "aaceec87a2d093d4879a303ce5fdbff5f3c4ef0f17b569766821432966479807"
+  },
+  {
+    "ruta": "analisis/procesos/P01/figuras_revisadas_v1_1/inspeccion_coordinacion.json",
+    "fuente_expediente": "analisis/procesos/P01/figuras_revisadas_v1_1/inspeccion_coordinacion.json",
+    "sha256_fuente": "e84735ef281c2a1e953c81defd00a470cb8f08ebed4abdbfd3251d4eb9c230bc",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "e84735ef281c2a1e953c81defd00a470cb8f08ebed4abdbfd3251d4eb9c230bc"
+  },
+  {
+    "ruta": "analisis/procesos/P01/figuras_revisadas_v1_1/manifest.json",
+    "fuente_expediente": "analisis/procesos/P01/figuras_revisadas_v1_1/manifest.json",
+    "sha256_fuente": "0d7aa1defbcd75a7d956b3f0f55e6e5b07177bdcb0ac342a6194d9e806a0bb0f",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "0d7aa1defbcd75a7d956b3f0f55e6e5b07177bdcb0ac342a6194d9e806a0bb0f"
+  },
+  {
+    "ruta": "analisis/procesos/P01/figuras_revisadas_v1_1/registro_renderizado.json",
+    "fuente_expediente": "analisis/procesos/P01/figuras_revisadas_v1_1/registro_renderizado.json",
+    "sha256_fuente": "9f66839a7b7a8a4e4ab229799bf36205fde74bf6baeda105ab8781776b35e106",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "9f66839a7b7a8a4e4ab229799bf36205fde74bf6baeda105ab8781776b35e106"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/LEEME.md",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/LEEME.md",
+    "sha256_fuente": "1fcf9f4ca84ff5180acd2da7d68ec1ad3cb7443e034e6cfed550de333c644d2c",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "1fcf9f4ca84ff5180acd2da7d68ec1ad3cb7443e034e6cfed550de333c644d2c"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/actores.csv",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/actores.csv",
+    "sha256_fuente": "552e6e418f7f03a45387f85b28fb520126b74d78b82548f3c435b5f056269fae",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "552e6e418f7f03a45387f85b28fb520126b74d78b82548f3c435b5f056269fae"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/actores_por_ambito.csv",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/actores_por_ambito.csv",
+    "sha256_fuente": "9bb421deb21056525d082c5b515597aed8b9614e1348139990e0d416f8abebbe",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "9bb421deb21056525d082c5b515597aed8b9614e1348139990e0d416f8abebbe"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/cobertura_roles_p01.csv",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/cobertura_roles_p01.csv",
+    "sha256_fuente": "0220febb1e083199dbea5655a91ed5790a219bb3c2b017ef1c446c0a8fb0d2f8",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "0220febb1e083199dbea5655a91ed5790a219bb3c2b017ef1c446c0a8fb0d2f8"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/evidencias.csv",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/evidencias.csv",
+    "sha256_fuente": "25d9c4d4f8078347194f3beadfd1f69edca9e12e595890e91861d20403e97bf6",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "25d9c4d4f8078347194f3beadfd1f69edca9e12e595890e91861d20403e97bf6"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/excluidos_homologacion.csv",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/excluidos_homologacion.csv",
+    "sha256_fuente": "8068a12e1e29947bf99ecbf5853aeab0767e75b98611778f49d34dce14354b23",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "8068a12e1e29947bf99ecbf5853aeab0767e75b98611778f49d34dce14354b23"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/excluidos_homologacion_1.png",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/excluidos_homologacion_1.png",
+    "sha256_fuente": "54969c15a879680ff55e45d0ac1486e8f180abb8e4ed9d5215fb8a5c3e51b05c",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "54969c15a879680ff55e45d0ac1486e8f180abb8e4ed9d5215fb8a5c3e51b05c"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/excluidos_homologacion_1.svg",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/excluidos_homologacion_1.svg",
+    "sha256_fuente": "cfa28ef359a1c1b6d3d1ddca97e7fc164a6a8426ba8a0d047a576f78257dc210",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "cfa28ef359a1c1b6d3d1ddca97e7fc164a6a8426ba8a0d047a576f78257dc210"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/excluidos_homologacion_2.png",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/excluidos_homologacion_2.png",
+    "sha256_fuente": "3bfe8d111ae2667077ce3b21c0c659f7230d431b8d39e5c499a3b932f30a635d",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "3bfe8d111ae2667077ce3b21c0c659f7230d431b8d39e5c499a3b932f30a635d"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/excluidos_homologacion_2.svg",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/excluidos_homologacion_2.svg",
+    "sha256_fuente": "e74382665df57446d1071ac5b86bcfec0b87f42b31ad764e61e0407e29e009cc",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "e74382665df57446d1071ac5b86bcfec0b87f42b31ad764e61e0407e29e009cc"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/excluidos_homologacion_3.png",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/excluidos_homologacion_3.png",
+    "sha256_fuente": "94a6d6b968f995b785eab5b497888209e242f9bb81cc5ca5989caa92bab6eca7",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "94a6d6b968f995b785eab5b497888209e242f9bb81cc5ca5989caa92bab6eca7"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/excluidos_homologacion_3.svg",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/excluidos_homologacion_3.svg",
+    "sha256_fuente": "984d66bbc7611017612a630fde2cd11c215286f4880c3b8e49733823771417f1",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "984d66bbc7611017612a630fde2cd11c215286f4880c3b8e49733823771417f1"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/ficha_E01.png",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/ficha_E01.png",
+    "sha256_fuente": "8197f8d80a3d4e605c2f0c7bc8f9f0d400368f5c057f5b01e74c7aae3afee7e3",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "8197f8d80a3d4e605c2f0c7bc8f9f0d400368f5c057f5b01e74c7aae3afee7e3"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/ficha_E01.svg",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/ficha_E01.svg",
+    "sha256_fuente": "51e7a5e55addec548c771989e44beb0a4df7a06ec89c7855c5756cb958e102e1",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "51e7a5e55addec548c771989e44beb0a4df7a06ec89c7855c5756cb958e102e1"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/ficha_E02.png",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/ficha_E02.png",
+    "sha256_fuente": "ab257c42fd39eae8aad975cc97b6092500ff3f0a89083b3839c46d30aca4a724",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "ab257c42fd39eae8aad975cc97b6092500ff3f0a89083b3839c46d30aca4a724"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/ficha_E02.svg",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/ficha_E02.svg",
+    "sha256_fuente": "cc5c4ffde7f1cf0be173a1c2ec523f6f2a01cc11956fb6be6ed04d70ee039916",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "cc5c4ffde7f1cf0be173a1c2ec523f6f2a01cc11956fb6be6ed04d70ee039916"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/ficha_E03.png",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/ficha_E03.png",
+    "sha256_fuente": "246c58323d85529ad5cacbfb8c5ccd2e4bef3eddfda5c33d3e46db0241727fe3",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "246c58323d85529ad5cacbfb8c5ccd2e4bef3eddfda5c33d3e46db0241727fe3"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/ficha_E03.svg",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/ficha_E03.svg",
+    "sha256_fuente": "32221507645bf40f6ed302a9bdfdb42d6479a99d6b2bd2f1374dcdc4040c69ac",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "32221507645bf40f6ed302a9bdfdb42d6479a99d6b2bd2f1374dcdc4040c69ac"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/ficha_E04.png",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/ficha_E04.png",
+    "sha256_fuente": "52cacccef890076f2e2d15dadff2cd0b5b42e2739c1b82094002572920589fca",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "52cacccef890076f2e2d15dadff2cd0b5b42e2739c1b82094002572920589fca"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/ficha_E04.svg",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/ficha_E04.svg",
+    "sha256_fuente": "11070f0a3d9dc3a2d64eab09c7035b408012fd5231ece8042f355a92c0b7115b",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "11070f0a3d9dc3a2d64eab09c7035b408012fd5231ece8042f355a92c0b7115b"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/ficha_E05.png",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/ficha_E05.png",
+    "sha256_fuente": "ee68c82ddc8b34033dcb73e718365a451b3f864ec62faec3ca279af076e7b786",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "ee68c82ddc8b34033dcb73e718365a451b3f864ec62faec3ca279af076e7b786"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/ficha_E05.svg",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/ficha_E05.svg",
+    "sha256_fuente": "d4c1ab1c43401c32b55818fbecdf98876b2ea8014aed42d17de66b7ca3ba696a",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "d4c1ab1c43401c32b55818fbecdf98876b2ea8014aed42d17de66b7ca3ba696a"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/fichas.csv",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/fichas.csv",
+    "sha256_fuente": "81217a0207dcd65d9116f183717dbbac33d656171d096d233264202e2bd4176b",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "81217a0207dcd65d9116f183717dbbac33d656171d096d233264202e2bd4176b"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/ganancias_costes_condicionales.csv",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/ganancias_costes_condicionales.csv",
+    "sha256_fuente": "6d9e84ff6d2bac3da8b167d24de9a0510a60367972da8ed49b511e2d7ca27a79",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "6d9e84ff6d2bac3da8b167d24de9a0510a60367972da8ed49b511e2d7ca27a79"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/hipotesis.csv",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/hipotesis.csv",
+    "sha256_fuente": "ab825c17a37f914adf154e6814fa3e841800be24feed2b7eb637d36f0b0b110e",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "ab825c17a37f914adf154e6814fa3e841800be24feed2b7eb637d36f0b0b110e"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/hipotesis_condicionales.dot",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/hipotesis_condicionales.dot",
+    "sha256_fuente": "8e39e259cf457876731015971fae1e83636bfe3efb08077cad813535cb40729c",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "8e39e259cf457876731015971fae1e83636bfe3efb08077cad813535cb40729c"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/hipotesis_condicionales.png",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/hipotesis_condicionales.png",
+    "sha256_fuente": "bf00d0e23d6bb6d53ee8e69e11a5d3cb68c6dfb891308396b8713f0903c2e77a",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "bf00d0e23d6bb6d53ee8e69e11a5d3cb68c6dfb891308396b8713f0903c2e77a"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/hipotesis_condicionales.svg",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/hipotesis_condicionales.svg",
+    "sha256_fuente": "c91287f545d34beaac64dd5961d301146eda9e5cbd76310a6f9165f7cfbea6e0",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "c91287f545d34beaac64dd5961d301146eda9e5cbd76310a6f9165f7cfbea6e0"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/manifest.json",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/manifest.json",
+    "sha256_fuente": "7df63aef1c707bf2c174dfee3d4a3463e489e8108d74a6849013314e2cb6f6cd",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "7df63aef1c707bf2c174dfee3d4a3463e489e8108d74a6849013314e2cb6f6cd"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/poder_interes_homologacion.png",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/poder_interes_homologacion.png",
+    "sha256_fuente": "988b861ef5c395dbbca9e3874f5b1f47951e8cf8f4631e78e71aca2f990f0852",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "988b861ef5c395dbbca9e3874f5b1f47951e8cf8f4631e78e71aca2f990f0852"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/poder_interes_homologacion.svg",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/poder_interes_homologacion.svg",
+    "sha256_fuente": "167dd9dbe35f7fb51d56fd4c83fa418dd74e00516cc4c80be26be28fbb82eefd",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "167dd9dbe35f7fb51d56fd4c83fa418dd74e00516cc4c80be26be28fbb82eefd"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/preferencias.csv",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/preferencias.csv",
+    "sha256_fuente": "49032244ccd5b5cc298a4826ff16c5f9085e4dae9ea89d243aa8530d5c160ee5",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "49032244ccd5b5cc298a4826ff16c5f9085e4dae9ea89d243aa8530d5c160ee5"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_E01.dot",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_E01.dot",
+    "sha256_fuente": "278c7d785d6e1b072be27269855ad4d3dfc475f9c641682461eef91c0e8c5ea6",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "278c7d785d6e1b072be27269855ad4d3dfc475f9c641682461eef91c0e8c5ea6"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_E01.png",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_E01.png",
+    "sha256_fuente": "451d9d2fe82ac0212049846be9dde7e4864abea4179e23bce003885303552a46",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "451d9d2fe82ac0212049846be9dde7e4864abea4179e23bce003885303552a46"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_E01.svg",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_E01.svg",
+    "sha256_fuente": "3c977a7696a01dbcee30f7efb9baa7839f3aeeee7db0f7e09699cff18494e776",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "3c977a7696a01dbcee30f7efb9baa7839f3aeeee7db0f7e09699cff18494e776"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_E02.dot",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_E02.dot",
+    "sha256_fuente": "a9f5082a7f8938879f4a61ac00524217d552beb7183216635b9d69ce6bf01361",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "a9f5082a7f8938879f4a61ac00524217d552beb7183216635b9d69ce6bf01361"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_E02.png",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_E02.png",
+    "sha256_fuente": "86553e54778cb97baa394d3587530c5c502086c372809224cf563c25cbd9dbd3",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "86553e54778cb97baa394d3587530c5c502086c372809224cf563c25cbd9dbd3"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_E02.svg",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_E02.svg",
+    "sha256_fuente": "8d21d1dad30e809ba0e5c7bb5429a22f38f622dab0ecb951ff10816e1458d895",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "8d21d1dad30e809ba0e5c7bb5429a22f38f622dab0ecb951ff10816e1458d895"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_E03.dot",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_E03.dot",
+    "sha256_fuente": "1188776a24130dfdab89ea7210bdb1bc9e0dc80f10ab93beb4ccb5c9c72aefe4",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "1188776a24130dfdab89ea7210bdb1bc9e0dc80f10ab93beb4ccb5c9c72aefe4"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_E03.png",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_E03.png",
+    "sha256_fuente": "188be73469c95e9ea463810706b25ee5cc5d01510eeafefe2f512b498c306091",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "188be73469c95e9ea463810706b25ee5cc5d01510eeafefe2f512b498c306091"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_E03.svg",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_E03.svg",
+    "sha256_fuente": "65377b96e7bc885790fac33284314f09d39544d50be434168ff52396db1a4bc5",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "65377b96e7bc885790fac33284314f09d39544d50be434168ff52396db1a4bc5"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_E04.dot",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_E04.dot",
+    "sha256_fuente": "f26a49fc1478f8e0ac4eacf6003f7425f197bc350c1c143b795f237589a6b986",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "f26a49fc1478f8e0ac4eacf6003f7425f197bc350c1c143b795f237589a6b986"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_E04.png",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_E04.png",
+    "sha256_fuente": "ea9a901c22c1861cebebffd773cf8a4506455edfc6ca05380f34993271664378",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "ea9a901c22c1861cebebffd773cf8a4506455edfc6ca05380f34993271664378"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_E04.svg",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_E04.svg",
+    "sha256_fuente": "44f844dba894a3d2c07e5301b7971734a836cae6eef4cc7f7481024d8651124e",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "44f844dba894a3d2c07e5301b7971734a836cae6eef4cc7f7481024d8651124e"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_E05.dot",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_E05.dot",
+    "sha256_fuente": "0342dd7c44c30973271b54c8e7147d79145e553582ff1b51c00276c055f7bec7",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "0342dd7c44c30973271b54c8e7147d79145e553582ff1b51c00276c055f7bec7"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_E05.png",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_E05.png",
+    "sha256_fuente": "a13d6066da14e1cc410d4dffb360e0c3377c09ab593f640c5fb370ee841c6fb9",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "a13d6066da14e1cc410d4dffb360e0c3377c09ab593f640c5fb370ee841c6fb9"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_E05.svg",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_E05.svg",
+    "sha256_fuente": "487fbabb285c1a871c297850011eda72bed92f732d0499898ee304c048653e25",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "487fbabb285c1a871c297850011eda72bed92f732d0499898ee304c048653e25"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_documental_PAOT.dot",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_documental_PAOT.dot",
+    "sha256_fuente": "0b8d19f2d28dd1ed029afb2d714dca702d3ad53861efd88185a256288fccf553",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "0b8d19f2d28dd1ed029afb2d714dca702d3ad53861efd88185a256288fccf553"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_documental_PAOT.png",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_documental_PAOT.png",
+    "sha256_fuente": "df348d87b39cb1d0190bcacdd6f08f42f1b47126c32cf0d08ec8e6284969491e",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "df348d87b39cb1d0190bcacdd6f08f42f1b47126c32cf0d08ec8e6284969491e"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_documental_PAOT.svg",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_documental_PAOT.svg",
+    "sha256_fuente": "80d49c6328d103e5883ec995ce314736d79a6932df32bb8148b0b1e0257f51e4",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "80d49c6328d103e5883ec995ce314736d79a6932df32bb8148b0b1e0257f51e4"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_documental_encargo.dot",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_documental_encargo.dot",
+    "sha256_fuente": "679576c2b87d1dd60685c94441ceb439af354245e8cc24b072ac474097cb6f40",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "679576c2b87d1dd60685c94441ceb439af354245e8cc24b072ac474097cb6f40"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_documental_encargo.png",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_documental_encargo.png",
+    "sha256_fuente": "9756d712ba9a68fc57b04634f119f6d7da5efce412a315cde74607dd3771d7aa",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "9756d712ba9a68fc57b04634f119f6d7da5efce412a315cde74607dd3771d7aa"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_documental_encargo.svg",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_documental_encargo.svg",
+    "sha256_fuente": "d80fa1e5230d2777000a30edaf807349f9ffaf79afd7a333394fd1e54a26ea3f",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "d80fa1e5230d2777000a30edaf807349f9ffaf79afd7a333394fd1e54a26ea3f"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_documental_publicacion_consulta.dot",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_documental_publicacion_consulta.dot",
+    "sha256_fuente": "96a3d5ddf3fda4906977936dfad1ecfc7c2cebc9022d09cbab6f21eb9f093a5e",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "96a3d5ddf3fda4906977936dfad1ecfc7c2cebc9022d09cbab6f21eb9f093a5e"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_documental_publicacion_consulta.png",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_documental_publicacion_consulta.png",
+    "sha256_fuente": "75fbc5a60e4b671729c6112a63f91f32d4b47c9d2b8a4748e051f736762c0bcb",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "75fbc5a60e4b671729c6112a63f91f32d4b47c9d2b8a4748e051f736762c0bcb"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_documental_publicacion_consulta.svg",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/red_documental_publicacion_consulta.svg",
+    "sha256_fuente": "654904b2987dabecdb235d7a44529fe4d6a55daeab2bbd60c8c642a3e6459cb1",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "654904b2987dabecdb235d7a44529fe4d6a55daeab2bbd60c8c642a3e6459cb1"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/registro_exportacion_coordinacion.json",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/registro_exportacion_coordinacion.json",
+    "sha256_fuente": "970ce7505c697ffa172e370e86fc6600979fddeded3e18459a6caf7a96eca07b",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "970ce7505c697ffa172e370e86fc6600979fddeded3e18459a6caf7a96eca07b"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/registro_inspeccion_coordinacion.json",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/registro_inspeccion_coordinacion.json",
+    "sha256_fuente": "a055ef99bd83525978b63f874967961b9fce954f99de60c15a76d367d33eed63",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "a055ef99bd83525978b63f874967961b9fce954f99de60c15a76d367d33eed63"
+  },
+  {
+    "ruta": "analisis/actores/ACT01/figuras_revisadas_v1_1/relaciones.csv",
+    "fuente_expediente": "analisis/actores/ACT01/figuras_revisadas_v1_1/relaciones.csv",
+    "sha256_fuente": "dc4a9c2f972036fe720a4f76e41f6947c83eb653a3cf608df097d649168b4c9e",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "dc4a9c2f972036fe720a4f76e41f6947c83eb653a3cf608df097d649168b4c9e"
+  },
+  {
+    "ruta": "analisis/documental/D01/soportes_recibidos/figuras/D01-M001.dot",
+    "fuente_expediente": "analisis/documental/D01/soportes_recibidos/figuras/D01-M001.dot",
+    "sha256_fuente": "ab9418913dc3d5b037fca41240b6861c4b0b5b5fdfca3a0adabaa6acf697b39b",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "ab9418913dc3d5b037fca41240b6861c4b0b5b5fdfca3a0adabaa6acf697b39b"
+  },
+  {
+    "ruta": "analisis/documental/D01/soportes_recibidos/figuras/D01-M001.svg",
+    "fuente_expediente": "analisis/documental/D01/soportes_recibidos/figuras/D01-M001.svg",
+    "sha256_fuente": "7eee7bfd2a74f0ae17a49eb8822cc1ecd5bf15fe3731e5c522cd424b04ed6f47",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "7eee7bfd2a74f0ae17a49eb8822cc1ecd5bf15fe3731e5c522cd424b04ed6f47"
+  },
+  {
+    "ruta": "analisis/documental/D01/soportes_recibidos/figuras/D01-M002.dot",
+    "fuente_expediente": "analisis/documental/D01/soportes_recibidos/figuras/D01-M002.dot",
+    "sha256_fuente": "96c320f87ba8b7c92c3e43b5e6e8e9f554f5dc663fbbe3c66385e0c035cf1b64",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "96c320f87ba8b7c92c3e43b5e6e8e9f554f5dc663fbbe3c66385e0c035cf1b64"
+  },
+  {
+    "ruta": "analisis/documental/D01/soportes_recibidos/figuras/D01-M002.svg",
+    "fuente_expediente": "analisis/documental/D01/soportes_recibidos/figuras/D01-M002.svg",
+    "sha256_fuente": "d1c880500ff1101d08a826a2f2e67f677075e85daddb89a7bd527122e89091ff",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "d1c880500ff1101d08a826a2f2e67f677075e85daddb89a7bd527122e89091ff"
+  },
+  {
+    "ruta": "analisis/documental/D01/soportes_recibidos/figuras/D01-M003.dot",
+    "fuente_expediente": "analisis/documental/D01/soportes_recibidos/figuras/D01-M003.dot",
+    "sha256_fuente": "8c2102a3f8e05a2a3a9f24a5b39fe02d59f0b11e99585212afbcc3511ba23d30",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "8c2102a3f8e05a2a3a9f24a5b39fe02d59f0b11e99585212afbcc3511ba23d30"
+  },
+  {
+    "ruta": "analisis/documental/D01/soportes_recibidos/figuras/D01-M003.svg",
+    "fuente_expediente": "analisis/documental/D01/soportes_recibidos/figuras/D01-M003.svg",
+    "sha256_fuente": "6347aeaa6b89eb843abacd63fa94569a0966bf0ce31e71ea923058ae938f045a",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "6347aeaa6b89eb843abacd63fa94569a0966bf0ce31e71ea923058ae938f045a"
+  },
+  {
+    "ruta": "analisis/documental/D01/soportes_recibidos/figuras/D01-M004.dot",
+    "fuente_expediente": "analisis/documental/D01/soportes_recibidos/figuras/D01-M004.dot",
+    "sha256_fuente": "b3ef7e976e7c1d3886d3a9b5fa275cd02163baa6046a5ad25c738302bae997f4",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "b3ef7e976e7c1d3886d3a9b5fa275cd02163baa6046a5ad25c738302bae997f4"
+  },
+  {
+    "ruta": "analisis/documental/D01/soportes_recibidos/figuras/D01-M004.svg",
+    "fuente_expediente": "analisis/documental/D01/soportes_recibidos/figuras/D01-M004.svg",
+    "sha256_fuente": "44a399d65ecb79a9e3c09a3b5b677c914444c227804c5edee663f41256d65c29",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "44a399d65ecb79a9e3c09a3b5b677c914444c227804c5edee663f41256d65c29"
+  },
+  {
+    "ruta": "analisis/necesidades/N01/soportes_revisados_v1_1/LEEME.md",
+    "fuente_expediente": "analisis/necesidades/N01/soportes_revisados_v1_1/LEEME.md",
+    "sha256_fuente": "f66ed87e244769607dc7468f14aa1124b6b46b8838f2c8a257488104b1eafbfb",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "f66ed87e244769607dc7468f14aa1124b6b46b8838f2c8a257488104b1eafbfb"
+  },
+  {
+    "ruta": "analisis/necesidades/N01/soportes_revisados_v1_1/agenda_validacion.csv",
+    "fuente_expediente": "analisis/necesidades/N01/soportes_revisados_v1_1/agenda_validacion.csv",
+    "sha256_fuente": "6c20b5145f190ba8b275676f3e014b67aea6109bfa4350e620729496261e5f18",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "6c20b5145f190ba8b275676f3e014b67aea6109bfa4350e620729496261e5f18"
+  },
+  {
+    "ruta": "analisis/necesidades/N01/soportes_revisados_v1_1/cobertura.csv",
+    "fuente_expediente": "analisis/necesidades/N01/soportes_revisados_v1_1/cobertura.csv",
+    "sha256_fuente": "676eeadea1f7a27b00949b16359786ffeb147988249ff57ab5719607e8de0bfd",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "676eeadea1f7a27b00949b16359786ffeb147988249ff57ab5719607e8de0bfd"
+  },
+  {
+    "ruta": "analisis/necesidades/N01/soportes_revisados_v1_1/cobertura_casos.csv",
+    "fuente_expediente": "analisis/necesidades/N01/soportes_revisados_v1_1/cobertura_casos.csv",
+    "sha256_fuente": "6128cf3885b6650b09fcd75a00c418f48fdb9c9124cb8b42d1cab5e804cf56aa",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "6128cf3885b6650b09fcd75a00c418f48fdb9c9124cb8b42d1cab5e804cf56aa"
+  },
+  {
+    "ruta": "analisis/necesidades/N01/soportes_revisados_v1_1/cobertura_hallazgos.csv",
+    "fuente_expediente": "analisis/necesidades/N01/soportes_revisados_v1_1/cobertura_hallazgos.csv",
+    "sha256_fuente": "8e94afba8618f023afc7a0ed65426deb2ffebfeb01d6b1d37112b1faf96349d8",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "8e94afba8618f023afc7a0ed65426deb2ffebfeb01d6b1d37112b1faf96349d8"
+  },
+  {
+    "ruta": "analisis/necesidades/N01/soportes_revisados_v1_1/control/N01_control_revisado_v1_1.json",
+    "fuente_expediente": "analisis/necesidades/N01/soportes_revisados_v1_1/control/N01_control_revisado_v1_1.json",
+    "sha256_fuente": "73d286cf7cc24e4d31551b00fda0533c5565cd4824eedf584e009c786694ef99",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "73d286cf7cc24e4d31551b00fda0533c5565cd4824eedf584e009c786694ef99"
+  },
+  {
+    "ruta": "analisis/necesidades/N01/soportes_revisados_v1_1/control/validar_necesidades_revisadas.py",
+    "fuente_expediente": "analisis/necesidades/N01/soportes_revisados_v1_1/control/validar_necesidades_revisadas.py",
+    "sha256_fuente": "9671c9a607d3e485c51248fbcf86c5d7c9f9a961968778b13f69a7ab55205e4d",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "9671c9a607d3e485c51248fbcf86c5d7c9f9a961968778b13f69a7ab55205e4d"
+  },
+  {
+    "ruta": "analisis/necesidades/N01/soportes_revisados_v1_1/control_soportes_revisados.json",
+    "fuente_expediente": "analisis/necesidades/N01/soportes_revisados_v1_1/control_soportes_revisados.json",
+    "sha256_fuente": "dcc76e31061ae7690702b100309a5ea27ad4ea2a2a25f7889500fed779f5e561",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "dcc76e31061ae7690702b100309a5ea27ad4ea2a2a25f7889500fed779f5e561"
+  },
+  {
+    "ruta": "analisis/necesidades/N01/soportes_revisados_v1_1/criterios_priorizacion.csv",
+    "fuente_expediente": "analisis/necesidades/N01/soportes_revisados_v1_1/criterios_priorizacion.csv",
+    "sha256_fuente": "ef2c45a6e909ff0dbe8108b10f3d4c5012befecf29d6ff3703a475c48ccca1e4",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "ef2c45a6e909ff0dbe8108b10f3d4c5012befecf29d6ff3703a475c48ccca1e4"
+  },
+  {
+    "ruta": "analisis/necesidades/N01/soportes_revisados_v1_1/criterios_verificacion.csv",
+    "fuente_expediente": "analisis/necesidades/N01/soportes_revisados_v1_1/criterios_verificacion.csv",
+    "sha256_fuente": "1afa93b5000b135185e4601d41aaa9129e23d93a0a71e11c479b7bc84e585a18",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "1afa93b5000b135185e4601d41aaa9129e23d93a0a71e11c479b7bc84e585a18"
+  },
+  {
+    "ruta": "analisis/necesidades/N01/soportes_revisados_v1_1/datos/N01_explicacion_revisada_v1_1.md",
+    "fuente_expediente": "analisis/necesidades/N01/soportes_revisados_v1_1/datos/N01_explicacion_revisada_v1_1.md",
+    "sha256_fuente": "e1cbb8fb13bbf56825c6340d6179acb2460758a363e5e3afe7fdc218aa029d9c",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "e1cbb8fb13bbf56825c6340d6179acb2460758a363e5e3afe7fdc218aa029d9c"
+  },
+  {
+    "ruta": "analisis/necesidades/N01/soportes_revisados_v1_1/datos/N01_necesidades_revisadas_v1_1.json",
+    "fuente_expediente": "analisis/necesidades/N01/soportes_revisados_v1_1/datos/N01_necesidades_revisadas_v1_1.json",
+    "sha256_fuente": "f94ffa4bd1986d26bd2142cd7184c411fb7688d1c036c591e4397e76f62982fc",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "f94ffa4bd1986d26bd2142cd7184c411fb7688d1c036c591e4397e76f62982fc"
+  },
+  {
+    "ruta": "analisis/necesidades/N01/soportes_revisados_v1_1/decisiones_consolidacion.csv",
+    "fuente_expediente": "analisis/necesidades/N01/soportes_revisados_v1_1/decisiones_consolidacion.csv",
+    "sha256_fuente": "ffbf8299f39c1ffb6b88d29db55390789bc86e1a9a9810aae231d162ad367a5e",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "ffbf8299f39c1ffb6b88d29db55390789bc86e1a9a9810aae231d162ad367a5e"
+  },
+  {
+    "ruta": "analisis/necesidades/N01/soportes_revisados_v1_1/enlaces_codigos.csv",
+    "fuente_expediente": "analisis/necesidades/N01/soportes_revisados_v1_1/enlaces_codigos.csv",
+    "sha256_fuente": "bd51eed0184de54c992e13195c1634018e90692ae74ea23b29f1e520d6bcbdf5",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "bd51eed0184de54c992e13195c1634018e90692ae74ea23b29f1e520d6bcbdf5"
+  },
+  {
+    "ruta": "analisis/necesidades/N01/soportes_revisados_v1_1/evidencias.csv",
+    "fuente_expediente": "analisis/necesidades/N01/soportes_revisados_v1_1/evidencias.csv",
+    "sha256_fuente": "e09836340dcff8b022353b40bd757cb9d8e1b9b8c063b4a5ea9928874f2d2810",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "e09836340dcff8b022353b40bd757cb9d8e1b9b8c063b4a5ea9928874f2d2810"
+  },
+  {
+    "ruta": "analisis/necesidades/N01/soportes_revisados_v1_1/figuras/E01_decisiones_necesidades.png",
+    "fuente_expediente": "analisis/necesidades/N01/soportes_revisados_v1_1/figuras/E01_decisiones_necesidades.png",
+    "sha256_fuente": "78d7afcd3a223322f34710b96236b106c534223625baef5ba566a41edd3c874c",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "78d7afcd3a223322f34710b96236b106c534223625baef5ba566a41edd3c874c"
+  },
+  {
+    "ruta": "analisis/necesidades/N01/soportes_revisados_v1_1/figuras/E01_decisiones_necesidades.svg",
+    "fuente_expediente": "analisis/necesidades/N01/soportes_revisados_v1_1/figuras/E01_decisiones_necesidades.svg",
+    "sha256_fuente": "68c9192229557b17e24235c2591d54057d9631a2f532b88ee2ee7764d6357a1b",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "68c9192229557b17e24235c2591d54057d9631a2f532b88ee2ee7764d6357a1b"
+  },
+  {
+    "ruta": "analisis/necesidades/N01/soportes_revisados_v1_1/figuras/E02_decisiones_necesidades.png",
+    "fuente_expediente": "analisis/necesidades/N01/soportes_revisados_v1_1/figuras/E02_decisiones_necesidades.png",
+    "sha256_fuente": "a625a0d9e4dec6d9667a79326d593058f9f89420778493c77c8bb2d60c0ef741",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "a625a0d9e4dec6d9667a79326d593058f9f89420778493c77c8bb2d60c0ef741"
+  },
+  {
+    "ruta": "analisis/necesidades/N01/soportes_revisados_v1_1/figuras/E02_decisiones_necesidades.svg",
+    "fuente_expediente": "analisis/necesidades/N01/soportes_revisados_v1_1/figuras/E02_decisiones_necesidades.svg",
+    "sha256_fuente": "086b913c60ebcbd1323ca6394192d5b9171729bb4971986c76d05850bc671963",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "086b913c60ebcbd1323ca6394192d5b9171729bb4971986c76d05850bc671963"
+  },
+  {
+    "ruta": "analisis/necesidades/N01/soportes_revisados_v1_1/figuras/E03_decisiones_necesidades.png",
+    "fuente_expediente": "analisis/necesidades/N01/soportes_revisados_v1_1/figuras/E03_decisiones_necesidades.png",
+    "sha256_fuente": "02587cec3db7fc0da2937a7e87066d079ba1edc72ab9362a428ba38b7169252e",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "02587cec3db7fc0da2937a7e87066d079ba1edc72ab9362a428ba38b7169252e"
+  },
+  {
+    "ruta": "analisis/necesidades/N01/soportes_revisados_v1_1/figuras/E03_decisiones_necesidades.svg",
+    "fuente_expediente": "analisis/necesidades/N01/soportes_revisados_v1_1/figuras/E03_decisiones_necesidades.svg",
+    "sha256_fuente": "22e2e1fa5ab32f4dcd7149157dbac21fe4a526473a92a642bbf112b91cceaaa3",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "22e2e1fa5ab32f4dcd7149157dbac21fe4a526473a92a642bbf112b91cceaaa3"
+  },
+  {
+    "ruta": "analisis/necesidades/N01/soportes_revisados_v1_1/figuras/E04_decisiones_necesidades.png",
+    "fuente_expediente": "analisis/necesidades/N01/soportes_revisados_v1_1/figuras/E04_decisiones_necesidades.png",
+    "sha256_fuente": "ee73969e63628f68f5c57bce82363b9ea5c13988fe099c004084b8c15507a220",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "ee73969e63628f68f5c57bce82363b9ea5c13988fe099c004084b8c15507a220"
+  },
+  {
+    "ruta": "analisis/necesidades/N01/soportes_revisados_v1_1/figuras/E04_decisiones_necesidades.svg",
+    "fuente_expediente": "analisis/necesidades/N01/soportes_revisados_v1_1/figuras/E04_decisiones_necesidades.svg",
+    "sha256_fuente": "00624533a281d1d3c44ca181df1384ed9b0924c7c01ce8a143b16d792daf9203",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "00624533a281d1d3c44ca181df1384ed9b0924c7c01ce8a143b16d792daf9203"
+  },
+  {
+    "ruta": "analisis/necesidades/N01/soportes_revisados_v1_1/figuras/E05_decisiones_necesidades.png",
+    "fuente_expediente": "analisis/necesidades/N01/soportes_revisados_v1_1/figuras/E05_decisiones_necesidades.png",
+    "sha256_fuente": "a1fb87a7fc127e5aaf55b58ac6305b043d3a2b28867ccc43ee02bb617743cb05",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "a1fb87a7fc127e5aaf55b58ac6305b043d3a2b28867ccc43ee02bb617743cb05"
+  },
+  {
+    "ruta": "analisis/necesidades/N01/soportes_revisados_v1_1/figuras/E05_decisiones_necesidades.svg",
+    "fuente_expediente": "analisis/necesidades/N01/soportes_revisados_v1_1/figuras/E05_decisiones_necesidades.svg",
+    "sha256_fuente": "811de46734111f2bb7fa90323be6c2962e3420948055e2904f0fdf7bf4e8c544",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "811de46734111f2bb7fa90323be6c2962e3420948055e2904f0fdf7bf4e8c544"
+  },
+  {
+    "ruta": "analisis/necesidades/N01/soportes_revisados_v1_1/fuentes/figuras_datos.json",
+    "fuente_expediente": "analisis/necesidades/N01/soportes_revisados_v1_1/fuentes/figuras_datos.json",
+    "sha256_fuente": "edd9ea75eb8211ae7b58eb2eed6a16ce828a086743d166d5e71c2ce29540894f",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "edd9ea75eb8211ae7b58eb2eed6a16ce828a086743d166d5e71c2ce29540894f"
+  },
+  {
+    "ruta": "analisis/necesidades/N01/soportes_revisados_v1_1/fuentes/generar_figuras.py",
+    "fuente_expediente": "analisis/necesidades/N01/soportes_revisados_v1_1/fuentes/generar_figuras.py",
+    "sha256_fuente": "cf4a3457d182dd12b556a7f0599470a7497cf794f82a3ec52d1b395ce7923556",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "cf4a3457d182dd12b556a7f0599470a7497cf794f82a3ec52d1b395ce7923556"
+  },
+  {
+    "ruta": "analisis/necesidades/N01/soportes_revisados_v1_1/integridad_detallada.csv",
+    "fuente_expediente": "analisis/necesidades/N01/soportes_revisados_v1_1/integridad_detallada.csv",
+    "sha256_fuente": "f31079a68004b188c23236c5a4b7b3891c1476dc69755c6452e928c7accb10eb",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "f31079a68004b188c23236c5a4b7b3891c1476dc69755c6452e928c7accb10eb"
+  },
+  {
+    "ruta": "analisis/necesidades/N01/soportes_revisados_v1_1/integridad_entradas.json",
+    "fuente_expediente": "analisis/necesidades/N01/soportes_revisados_v1_1/integridad_entradas.json",
+    "sha256_fuente": "3c6da6a162c6255cbf1e545707ebf276ad1ace221c6d038c9f1cc3c5ce81a0b0",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "3c6da6a162c6255cbf1e545707ebf276ad1ace221c6d038c9f1cc3c5ce81a0b0"
+  },
+  {
+    "ruta": "analisis/necesidades/N01/soportes_revisados_v1_1/lectura_entradas.csv",
+    "fuente_expediente": "analisis/necesidades/N01/soportes_revisados_v1_1/lectura_entradas.csv",
+    "sha256_fuente": "477f34a73cafc638854bafba45eb0f3bbbd8a465a4f18e64dcf8358a7c079303",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "477f34a73cafc638854bafba45eb0f3bbbd8a465a4f18e64dcf8358a7c079303"
+  },
+  {
+    "ruta": "analisis/necesidades/N01/soportes_revisados_v1_1/manifest.json",
+    "fuente_expediente": "analisis/necesidades/N01/soportes_revisados_v1_1/manifest.json",
+    "sha256_fuente": "5200d1033b18ceb29260f714d1cebcc57f23f8a8886c4fb453397509bf97bd7a",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "5200d1033b18ceb29260f714d1cebcc57f23f8a8886c4fb453397509bf97bd7a"
+  },
+  {
+    "ruta": "analisis/necesidades/N01/soportes_revisados_v1_1/necesidades.csv",
+    "fuente_expediente": "analisis/necesidades/N01/soportes_revisados_v1_1/necesidades.csv",
+    "sha256_fuente": "57c447df907cfabb24c7659f0647db0a7ec2c9bc8980040858f0095e2f620fdd",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "57c447df907cfabb24c7659f0647db0a7ec2c9bc8980040858f0095e2f620fdd"
+  },
+  {
+    "ruta": "analisis/necesidades/N01/soportes_revisados_v1_1/notas_locales.json",
+    "fuente_expediente": "analisis/necesidades/N01/soportes_revisados_v1_1/notas_locales.json",
+    "sha256_fuente": "5b22007fb6a06ddb0bb9e38a8e9c5c8ed0a3d65c4b306080e48dc2f66abca62a",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "5b22007fb6a06ddb0bb9e38a8e9c5c8ed0a3d65c4b306080e48dc2f66abca62a"
+  },
+  {
+    "ruta": "analisis/necesidades/N01/soportes_revisados_v1_1/priorizacion.csv",
+    "fuente_expediente": "analisis/necesidades/N01/soportes_revisados_v1_1/priorizacion.csv",
+    "sha256_fuente": "22b448f4ec09f091a0b9e2ebb192eaed696eda9fd15c1729a2dea7bad6306047",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "22b448f4ec09f091a0b9e2ebb192eaed696eda9fd15c1729a2dea7bad6306047"
+  },
+  {
+    "ruta": "analisis/necesidades/N01/soportes_revisados_v1_1/trazabilidad.csv",
+    "fuente_expediente": "analisis/necesidades/N01/soportes_revisados_v1_1/trazabilidad.csv",
+    "sha256_fuente": "896adab039760c499a0a05d1b36bfc293452914d79983181ba14de75b16086d2",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "896adab039760c499a0a05d1b36bfc293452914d79983181ba14de75b16086d2"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/LEEME.md",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/LEEME.md",
+    "sha256_fuente": "d6c6c8276782f2f6a7042d3e2d5fbe959d01ca344c2136f58293948d2431cb02",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "d6c6c8276782f2f6a7042d3e2d5fbe959d01ca344c2136f58293948d2431cb02"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/control/HU01_control_validacion.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/control/HU01_control_validacion.json",
+    "sha256_fuente": "2671b2a665cc52cefd38402b48c602a53420b3753531ac4701dfb156e475f763",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "2671b2a665cc52cefd38402b48c602a53420b3753531ac4701dfb156e475f763"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/control/LEEME.md",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/control/LEEME.md",
+    "sha256_fuente": "bff03b1d0b244f622d1c67cc331285039cf236060ebbcc15cbdaf7c610eb1c57",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "bff03b1d0b244f622d1c67cc331285039cf236060ebbcc15cbdaf7c610eb1c57"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/control/cambios_coordinacion.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/control/cambios_coordinacion.json",
+    "sha256_fuente": "733a255f102c52183b490c96872f133f42ef229fe3143b617e589e0e32b8a81c",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "733a255f102c52183b490c96872f133f42ef229fe3143b617e589e0e32b8a81c"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/control/figuras_inspeccion.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/control/figuras_inspeccion.json",
+    "sha256_fuente": "baa91514e5cf536c5f3d4e48095769d2ec66429c97268ea0d0714cc9d443fe86",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "baa91514e5cf536c5f3d4e48095769d2ec66429c97268ea0d0714cc9d443fe86"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/control/integridad_entradas.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/control/integridad_entradas.json",
+    "sha256_fuente": "4389eeb7e1c7f00df1307857b09c933b1c04e59b8d92cae1e21f461f83ff3ea8",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "4389eeb7e1c7f00df1307857b09c933b1c04e59b8d92cae1e21f461f83ff3ea8"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/control/validador_resumen.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/control/validador_resumen.json",
+    "sha256_fuente": "aa3a964eac153e3ecf7acdd796429bbaa4d577041dc2866db60cd625b9f8ec49",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "aa3a964eac153e3ecf7acdd796429bbaa4d577041dc2866db60cd625b9f8ec49"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/control/validador_salida_completa.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/control/validador_salida_completa.json",
+    "sha256_fuente": "2671b2a665cc52cefd38402b48c602a53420b3753531ac4701dfb156e475f763",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "2671b2a665cc52cefd38402b48c602a53420b3753531ac4701dfb156e475f763"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/control/validador_stdout.txt",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/control/validador_stdout.txt",
+    "sha256_fuente": "14ad3e88a885ad285e1c8e43e5de10cf246fcc28552c70028f8f69a2d0b70a01",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "14ad3e88a885ad285e1c8e43e5de10cf246fcc28552c70028f8f69a2d0b70a01"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/control/validar_historias.py",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/control/validar_historias.py",
+    "sha256_fuente": "862bf5880bf65ceeea6cd2411d8c3702d38a1507977f1538cda7272a263a29d6",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "862bf5880bf65ceeea6cd2411d8c3702d38a1507977f1538cda7272a263a29d6"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/control/verificacion_soportes.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/control/verificacion_soportes.json",
+    "sha256_fuente": "3db10b8b8854893cfd8a74103994c30c56332213395d79d6557ac933dbb25ee0",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "3db10b8b8854893cfd8a74103994c30c56332213395d79d6557ac933dbb25ee0"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/control/verificar_soportes.py",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/control/verificar_soportes.py",
+    "sha256_fuente": "bb2eeed6c3b502dd4effd0cd6892edc06965439ca68fee9b10fc28e1e55623bb",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "bb2eeed6c3b502dd4effd0cd6892edc06965439ca68fee9b10fc28e1e55623bb"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/figuras/LEEME.md",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/figuras/LEEME.md",
+    "sha256_fuente": "cc08899377035605e3c24c15bbe4d255ed632f2e7240e20cf650a1f493795235",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "cc08899377035605e3c24c15bbe4d255ed632f2e7240e20cf650a1f493795235"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/figuras/generar_figuras.py",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/figuras/generar_figuras.py",
+    "sha256_fuente": "3f2db61d9794883c26762d685352d037242e1e0d3b16d04a01426c596615e0fb",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "3f2db61d9794883c26762d685352d037242e1e0d3b16d04a01426c596615e0fb"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/figuras/perfiles.png",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/figuras/perfiles.png",
+    "sha256_fuente": "440de71ca7057cd5fa4246b2a3668924369cfe0667acd1f15a5a3e8daf910d40",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "440de71ca7057cd5fa4246b2a3668924369cfe0667acd1f15a5a3e8daf910d40"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/figuras/perfiles.svg",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/figuras/perfiles.svg",
+    "sha256_fuente": "d0e3bdb80533edc9870e32c3b06e24943602474b1a1d68d4414463351e79a986",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "d0e3bdb80533edc9870e32c3b06e24943602474b1a1d68d4414463351e79a986"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/figuras/recorrido.png",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/figuras/recorrido.png",
+    "sha256_fuente": "0c870ce854ee722103cebcd0502bdf176e3ff1561bac47af43ed2beb91cb7d37",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "0c870ce854ee722103cebcd0502bdf176e3ff1561bac47af43ed2beb91cb7d37"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/figuras/recorrido.svg",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/figuras/recorrido.svg",
+    "sha256_fuente": "5e66ecc566e7530fa7a7c8dda2c411ed7985e9a0188f20fc2e64b8e419521f6f",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "5e66ecc566e7530fa7a7c8dda2c411ed7985e9a0188f20fc2e64b8e419521f6f"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/LEEME.md",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/LEEME.md",
+    "sha256_fuente": "b6f6d736777530e23766d30eea6c53a5f8942eade7620988c91bf382cfcb4582",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "b6f6d736777530e23766d30eea6c53a5f8942eade7620988c91bf382cfcb4582"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H001.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H001.json",
+    "sha256_fuente": "04190a091379e41870c684f523a274d58d3ccdc2b9ce4228293935bafcfe9191",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "04190a091379e41870c684f523a274d58d3ccdc2b9ce4228293935bafcfe9191"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H002.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H002.json",
+    "sha256_fuente": "502a8073a70a6aa2307e37cd5996efd5ef4b6ca43a56c0f1b9ecb083e0d75a23",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "502a8073a70a6aa2307e37cd5996efd5ef4b6ca43a56c0f1b9ecb083e0d75a23"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H003.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H003.json",
+    "sha256_fuente": "07e88d3dae372c57377b36d177617745be74d241a1d8190c6ee4b09455ddc577",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "07e88d3dae372c57377b36d177617745be74d241a1d8190c6ee4b09455ddc577"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H004.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H004.json",
+    "sha256_fuente": "a0626d03f5200f1baaa660ff07546693f40471ede395dec11da25dccb10d1cc1",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "a0626d03f5200f1baaa660ff07546693f40471ede395dec11da25dccb10d1cc1"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H005.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H005.json",
+    "sha256_fuente": "654487d2864e8a2a5991e7dd304176d63d798b3a4954e285644ee1c259b1513a",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "654487d2864e8a2a5991e7dd304176d63d798b3a4954e285644ee1c259b1513a"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H006.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H006.json",
+    "sha256_fuente": "f1b7fd3b4a33f19a26e8b7119d3ee62082ed9a3a90a9fbb7c99d9e24398df815",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "f1b7fd3b4a33f19a26e8b7119d3ee62082ed9a3a90a9fbb7c99d9e24398df815"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H007.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H007.json",
+    "sha256_fuente": "9946f18319c5fdc3d3953058670552dd97a522e8ceaede699d26a8d717915207",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "9946f18319c5fdc3d3953058670552dd97a522e8ceaede699d26a8d717915207"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H008.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H008.json",
+    "sha256_fuente": "c5d03b4f0730147410cdbbc75eacd83c518a45520ed2fc50f1fb8cc1ba21ae51",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "c5d03b4f0730147410cdbbc75eacd83c518a45520ed2fc50f1fb8cc1ba21ae51"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H009.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H009.json",
+    "sha256_fuente": "8da08caf1d7ed20e8bea4d0480f49066f2e0ae437f549ca742c21c667adde43d",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "8da08caf1d7ed20e8bea4d0480f49066f2e0ae437f549ca742c21c667adde43d"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H010.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H010.json",
+    "sha256_fuente": "3ae4b92ef4c6cd163d68f315002438b399b05a80c22946bde79daec672b6edc8",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "3ae4b92ef4c6cd163d68f315002438b399b05a80c22946bde79daec672b6edc8"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H011.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H011.json",
+    "sha256_fuente": "3d03e7ad125b28098105bfd9615af10ae968830cf75fdbfb65494ba4ffe3b56f",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "3d03e7ad125b28098105bfd9615af10ae968830cf75fdbfb65494ba4ffe3b56f"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H012.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H012.json",
+    "sha256_fuente": "605aafa56406211d7ca97b4294b217fbb12e3ce0dbbdb4c494af18d8f81195e1",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "605aafa56406211d7ca97b4294b217fbb12e3ce0dbbdb4c494af18d8f81195e1"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H013.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H013.json",
+    "sha256_fuente": "27bc17b1d7688f46192ddda71d1cb101bb9689dd2fd53ea43a477cf076b1d9dc",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "27bc17b1d7688f46192ddda71d1cb101bb9689dd2fd53ea43a477cf076b1d9dc"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H014.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H014.json",
+    "sha256_fuente": "552a0becd1b753a4507418251dd1a4fc85416c4c21cb9cd55fab39735475350a",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "552a0becd1b753a4507418251dd1a4fc85416c4c21cb9cd55fab39735475350a"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H015.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H015.json",
+    "sha256_fuente": "2400eb5a19c7f1f936778a3b1f7c5ee0e5ea65b0a1ca9fa5c1bf20d4d3f393f5",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "2400eb5a19c7f1f936778a3b1f7c5ee0e5ea65b0a1ca9fa5c1bf20d4d3f393f5"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H016.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H016.json",
+    "sha256_fuente": "4be4fc2a17a3f2dc47737e58963e23a4c3c2a16b9ba9002fcf387c85bf5da277",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "4be4fc2a17a3f2dc47737e58963e23a4c3c2a16b9ba9002fcf387c85bf5da277"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H017.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H017.json",
+    "sha256_fuente": "3fdf8c5e5ff237401a0f7d2e475982e991075afe70279b98e18245d1ab74ba4e",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "3fdf8c5e5ff237401a0f7d2e475982e991075afe70279b98e18245d1ab74ba4e"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H018.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H018.json",
+    "sha256_fuente": "b898a3edb9f7147d277481760e08a3909a043e54c9e33dc9331f26adfbe6b533",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "b898a3edb9f7147d277481760e08a3909a043e54c9e33dc9331f26adfbe6b533"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H019.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H019.json",
+    "sha256_fuente": "e7f4492e50802125ac285563acc338fae10de247ee9f660fbd2ff71d1dd90ce1",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "e7f4492e50802125ac285563acc338fae10de247ee9f660fbd2ff71d1dd90ce1"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H020.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H020.json",
+    "sha256_fuente": "58b48b2769333c29c2725e3f7e26366966ebffa21aa944fc74cdf0abe2b89af9",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "58b48b2769333c29c2725e3f7e26366966ebffa21aa944fc74cdf0abe2b89af9"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H021.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H021.json",
+    "sha256_fuente": "7b00c54c3a83dde0c75bdd5e42ad2c286b911a4647a189d1b56d417fd20f5584",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "7b00c54c3a83dde0c75bdd5e42ad2c286b911a4647a189d1b56d417fd20f5584"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/LEEME.md",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/LEEME.md",
+    "sha256_fuente": "fb4d93622991a1c89618e6d27ef3df3c3a3ec7fc29f6808d4251004093a555a9",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "fb4d93622991a1c89618e6d27ef3df3c3a3ec7fc29f6808d4251004093a555a9"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/manifiesto.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/manifiesto.json",
+    "sha256_fuente": "d82d8fdf7cc75ee5bcacda2bce683afd749a97f9fd93d1532f8538eb2db8ef41",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "d82d8fdf7cc75ee5bcacda2bce683afd749a97f9fd93d1532f8538eb2db8ef41"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M001.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M001.json",
+    "sha256_fuente": "ba09aaf76de01ff4680fec9bf5eec18ad1f30ec90e963b6d10bd7d57abb4fdcb",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "ba09aaf76de01ff4680fec9bf5eec18ad1f30ec90e963b6d10bd7d57abb4fdcb"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M002.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M002.json",
+    "sha256_fuente": "8f79bcfed11c6223d7a1d32e8e922a7094cb5f6be3e2b51c6925a9f8856016dc",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "8f79bcfed11c6223d7a1d32e8e922a7094cb5f6be3e2b51c6925a9f8856016dc"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M003.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M003.json",
+    "sha256_fuente": "f0b79d143cef9893571c4c06fde014b9e64a49a6bbf9c0b6d9dcf5432e6a6daa",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "f0b79d143cef9893571c4c06fde014b9e64a49a6bbf9c0b6d9dcf5432e6a6daa"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M004.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M004.json",
+    "sha256_fuente": "4e0b9ba20c433be3b667c01912d7b56f7e144c20b6c963e661cdbf2eda8b9ad2",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "4e0b9ba20c433be3b667c01912d7b56f7e144c20b6c963e661cdbf2eda8b9ad2"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M005.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M005.json",
+    "sha256_fuente": "37a1e3357794d95c6e9504b6f26e1658802c671d42b861413574bca4b7b207d6",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "37a1e3357794d95c6e9504b6f26e1658802c671d42b861413574bca4b7b207d6"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M006.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M006.json",
+    "sha256_fuente": "f5519a11f4b2b5347e6d2b9152963e76c43de2aaccf4f3daeccbc94c6f402db3",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "f5519a11f4b2b5347e6d2b9152963e76c43de2aaccf4f3daeccbc94c6f402db3"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M007.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M007.json",
+    "sha256_fuente": "43c2fcb5bc7062d24a6b07c72af514a6ef2e60bf2e735c65e6713ca1bfbafbb3",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "43c2fcb5bc7062d24a6b07c72af514a6ef2e60bf2e735c65e6713ca1bfbafbb3"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M008.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M008.json",
+    "sha256_fuente": "34318dc81a7df0f8f82b61c1f9fbe4c95a7a74aada965436d27169e0d1567538",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "34318dc81a7df0f8f82b61c1f9fbe4c95a7a74aada965436d27169e0d1567538"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M009.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M009.json",
+    "sha256_fuente": "ea86badaafdf07e6dfac08713edcfa5c7e895a7af1bfdbea205abe200bc8dd4c",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "ea86badaafdf07e6dfac08713edcfa5c7e895a7af1bfdbea205abe200bc8dd4c"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M010.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M010.json",
+    "sha256_fuente": "611c6ded62e5a1d768343514abb026a4465b8153425a5da0a0edd6c8fa418392",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "611c6ded62e5a1d768343514abb026a4465b8153425a5da0a0edd6c8fa418392"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M011.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M011.json",
+    "sha256_fuente": "56ebe07fb3277913b27d180a0f07c1cbb0d9d0ff71439d3fce5fcc1bc3c9b57a",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "56ebe07fb3277913b27d180a0f07c1cbb0d9d0ff71439d3fce5fcc1bc3c9b57a"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M012.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M012.json",
+    "sha256_fuente": "c25107be76774c060d7283c227727b391fe922c282f92fe7da3883894c9febb3",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "c25107be76774c060d7283c227727b391fe922c282f92fe7da3883894c9febb3"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M013.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M013.json",
+    "sha256_fuente": "710e26b1d23053eecec3cd91f3cc990649b564fa2401ccb6731b07e4bff61bd7",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "710e26b1d23053eecec3cd91f3cc990649b564fa2401ccb6731b07e4bff61bd7"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M014.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M014.json",
+    "sha256_fuente": "981dcac8ec207a6c5d17a27fcab5580f4e01e2282ba7a6c6bc048f8452fa0d32",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "981dcac8ec207a6c5d17a27fcab5580f4e01e2282ba7a6c6bc048f8452fa0d32"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M015.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M015.json",
+    "sha256_fuente": "10622a32dd4bea435f7e700c6b0fc7fe0a797049a3a3e275490a4d764efdd4f6",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "10622a32dd4bea435f7e700c6b0fc7fe0a797049a3a3e275490a4d764efdd4f6"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M016.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M016.json",
+    "sha256_fuente": "8da3202409e8493a8e7235eae4aa7adb5bf7938d27f60036e0a5a55e6b570e9e",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "8da3202409e8493a8e7235eae4aa7adb5bf7938d27f60036e0a5a55e6b570e9e"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M017.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M017.json",
+    "sha256_fuente": "92a845e06f66c4a5f18e3dc53426d76582ba341261a21a8f225179939911242a",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "92a845e06f66c4a5f18e3dc53426d76582ba341261a21a8f225179939911242a"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M018.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M018.json",
+    "sha256_fuente": "bdf1deb22b2be17c63381955fc9122543c2191edb9a2f11e179114f33f0af17d",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "bdf1deb22b2be17c63381955fc9122543c2191edb9a2f11e179114f33f0af17d"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M019.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M019.json",
+    "sha256_fuente": "4c077e33d9e7ff2d3c1b553e08df82e12ad9be153d629b0cdedc863fe93380f5",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "4c077e33d9e7ff2d3c1b553e08df82e12ad9be153d629b0cdedc863fe93380f5"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M020.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M020.json",
+    "sha256_fuente": "706ddad5dc61532e5be2ea4e10868d9124b54fffd00c3164b3446630038a1c5b",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "706ddad5dc61532e5be2ea4e10868d9124b54fffd00c3164b3446630038a1c5b"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M021.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M021.json",
+    "sha256_fuente": "b2144afa70882142a1bbfa291dc8173da5b5e6b5714e947d1d385214a1c3646b",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "b2144afa70882142a1bbfa291dc8173da5b5e6b5714e947d1d385214a1c3646b"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/LEEME.md",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/LEEME.md",
+    "sha256_fuente": "10fd90949774a611af430a9fd85356357654306379f788553bf7d5daccc588c0",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "10fd90949774a611af430a9fd85356357654306379f788553bf7d5daccc588c0"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/LEEME.md",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/LEEME.md",
+    "sha256_fuente": "c7ab3862ccc696668636eeebe2f54316c6645fac18d1d1b1baaa6f4247ca50b3",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "c7ab3862ccc696668636eeebe2f54316c6645fac18d1d1b1baaa6f4247ca50b3"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N001.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N001.json",
+    "sha256_fuente": "daf14af75d763591f0686b1dd37fc042ee4bc6d4912e890e9d5e9da730744e92",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "daf14af75d763591f0686b1dd37fc042ee4bc6d4912e890e9d5e9da730744e92"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N002.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N002.json",
+    "sha256_fuente": "6aabd0b4280cd9d804e81848a2e7d70041adaa35dc412e8833df4691d8481878",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "6aabd0b4280cd9d804e81848a2e7d70041adaa35dc412e8833df4691d8481878"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N003.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N003.json",
+    "sha256_fuente": "01ee988ae98eacf84ab277ae1febb05dd81f0a22c33fc98e95687b095b877fcf",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "01ee988ae98eacf84ab277ae1febb05dd81f0a22c33fc98e95687b095b877fcf"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N004.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N004.json",
+    "sha256_fuente": "bc181cd503d5821264bd0249f37f23828c873a2abf95a6465302fbc7e7537ba9",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "bc181cd503d5821264bd0249f37f23828c873a2abf95a6465302fbc7e7537ba9"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N005.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N005.json",
+    "sha256_fuente": "031db80a725cf15ce2bd27cb3768a4d2cfe47356363a004ab01bad91b20363a4",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "031db80a725cf15ce2bd27cb3768a4d2cfe47356363a004ab01bad91b20363a4"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N006.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N006.json",
+    "sha256_fuente": "016a40e33a1e705e5888f5b2b8eb4968097b90927f2f3ba2263bf12cbeb798cb",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "016a40e33a1e705e5888f5b2b8eb4968097b90927f2f3ba2263bf12cbeb798cb"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N007.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N007.json",
+    "sha256_fuente": "96c5bb44c23d64d7a8a2b74157d8e7b2560c753734014d43001e9876b10d8b54",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "96c5bb44c23d64d7a8a2b74157d8e7b2560c753734014d43001e9876b10d8b54"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N008.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N008.json",
+    "sha256_fuente": "ad4efcc6103b66ea528f44f950655c714476b143ad34a372a642cf0a79e6112c",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "ad4efcc6103b66ea528f44f950655c714476b143ad34a372a642cf0a79e6112c"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N009.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N009.json",
+    "sha256_fuente": "8fb52e484e27e687090a0a681f68735754b4c08fed7372f9fd87398c470ae7f0",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "8fb52e484e27e687090a0a681f68735754b4c08fed7372f9fd87398c470ae7f0"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N010.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N010.json",
+    "sha256_fuente": "33e7e3a9cdfa5dc08ebf6760b2c538e698ccc84708bc587ee753dade50edaada",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "33e7e3a9cdfa5dc08ebf6760b2c538e698ccc84708bc587ee753dade50edaada"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N011.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N011.json",
+    "sha256_fuente": "c27e22bd6ca695c6ebe3289406b1f27a10f530d530fe2870d943a82562fd8d1a",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "c27e22bd6ca695c6ebe3289406b1f27a10f530d530fe2870d943a82562fd8d1a"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N012.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N012.json",
+    "sha256_fuente": "411b215c078b0e6d93cec2b31035827bb2efeea7316df248236b7a4551afd941",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "411b215c078b0e6d93cec2b31035827bb2efeea7316df248236b7a4551afd941"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N013.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N013.json",
+    "sha256_fuente": "ed8f13cd30bc54ec61724e969a222513462ae7b4076149033922bae2b7dd392d",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "ed8f13cd30bc54ec61724e969a222513462ae7b4076149033922bae2b7dd392d"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N014.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N014.json",
+    "sha256_fuente": "66121417f636a91d3239d524309a84716fd1622d142e81913f0f400e123d3f00",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "66121417f636a91d3239d524309a84716fd1622d142e81913f0f400e123d3f00"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N015.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N015.json",
+    "sha256_fuente": "422db2f0feebab34b272be7ff7fa8f3f196d6de6a27f7f0b394dda33a2b86131",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "422db2f0feebab34b272be7ff7fa8f3f196d6de6a27f7f0b394dda33a2b86131"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N016.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N016.json",
+    "sha256_fuente": "18214e80056345def1a51ca0d902a0909582e10cecdbe3426ed21fa7b1c95f30",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "18214e80056345def1a51ca0d902a0909582e10cecdbe3426ed21fa7b1c95f30"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N017.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N017.json",
+    "sha256_fuente": "c478e015c557c1cd9a4650d9a83665593c89c1b099d6b5dabe56385f8c44f5fa",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "c478e015c557c1cd9a4650d9a83665593c89c1b099d6b5dabe56385f8c44f5fa"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N018.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N018.json",
+    "sha256_fuente": "f4d0b4a3f08ad6fa979dd941107c1b674f13f7bd5049f22a4fb3af04e36a14e9",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "f4d0b4a3f08ad6fa979dd941107c1b674f13f7bd5049f22a4fb3af04e36a14e9"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N019.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N019.json",
+    "sha256_fuente": "5db2931c24679569ec7673b401490ee90293ed7fe6e99b325859512d154c9c4a",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "5db2931c24679569ec7673b401490ee90293ed7fe6e99b325859512d154c9c4a"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N020.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N020.json",
+    "sha256_fuente": "297b8ec9e0a0079a4b2bbf0bf214af04918e2ed71836e6d0699a7d4ef4010782",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "297b8ec9e0a0079a4b2bbf0bf214af04918e2ed71836e6d0699a7d4ef4010782"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N021.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N021.json",
+    "sha256_fuente": "3022e28cd7f80a79017b160ae1a842f19d94d2e128b564e3f4ec17a8e262053d",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "3022e28cd7f80a79017b160ae1a842f19d94d2e128b564e3f4ec17a8e262053d"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N022.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N022.json",
+    "sha256_fuente": "207697788bd0413107b776e1b0ab522fe9458245bfdbaeacc1bb4cf98fcaf3de",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "207697788bd0413107b776e1b0ab522fe9458245bfdbaeacc1bb4cf98fcaf3de"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N023.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N023.json",
+    "sha256_fuente": "c89a8715d6f7a95b2e983794dea00a36915646bcd963ce994367ef70894b3fe6",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "c89a8715d6f7a95b2e983794dea00a36915646bcd963ce994367ef70894b3fe6"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N024.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N024.json",
+    "sha256_fuente": "5e408f646d46d38aa9166033cce1c85918726ae12fb56bd9ed15436ea283bb3a",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "5e408f646d46d38aa9166033cce1c85918726ae12fb56bd9ed15436ea283bb3a"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N025.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N025.json",
+    "sha256_fuente": "84ab4317462a07a6b088cdbf61cc4e7346e8fe63e00d07ed22e6bc49f1b61753",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "84ab4317462a07a6b088cdbf61cc4e7346e8fe63e00d07ed22e6bc49f1b61753"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N026.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N026.json",
+    "sha256_fuente": "0a0881f83ca7932c95a50355360623561b1d844e49bbe49d193b530e0b49dec7",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "0a0881f83ca7932c95a50355360623561b1d844e49bbe49d193b530e0b49dec7"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N027.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N027.json",
+    "sha256_fuente": "69739c087c4806591d347fcdb52f5eff3ec1b4ea99850e9132973318ca6cc9ee",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "69739c087c4806591d347fcdb52f5eff3ec1b4ea99850e9132973318ca6cc9ee"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N028.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N028.json",
+    "sha256_fuente": "8d8b1e0ec90dea0ba21df67de1c800af1605131cece10fb0f7039a8a792e845f",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "8d8b1e0ec90dea0ba21df67de1c800af1605131cece10fb0f7039a8a792e845f"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N029.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N029.json",
+    "sha256_fuente": "1a68b79893466fef5cb9dd8ef19b170c2efa27015372e1039b15024c48a1ad36",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "1a68b79893466fef5cb9dd8ef19b170c2efa27015372e1039b15024c48a1ad36"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/perfiles/HU01-P001.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/perfiles/HU01-P001.json",
+    "sha256_fuente": "1526189f296bb62b91b626ca1c05e3853705428d7f98b3e26e1f0e32230cb38c",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "1526189f296bb62b91b626ca1c05e3853705428d7f98b3e26e1f0e32230cb38c"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/perfiles/HU01-P002.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/perfiles/HU01-P002.json",
+    "sha256_fuente": "f580c7ca0b77f29b194502172c59537769e73528190fa16233e3fdd324112de0",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "f580c7ca0b77f29b194502172c59537769e73528190fa16233e3fdd324112de0"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/perfiles/HU01-P003.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/perfiles/HU01-P003.json",
+    "sha256_fuente": "9c9906d8819127d947331d38ac68983b073924731207e2990713993be861d72a",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "9c9906d8819127d947331d38ac68983b073924731207e2990713993be861d72a"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/perfiles/HU01-P004.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/perfiles/HU01-P004.json",
+    "sha256_fuente": "17b309b1a33482f7e94883d8730c44e5407b4caa206479e6fded8452e0a74517",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "17b309b1a33482f7e94883d8730c44e5407b4caa206479e6fded8452e0a74517"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/perfiles/HU01-P005.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/perfiles/HU01-P005.json",
+    "sha256_fuente": "afe16c0d5b35e4f57f3d9f598e2ce1815ea0df7bc9f15ec5cb916c22cecb3165",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "afe16c0d5b35e4f57f3d9f598e2ce1815ea0df7bc9f15ec5cb916c22cecb3165"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/perfiles/LEEME.md",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/perfiles/LEEME.md",
+    "sha256_fuente": "43b438f12fd5305d7e5eb8e874def9187c0cd8f7e1aae194490b1903f301aabd",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "43b438f12fd5305d7e5eb8e874def9187c0cd8f7e1aae194490b1903f301aabd"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/registro_objetos.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/objetos/registro_objetos.json",
+    "sha256_fuente": "6c277fa73df4a7436a8a4d2b97f6ac2030e0fe255fa21fc45c3d149e27d8810b",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "6c277fa73df4a7436a8a4d2b97f6ac2030e0fe255fa21fc45c3d149e27d8810b"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/procedencia/LEEME.md",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/procedencia/LEEME.md",
+    "sha256_fuente": "bcd0dec84c0f6feb34bced1314b2d65d3efe0d60eb0d68adb497964b90a078e8",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "bcd0dec84c0f6feb34bced1314b2d65d3efe0d60eb0d68adb497964b90a078e8"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/procedencia/catalogo_entradas.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/procedencia/catalogo_entradas.json",
+    "sha256_fuente": "1f413774005c37bcef24637153c11f0f758e0187bb93544ad4925bc86d596c6f",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "1f413774005c37bcef24637153c11f0f758e0187bb93544ad4925bc86d596c6f"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/procedencia/enlaces_necesidades_codigos.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/procedencia/enlaces_necesidades_codigos.json",
+    "sha256_fuente": "b4f655b09c22dd4c0ddd6f6b3a23a9df0dfb999b7d85342c3d9656c5c7f3de04",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "b4f655b09c22dd4c0ddd6f6b3a23a9df0dfb999b7d85342c3d9656c5c7f3de04"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/procedencia/evidencias_N01.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/procedencia/evidencias_N01.json",
+    "sha256_fuente": "61a165facf992d02803ff8a02a062f04402d30be397df4b43c2e2d77be7501bf",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "61a165facf992d02803ff8a02a062f04402d30be397df4b43c2e2d77be7501bf"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/procedencia/lectura_entradas.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/procedencia/lectura_entradas.json",
+    "sha256_fuente": "0e0a5a1835efd38e55dfcb2f2462f0ffcfc507b4294463bb6a1bd9c3409e6666",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "0e0a5a1835efd38e55dfcb2f2462f0ffcfc507b4294463bb6a1bd9c3409e6666"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/procedencia/referencias_tecnicas.json",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/procedencia/referencias_tecnicas.json",
+    "sha256_fuente": "7bccb490f1cb8ca6e8e0748191f3f0094a072fecbc1d8018601125552bd4f368",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "7bccb490f1cb8ca6e8e0748191f3f0094a072fecbc1d8018601125552bd4f368"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/tablas/LEEME.md",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/tablas/LEEME.md",
+    "sha256_fuente": "e8f458de32966cf9ccb31b64de74a4c6f64b209544c17fa48d9ee0ea15353ca2",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "e8f458de32966cf9ccb31b64de74a4c6f64b209544c17fa48d9ee0ea15353ca2"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/tablas/cobertura_necesidades.csv",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/tablas/cobertura_necesidades.csv",
+    "sha256_fuente": "e0e8b39143a95b64303fee1a6c915c7b6aa8f95970503ee3e8aa239c5dd1e938",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "e0e8b39143a95b64303fee1a6c915c7b6aa8f95970503ee3e8aa239c5dd1e938"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/tablas/contextos_metadatos.csv",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/tablas/contextos_metadatos.csv",
+    "sha256_fuente": "63f324eb58f37fc48d3d9b7209de712cd5f0b5ad02468de1d9a28b80eafc1005",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "63f324eb58f37fc48d3d9b7209de712cd5f0b5ad02468de1d9a28b80eafc1005"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/tablas/criterios.csv",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/tablas/criterios.csv",
+    "sha256_fuente": "2b8e778bc91923f7711f69a310cf4792e5ab4e5abd1fcc44fa6f659d23ee7439",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "2b8e778bc91923f7711f69a310cf4792e5ab4e5abd1fcc44fa6f659d23ee7439"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/tablas/estado_fair.csv",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/tablas/estado_fair.csv",
+    "sha256_fuente": "6b041a8895895e0ba042c1693c3ebc02a90f9a58129fdd0c5c14813ec611b837",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "6b041a8895895e0ba042c1693c3ebc02a90f9a58129fdd0c5c14813ec611b837"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/tablas/historias.csv",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/tablas/historias.csv",
+    "sha256_fuente": "9ed32c4448c2a841ceab4fba7ae6675420ad927ebb04ca530436342883dc1649",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "9ed32c4448c2a841ceab4fba7ae6675420ad927ebb04ca530436342883dc1649"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/tablas/metadatos.csv",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/tablas/metadatos.csv",
+    "sha256_fuente": "f01830b2e39af36227d741de39160d3ba0726a6d9401db714a28965ae23bb42b",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "f01830b2e39af36227d741de39160d3ba0726a6d9401db714a28965ae23bb42b"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/tablas/operaciones.csv",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/tablas/operaciones.csv",
+    "sha256_fuente": "1ebbd1d930a52a0ab0deef3cfb84cf45ccf63b06247730c3b766940e46a34fa0",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "1ebbd1d930a52a0ab0deef3cfb84cf45ccf63b06247730c3b766940e46a34fa0"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/tablas/perfiles.csv",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/tablas/perfiles.csv",
+    "sha256_fuente": "1e251d25dae8d9ddffc69ad34fad5dc339f9153a062af9142e099d315deac5b9",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "1e251d25dae8d9ddffc69ad34fad5dc339f9153a062af9142e099d315deac5b9"
+  },
+  {
+    "ruta": "analisis/historias/HU01/soportes_revisados_v1_1/tablas/registro_objetos.csv",
+    "fuente_expediente": "analisis/historias/HU01/soportes_revisados_v1_1/tablas/registro_objetos.csv",
+    "sha256_fuente": "136de65c48896912c48ebc8004f6d490b56cd933c98144493ea84c92edc118b6",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "136de65c48896912c48ebc8004f6d490b56cd933c98144493ea84c92edc118b6"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/LEEME.md",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/LEEME.md",
+    "sha256_fuente": "178cd7685a1af3ec5b7d9624deac2ce83349aa94b7504b67af5648f2e6012028",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "178cd7685a1af3ec5b7d9624deac2ce83349aa94b7504b67af5648f2e6012028"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/controles/LEEME.md",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/controles/LEEME.md",
+    "sha256_fuente": "f1d3575b5c2737c155580632b104f07d543488c5490dbd71d511ccc379d95ead",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "f1d3575b5c2737c155580632b104f07d543488c5490dbd71d511ccc379d95ead"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/controles/T01_control_validacion.json",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/controles/T01_control_validacion.json",
+    "sha256_fuente": "1ae442be43ae66a2624d271d4737a7445df15bd785d122974ced4bddc858cc7c",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "1ae442be43ae66a2624d271d4737a7445df15bd785d122974ced4bddc858cc7c"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/controles/auditoria_coordinacion.json",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/controles/auditoria_coordinacion.json",
+    "sha256_fuente": "b7ff3caaa3f6db5909eeb3b0b538d5683f7a1178af175d03618997fbbc1750cc",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "b7ff3caaa3f6db5909eeb3b0b538d5683f7a1178af175d03618997fbbc1750cc"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/controles/cambios_coordinacion.json",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/controles/cambios_coordinacion.json",
+    "sha256_fuente": "cb88eb5a1c0f1ee07d95f5815c42683e1e03b7c3d3aba1a7c1effbf6022c8bd4",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "cb88eb5a1c0f1ee07d95f5815c42683e1e03b7c3d3aba1a7c1effbf6022c8bd4"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/controles/comprobaciones_complementarias.json",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/controles/comprobaciones_complementarias.json",
+    "sha256_fuente": "f4882dce901d5bc9d596badf9ec3bc77d5c4f9dce3715ef2f3b44481fe5f7a1b",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "f4882dce901d5bc9d596badf9ec3bc77d5c4f9dce3715ef2f3b44481fe5f7a1b"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/controles/cotejo_citas.json",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/controles/cotejo_citas.json",
+    "sha256_fuente": "9f0eb9e3dc5a8d68a52ae797924ce43832f4e427989c8210cdbf185dd51a0836",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "9f0eb9e3dc5a8d68a52ae797924ce43832f4e427989c8210cdbf185dd51a0836"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/controles/cotejo_tablas.json",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/controles/cotejo_tablas.json",
+    "sha256_fuente": "34cae4b91a61fc176bf0d69873b9663dee7d97e9715a1afd50b22a4ca2229fff",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "34cae4b91a61fc176bf0d69873b9663dee7d97e9715a1afd50b22a4ca2229fff"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/controles/figuras_exportacion.json",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/controles/figuras_exportacion.json",
+    "sha256_fuente": "852b26bddefd301ca81c255f84dcd7e3e021e3d37d59d19992febfe36dd4e745",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "852b26bddefd301ca81c255f84dcd7e3e021e3d37d59d19992febfe36dd4e745"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/controles/integridad_entradas.json",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/controles/integridad_entradas.json",
+    "sha256_fuente": "2245ff8543ec92fb0d082e9c433abfa208ef5d2e05dd9f2d6117228358ac9331",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "2245ff8543ec92fb0d082e9c433abfa208ef5d2e05dd9f2d6117228358ac9331"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/controles/revision_visual.json",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/controles/revision_visual.json",
+    "sha256_fuente": "c3ec4961b24836ed09bfb578268b454ed21116006618205168b968a2ab932597",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "c3ec4961b24836ed09bfb578268b454ed21116006618205168b968a2ab932597"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/LEEME.md",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/LEEME.md",
+    "sha256_fuente": "ce0e2d4fa8c850679dd58696e0e4ee51eb9e582dd2341d6d6e30a7e5476e6e6a",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "ce0e2d4fa8c850679dd58696e0e4ee51eb9e582dd2341d6d6e30a7e5476e6e6a"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/agenda_validacion.md",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/agenda_validacion.md",
+    "sha256_fuente": "95f12fd9f1b5f6673a72aa121bc60c71bd62f08856aeb0a446299abc410404c5",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "95f12fd9f1b5f6673a72aa121bc60c71bd62f08856aeb0a446299abc410404c5"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/alternativas_agregacion.md",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/alternativas_agregacion.md",
+    "sha256_fuente": "ec9ee62dd4d77b0e75c74d2ba5612de19dd4e822f91e9320e018df610749524d",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "ec9ee62dd4d77b0e75c74d2ba5612de19dd4e822f91e9320e018df610749524d"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/arquitectura.md",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/arquitectura.md",
+    "sha256_fuente": "6586119b6418d50829bed1da916ac1fb296dd34ba69cc522977d5c643fe0a7ca",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "6586119b6418d50829bed1da916ac1fb296dd34ba69cc522977d5c643fe0a7ca"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/extension_fair_janus.md",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/extension_fair_janus.md",
+    "sha256_fuente": "b346e5b78e625635a56d77320f390ec8d1799dca80a7db63a4e74b4222af0412",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "b346e5b78e625635a56d77320f390ec8d1799dca80a7db63a4e74b4222af0412"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/fundamentos_criticos.md",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/fundamentos_criticos.md",
+    "sha256_fuente": "d1d0b1c50152a04fd2a96f0aa6b9f3aadca09b06e1b5f05aa5529603ad51ce94",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "d1d0b1c50152a04fd2a96f0aa6b9f3aadca09b06e1b5f05aa5529603ad51ce94"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/herramientas.md",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/herramientas.md",
+    "sha256_fuente": "74ede7aafa6c17b62183ab3397448db6509a4252fb11d4590a34f2da7c15049d",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "74ede7aafa6c17b62183ab3397448db6509a4252fb11d4590a34f2da7c15049d"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/lentes.md",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/lentes.md",
+    "sha256_fuente": "fd12e9854e766159dd95f6375ab2b2924ec55fcfc0c40c86ba9d4187ff5babda",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "fd12e9854e766159dd95f6375ab2b2924ec55fcfc0c40c86ba9d4187ff5babda"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/practicas_diseno.md",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/practicas_diseno.md",
+    "sha256_fuente": "cd065e2ef5e411d36b50f586194ec674b0f908f7254ca1b1b12240536e051271",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "cd065e2ef5e411d36b50f586194ec674b0f908f7254ca1b1b12240536e051271"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/productos.md",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/productos.md",
+    "sha256_fuente": "fa534e7893f75469596fd476152a55bbe128db59506b75a60f6d3b35cab7d3dc",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "fa534e7893f75469596fd476152a55bbe128db59506b75a60f6d3b35cab7d3dc"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/seleccion_portafolio.md",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/seleccion_portafolio.md",
+    "sha256_fuente": "d368f8d9f1f0870f874a972aed1eaa1e6be55ed4206342dd96994f820da7ce8a",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "d368f8d9f1f0870f874a972aed1eaa1e6be55ed4206342dd96994f820da7ce8a"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/diagramas/LEEME.md",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/diagramas/LEEME.md",
+    "sha256_fuente": "12baa4d0c5b097477c57bb1b1bdea95b69806362c0af3f69ba8993d45cf2a6a1",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "12baa4d0c5b097477c57bb1b1bdea95b69806362c0af3f69ba8993d45cf2a6a1"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/diagramas/arquitectura.dot",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/diagramas/arquitectura.dot",
+    "sha256_fuente": "71d7d8277ee9341f51155ff502728b3575993a4afa4c400be538c2596b953723",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "71d7d8277ee9341f51155ff502728b3575993a4afa4c400be538c2596b953723"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/diagramas/arquitectura.pdf",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/diagramas/arquitectura.pdf",
+    "sha256_fuente": "1fb33d5cf5ee0adcd254d82961eb6a0c65842e393c33f5cb369257cc00d2c125",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "1fb33d5cf5ee0adcd254d82961eb6a0c65842e393c33f5cb369257cc00d2c125"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/diagramas/arquitectura.plain",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/diagramas/arquitectura.plain",
+    "sha256_fuente": "db916e4d7efc9c137109bd3ce1568c2b6f75a8dca3c5180ea5a9a8b0a658b9c7",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "db916e4d7efc9c137109bd3ce1568c2b6f75a8dca3c5180ea5a9a8b0a658b9c7"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/diagramas/arquitectura.png",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/diagramas/arquitectura.png",
+    "sha256_fuente": "72aca8067e5d2aba690b6e21487f7c667f0f4875b357472e396d407290da12a9",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "72aca8067e5d2aba690b6e21487f7c667f0f4875b357472e396d407290da12a9"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/diagramas/arquitectura.svg",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/diagramas/arquitectura.svg",
+    "sha256_fuente": "0d7cbe5cc33b8d10cb8622e23f56d089743d91a945fbf3622048d71b9c563771",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "0d7cbe5cc33b8d10cb8622e23f56d089743d91a945fbf3622048d71b9c563771"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/diagramas/productos.dot",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/diagramas/productos.dot",
+    "sha256_fuente": "17920977f0ae0dae0f9284b5727fc67321aedb427b44ae102bc03ff2d6316f12",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "17920977f0ae0dae0f9284b5727fc67321aedb427b44ae102bc03ff2d6316f12"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/diagramas/productos.pdf",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/diagramas/productos.pdf",
+    "sha256_fuente": "66845e7c00768898effdf93ba01d850df4e4eae813f0bee8a1badef3303813af",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "66845e7c00768898effdf93ba01d850df4e4eae813f0bee8a1badef3303813af"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/diagramas/productos.plain",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/diagramas/productos.plain",
+    "sha256_fuente": "29a49cef984a5bf51b576f0b7fae5f6d95ab30ce44b109feab0e28b0b82c13c5",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "29a49cef984a5bf51b576f0b7fae5f6d95ab30ce44b109feab0e28b0b82c13c5"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/diagramas/productos.png",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/diagramas/productos.png",
+    "sha256_fuente": "9b0e588e2758fb106d06c8a341e3604a86297dfe099a97a17369a5a2dd2d91fe",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "9b0e588e2758fb106d06c8a341e3604a86297dfe099a97a17369a5a2dd2d91fe"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/diagramas/productos.svg",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/diagramas/productos.svg",
+    "sha256_fuente": "08831ff1f975f077ec18f8eb077a35b55317d7aa82007ce87bf741fd7df3d033",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "08831ff1f975f077ec18f8eb077a35b55317d7aa82007ce87bf741fd7df3d033"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/esquemas/LEEME.md",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/esquemas/LEEME.md",
+    "sha256_fuente": "e56385689964ea1b2dbe69f300cc9efd4f65010d0fa12572c7e51b1dc6cbf789",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "e56385689964ea1b2dbe69f300cc9efd4f65010d0fa12572c7e51b1dc6cbf789"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/esquemas/contratos_propuestos.json",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/esquemas/contratos_propuestos.json",
+    "sha256_fuente": "0d899e4cad7f360dfb8937142f6722116ec4096b6a0a331f53819a86e345107a",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "0d899e4cad7f360dfb8937142f6722116ec4096b6a0a331f53819a86e345107a"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/esquemas/contratos_propuestos.md",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/esquemas/contratos_propuestos.md",
+    "sha256_fuente": "4af91c7f6b3eef01565f37ea40aa04551c79f47ef0d443b99b5e69fbea706ecf",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "4af91c7f6b3eef01565f37ea40aa04551c79f47ef0d443b99b5e69fbea706ecf"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/fuentes/LEEME.md",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/fuentes/LEEME.md",
+    "sha256_fuente": "3ffd7d215b89b577eee8e65126212d2cad48015a6142eb05a7e4e0af6b0b68c8",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "3ffd7d215b89b577eee8e65126212d2cad48015a6142eb05a7e4e0af6b0b68c8"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/fuentes/LICENSE_GeoInsights",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/fuentes/LICENSE_GeoInsights",
+    "sha256_fuente": "345a001f3a97e86a0a7cd1f1c52815c063b1e372fb565460d18c3b438ccfc201",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "345a001f3a97e86a0a7cd1f1c52815c063b1e372fb565460d18c3b438ccfc201"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/fuentes/bibliografia.md",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/fuentes/bibliografia.md",
+    "sha256_fuente": "39ad8e0ea4a08cfae7705c0a3577bb435ef9ef1e822334e2d18aad3686da6bb2",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "39ad8e0ea4a08cfae7705c0a3577bb435ef9ef1e822334e2d18aad3686da6bb2"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/fuentes/citas_utilizadas.json",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/fuentes/citas_utilizadas.json",
+    "sha256_fuente": "676067deb0f13136ca1456a61b5eacca0e503575047e759f0fd4b842bd12aa60",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "676067deb0f13136ca1456a61b5eacca0e503575047e759f0fd4b842bd12aa60"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/fuentes/consulta_corpus.json",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/fuentes/consulta_corpus.json",
+    "sha256_fuente": "13d82c8bf056af7989e40070733d31a53c814ade3a37836680f0785d9c9fb7fd",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "13d82c8bf056af7989e40070733d31a53c814ade3a37836680f0785d9c9fb7fd"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/fuentes/entradas_referenciadas.json",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/fuentes/entradas_referenciadas.json",
+    "sha256_fuente": "24a2e4df60faee700991115b46f303885aee11b49cc646331ac8a97169e15c34",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "24a2e4df60faee700991115b46f303885aee11b49cc646331ac8a97169e15c34"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/fuentes/registro_fuentes.json",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/fuentes/registro_fuentes.json",
+    "sha256_fuente": "c518d412fc6cae2fab7f1ba56da67604347fc23007114595689a94022fc09a0c",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "c518d412fc6cae2fab7f1ba56da67604347fc23007114595689a94022fc09a0c"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/manifest_sha256.json",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/manifest_sha256.json",
+    "sha256_fuente": "ef3a23d722af5502d9f0b41186003096fef75ca92f62b199e25e374a4310f58e",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "ef3a23d722af5502d9f0b41186003096fef75ca92f62b199e25e374a4310f58e"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/matrices/LEEME.md",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/matrices/LEEME.md",
+    "sha256_fuente": "44897cbed7e6700eceec2ade3400d46cc2b05474d786151da599ed6b8a4f8681",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "44897cbed7e6700eceec2ade3400d46cc2b05474d786151da599ed6b8a4f8681"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/matrices/historias_21.csv",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/matrices/historias_21.csv",
+    "sha256_fuente": "c457f6e01e23413abc6a78b66dc3710a183594ea67ee1335eb3b9cc553565bd8",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "c457f6e01e23413abc6a78b66dc3710a183594ea67ee1335eb3b9cc553565bd8"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/matrices/requisitos_39.csv",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/matrices/requisitos_39.csv",
+    "sha256_fuente": "8a3c59c4baa1eca8161920821b22672ad08d74c4955c321baa50e29513992537",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "8a3c59c4baa1eca8161920821b22672ad08d74c4955c321baa50e29513992537"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/matrices/trazabilidad_necesidades.csv",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/matrices/trazabilidad_necesidades.csv",
+    "sha256_fuente": "2836c72d241baafc439abadb066497e6f13262209819854c431faf04ec4710c7",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "2836c72d241baafc439abadb066497e6f13262209819854c431faf04ec4710c7"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/matrices/trazabilidad_necesidades.json",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/matrices/trazabilidad_necesidades.json",
+    "sha256_fuente": "4475fbd2888db3f9d720da53a46d0a0cff85a06ce8cc63e37d114dfc15ed6dd9",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "4475fbd2888db3f9d720da53a46d0a0cff85a06ce8cc63e37d114dfc15ed6dd9"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/registro/LEEME.md",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/registro/LEEME.md",
+    "sha256_fuente": "070fa031e79dc28f1cd9ffa3dd7dfc8fe84cf779df40d9dd69fafcf70fbc5a8d",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "070fa031e79dc28f1cd9ffa3dd7dfc8fe84cf779df40d9dd69fafcf70fbc5a8d"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/registro/instrucciones_T01.md",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/registro/instrucciones_T01.md",
+    "sha256_fuente": "17ccd23f6e5e6d9742bba7c02a04f1e75653807147525a6e241a86e636ec3039",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "17ccd23f6e5e6d9742bba7c02a04f1e75653807147525a6e241a86e636ec3039"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/registro/prompt_analisis_integracion.txt",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/registro/prompt_analisis_integracion.txt",
+    "sha256_fuente": "30144d602eaaac461d1cf8e54e6696fc172c1da9d3c701907440359e1ef81e0e",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "30144d602eaaac461d1cf8e54e6696fc172c1da9d3c701907440359e1ef81e0e"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/registro/revision_asistida.md",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/registro/revision_asistida.md",
+    "sha256_fuente": "1869b1bd033296c5ca9a5b3e9cde9d7cf01cdcbd3e04670e2f626b5cf5599a2e",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "1869b1bd033296c5ca9a5b3e9cde9d7cf01cdcbd3e04670e2f626b5cf5599a2e"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/registro/salidas_principales.json",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/registro/salidas_principales.json",
+    "sha256_fuente": "b7456495dfa44fbb15bbc61d51632a49659c1045a87dd6c35ddbab271ab8889c",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "b7456495dfa44fbb15bbc61d51632a49659c1045a87dd6c35ddbab271ab8889c"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/registro/seleccion_parrafos.json",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/registro/seleccion_parrafos.json",
+    "sha256_fuente": "07d814b8fa94c8b5d2ddb9c1adf66633baa262804847486da5a2c628bb3ec5cc",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "07d814b8fa94c8b5d2ddb9c1adf66633baa262804847486da5a2c628bb3ec5cc"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/scripts/LEEME.md",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/scripts/LEEME.md",
+    "sha256_fuente": "497671df4fe182c59a94ef36048ab4237b39f6e637d415f9f9eb9f4584eb3613",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "497671df4fe182c59a94ef36048ab4237b39f6e637d415f9f9eb9f4584eb3613"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/scripts/empacar_t01.py",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/scripts/empacar_t01.py",
+    "sha256_fuente": "8fd315259c4e92cb823111bbdbbae9a097ede2569660964730ff32548a3a56ff",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "8fd315259c4e92cb823111bbdbbae9a097ede2569660964730ff32548a3a56ff"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/scripts/preparar_t01.py",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/scripts/preparar_t01.py",
+    "sha256_fuente": "9d592bbf337442b9eabbc1e93f1e78215c517e00c9c98180fb6dadc335a4a4f9",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "9d592bbf337442b9eabbc1e93f1e78215c517e00c9c98180fb6dadc335a4a4f9"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/scripts/validar_diseno.py",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/scripts/validar_diseno.py",
+    "sha256_fuente": "d2983f749f6eba8137355caef20c35e90041a2c8c935b179de0793e1a6719726",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "d2983f749f6eba8137355caef20c35e90041a2c8c935b179de0793e1a6719726"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/LEEME.md",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/LEEME.md",
+    "sha256_fuente": "051cff50656123b2cf2a950504b15a84d589e48d839feed2bda2b82946667322",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "051cff50656123b2cf2a950504b15a84d589e48d839feed2bda2b82946667322"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/afirmaciones_tecnicas.csv",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/afirmaciones_tecnicas.csv",
+    "sha256_fuente": "fe9714270f4ad54e7d2c35da823cb39eacb6a3a959719633c7265b45f82b5b46",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "fe9714270f4ad54e7d2c35da823cb39eacb6a3a959719633c7265b45f82b5b46"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/agenda_validacion.csv",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/agenda_validacion.csv",
+    "sha256_fuente": "8ec138991f24ed4580ccdae243cdf1d87186ed07af75cd6b4cd7c87cd23d9ee6",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "8ec138991f24ed4580ccdae243cdf1d87186ed07af75cd6b4cd7c87cd23d9ee6"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/alternativas_agregacion.csv",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/alternativas_agregacion.csv",
+    "sha256_fuente": "bfe7b665e6a90796a1943ca536cd855d389a8f14d42f1a29c14d9ee2801cf877",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "bfe7b665e6a90796a1943ca536cd855d389a8f14d42f1a29c14d9ee2801cf877"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/arquitectura_conexiones.csv",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/arquitectura_conexiones.csv",
+    "sha256_fuente": "3a35cf4bd5e67e27b6c96c7b4cf69c49c6c59f8e1797316c9a806cbee84493b7",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "3a35cf4bd5e67e27b6c96c7b4cf69c49c6c59f8e1797316c9a806cbee84493b7"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/arquitectura_contratos.csv",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/arquitectura_contratos.csv",
+    "sha256_fuente": "c93d0f515626d4637e45738b8473fd75c4a7ad83d41474cadb6429fd01eaf119",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "c93d0f515626d4637e45738b8473fd75c4a7ad83d41474cadb6429fd01eaf119"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/arquitectura_modulos.csv",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/arquitectura_modulos.csv",
+    "sha256_fuente": "25b66adf11eed0c2c359e4d99612e40b86241927d8d5e83045045b5b8303a27d",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "25b66adf11eed0c2c359e4d99612e40b86241927d8d5e83045045b5b8303a27d"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/arquitectura_representaciones.csv",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/arquitectura_representaciones.csv",
+    "sha256_fuente": "06edecaedbae9cc5050a5aa54bf197b2dd09a13f3ea9cb1938197bdd13fb8b85",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "06edecaedbae9cc5050a5aa54bf197b2dd09a13f3ea9cb1938197bdd13fb8b85"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/campos_contratos.csv",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/campos_contratos.csv",
+    "sha256_fuente": "c84d44336de3e5a55135139e773e9242e4cf398968e9e268a83c846d32dddd20",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "c84d44336de3e5a55135139e773e9242e4cf398968e9e268a83c846d32dddd20"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/cobertura_historias.csv",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/cobertura_historias.csv",
+    "sha256_fuente": "4775c33376a4780eef0d91ffb472c2fe1457649586c60a78ec5514fbfa19cf47",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "4775c33376a4780eef0d91ffb472c2fe1457649586c60a78ec5514fbfa19cf47"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/cobertura_requisitos.csv",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/cobertura_requisitos.csv",
+    "sha256_fuente": "119074bfaea021df7f9019ec6378a406dfd46805500e6ea407df2704766a688e",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "119074bfaea021df7f9019ec6378a406dfd46805500e6ea407df2704766a688e"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/criterios_productos.csv",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/criterios_productos.csv",
+    "sha256_fuente": "0d1269106d7e383ce1d893c5147dc695d5cd636e2c87ed087e241b3c4f30b7f9",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "0d1269106d7e383ce1d893c5147dc695d5cd636e2c87ed087e241b3c4f30b7f9"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/datos_productos.csv",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/datos_productos.csv",
+    "sha256_fuente": "a86b00018214f0b67dbda25ea039292aa9824f1c77d6fa600ec60b175ba17aaf",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "a86b00018214f0b67dbda25ea039292aa9824f1c77d6fa600ec60b175ba17aaf"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/decisiones_metodologicas.csv",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/decisiones_metodologicas.csv",
+    "sha256_fuente": "f1d54d7f63dd4daf0e25e82643873e3623800743fb6cc8b7e3a24560a607f6e4",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "f1d54d7f63dd4daf0e25e82643873e3623800743fb6cc8b7e3a24560a607f6e4"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/fuentes.csv",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/fuentes.csv",
+    "sha256_fuente": "578e219ae5d25f160228d7d7ae0e8c493fe7b56bf5c1d5c5ab1c1c2e1ab230f6",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "578e219ae5d25f160228d7d7ae0e8c493fe7b56bf5c1d5c5ab1c1c2e1ab230f6"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/fundamentos_criticos.csv",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/fundamentos_criticos.csv",
+    "sha256_fuente": "422041ea616831c0285848701160017e38ee3a84a3a7c235ee3ebfaaec2ca327",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "422041ea616831c0285848701160017e38ee3a84a3a7c235ee3ebfaaec2ca327"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/herramientas.csv",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/herramientas.csv",
+    "sha256_fuente": "d75c3758375e2088af4deddf011e6f0951930be410537cfcbc0d05676286b529",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "d75c3758375e2088af4deddf011e6f0951930be410537cfcbc0d05676286b529"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/lectura_entradas.csv",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/lectura_entradas.csv",
+    "sha256_fuente": "dfd5855bd892e5bd7103f04dfd04416dc41465af77596213e83756ec3edf6294",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "dfd5855bd892e5bd7103f04dfd04416dc41465af77596213e83756ec3edf6294"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/lentes.csv",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/lentes.csv",
+    "sha256_fuente": "238c9503c10fb642c0ccc022642781a66535857459e76131050bce8e3aff3cbf",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "238c9503c10fb642c0ccc022642781a66535857459e76131050bce8e3aff3cbf"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/practicas_diseno.csv",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/practicas_diseno.csv",
+    "sha256_fuente": "f33b8ffec221d0d185ec7e9c3280a742460a8ad9574f844031387dd74564c740",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "f33b8ffec221d0d185ec7e9c3280a742460a8ad9574f844031387dd74564c740"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/productos.csv",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/productos.csv",
+    "sha256_fuente": "203abdf0b9a9d4f4ca11718a308effe27abe03619a24bab2e159f1d8ba494c63",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "203abdf0b9a9d4f4ca11718a308effe27abe03619a24bab2e159f1d8ba494c63"
+  },
+  {
+    "ruta": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/trazabilidad_productos.csv",
+    "fuente_expediente": "analisis/diseno/T01/soportes_revisados_v1_1/tablas/trazabilidad_productos.csv",
+    "sha256_fuente": "0b8acbbfd61d5f45d9ebffb8d4090806253560006ac992083d77040b40d5b46a",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "0b8acbbfd61d5f45d9ebffb8d4090806253560006ac992083d77040b40d5b46a"
+  },
+  {
+    "ruta": "analisis/referencias/GeoInsights/GeoInsights_snapshot.zip",
+    "fuente_expediente": "analisis/referencias/GeoInsights/GeoInsights_snapshot.zip",
+    "sha256_fuente": "84b207fc1ebb98f3adb0f86d9544ccd30e428ddcd4b2cdec4764c513d3c722a7",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "84b207fc1ebb98f3adb0f86d9544ccd30e428ddcd4b2cdec4764c513d3c722a7"
+  },
+  {
+    "ruta": "analisis/referencias/GeoInsights/LICENSE",
+    "fuente_expediente": "analisis/referencias/GeoInsights/LICENSE",
+    "sha256_fuente": "345a001f3a97e86a0a7cd1f1c52815c063b1e372fb565460d18c3b438ccfc201",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "345a001f3a97e86a0a7cd1f1c52815c063b1e372fb565460d18c3b438ccfc201"
+  },
+  {
+    "ruta": "analisis/referencias/GeoInsights/README.md",
+    "fuente_expediente": "analisis/referencias/GeoInsights/README.md",
+    "sha256_fuente": "06ac7a3d941695f3e4ae9e32f9efb432c15290f5e0ef25e1e2e7c9291a433fc3",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "06ac7a3d941695f3e4ae9e32f9efb432c15290f5e0ef25e1e2e7c9291a433fc3"
+  },
+  {
+    "ruta": "analisis/referencias/GeoInsights/guia_lectura.md",
+    "fuente_expediente": "analisis/referencias/GeoInsights/guia_lectura.md",
+    "sha256_fuente": "ac71478ffb11ec0db3918543ea477282ffd5a9707cacba85c55665f4dea68de7",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "ac71478ffb11ec0db3918543ea477282ffd5a9707cacba85c55665f4dea68de7"
+  },
+  {
+    "ruta": "analisis/referencias/GeoInsights/procedencia_snapshot.json",
+    "fuente_expediente": "analisis/referencias/GeoInsights/procedencia_snapshot.json",
+    "sha256_fuente": "44a4b56dd09b9f9920e3d060c6193bf576e97edfd650170c9de8192ae8e7339c",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "44a4b56dd09b9f9920e3d060c6193bf576e97edfd650170c9de8192ae8e7339c"
+  },
+  {
+    "ruta": "11_guion_base_y_adaptaciones.md",
+    "fuente_expediente": "11_guion_base_y_adaptaciones.md",
+    "sha256_fuente": "5bdad901493f3b8a0b2e37bf08ebdf30decb884268fbf5589dceffd34784c432",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "5bdad901493f3b8a0b2e37bf08ebdf30decb884268fbf5589dceffd34784c432"
+  },
+  {
+    "ruta": "11_guiones_entrevistas.json",
+    "fuente_expediente": "11_guiones_entrevistas.json",
+    "sha256_fuente": "cd31be6ed8fb86dd694f6f21056520c5bbb70d7ee22e39ed39c5070f5f97d838",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "cd31be6ed8fb86dd694f6f21056520c5bbb70d7ee22e39ed39c5070f5f97d838"
+  },
+  {
+    "ruta": "24_registro_corpus.json",
+    "fuente_expediente": "24_registro_corpus.json",
+    "sha256_fuente": "c256f3a9ef190acccba436ced39cb820ef8953cd837927d8be260161d1585b1f",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "c256f3a9ef190acccba436ced39cb820ef8953cd837927d8be260161d1585b1f"
+  },
+  {
+    "ruta": "24_cobertura_corpus.csv",
+    "fuente_expediente": "24_cobertura_corpus.csv",
+    "sha256_fuente": "c6ab288935d1d8d518d7dd4e38a0d05733e3b0f3120c62d9e005c398e6c055e6",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "c6ab288935d1d8d518d7dd4e38a0d05733e3b0f3120c62d9e005c398e6c055e6"
+  },
+  {
+    "ruta": "24_protocolo_analisis.md",
+    "fuente_expediente": "24_protocolo_analisis.md",
+    "sha256_fuente": "0881636a296136a856a646196a53170a3092fb372bd38516b77a614846adb78c",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "0881636a296136a856a646196a53170a3092fb372bd38516b77a614846adb78c"
+  },
+  {
+    "ruta": "83_soportes_N01_revisados_v1_1.zip",
+    "fuente_expediente": "83_soportes_N01_revisados_v1_1.zip",
+    "sha256_fuente": "714cbea3896d0d556d491805d7aca5037f1017e42f51ba38b4241a003b5d0bff",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "714cbea3896d0d556d491805d7aca5037f1017e42f51ba38b4241a003b5d0bff"
+  },
+  {
+    "ruta": "registro/prompts_analisis/25_paquete_A01.md",
+    "fuente_expediente": "25_paquete_A01.md",
+    "sha256_fuente": "c10629775a8bc3f4aa50bcad4697fae56cc536b27e4ff788470496ab84af1e2c",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "c10629775a8bc3f4aa50bcad4697fae56cc536b27e4ff788470496ab84af1e2c"
+  },
+  {
+    "ruta": "registro/prompts_analisis/27_paquete_A02.md",
+    "fuente_expediente": "27_paquete_A02.md",
+    "sha256_fuente": "d7d92143401e26f055cb37cfdf70d1961622dc0c5df307145194f7af7e34ba24",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "d7d92143401e26f055cb37cfdf70d1961622dc0c5df307145194f7af7e34ba24"
+  },
+  {
+    "ruta": "registro/prompts_analisis/29_paquete_A03.md",
+    "fuente_expediente": "29_paquete_A03.md",
+    "sha256_fuente": "1a171ed925d2be3ad55c433d0dc1b2076f8cb55d3997cf08476b716cff2dee23",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "1a171ed925d2be3ad55c433d0dc1b2076f8cb55d3997cf08476b716cff2dee23"
+  },
+  {
+    "ruta": "registro/prompts_analisis/31_paquete_A04.md",
+    "fuente_expediente": "31_paquete_A04.md",
+    "sha256_fuente": "b07253ebe0e64b5453bc46214df79440101fe729b63741e69e6a4d8b2a81dcf2",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "b07253ebe0e64b5453bc46214df79440101fe729b63741e69e6a4d8b2a81dcf2"
+  },
+  {
+    "ruta": "registro/prompts_analisis/33_paquete_A05.md",
+    "fuente_expediente": "33_paquete_A05.md",
+    "sha256_fuente": "04916e79669c4ee827be157fcdf0ecfdf35f1e67108b0a15442e50fb117318de",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "04916e79669c4ee827be157fcdf0ecfdf35f1e67108b0a15442e50fb117318de"
+  },
+  {
+    "ruta": "registro/prompts_analisis/35_instrucciones_C01.md",
+    "fuente_expediente": "35_instrucciones_C01.md",
+    "sha256_fuente": "d32a9e987d289d6c2d0367e0f9be24164123d0474d8ae19d0fb19f385ed15137",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "d32a9e987d289d6c2d0367e0f9be24164123d0474d8ae19d0fb19f385ed15137"
+  },
+  {
+    "ruta": "registro/prompts_analisis/38_instrucciones_PC01.md",
+    "fuente_expediente": "38_instrucciones_PC01.md",
+    "sha256_fuente": "10728f6e6d3b869e297e67e5485daf4f3cba391b03991b61ee0b85d2a6c261be",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "10728f6e6d3b869e297e67e5485daf4f3cba391b03991b61ee0b85d2a6c261be"
+  },
+  {
+    "ruta": "registro/prompts_analisis/42_instrucciones_R01.md",
+    "fuente_expediente": "42_instrucciones_R01.md",
+    "sha256_fuente": "b2f45a284e0172c34b4d5ae5418afb4075afa3e9bc54708c1ee6d151c1dedc71",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "b2f45a284e0172c34b4d5ae5418afb4075afa3e9bc54708c1ee6d151c1dedc71"
+  },
+  {
+    "ruta": "registro/prompts_analisis/45_instrucciones_R02.md",
+    "fuente_expediente": "45_instrucciones_R02.md",
+    "sha256_fuente": "ae32fad483337f6a5f22888de5f98987d3c2ff7e74ce3c0f5cd8155433f93ecd",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "ae32fad483337f6a5f22888de5f98987d3c2ff7e74ce3c0f5cd8155433f93ecd"
+  },
+  {
+    "ruta": "registro/prompts_analisis/49_instrucciones_R03.md",
+    "fuente_expediente": "49_instrucciones_R03.md",
+    "sha256_fuente": "fea2c6231739285680dd81de87a10676670db55fad053fd739bf7f2873440bcd",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "fea2c6231739285680dd81de87a10676670db55fad053fd739bf7f2873440bcd"
+  },
+  {
+    "ruta": "registro/prompts_analisis/52_instrucciones_R04.md",
+    "fuente_expediente": "52_instrucciones_R04.md",
+    "sha256_fuente": "8b799c94346a449d203310629cb013284db73d02a7ce7144187b328326f0af12",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "8b799c94346a449d203310629cb013284db73d02a7ce7144187b328326f0af12"
+  },
+  {
+    "ruta": "registro/prompts_analisis/56_instrucciones_R05.md",
+    "fuente_expediente": "56_instrucciones_R05.md",
+    "sha256_fuente": "eed355b6c453db4d1cd255d9862f88eb99ce2c68eb57059adfffdf6171f02303",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "eed355b6c453db4d1cd255d9862f88eb99ce2c68eb57059adfffdf6171f02303"
+  },
+  {
+    "ruta": "registro/prompts_analisis/60_instrucciones_S01.md",
+    "fuente_expediente": "60_instrucciones_S01.md",
+    "sha256_fuente": "59677a6a8f2fb9d141d9e5773152ad98cf902d75dcbd5b92a66c36dce0bd4ba1",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "59677a6a8f2fb9d141d9e5773152ad98cf902d75dcbd5b92a66c36dce0bd4ba1"
+  },
+  {
+    "ruta": "registro/prompts_analisis/64_instrucciones_P01.md",
+    "fuente_expediente": "64_instrucciones_P01.md",
+    "sha256_fuente": "cd57b4595ce9b0e662e4f7ef6940dc3d1cd7c7a2f63c9568b1185e3e874e9e28",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "cd57b4595ce9b0e662e4f7ef6940dc3d1cd7c7a2f63c9568b1185e3e874e9e28"
+  },
+  {
+    "ruta": "registro/prompts_analisis/69_instrucciones_D01.md",
+    "fuente_expediente": "69_instrucciones_D01.md",
+    "sha256_fuente": "1315a5f65a9a84113a59d23d7b08b83dc70fc4400b2306c8256ec6402bc7d7f0",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "1315a5f65a9a84113a59d23d7b08b83dc70fc4400b2306c8256ec6402bc7d7f0"
+  },
+  {
+    "ruta": "registro/prompts_analisis/73_instrucciones_ACT01.md",
+    "fuente_expediente": "73_instrucciones_ACT01.md",
+    "sha256_fuente": "cdf61cba779bf30802d3be2b0b333690aa8767b3b1ab8807256edb44efc4cc2f",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "cdf61cba779bf30802d3be2b0b333690aa8767b3b1ab8807256edb44efc4cc2f"
+  },
+  {
+    "ruta": "registro/prompts_analisis/78_instrucciones_N01.md",
+    "fuente_expediente": "78_instrucciones_N01.md",
+    "sha256_fuente": "15f1320a828d9bc31a82531947581ac34b1489718d2604e8a0e9817f62381ff0",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "15f1320a828d9bc31a82531947581ac34b1489718d2604e8a0e9817f62381ff0"
+  },
+  {
+    "ruta": "registro/prompts_analisis/84_instrucciones_HU01.md",
+    "fuente_expediente": "84_instrucciones_HU01.md",
+    "sha256_fuente": "f433af66511d5b9a47137df16e581892aebd5e8a84a0ff2f7d43b5c48f5f70bb",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "f433af66511d5b9a47137df16e581892aebd5e8a84a0ff2f7d43b5c48f5f70bb"
+  },
+  {
+    "ruta": "registro/prompts_analisis/90_instrucciones_T01.md",
+    "fuente_expediente": "90_instrucciones_T01.md",
+    "sha256_fuente": "17ccd23f6e5e6d9742bba7c02a04f1e75653807147525a6e241a86e636ec3039",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "17ccd23f6e5e6d9742bba7c02a04f1e75653807147525a6e241a86e636ec3039"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/primeras_lecturas/A01/A01_analisis_E01_v1.docx",
+    "fuente_expediente": "analisis/primeras_lecturas/A01/A01_analisis_E01_v1.docx",
+    "sha256_fuente": "5478caf5e68fb51c8d93a136f13965d9af7470b0a593fff54efa5ea3b74ede9f",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "5478caf5e68fb51c8d93a136f13965d9af7470b0a593fff54efa5ea3b74ede9f"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/primeras_lecturas/A01/A01_registro_revision_coordinacion.json",
+    "fuente_expediente": "analisis/primeras_lecturas/A01/A01_registro_revision_coordinacion.json",
+    "sha256_fuente": "cd5c4a93b532d11a1234aea9aa4c09cd83dfed22c28a2cb1113969a7f0eb2a1e",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "cd5c4a93b532d11a1234aea9aa4c09cd83dfed22c28a2cb1113969a7f0eb2a1e"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/primeras_lecturas/A01/A01_respuesta_extraida_con_tablas.md",
+    "fuente_expediente": "analisis/primeras_lecturas/A01/A01_respuesta_extraida_con_tablas.md",
+    "sha256_fuente": "35d0d5ab6cb3d00062774f3f0506464d2391e4ff06d2b7de5f5c56dad6ce18fa",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "35d0d5ab6cb3d00062774f3f0506464d2391e4ff06d2b7de5f5c56dad6ce18fa"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/primeras_lecturas/A01/A01_resultado_extraido_v1.json",
+    "fuente_expediente": "analisis/primeras_lecturas/A01/A01_resultado_extraido_v1.json",
+    "sha256_fuente": "8485b91eae5c71f1fde7ef2b85e87a9f8988630fe751cce2255391aad5ddef00",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "8485b91eae5c71f1fde7ef2b85e87a9f8988630fe751cce2255391aad5ddef00"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/primeras_lecturas/A01/A01_validacion_estructural_v1.json",
+    "fuente_expediente": "analisis/primeras_lecturas/A01/A01_validacion_estructural_v1.json",
+    "sha256_fuente": "874659f9ed6cd7f566d579b9dc2f91311c5f94864e9b3e63ba31c7f308aed74c",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "874659f9ed6cd7f566d579b9dc2f91311c5f94864e9b3e63ba31c7f308aed74c"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/primeras_lecturas/A01/LEEME.md",
+    "fuente_expediente": "analisis/primeras_lecturas/A01/LEEME.md",
+    "sha256_fuente": "1ac49f97fbc9f2a0da9cd08e68eeb930b73fa28a4d406750bc5b2fe052a7bd0b",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "1ac49f97fbc9f2a0da9cd08e68eeb930b73fa28a4d406750bc5b2fe052a7bd0b"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/primeras_lecturas/A02/A02_analisis_E02_v1.docx",
+    "fuente_expediente": "analisis/primeras_lecturas/A02/A02_analisis_E02_v1.docx",
+    "sha256_fuente": "2671c5724dcc9a9646e696bac62d91ec660ff0d02cc4bcac7399ce6a2419957b",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "2671c5724dcc9a9646e696bac62d91ec660ff0d02cc4bcac7399ce6a2419957b"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/primeras_lecturas/A02/A02_registro_revision_coordinacion.json",
+    "fuente_expediente": "analisis/primeras_lecturas/A02/A02_registro_revision_coordinacion.json",
+    "sha256_fuente": "abba24717aa5f3e1d2d204aac9d59f907f3c1b47d3995a2da90454fa79e9520c",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "abba24717aa5f3e1d2d204aac9d59f907f3c1b47d3995a2da90454fa79e9520c"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/primeras_lecturas/A02/A02_respuesta_extraida_con_tablas.md",
+    "fuente_expediente": "analisis/primeras_lecturas/A02/A02_respuesta_extraida_con_tablas.md",
+    "sha256_fuente": "7598de2059154618dd0fccfeede12a526264ea0ad05e7e02a5cf1d519591db24",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "7598de2059154618dd0fccfeede12a526264ea0ad05e7e02a5cf1d519591db24"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/primeras_lecturas/A02/A02_resultado_extraido_v1.json",
+    "fuente_expediente": "analisis/primeras_lecturas/A02/A02_resultado_extraido_v1.json",
+    "sha256_fuente": "b68b28d5296f45aae57784aad5ed6a6ea3f9f87a4c63dfc3429f8d18c1ffecf2",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "b68b28d5296f45aae57784aad5ed6a6ea3f9f87a4c63dfc3429f8d18c1ffecf2"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/primeras_lecturas/A02/A02_validacion_estructural_v1.json",
+    "fuente_expediente": "analisis/primeras_lecturas/A02/A02_validacion_estructural_v1.json",
+    "sha256_fuente": "ef7bc7fdf702fc99835465fd2562fc7e1cdca8917df01b5a2a940c478088a9a7",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "ef7bc7fdf702fc99835465fd2562fc7e1cdca8917df01b5a2a940c478088a9a7"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/primeras_lecturas/A02/LEEME.md",
+    "fuente_expediente": "analisis/primeras_lecturas/A02/LEEME.md",
+    "sha256_fuente": "78e7d2b118d98af9a2e6863f63e8d0cf4c44aa33ba3ec173431d671fdeb8d2c8",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "78e7d2b118d98af9a2e6863f63e8d0cf4c44aa33ba3ec173431d671fdeb8d2c8"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/primeras_lecturas/A03/A03_analisis_E03_v1(1).docx",
+    "fuente_expediente": "analisis/primeras_lecturas/A03/A03_analisis_E03_v1(1).docx",
+    "sha256_fuente": "d1e14cf6c70a3dbc6aeee6c407f8960b8977c1e793f248d03db965c876f6ef64",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "d1e14cf6c70a3dbc6aeee6c407f8960b8977c1e793f248d03db965c876f6ef64"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/primeras_lecturas/A03/A03_registro_revision_coordinacion.json",
+    "fuente_expediente": "analisis/primeras_lecturas/A03/A03_registro_revision_coordinacion.json",
+    "sha256_fuente": "9b4f03685c99b9682cc45908658c75db091fffa1fe8461ff870d9939a1182ba0",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "9b4f03685c99b9682cc45908658c75db091fffa1fe8461ff870d9939a1182ba0"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/primeras_lecturas/A03/A03_respuesta_extraida_con_tablas.md",
+    "fuente_expediente": "analisis/primeras_lecturas/A03/A03_respuesta_extraida_con_tablas.md",
+    "sha256_fuente": "47fc153d0093cf24b05e2887f9c125f059ce9ac11afe9f99a7064e36b1037f48",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "47fc153d0093cf24b05e2887f9c125f059ce9ac11afe9f99a7064e36b1037f48"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/primeras_lecturas/A03/A03_resultado_extraido_v1.json",
+    "fuente_expediente": "analisis/primeras_lecturas/A03/A03_resultado_extraido_v1.json",
+    "sha256_fuente": "1480409d35493424711f148d092c891060d8a68b049f66d3d05a4120283d6df2",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "1480409d35493424711f148d092c891060d8a68b049f66d3d05a4120283d6df2"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/primeras_lecturas/A03/A03_validacion_estructural_v1.json",
+    "fuente_expediente": "analisis/primeras_lecturas/A03/A03_validacion_estructural_v1.json",
+    "sha256_fuente": "e158f57eb00694d59cbca0bf2034abd7336702a1617df2a6f00a0b18f2a9b67c",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "e158f57eb00694d59cbca0bf2034abd7336702a1617df2a6f00a0b18f2a9b67c"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/primeras_lecturas/A03/LEEME.md",
+    "fuente_expediente": "analisis/primeras_lecturas/A03/LEEME.md",
+    "sha256_fuente": "c99887be1aad9fc08518db6a9106555c9cd770aacb9cdb4df08a5657044e4f95",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "c99887be1aad9fc08518db6a9106555c9cd770aacb9cdb4df08a5657044e4f95"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/primeras_lecturas/A04/A04_analisis_E04_v1.docx",
+    "fuente_expediente": "analisis/primeras_lecturas/A04/A04_analisis_E04_v1.docx",
+    "sha256_fuente": "4a85674947d38a01ba151fbaeeabc191d0ad8167c087e59fdfa92ef0807960e3",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "4a85674947d38a01ba151fbaeeabc191d0ad8167c087e59fdfa92ef0807960e3"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/primeras_lecturas/A04/A04_cambios_revision_v1_1.json",
+    "fuente_expediente": "analisis/primeras_lecturas/A04/A04_cambios_revision_v1_1.json",
+    "sha256_fuente": "57db193a716bffce27fa713a4ec17341bd14c098e2dddcdba243f54a4d64c1a1",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "57db193a716bffce27fa713a4ec17341bd14c098e2dddcdba243f54a4d64c1a1"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/primeras_lecturas/A04/A04_registro_revision_coordinacion.json",
+    "fuente_expediente": "analisis/primeras_lecturas/A04/A04_registro_revision_coordinacion.json",
+    "sha256_fuente": "0785e39950bc0b6cffb74eb094ff9ddd68fb13fe92bff35a7f18697479bae0b6",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "0785e39950bc0b6cffb74eb094ff9ddd68fb13fe92bff35a7f18697479bae0b6"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/primeras_lecturas/A04/A04_respuesta_extraida_con_tablas.md",
+    "fuente_expediente": "analisis/primeras_lecturas/A04/A04_respuesta_extraida_con_tablas.md",
+    "sha256_fuente": "256fe16d6f688b467c7f06c7b31b4944b4926a06f4ddb5b6ac91c33c070959a5",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "256fe16d6f688b467c7f06c7b31b4944b4926a06f4ddb5b6ac91c33c070959a5"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/primeras_lecturas/A04/A04_respuesta_revisada_v1_1.md",
+    "fuente_expediente": "analisis/primeras_lecturas/A04/A04_respuesta_revisada_v1_1.md",
+    "sha256_fuente": "b518fe66d51131de764df5b96f0a137c93bd97b7477b695bfdd22fa67ca6dc2b",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "b518fe66d51131de764df5b96f0a137c93bd97b7477b695bfdd22fa67ca6dc2b"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/primeras_lecturas/A04/A04_resultado_extraido_v1.json",
+    "fuente_expediente": "analisis/primeras_lecturas/A04/A04_resultado_extraido_v1.json",
+    "sha256_fuente": "6c398985af0971fd4102852e5f11e1e4b280dbd08484af8c00848b6fc1cc212b",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "6c398985af0971fd4102852e5f11e1e4b280dbd08484af8c00848b6fc1cc212b"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/primeras_lecturas/A04/A04_resultado_revisado_v1_1.json",
+    "fuente_expediente": "analisis/primeras_lecturas/A04/A04_resultado_revisado_v1_1.json",
+    "sha256_fuente": "fe922205c22fe7025f92e32893c87d20efe387ded2d79c94006a5e7c874e9b7c",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "fe922205c22fe7025f92e32893c87d20efe387ded2d79c94006a5e7c874e9b7c"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/primeras_lecturas/A04/A04_validacion_estructural_v1.json",
+    "fuente_expediente": "analisis/primeras_lecturas/A04/A04_validacion_estructural_v1.json",
+    "sha256_fuente": "29df39f17603e74ecdcb63919c6a7368c4b09f0b3994a4433aa7afe1495b5715",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "29df39f17603e74ecdcb63919c6a7368c4b09f0b3994a4433aa7afe1495b5715"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/primeras_lecturas/A04/A04_validacion_estructural_v1_1.json",
+    "fuente_expediente": "analisis/primeras_lecturas/A04/A04_validacion_estructural_v1_1.json",
+    "sha256_fuente": "209409a8920358cf61665b6e3c9a3c0c53f81e6c2e1b04efed822b0bb138eb97",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "209409a8920358cf61665b6e3c9a3c0c53f81e6c2e1b04efed822b0bb138eb97"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/primeras_lecturas/A04/LEEME.md",
+    "fuente_expediente": "analisis/primeras_lecturas/A04/LEEME.md",
+    "sha256_fuente": "65ea8e286c3055b87f4d10026cd5da8df1201aae1bb33e064192f7c03673f9ee",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "65ea8e286c3055b87f4d10026cd5da8df1201aae1bb33e064192f7c03673f9ee"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/primeras_lecturas/A05/A05_analisis_E05_v1(1).docx",
+    "fuente_expediente": "analisis/primeras_lecturas/A05/A05_analisis_E05_v1(1).docx",
+    "sha256_fuente": "3d3ce60f805e763feb5b06292cea5838c1cd245cd368510170b78394932953e4",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "3d3ce60f805e763feb5b06292cea5838c1cd245cd368510170b78394932953e4"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/primeras_lecturas/A05/A05_cambios_revision_v1_1.json",
+    "fuente_expediente": "analisis/primeras_lecturas/A05/A05_cambios_revision_v1_1.json",
+    "sha256_fuente": "b1c3af53ad153d2e43fb1a179c8a330e02c8b0cb51bee909e7b8d0981f396a92",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "b1c3af53ad153d2e43fb1a179c8a330e02c8b0cb51bee909e7b8d0981f396a92"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/primeras_lecturas/A05/A05_registro_revision_coordinacion.json",
+    "fuente_expediente": "analisis/primeras_lecturas/A05/A05_registro_revision_coordinacion.json",
+    "sha256_fuente": "63475f6ce7b6587e14f630b109ee26c08be1ed95b9692f184ddcbb21ffbdf760",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "63475f6ce7b6587e14f630b109ee26c08be1ed95b9692f184ddcbb21ffbdf760"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/primeras_lecturas/A05/A05_respuesta_extraida_con_tablas.md",
+    "fuente_expediente": "analisis/primeras_lecturas/A05/A05_respuesta_extraida_con_tablas.md",
+    "sha256_fuente": "8a6bb70d1fc32d28a63a00a58f10600f23cdc7986298bf1cfef108c639bcc2d2",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "8a6bb70d1fc32d28a63a00a58f10600f23cdc7986298bf1cfef108c639bcc2d2"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/primeras_lecturas/A05/A05_respuesta_revisada_v1_1.md",
+    "fuente_expediente": "analisis/primeras_lecturas/A05/A05_respuesta_revisada_v1_1.md",
+    "sha256_fuente": "c944b8a62dcc2ec43f5f7d7611626e1789cf4facd8f5cbada5b337894e74be30",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "c944b8a62dcc2ec43f5f7d7611626e1789cf4facd8f5cbada5b337894e74be30"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/primeras_lecturas/A05/A05_resultado_extraido_v1.json",
+    "fuente_expediente": "analisis/primeras_lecturas/A05/A05_resultado_extraido_v1.json",
+    "sha256_fuente": "03f1369f79593e7af72cf274a3af871fb2dc351504921357bceaf58d3e25a0bd",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "03f1369f79593e7af72cf274a3af871fb2dc351504921357bceaf58d3e25a0bd"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/primeras_lecturas/A05/A05_validacion_estructural_v1.json",
+    "fuente_expediente": "analisis/primeras_lecturas/A05/A05_validacion_estructural_v1.json",
+    "sha256_fuente": "f96cd35acb3b8f89d4a30af90604595c38cad854e4b8e54aec3c708f5f73d7e9",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "f96cd35acb3b8f89d4a30af90604595c38cad854e4b8e54aec3c708f5f73d7e9"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/primeras_lecturas/A05/LEEME.md",
+    "fuente_expediente": "analisis/primeras_lecturas/A05/LEEME.md",
+    "sha256_fuente": "be05735119f68b6711dfe2b0b7e40fb9908b4e1f03650ce4bab08dda3b754035",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "be05735119f68b6711dfe2b0b7e40fb9908b4e1f03650ce4bab08dda3b754035"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/consolidacion/C01/C01_consolidacion_v1(1).json",
+    "fuente_expediente": "analisis/consolidacion/C01/C01_consolidacion_v1(1).json",
+    "sha256_fuente": "22a9b94fb13784144bb186ba945ec792681adc8af0defd6ccd66208ba8d63f08",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "22a9b94fb13784144bb186ba945ec792681adc8af0defd6ccd66208ba8d63f08"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/consolidacion/C01/C01_consolidacion_v1.docx",
+    "fuente_expediente": "analisis/consolidacion/C01/C01_consolidacion_v1.docx",
+    "sha256_fuente": "aa3b7de051763d7d25655760568b02d307cd088fac5d80f055bd73ea71161e40",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "aa3b7de051763d7d25655760568b02d307cd088fac5d80f055bd73ea71161e40"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/consolidacion/C01/C01_control_inventario(1).json",
+    "fuente_expediente": "analisis/consolidacion/C01/C01_control_inventario(1).json",
+    "sha256_fuente": "6688e1aa8a2d721c3bcabe7cce4f855d9d193ef2a589b4cb90c3820b27c8e579",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "6688e1aa8a2d721c3bcabe7cce4f855d9d193ef2a589b4cb90c3820b27c8e579"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/consolidacion/C01/C01_control_validacion(1).json",
+    "fuente_expediente": "analisis/consolidacion/C01/C01_control_validacion(1).json",
+    "sha256_fuente": "530b6e459eaeb40ce22eda62261458b8714249c30b6a3a66987519881667c04b",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "530b6e459eaeb40ce22eda62261458b8714249c30b6a3a66987519881667c04b"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/consolidacion/C01/C01_correspondencias_v1.json",
+    "fuente_expediente": "analisis/consolidacion/C01/C01_correspondencias_v1.json",
+    "sha256_fuente": "035ac5b9d9f604cb37ad49b22602d04896caa7adc298558670151263d088f09a",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "035ac5b9d9f604cb37ad49b22602d04896caa7adc298558670151263d088f09a"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/consolidacion/C01/C01_explicacion_v1(1).md",
+    "fuente_expediente": "analisis/consolidacion/C01/C01_explicacion_v1(1).md",
+    "sha256_fuente": "f59e901b897b5e32a1ccea184c66cdcb652c6abbba1f0193aadea592e952bbf5",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "f59e901b897b5e32a1ccea184c66cdcb652c6abbba1f0193aadea592e952bbf5"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/consolidacion/C01/C01_libro_para_piloto_v1_0.json",
+    "fuente_expediente": "analisis/consolidacion/C01/C01_libro_para_piloto_v1_0.json",
+    "sha256_fuente": "62d7de42ea8896a21f6179ef61f2b3f3883b4dcd037c5a01bc4805d32686fd38",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "62d7de42ea8896a21f6179ef61f2b3f3883b4dcd037c5a01bc4805d32686fd38"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/consolidacion/C01/C01_registro_revision_coordinacion.json",
+    "fuente_expediente": "analisis/consolidacion/C01/C01_registro_revision_coordinacion.json",
+    "sha256_fuente": "63f33858136c3da21886aeb4a9cc0d291a598b021858a5fd9be4b741f1b0b446",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "63f33858136c3da21886aeb4a9cc0d291a598b021858a5fd9be4b741f1b0b446"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/consolidacion/C01/C01_validacion_repetida_coordinacion.json",
+    "fuente_expediente": "analisis/consolidacion/C01/C01_validacion_repetida_coordinacion.json",
+    "sha256_fuente": "530b6e459eaeb40ce22eda62261458b8714249c30b6a3a66987519881667c04b",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "530b6e459eaeb40ce22eda62261458b8714249c30b6a3a66987519881667c04b"
+  },
+  {
+    "ruta": "registro/salidas_iniciales/consolidacion/C01/LEEME.md",
+    "fuente_expediente": "analisis/consolidacion/C01/LEEME.md",
+    "sha256_fuente": "2c70d3a03e0106d1c972ae398f28fc100f0a55cd6e9ddf6e92f8d8522edbd299",
+    "tratamiento": "COPIA_IDENTICA",
+    "sha256_base": "2c70d3a03e0106d1c972ae398f28fc100f0a55cd6e9ddf6e92f8d8522edbd299"
+  },
+  {
+    "ruta": "81_revision_N01.md",
+    "fuente_expediente": "81_revision_N01.md",
+    "sha256_fuente": "fc0ce366b464cf38fff8f1ef46ca4ccd27463f245bc8abd0f1f221c9d0362cc2",
+    "tratamiento": "ADAPTACION_DE_RUTAS_EN_TEXTO_HUMANO_SIN_CAMBIAR_CITAS",
+    "sha256_base": "ea55cef5ba5aa9aef37f418433b5d597de77c73019eeb129812d67e15dbf6eca"
+  },
+  {
+    "ruta": "87_revision_HU01.md",
+    "fuente_expediente": "87_revision_HU01.md",
+    "sha256_fuente": "b239134811867afc367d4899121d965a0fd0fbb126c4e973711f07fa83fdd6a8",
+    "tratamiento": "ADAPTACION_DE_RUTAS_EN_TEXTO_HUMANO_SIN_CAMBIAR_CITAS",
+    "sha256_base": "62e6236e9653724aede8cd28e34ed4007120887ea40629af9f17b833b1bf480c"
+  },
+  {
+    "ruta": "92_revision_T01.md",
+    "fuente_expediente": "92_revision_T01.md",
+    "sha256_fuente": "f2de1729724040f5df5bf539d0fe0650d97fd44e022ce2f9e7f8be1d9352764b",
+    "tratamiento": "ADAPTACION_DE_RUTAS_EN_TEXTO_HUMANO_SIN_CAMBIAR_CITAS",
+    "sha256_base": "5515e541a80ee6a91fcfff87e8994973c2fe00589b8aee34c16844c476d4bebd"
+  }
+]

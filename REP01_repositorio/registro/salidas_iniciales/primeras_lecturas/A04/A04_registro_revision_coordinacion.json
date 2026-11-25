@@ -1,0 +1,98 @@
+{
+  "analisis": "A04",
+  "entrevista": "E04",
+  "fecha_revision": "2026-11-24",
+  "tipo_revision": "ASISTIDA_POR_LLM_MAS_VALIDACION_MECANICA",
+  "original_analisis": "A04_analisis_E04_v1.docx",
+  "library_file_id_original": "libfile_fde3_f-765f8095a7d081919335f0cb66e4f9e0_6c45573f28988191995a53873b532314",
+  "sha256_analisis_docx": "4a85674947d38a01ba151fbaeeabc191d0ad8167c087e59fdfa92ef0807960e3",
+  "sha256_transcripcion_docx_comprobado": "b68b9ebe2d7836fc99c3df86b718cde2a38137a8b179dccc6feaf5117f57cd20",
+  "json_extraido_sin_cambios": true,
+  "resultado_trabajo": "A04_resultado_revisado_v1_1.json",
+  "cambios_aplicados": 3,
+  "validacion": {
+    "recibida": "ESTRUCTURA_Y_CITAS_OK",
+    "revisada": "ESTRUCTURA_Y_CITAS_OK",
+    "citas_segmentos": 111,
+    "citas_ejemplos": 22,
+    "apariciones_citas_narrativa": 11,
+    "errores": [],
+    "advertencias": []
+  },
+  "estado": "PRIMERA_LECTURA_LOCAL_REVISADA_PARA_CONSOLIDACION_POSTERIOR",
+  "revision_humana_independiente": "PENDIENTE",
+  "notas": [
+    "Una referencia narrativa corregida y dos ejemplos ampliados desde el mismo párrafo.",
+    "Sin modificar códigos, segmentos, asignaciones, cobertura o transcripción."
+  ],
+  "citas_narrativa": [
+    {
+      "cita": "No hacemos arreglos de ropa.",
+      "parrafos_coincidentes": [
+        "E04-P009"
+      ]
+    },
+    {
+      "cita": "La reposición sí la tenía que decidir. Lo otro era una consulta que podía hacer en la misma vuelta.",
+      "parrafos_coincidentes": [
+        "E04-P020"
+      ]
+    },
+    {
+      "cita": "ver qué hace falta",
+      "parrafos_coincidentes": [
+        "E04-P107"
+      ]
+    },
+    {
+      "cita": "armar la vuelta",
+      "parrafos_coincidentes": [
+        "E04-P108",
+        "E04-P116"
+      ]
+    },
+    {
+      "cita": "escoger allá",
+      "parrafos_coincidentes": [
+        "E04-P109"
+      ]
+    },
+    {
+      "cita": "acomodarlo y empezar a usarlo",
+      "parrafos_coincidentes": [
+        "E04-P112"
+      ]
+    },
+    {
+      "cita": "dejarlo listo para vender",
+      "parrafos_coincidentes": [
+        "E04-P110"
+      ]
+    },
+    {
+      "cita": "Usarlo",
+      "parrafos_coincidentes": [
+        "E04-P112"
+      ]
+    },
+    {
+      "cita": "relevo",
+      "parrafos_coincidentes": [
+        "E04-P034",
+        "E04-P039"
+      ]
+    },
+    {
+      "cita": "No tengo todo junto en una sola hoja. Para esa reposición tampoco me hizo falta.",
+      "parrafos_coincidentes": [
+        "E04-P128"
+      ]
+    },
+    {
+      "cita": "Revisé la parte que me mostraron. Con eso y la referencia me alcanzó para esa compra.",
+      "parrafos_coincidentes": [
+        "E04-P080"
+      ]
+    }
+  ]
+}

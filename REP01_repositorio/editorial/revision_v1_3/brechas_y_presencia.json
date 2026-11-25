@@ -1,0 +1,166 @@
+{
+  "version": "1.3",
+  "alcance": "Contraste de presencia y límites materiales, sin recalificar automáticamente los 175 requisitos compuestos.",
+  "hallazgos": [
+    {
+      "aspecto": "Historias explícitas",
+      "requisitos": "R065/R067",
+      "estado_1_2": "Sí: dos formulaciones completas y 21 en soporte.",
+      "tratamiento_1_3": "CONSERVADO",
+      "destino": "Sección 5",
+      "limite": "No están las 21 fichas extensas dentro del cuerpo; no es necesario duplicarlas."
+    },
+    {
+      "aspecto": "Cadena de trazabilidad",
+      "requisitos": "R005/R040/R071",
+      "estado_1_2": "Sí: una cadena detallada en el cuerpo.",
+      "tratamiento_1_3": "CONSERVADO",
+      "destino": "Sección 5",
+      "limite": "La comprobación asistida no acredita validación humana de toda interpretación."
+    },
+    {
+      "aspecto": "Esquema integrador",
+      "requisitos": "Figura 1 de especificaciones; R005/R014",
+      "estado_1_2": "Ausente del cuerpo; arquitectura de producto no era equivalente.",
+      "tratamiento_1_3": "INCORPORADO",
+      "destino": "Figura 1, sección 2",
+      "limite": "La validación de productos se marca futura; no se representa como realizada."
+    },
+    {
+      "aspecto": "Mapa gráfico de actores",
+      "requisitos": "R047/R048/R050",
+      "estado_1_2": "Análisis y tabla en cuerpo; redes gráficas sólo en soportes.",
+      "tratamiento_1_3": "INCORPORADO_SUBRED",
+      "destino": "Figura 3, sección 4",
+      "limite": "Se muestra la subred E01; redes completas y actores documentales siguen en soportes, sin fingir una cadena entre cinco casos."
+    },
+    {
+      "aspecto": "Mapa de procesos",
+      "requisitos": "R053/R054/R056/R143",
+      "estado_1_2": "Un diagrama E01, tabla de cinco procesos y contraste de tres momentos.",
+      "tratamiento_1_3": "CONSERVADO",
+      "destino": "Figura 2, sección 3",
+      "limite": "Cinco mapas completos y cuatro modelos documentales permanecen en soporte."
+    },
+    {
+      "aspecto": "Explicación metodológica JANUS",
+      "requisitos": "R029/R038/R129",
+      "estado_1_2": "Declarado, pero explicado principalmente como alcance y límite.",
+      "tratamiento_1_3": "AMPLIADO",
+      "destino": "Sección 2 y cierre de sección 9",
+      "limite": "No se afirma aplicación integral ni controles humanos no realizados."
+    },
+    {
+      "aspecto": "Principios FAIR",
+      "requisitos": "R123/R124/R126",
+      "estado_1_2": "Mencionados con límites; aplicación por dimensión principalmente en soporte.",
+      "tratamiento_1_3": "EXPLICITADO_POR_DIMENSION",
+      "destino": "Sección 9",
+      "limite": "No hay conformidad completa, PID o acuerdos de derechos por nombrar los principios."
+    },
+    {
+      "aspecto": "Representación local orientada a FDO",
+      "requisitos": "R079/R128/R130",
+      "estado_1_2": "76 objetos en soporte; sigla FDO ausente del PDF.",
+      "tratamiento_1_3": "EXPLICITADO_CON_EJEMPLO",
+      "destino": "Sección 5, HU01-OD037",
+      "limite": "No se crea un FDO plenamente registrado; identidad persistente, tipo y perfil externos siguen pendientes."
+    },
+    {
+      "aspecto": "Procesos institucionales aplicables",
+      "requisitos": "R053/R137/R143",
+      "estado_1_2": "Sin fuente formal directamente atribuible a los cinco episodios.",
+      "tratamiento_1_3": "PENDIENTE_REAL",
+      "destino": "Secciones 3 y 6; D01",
+      "limite": "No hay divergencias institucionales demostradas; explicar diferencias de ámbito no equivale a documentar incumplimientos."
+    },
+    {
+      "aspecto": "Posición frente a homologación",
+      "requisitos": "R144/R147",
+      "estado_1_2": "NO_RECABADA para los 46 actores; hipótesis de incentivos separadas.",
+      "tratamiento_1_3": "PENDIENTE_REAL",
+      "destino": "Sección 4; ACT01",
+      "limite": "No puede cerrarse mediante redacción ni inferir apoyo por preferir notas claras."
+    },
+    {
+      "aspecto": "Revisión humana independiente",
+      "requisitos": "R034/R038",
+      "estado_1_2": "Pendiente, con revisión asistida conservada.",
+      "tratamiento_1_3": "PENDIENTE_REAL",
+      "destino": "Método y declaración",
+      "limite": "No se atribuyen dos revisores humanos a esta actividad."
+    },
+    {
+      "aspecto": "Concordancia y saturación",
+      "requisitos": "R039/R046",
+      "estado_1_2": "No medidas.",
+      "tratamiento_1_3": "NO_REALIZADO_DECLARADO",
+      "destino": "Método y declaración",
+      "limite": "Recuentos de fragmentos no son medidas de acuerdo; no se inventa un índice."
+    },
+    {
+      "aspecto": "Privacidad antes de codificar",
+      "requisitos": "R023/R028",
+      "estado_1_2": "Escaneo técnico posterior documentado.",
+      "tratamiento_1_3": "LIMITE_HISTORICO",
+      "destino": "Soportes metodológicos",
+      "limite": "Una comprobación actual no prueba haber aplicado una puerta histórica de JANUS antes del análisis."
+    },
+    {
+      "aspecto": "Registros completos de IA",
+      "requisitos": "R025/R026/R041",
+      "estado_1_2": "Se conservan prompts y salidas disponibles, sin exportación completa o parámetros exactos.",
+      "tratamiento_1_3": "LIMITE_DOCUMENTAL",
+      "destino": "Declaración y registro",
+      "limite": "No se reconstruyen metadatos inexistentes ni se cambia el origen de los registros."
+    },
+    {
+      "aspecto": "Empaquetado semántico",
+      "requisitos": "R129",
+      "estado_1_2": "RO-Crate, PROV-O, DataCite y nanopublicaciones no implementados.",
+      "tratamiento_1_3": "PENDIENTE_IMPLEMENTACION",
+      "destino": "Sección 9; HU01",
+      "limite": "El ZIP propio y relaciones locales no equivalen a esa pila tecnológica."
+    },
+    {
+      "aspecto": "Pruebas de productos",
+      "requisitos": "R060/R068/R161/R162/R164",
+      "estado_1_2": "Protocolos y puertas definidos, sin ejecución con participantes.",
+      "tratamiento_1_3": "PROPUESTO_NO_EJECUTADO",
+      "destino": "Secciones 8 y 9",
+      "limite": "No hay resultado de utilidad, ahorro, línea de base o aceptación comprobados."
+    },
+    {
+      "aspecto": "Análisis espacial y cuatro lentes",
+      "requisitos": "R083–R122/R163",
+      "estado_1_2": "EX01 y fichas de métodos como propuestas.",
+      "tratamiento_1_3": "FASE_POSTERIOR",
+      "destino": "Sección 7 y T01",
+      "limite": "No se adquirieron datos ni ejecutaron cruces, escaneos, ajustes, TDA o agentes."
+    },
+    {
+      "aspecto": "Ejemplo exacto Capybara de clase",
+      "requisitos": "R154/R157",
+      "estado_1_2": "Se incorporó un antecedente complementario accesible.",
+      "tratamiento_1_3": "PARCIAL_CON_LIMITE",
+      "destino": "Sección 8 y referencias",
+      "limite": "No se afirma recuperar la captura o corrida exacta de clase."
+    },
+    {
+      "aspecto": "Audio fechas guion y consentimiento",
+      "requisitos": "R141/R142/R151/R153",
+      "estado_1_2": "Adaptación declarada según excepción comunicada.",
+      "tratamiento_1_3": "ADAPTACION",
+      "destino": "Sección 1 y anexo",
+      "limite": "No se crean audios, fechas, firmas ni validación de guion no acreditados."
+    },
+    {
+      "aspecto": "Extensión y rúbrica",
+      "requisitos": "R145/R148/R173",
+      "estado_1_2": "La auditoría no recibió rúbrica y contó portada/referencias.",
+      "tratamiento_1_3": "CONTEXTO_CORREGIDO",
+      "destino": "Control de páginas y fuente de rúbrica",
+      "limite": "El máximo aplicable aquí es diez páginas de cuerpo; no se garantiza calificación."
+    }
+  ]
+}

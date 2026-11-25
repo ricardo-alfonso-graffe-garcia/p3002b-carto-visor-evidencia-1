@@ -1,0 +1,50 @@
+{
+  "version": "1.2",
+  "naturaleza": "Registro editorial retrospectivo; no nueva evidencia de campo",
+  "registros": [
+    {
+      "id": "REV12-DEC001",
+      "tipo": "DECISION_USUARIO",
+      "contenido": "Conservar y jerarquizar los tres candidatos; aplicar las mejoras de síntesis, fichas, metadatos, operaciones y decisiones de avance.",
+      "origen": "Respuesta del usuario a la consulta de alcance en esta conversación."
+    },
+    {
+      "id": "REV12-DEC002",
+      "tipo": "DECISION_USUARIO",
+      "contenido": "Incluir un protocolo espacial futuro breve, propuesto y sin ejecutar.",
+      "origen": "Respuesta del usuario a la consulta de alcance en esta conversación."
+    },
+    {
+      "id": "REV12-EX01",
+      "tipo": "PROPUESTA_EDITORIAL",
+      "contenido": "Protocolo de vegetación y separación respecto de equipamientos culturales; no necesidad atribuida a entrevistados.",
+      "ruta": "editorial/revision_v1_2/protocolo_espacial_futuro.md",
+      "estado": "PROPUESTO_NO_EJECUTADO"
+    },
+    {
+      "id": "REV12-PLAN001",
+      "tipo": "PROPUESTA_EDITORIAL",
+      "contenido": "Puertas de revisión, fuente/autoridad, comparación y continuidad con funciones propuestas.",
+      "ruta": "editorial/revision_v1_2/portafolio_y_validacion.md",
+      "estado": "PROPUESTO_NO_EJECUTADO"
+    },
+    {
+      "id": "REV12-F001",
+      "tipo": "FUENTE_COMPLEMENTARIA",
+      "autor": "Capybara Center for Risk Analysis",
+      "titulo": "Flood Exposure Situation Report Southern Mexico Veracruz Oaxaca Chiapas",
+      "fecha_publicacion": "2026-07-08",
+      "url": "https://capybaracenter.blogspot.com/2026/07/flood-exposure-situation-report.html",
+      "fecha_consulta": "2026-11-25",
+      "estado": "ABIERTA_LEIDA_PARA_ALCANCE_DECLARADO",
+      "localizador": "Procedencia, líneas 36–43; divergencia, 81–89; uso y supuestos, 114–129",
+      "alcance": "Configuración, procedencia, divergencia y distinción de concordancia y habilidad predictiva. No validación de sus cifras ni de fuentes meteorológicas enlazadas.",
+      "limite": "Antecedente complementario distinto del ejemplo exacto de las capturas de clase."
+    },
+    {
+      "id": "REV12-MET001",
+      "tipo": "INTERPRETACION_RETROSPECTIVA",
+      "contenido": "Estrategia híbrida: episodios y códigos inductivos con dimensiones de atribución, modalidad y elicitación establecidas en el análisis conservado. No afirma un nuevo procedimiento aplicado al corpus."
+    }
+  ]
+}

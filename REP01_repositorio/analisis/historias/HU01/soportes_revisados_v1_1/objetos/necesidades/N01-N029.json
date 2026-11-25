@@ -1,0 +1,271 @@
+{
+  "id": "N01-N029",
+  "titulo": "Referencia recordable para proponer dónde conversar",
+  "enunciado": "La persona que propone la salida con su amistad necesita conocer qué se observó en un lugar, cuándo y por quién, cómo encontrarlo y por qué se guardaría como opción para conversar, para proponer o descartar hacia dónde caminar en otra ocasión, comprobando el estado al llegar, en el contexto de organización personal de una tarde para mirar libros y convivir.",
+  "actores": [
+    "ACT01-A024"
+  ],
+  "entrevistas": [
+    "E05"
+  ],
+  "contexto": "Desde terminar el libro anterior y querer mirar otro, seguido del mensaje que convierte idea en plan, hasta despedirse después de tomar algo.",
+  "decision": "Proponer o descartar hacia dónde caminar en otra ocasión, comprobando el estado al llegar",
+  "objeto_informacion": "qué se observó en un lugar, cuándo y por quién, cómo encontrarlo y por qué se guardaría como opción para conversar",
+  "tipo": "DESEO_IDEAL",
+  "estado_actual": "NO_APLICA_AL_IDEAL",
+  "informacion_actual": "Esta salida se resolvió mirando y preguntando. No se documenta una nota existente ni el motivo concreto de una opción guardada.",
+  "faltante_o_deseada": "Desea notas breves propias o ajenas con observaciones de escucha, mesas y momento; primero entender por qué guardó el lugar. Una lista propia bastaría; mapa si no lo ubica.",
+  "condiciones_y_limites": "Ideal para otras ocasiones elicitado; no garantiza mesa hoy, ambiente permanente o cómo se sentirá. No llenaría ficha cada visita ni revisaría todos los libros antes.",
+  "soportes_mencionados": [
+    "Nota corta imaginada",
+    "Lista de notas propias",
+    "Nombre y referencia de llegada",
+    "Mapa solo si no ubica"
+  ],
+  "conservar": [
+    "Observación al llegar",
+    "Decidir ganas con amistad",
+    "No registrar cada visita",
+    "Descubrimiento en librería"
+  ],
+  "evidencias": [
+    "N01-V0328",
+    "N01-V0329",
+    "N01-V0330",
+    "N01-V0324",
+    "N01-V0331",
+    "N01-V0332",
+    "N01-V0333",
+    "N01-V0334",
+    "N01-V0335",
+    "N01-V0336",
+    "N01-V0337",
+    "N01-V0338",
+    "N01-V0339",
+    "N01-V0340",
+    "N01-V0341",
+    "N01-V0342",
+    "N01-V0343",
+    "N01-V0325"
+  ],
+  "evidencia_que_limita": [
+    "N01-V0307",
+    "N01-V0326",
+    "N01-V0315",
+    "N01-V0327",
+    "N01-V0308"
+  ],
+  "razon_sin_contraevidencia": null,
+  "contexto_elicitacion": "P136 invita a ideal para otra ocasión; P142-P143 aclaran que no falló esa tarde. P144 pide organización; P153 ofrece lista, mapa u otra forma: P154 no es preferencia totalmente espontánea. P158 pide prioridad y P161 señal de utilidad.",
+  "codigos_comunes": [
+    "C040",
+    "C062",
+    "C017",
+    "C009",
+    "C060",
+    "C030",
+    "C031"
+  ],
+  "hallazgos_s01": [
+    "S01-H012",
+    "S01-H016",
+    "S01-H017",
+    "S01-H018",
+    "S01-H019"
+  ],
+  "componentes_p01": [],
+  "preferencias_act01": [
+    "ACT01-PR023",
+    "ACT01-PR024"
+  ],
+  "variantes_por_caso": [],
+  "vinculo_territorial": {
+    "tipo": "REFERENCIA_DE_LUGAR",
+    "razon": "La referencia ayuda a escoger una opción próxima y reconocerla; la forma cartográfica depende de no ubicarla.",
+    "evidencias": [
+      "N01-V0328",
+      "N01-V0329"
+    ],
+    "limites": "La pertinencia del lugar no demuestra necesidad de coordenadas o de un mapa. Salida personal concreta; amistad y personal son terceros relatados. No se certifica externamente horario histórico, mesa futura o preferencias estables."
+  },
+  "vinculos_sectoriales": [
+    {
+      "sector": "CIUDADANIA",
+      "actividad": "Organización personal de una tarde para mirar libros y convivir",
+      "iniciativa": null,
+      "estatus_iniciativa": "ACTIVIDAD_RELATADA_SIN_NOMBRE_FORMAL",
+      "nexo": "USO_PRIVADO",
+      "razon": "Se trata de organizar ocio y convivencia propios; no hay servicio público o representación de ciudadanía atribuidos.",
+      "evidencias": [
+        "N01-V0348",
+        "N01-V0328",
+        "N01-V0329"
+      ],
+      "limites": "No se identificó programa público que origine esta necesidad. Salida personal concreta; amistad y personal son terceros relatados. No se certifica externamente horario histórico, mesa futura o preferencias estables."
+    }
+  ],
+  "verificacion": [
+    {
+      "id": "N01-K029",
+      "observable": "Puede proponer o descartar con una razón recuperada y al llegar encontrar condiciones parecidas a lo entendido, admitiendo diferencia y posibilidad de seguir de largo.",
+      "metodo": "En una revisión futura, contrastar observaciones fechadas y su motivo con la propuesta y condiciones presentes, distinguiendo fuente conocida y pista ajena. No se produjo una nueva nota testimonial.",
+      "origen": "DECLARADO",
+      "estado": "PROPUESTA_NO_EJECUTADA",
+      "evidencias": [
+        "N01-V0328",
+        "N01-V0329",
+        "N01-V0330",
+        "N01-V0324",
+        "N01-V0331",
+        "N01-V0332",
+        "N01-V0333",
+        "N01-V0334",
+        "N01-V0335",
+        "N01-V0336",
+        "N01-V0337",
+        "N01-V0338",
+        "N01-V0339",
+        "N01-V0340",
+        "N01-V0341",
+        "N01-V0342",
+        "N01-V0343",
+        "N01-V0325"
+      ],
+      "limites": "Comprobación futura; no se ejecutó ni acredita aceptación humana. No se fijan umbrales numéricos. Ideal para otras ocasiones elicitado; no garantiza mesa hoy, ambiente permanente o cómo se sentirá. No llenaría ficha cada visita ni revisaría todos los libros antes.",
+      "desglose_origen": {
+        "observable": "DECLARADO",
+        "operacionalizacion_metodo": "PROPUESTA_ANALITICA",
+        "aceptacion": "NO_RECABADA"
+      }
+    }
+  ],
+  "prioridad": {
+    "ambito": "E05",
+    "nivel": "ALTA",
+    "origen": "ANALISIS_CONDICIONAL",
+    "criterios": [
+      "N01-CP001",
+      "N01-CP002",
+      "N01-CP003",
+      "N01-CP004"
+    ],
+    "razon": "La persona prioriza indicios de poder escucharse dentro de ese ideal, con mesa actual a comprobar. El análisis la conserva como exploración opcional; no antecede obligatoriamente cada salida.",
+    "comparables": [],
+    "limites": "Orden parcial dentro de esta actividad. No compara importancia urbana ni factibilidad técnica; evidencia más sólida no equivale a más impacto. No hay otra necesidad con la misma subdecisión y modalidad para establecer una comparación homogénea; el nivel expresa pertinencia condicional, sin ranking total."
+  },
+  "importancia_expresada": "En P159 prima poder escucharse, aunque no se pueda asegurar para cualquier momento. P160 separa mesa observada ayer de disponibilidad actual; no es prioridad de la ciudad.",
+  "pertinencia_diseno_posterior": "PENDIENTE: revisar con usuarios y encargo; la legitimidad de la necesidad no prescribe un soporte ni su incorporación a un visor.",
+  "factibilidad": "NO_DETERMINADA",
+  "incognitas": [
+    "No se conoce fuente concreta, nota existente o esfuerzo real de mantenimiento.",
+    "No se puede asegurar mesa o ambiente presente desde una visita anterior."
+  ],
+  "enlaces_codigos_asignados": [
+    {
+      "codigo": "C040",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R05-S107",
+        "R05-S108",
+        "R05-S110",
+        "R05-S111",
+        "R05-S114",
+        "R05-S118",
+        "R05-S129",
+        "R05-S131"
+      ],
+      "evidencias": [
+        "N01-V0328",
+        "N01-V0329",
+        "N01-V0330",
+        "N01-V0324",
+        "N01-V0331",
+        "N01-V0333",
+        "N01-V0340",
+        "N01-V0341"
+      ]
+    },
+    {
+      "codigo": "C062",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R05-S126"
+      ],
+      "evidencias": [
+        "N01-V0337"
+      ]
+    },
+    {
+      "codigo": "C017",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R05-S112",
+        "R05-S115",
+        "R05-S116",
+        "R05-S122",
+        "R05-S125"
+      ],
+      "evidencias": [
+        "N01-V0331",
+        "N01-V0332",
+        "N01-V0335",
+        "N01-V0337"
+      ]
+    },
+    {
+      "codigo": "C009",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R05-S114",
+        "R05-S119",
+        "R05-S127"
+      ],
+      "evidencias": [
+        "N01-V0331",
+        "N01-V0333",
+        "N01-V0338"
+      ]
+    },
+    {
+      "codigo": "C060",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R05-S120",
+        "R05-S124",
+        "R05-S128",
+        "R05-S132"
+      ],
+      "evidencias": [
+        "N01-V0334",
+        "N01-V0336",
+        "N01-V0339",
+        "N01-V0341"
+      ]
+    },
+    {
+      "codigo": "C030",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R05-S133",
+        "R05-S134",
+        "R05-S136"
+      ],
+      "evidencias": [
+        "N01-V0342",
+        "N01-V0343",
+        "N01-V0325"
+      ]
+    },
+    {
+      "codigo": "C031",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R05-S137"
+      ],
+      "evidencias": [
+        "N01-V0325"
+      ]
+    }
+  ],
+  "codigos_contextuales": []
+}

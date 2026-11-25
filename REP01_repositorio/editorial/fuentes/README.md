@@ -1,0 +1,2 @@
+# Fuentes de la integración
+Copias del registro de entradas preferidas, catálogo de la base, instrucciones, matriz completa de 208 requisitos y transcripción operativa de Canvas/rúbrica/feedback. La nota JANUS conserva el alcance de la consulta previa; las reconsultas REP01 se registran aparte. No se han traído archivos de otras conversaciones ni prompts de desarrollo de entrevistas. El catálogo describe la base recibida y no constituye inventario final.

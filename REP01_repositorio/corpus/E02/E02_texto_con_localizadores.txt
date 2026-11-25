@@ -1,0 +1,357 @@
+P001 Transcripción E02
+
+P002 Perfil funcional: Persona que realiza investigación universitaria sobre preguntas urbanas y relaciones entre lugares en la Ciudad de México.
+
+P004 Entrevistador: Gracias por conversar conmigo. Participo en un trabajo académico que busca comprender cómo se realizan actividades y se toman decisiones relacionadas con información sobre lugares. Me interesa conocer tu experiencia: qué haces, en qué te apoyas y cómo decides qué puedes decir a partir de tu trabajo. 
+
+P005 Tu participación es voluntaria. Puedes dejar alguna pregunta sin responder, pedir que volvamos sobre algo o terminar la conversación cuando lo prefieras. También, si me lo permites, grabaré esta conversación para poder llevar a cabo un reporte correspondiente al propósito que te decía en un inicio. Todo esto luego tendrá un uso plenamente académico. ¿Te parece bien participar en esos términos?
+
+P006 Participante: Sí, me parece bien. Sin ningún tipo de problema. Más bien, me interesó mucho cuando me planteaste esta entrevista, así que encantado de ayudar.
+
+P007 Entrevistador: Para empezar, cuéntame un poco de tu trabajo y de alguna pregunta reciente que nos ayude a entenderlo.
+
+P008 Participante: Hago investigación universitaria sobre la vida cotidiana en la ciudad. Me interesan las relaciones entre lugares que a veces estudiamos por separado: dónde vive alguien, dónde compra, dónde trabaja, dónde encuentra a otras personas. No siempre todos esos lugares aparecen en un mismo trabajo, pero procuro entender cómo se conectan desde las actividades de la gente.
+
+P009 Un ejercicio reciente fue sobre compras de alimentos. La pregunta inicial era bastante sencilla: cómo elegían algunas personas a qué lugar ir a comprar. Nos interesaba particularmente que no siempre iban al lugar más cercano a su vivienda.
+
+P010 Entrevistador: ¿De dónde salió esa pregunta?
+
+P011 Participante: De unas conversaciones exploratorias. Una persona decía que compraba “por su casa”, pero cuando nos describió el recorrido resultó que el lugar estaba bastante más lejos que otras opciones. Al principio pensé que quizá usaba esa expresión de manera muy amplia. Después explicó que pasaba por ahí cuando visitaba a una familiar. Para ella era parte de un trayecto conocido, aunque no estuviera cerca si uno medía desde la vivienda.
+
+P012 Eso me hizo detenerme. Yo estaba entendiendo la cercanía como una relación entre dos puntos, y ella estaba describiendo una secuencia de cosas que hacía. No quiere decir que la distancia no importara. Más bien, necesitaba saber qué distancia estaba tomando en cuenta y dentro de qué recorrido.
+
+P013 Entrevistador: ¿Ese fue el trabajo que desarrollaron después?
+
+P014 Participante: Sí, aunque lo acotamos bastante. No intentamos explicar cómo compra alimentos la gente de toda la ciudad. Trabajamos con unos pocos casos de personas que vivían en dos zonas distintas y que podían contarnos con detalle una salida de compras y otras salidas que recordaran. En algunos casos también pudimos acompañarlas.
+
+P015 El propósito era explorar cómo construían esas elecciones. Había razones de precio, de costumbre, de trato con los vendedores y de organización del día. Pero eso lo fuimos entendiendo después. Al empezar no sabíamos cuánto pesaba cada cosa ni si tenía sentido separarlas de ese modo.
+
+P016 Entrevistador: Si tomamos ese ejercicio como episodio, ¿dónde empieza para ti y dónde pondrías su final?
+
+P017 Participante: Lo empezaría cuando una colega y yo revisamos esas conversaciones iniciales y decidimos que había una pregunta que merecía seguimiento. Antes había interés general, pero todavía no un trabajo delimitado.
+
+P018 Y lo terminaría, para efectos de esta conversación, en una presentación que hicimos en un grupo de discusión de investigación. Ahí mostramos una lectura de los casos y recibimos comentarios. Después hice algunos ajustes al texto. No lo considero un tema cerrado, pero sí un recorrido que llegó a un resultado reconocible.
+
+P019 Entrevistador: Podemos seguir ese recorrido. Antes de entrar en los pasos, ¿quiénes participaron o influyeron en él?
+
+P020 Participante: Mi colega y yo, desde la formulación. Una colaboradora que participó en las conversaciones y en parte de los acompañamientos. Las personas que aceptaron contarnos sus compras y recorridos, desde luego. Y, más adelante, quienes leyeron y comentaron el trabajo en ese grupo.
+
+P021 También aparecían familiares, comerciantes y otras personas dentro de los relatos, pero no trabajamos directamente con todos ellos. Es importante distinguirlos: influyeron en las situaciones que nos contaron, aunque yo no pueda decir que conocí su perspectiva.
+
+P022 Entrevistador: Sí, son formas distintas de estar presentes. Te propongo un ejercicio verbal con quienes sí participaron en el trabajo: pensar en una imagen, un objeto o una comparación que para ti exprese su papel. Tú eliges la comparación y lo que significa. Podríamos empezar por tu colega.
+
+P023 Participante: A ella la representaría como una bisagra.
+
+P024 Entrevistador: ¿Qué de una bisagra describe lo que hizo?
+
+P025 Participante: Que permitía movernos entre dos maneras de mirar el asunto. Yo llevaba muy presente la relación entre los lugares y los trayectos. Ella preguntaba por la organización de la compra: qué se compraba ese día, qué podía esperar, qué se resolvía en otro sitio. Nos ayudó a no convertir cualquier decisión en una explicación sobre movilidad.
+
+P026 Pero tampoco era que ella se ocupara de una parte y yo de otra. La bisagra me sirve porque había movimiento entre ambas. Una observación sobre el recorrido cambiaba la manera de entender la compra, y una observación sobre la compra nos hacía revisar el recorrido.
+
+P027 Entrevistador: ¿Recuerdas alguna decisión en la que se vea ese movimiento?
+
+P028 Participante: Sí. Yo había propuesto comparar el tiempo que tardaban en llegar al lugar de compra. Ella preguntó: “¿Llegar desde dónde y para hacer qué?”. Parecía una precisión pequeña, pero nos obligó a revisar el inicio de cada salida. En un caso la persona salía de su vivienda; en otro, la compra ocurría después de una visita. Si poníamos esos tiempos juntos como si fueran equivalentes, hacíamos una comparación poco clara.
+
+P029 Entrevistador: ¿Y la colaboradora?
+
+P030 Participante: Una libreta con márgenes amplios. Suena raro, pero lo digo porque dejaba espacio para cosas que yo habría considerado laterales.
+
+P031 Entrevistador: ¿Como cuáles?
+
+P032 Participante: Una pausa para comer algo, una llamada que cambiaba el orden de la salida, que una persona decidiera comprar menos porque ya llevaba otra bolsa. Ella anotaba esas cosas y luego nos preguntaba si eran tan laterales como parecían.
+
+P033 No era solamente registrar más. También nos pedía explicar por qué conservábamos unas observaciones y apartábamos otras. Yo seguía siendo responsable de decisiones de análisis, pero ella podía cuestionar el criterio.
+
+P034 Entrevistador: Entonces tenía una intervención en cómo se interpretaba lo observado.
+
+P035 Participante: Sí. No con el mismo tiempo de participación que nosotras, porque estuvo en una parte del ejercicio, pero sí. No la describiría como alguien que simplemente nos entregaba notas.
+
+P036 Entrevistador: Me gustaría volver a esa libreta cuando hablemos del proceso. ¿Qué comparación elegirías para las personas que compartieron sus experiencias?
+
+P037 Participante: Unas llaves, quizá.
+
+P038 Entrevistador: ¿Qué abren esas llaves en tu experiencia?
+
+P039 Participante: Relaciones que yo no podía ver desde fuera. Podía saber que había un mercado, una vivienda y una calle que los conectaba. No podía saber que la persona elegía pasar por ahí porque después veía a su hermana, o que evitaba comprar ciertas cosas al principio porque no quería cargarlas todo el camino.
+
+P040 Aunque la comparación tiene un límite. No es que una persona te abra todo y entonces ya entiendas su vida. Te permite entrar en una parte de la experiencia que decide compartir. Y a veces algo sigue sin quedar claro.
+
+P041 Entrevistador: ¿Hubo algo que permaneciera así?
+
+P042 Participante: La razón de una preferencia, en uno de los casos. La persona decía que un lugar “le acomodaba más”. Yo traté de precisar si hablaba de horarios, de recorrido o de lo que encontraba ahí, y ella volvía a esa expresión. Nos dio ejemplos, pero no una razón única. Al final conservamos esa ambigüedad. No tenía sentido traducirla a una categoría muy precisa solo para que el análisis quedara ordenado.
+
+P043 Entrevistador: Bien. Volvamos al comienzo que elegiste: tú y tu colega revisan las conversaciones y deciden continuar. ¿Qué hicieron después?
+
+P044 Participante: Escribimos una pregunta de trabajo y una hoja breve con lo que queríamos explorar. No era todavía un guion muy elaborado. Queríamos reconstruir una salida concreta, saber qué se había comprado, qué otros lugares habían intervenido y cómo la persona explicaba sus decisiones.
+
+P045 Luego buscamos personas que quisieran conversar sobre eso. Las invitaciones se hicieron mediante contactos cercanos al equipo y personas que nos pusieron en contacto con otras. Eso facilitó el acercamiento, pero también limitó el tipo de experiencias al que llegamos. Nunca lo entendimos como una selección que representara a las dos zonas.
+
+P046 Hicimos primero una conversación para situar las compras en la vida cotidiana. Después, cuando era posible y la persona quería, acompañábamos una salida. No todas las experiencias tuvieron exactamente la misma secuencia.
+
+P047 Entrevistador: ¿Qué hacía que cambiara?
+
+P048 Participante: La disponibilidad, principalmente. Hubo una persona con la que conversamos antes y después de una compra que no acompañamos. En otro caso el acompañamiento ocurrió bastante pronto, y la conversación posterior nos ayudó a entender cosas que durante el recorrido no habíamos preguntado.
+
+P049 Tampoco queríamos convertir cada movimiento en una pregunta. La persona estaba comprando. Había momentos para conversar y momentos en que lo razonable era caminar o esperar.
+
+P050 Entrevistador: Cuéntame uno de esos recorridos con más detalle, desde donde tenga sentido para ti.
+
+P051 Participante: Hay uno que recuerdo bien porque cambió cómo organizamos el material. La persona había dicho que iba a comprar a un mercado que, desde su vivienda, no era la opción más próxima. Quedamos de encontrarnos antes de que saliera y nos explicó que primero pasaría a ver a una familiar. Después iríamos al mercado y luego regresaría a casa.
+
+P052 Yo llevaba una hoja para anotar el orden de los lugares, tiempos aproximados y algunas decisiones durante la compra. También una libreta para notas más abiertas. Al principio pensé que la visita era una actividad previa y que nuestro recorrido de interés empezaría después.
+
+P053 Sin embargo, mientras caminábamos explicó que había elegido ese día para comprar porque de todos modos quería hacer la visita. Y, ya en el mercado, dejó para el final las cosas más pesadas. Eso último no era sorprendente, pero junto con lo anterior mostraba que el recorrido no podía entenderse como una simple ida desde la vivienda al mercado.
+
+P054 Al volver revisamos con ella lo que habíamos entendido. No hicimos una reconstrucción minuto a minuto. Le contamos el orden que habíamos anotado y le preguntamos dónde habíamos interpretado mal. Ahí precisó que no todas sus compras eran así. A veces salía únicamente por unas pocas cosas y entonces sí elegía un lugar cercano.
+
+P055 Entrevistador: ¿La visita explica entonces que eligiera ese mercado?
+
+P056 Participante: Explica parte de esa salida. Yo tendría cuidado con decirlo de manera general. También conocía el mercado, encontraba productos que le gustaban y tenía una manera de recorrerlo. No sabemos qué habría hecho ese día si la visita se cancelaba. Podíamos preguntárselo, pero su respuesta habría sido sobre una situación imaginada.
+
+P057 Entrevistador: Entiendo. Lo observado permite explicar cómo se organizó esa salida; no alcanza para establecer una causa única de su preferencia.
+
+P058 Participante: Sí. Y esa distinción nos tomó trabajo. En los primeros apuntes aparecía algo como “elige mercado por visita familiar”. Era demasiado tajante. Lo cambiamos por una descripción de la relación entre ambas actividades y dejamos aparte lo que ella decía que acostumbraba hacer.
+
+P059 Entrevistador: ¿Qué pasaba con la información después de una salida así?
+
+P060 Participante: Tratábamos de revisar las notas poco después. Quien había estado en el recorrido escribía una reconstrucción más legible, separando lo que había visto, lo que la persona había dicho y las preguntas que le habían quedado.
+
+P061 Después lo discutíamos. A veces las notas de dos personas coincidían en la secuencia, pero no en qué les había llamado la atención. En ese caso no buscábamos una sola versión para borrar las demás. Veíamos si la diferencia afectaba algo que queríamos afirmar.
+
+P062 Teníamos también una hoja de cálculo sencilla para localizar los casos y comparar algunos aspectos generales. Pero el trabajo más importante seguía en los relatos y en los esquemas de los recorridos. La hoja nos ayudaba a volver al material; no contenía por sí sola la explicación.
+
+P063 Entrevistador: ¿Cómo se relacionaban las decisiones entre ustedes? Has mencionado que tú eras responsable del análisis y que las otras personas podían cuestionarlo.
+
+P064 Participante: Mi colega y yo acordábamos qué pregunta seguíamos y qué íbamos a presentar. La colaboradora discutía con nosotras lo que había observado y señalaba cuando una interpretación no le parecía apoyada en sus notas.
+
+P065 Las personas participantes decidían qué contar y si querían que las acompañáramos. Cuando volvíamos sobre una duda, podían ampliar, corregir o simplemente decir que no recordaban. Eso no las hacía responsables de aprobar nuestra interpretación académica completa. La responsabilidad de lo que escribíamos seguía siendo nuestra.
+
+P066 Y quienes comentaron el trabajo después no decidían por nosotras. Sus preguntas nos obligaban a argumentar mejor o a revisar algo, pero podíamos no estar de acuerdo.
+
+P067 Entrevistador: Nos faltaban esas personas en el ejercicio de las comparaciones. ¿Qué imagen les pondrías?
+
+P068 Participante: Una mesa de trabajo donde puedes extender algo y verlo desde otro lado. No diría un tribunal, porque no se trataba de conseguir un veredicto.
+
+P069 Entrevistador: ¿Qué pudieron ver desde ese otro lado?
+
+P070 Participante: Que estábamos usando “elección” con demasiada facilidad. Una persona del grupo preguntó qué alternativas conocían quienes habían participado y cuáles eran realmente posibles para ellas. Tenía razón en que no habíamos reconstruido todas las alternativas.
+
+P071 Eso no anulaba el ejercicio. Sí nos pedía distinguir entre describir un recorrido realizado y explicar por qué se eligió entre un conjunto de opciones. Habíamos avanzado mucho más en lo primero.
+
+P072 Entrevistador: ¿Y tú dentro de ese conjunto de actores? Si quisieras incluirte en la comparación.
+
+P073 Participante: Un lápiz con borrador. No porque todo se pueda borrar sin consecuencias, sino porque voy proponiendo relaciones y necesito poder corregirlas. En ese trabajo yo tendía a cerrar pronto algunas explicaciones. Verlo ahora me ayuda a reconocerlo, aunque no crea que siempre me pase de la misma forma.
+
+P074 Entrevistador: Volvamos a la decisión de comparar los recorridos. Cuando apareció la diferencia entre salir de la vivienda y comprar después de otra actividad, ¿qué necesitabas saber para decidir cómo analizarlos?
+
+P075 Participante: Necesitaba reconstruir qué integraba cada salida. No solo por qué calles había pasado la persona, sino qué actividades consideraba conectadas. También necesitaba saber si hablábamos de lo que había ocurrido ese día o de lo que decía hacer habitualmente.
+
+P076 Y necesitaba revisar qué estaba comparando yo. Si mi pregunta era cuánto se tardaba en llegar desde la vivienda, podía hacer una comparación muy limitada con ciertos casos. Si quería entender cómo se organizaba la compra dentro del día, cortar todo al llegar al mercado me dejaba fuera una parte decisiva.
+
+P077 Entrevistador: ¿En qué te apoyaste para resolverlo?
+
+P078 Participante: En las notas del acompañamiento, en la reconstrucción posterior con la persona y en las conversaciones anteriores. Hicimos un esquema sencillo de la secuencia: salir, visitar, comprar, volver. Al lado escribimos qué razones había expresado y en qué momento.
+
+P079 Después revisamos otros casos para ver si el problema aparecía también ahí. No todos tenían actividades encadenadas. En alguno la salida sí podía describirse razonablemente como ir a comprar y volver. Eso nos sirvió para no convertir el primer caso en una regla.
+
+P080 Entrevistador: ¿Qué te indicó que ya tenías información suficiente para tomar esa decisión?
+
+P081 Participante: Para decidir que no debía comparar todos los tiempos como si empezaran en el mismo punto, fue suficiente ver que estábamos mezclando recorridos distintos. No necesitaba conocer toda la semana de cada persona para corregir eso.
+
+P082 Para describir aquella salida, teníamos una secuencia que la persona reconocía, notas que concordaban en lo principal y una explicación de cómo se relacionaban las actividades. Con eso podía sostener una descripción acotada.
+
+P083 Otra cosa era afirmar que esa organización se repetía todas las semanas o que la visita determinaba el lugar de compra. Para eso no teníamos suficiente información. La suficiencia dependía de la afirmación, no era una propiedad de todo el material de una vez.
+
+P084 Entrevistador: Habías mencionado tiempos aproximados. ¿Qué papel tuvieron finalmente?
+
+P085 Participante: Nos ayudaron a entender el ritmo de la salida y algunos momentos de espera, pero no fueron la base de una clasificación de personas que tardaban más o menos. No habíamos observado todas las salidas en condiciones comparables ni necesitábamos fingir esa precisión.
+
+P086 Por ejemplo, una pausa podía parecer una demora si uno solo miraba el tiempo transcurrido. Pero si durante esa pausa la persona resolvía algo que quería hacer, llamarla demora ya era una interpretación nuestra. Nos interesó más reconstruir qué estaba ocurriendo ahí.
+
+P087 Entrevistador: Entonces el dato de tiempo perdió importancia.
+
+P088 Participante: No exactamente. Perdió una función que yo había imaginado al principio. Siguió importando que una persona tuviera que volver a cierta hora o que prefiriera hacer una compra breve. Lo que cambió fue la manera de usarlo.
+
+P089 Entrevistador: Gracias por la precisión. El tiempo seguía formando parte de la explicación, aunque no sirviera para ordenar todos los casos en una misma escala.
+
+P090 Participante: Eso sí.
+
+P091 Entrevistador: ¿Y los lugares? ¿Qué necesitabas conocer de ellos para interpretar esas secuencias?
+
+P092 Participante: Su posición relativa y qué se podía hacer en cada uno. Para ese ejercicio no bastaba con saber dónde estaba el mercado. Necesitábamos entender qué relación tenía con otros sitios dentro de la salida: si quedaba de paso según el recorrido de esa persona, si requería desviarse, si permitía resolver varias compras.
+
+P093 Dibujamos esquemas y revisamos un mapa de calles para ubicar lo que describían. Pero evitamos tomar el trazado más corto como si fuera el recorrido que la persona debía haber hecho. Había pasos que se entendían por familiaridad o por otra actividad.
+
+P094 También hubo cosas del entorno que podíamos observar y otras que solo conocíamos por el relato. Si alguien decía que prefería una calle porque se sentía más cómoda, podíamos describir esa preferencia. No podíamos convertirla, sin más, en una evaluación general de esa calle.
+
+P095 Entrevistador: ¿Se te ocurre un caso en que el mapa sí te haya aclarado algo?
+
+P096 Participante: Sí. Dos lugares que yo había separado al leer las notas quedaban conectados por el recorrido que la persona describía. En el texto aparecían como una visita y una compra, y yo los había pensado como destinos independientes. Verlos situados me ayudó a entender por qué ella los narraba juntos.
+
+P097 Pero la relación no salió solo del mapa. Sin su explicación yo habría visto dos puntos relativamente próximos, nada más.
+
+P098 Entrevistador: Quisiera retomar el orden del proceso. Hasta ahora entiendo que formularon la pregunta, hicieron conversaciones, acompañaron algunas salidas, revisaron las notas y compararon casos. Después vino la presentación.
+
+P099 Participante: Sí, pero entre las primeras conversaciones y los acompañamientos ya habíamos empezado a revisar la pregunta. Y la comparación tampoco esperó a que terminara todo. Después de una salida ajustábamos qué queríamos preguntar en la siguiente conversación.
+
+P100 No cambiábamos el tema cada vez. Más bien, aparecían distinciones que necesitábamos cuidar. Lo de una compra grande frente a una compra para resolver algo inmediato, por ejemplo, empezó a importar mientras avanzábamos.
+
+P101 Entrevistador: ¿Cómo decidían incorporar una distinción así sin perder el hilo del ejercicio?
+
+P102 Participante: Nos preguntábamos si cambiaba la interpretación de lo que ya teníamos o si solo era algo interesante. Si cambiaba la interpretación, volvíamos al material anterior para ver qué podíamos recuperar.
+
+P103 No siempre podíamos completarlo. Si no sabíamos el alcance de una compra en un caso y no teníamos ocasión de preguntarlo, quedaba pendiente. No rellenábamos ese espacio porque en otros casos sí estuviera claro.
+
+P104 Entrevistador: ¿Hubo alguna duda que decidieran no seguir?
+
+P105 Participante: La comparación detallada de precios. Algunas personas la mencionaban, y era relevante para ellas, pero no habíamos diseñado un seguimiento de productos equivalentes ni de compras repetidas. Podíamos analizar cómo hablaban del precio y cómo intervenía en una decisión que relataban. No podíamos concluir qué lugar era objetivamente más barato.
+
+P106 Seguir esa pregunta habría requerido otro trabajo. Nos parecía mejor reconocerlo que añadir unas cuantas observaciones y presentar eso como una comparación sólida.
+
+P107 Entrevistador: Si ahora agruparas todo el recorrido en partes y les pusieras tus propios nombres, ¿cómo lo harías?
+
+P108 Participante: A ver… La primera sería “encontrar la pregunta”. Incluye esas conversaciones iniciales y el momento de darnos cuenta de que nuestra idea de cercanía no alcanzaba.
+
+P109 Después pondría “seguir las salidas”. Ahí entran las conversaciones más enfocadas, los acompañamientos y las reconstrucciones con las personas.
+
+P110 Una tercera sería “poner los casos a conversar”. Es cuando veíamos qué compartían y dónde una explicación servía para uno, pero no para otro.
+
+P111 Y la última, “escribir hasta dónde podemos decir”. Incluye preparar el texto, presentarlo y ajustarlo después de los comentarios.
+
+P112 Entrevistador: ¿Te representa ese orden, con las vueltas que has señalado?
+
+P113 Participante: Sí, siempre que no parezca que una parte se cerraba y entonces empezaba la siguiente. “Encontrar la pregunta” siguió ocurriendo un poco durante las salidas. Y escribir nos hizo volver a los casos. Pero como forma de contar el recorrido me sirve.
+
+P114 Entrevistador: ¿Qué produjo ese último tramo? ¿Qué pudieron comunicar?
+
+P115 Participante: Un texto de trabajo y una presentación con algunos esquemas. La idea principal era que, en esos casos, el lugar de compra se entendía mejor al reconstruir su relación con otras actividades y con distintos tipos de salida.
+
+P116 También mostramos diferencias. Para una compra pequeña podía importar mucho resolverla cerca; en otra salida entraban la variedad de productos, la visita a alguien o el conocimiento del lugar. No propusimos una jerarquía general de razones.
+
+P117 Cuidamos que los ejemplos no incluyeran detalles innecesarios sobre viviendas o recorridos que permitieran reconocer a las personas. Para comunicar la relación entre actividades no necesitábamos mostrar cada ubicación exacta.
+
+P118 Entrevistador: ¿Qué cambiaste después de la discusión?
+
+P119 Participante: Sobre todo la escritura de las conclusiones. Había frases en las que pasábamos de “en esta salida observamos” a “las personas eligen” demasiado rápido.
+
+P120 También hice más visible una diferencia entre lo que acompañamos y lo que nos contaron de otras ocasiones. Las dos cosas servían, pero de distinta manera. Un relato sobre una compra habitual no debía quedar redactado como si hubiéramos presenciado esa repetición.
+
+P121 Entrevistador: ¿Volvieron con las personas que participaron después de esos cambios?
+
+P122 Participante: Con algunas pudimos comentar de manera breve qué estábamos entendiendo. No con todas, ni mediante una devolución idéntica. No lo presentaría como una revisión completa del resultado por parte de quienes participaron.
+
+P123 En las conversaciones que sí tuvimos hubo aclaraciones útiles. Una persona insistió en que una salida que a nosotras nos parecía complicada era bastante normal para ella. Eso no cambiaba la secuencia, pero sí cuestionaba el adjetivo que estábamos usando.
+
+P124 Entrevistador: ¿Por qué la habían llamado complicada?
+
+P125 Participante: Porque incluía varios lugares y decisiones. Pero estábamos trasladando nuestra dificultad para describirla a su experiencia de hacerla. Ella conocía ese recorrido. Podía ser cansado en ciertos momentos, según nos dijo, pero no por eso lo vivía como un rompecabezas.
+
+P126 Entrevistador: Esa corrección parece importante para la manera de comunicarlo.
+
+P127 Participante: Lo fue. Quitamos el adjetivo y describimos qué actividades se relacionaban. A veces una palabra parece ahorrar explicación y termina metiendo una valoración que no has sostenido.
+
+P128 Entrevistador: Hasta aquí hemos hablado de información que utilizaste y de límites que reconociste. Ahora quisiera proponerte un ejercicio distinto: sin restringirte a las fuentes que conoces, ¿qué te gustaría poder saber para continuar una pregunta como esta?
+
+P129 Participante: Me gustaría conocer mejor la variación entre ocasiones. Acompañar una salida te da mucho detalle, pero no te dice cómo cambia la compra cuando hay menos tiempo, cuando falta algún producto en casa o cuando surge otra actividad.
+
+P130 No me refiero a saber cada movimiento de una persona. Querría poder reconstruir varias decisiones de compra dentro de un periodo que tuviera sentido para ella. Entender qué se mantiene y qué cambia.
+
+P131 También me gustaría saber qué opciones consideró en algunas de esas ocasiones. Pero ahí hay un límite: no todo se decide de manera explícita ni se recuerda después. No imagino una información perfecta donde aparezca una explicación completa de cada elección.
+
+P132 Entrevistador: Si pudieras organizar esa información a tu manera, ¿cómo te gustaría consultarla? Describe ese espacio como te resulte más útil.
+
+P133 Participante: Me lo imagino más como un cuaderno por caso que como una vista general de la ciudad. Abriría una semana, o el periodo que hubiéramos acordado, y podría ver las ocasiones de compra junto con lo que estaba pasando esos días.
+
+P134 Cada ocasión tendría una narración breve y, cuando ayudara, un esquema del recorrido. Me interesaría poder pasar de la secuencia a las palabras de la persona, saber qué dijo en ese momento y qué explicó después. Si algo no se sabe, tendría que seguir apareciendo como algo que no se sabe.
+
+P135 Luego podría poner dos o tres ocasiones del mismo caso una junto a otra. Antes de comparar personas, querría entender esa variación interna.
+
+P136 Entrevistador: ¿Qué harías primero al abrir ese cuaderno?
+
+P137 Participante: Buscaría dos ocasiones que la propia persona considerara distintas. Por ejemplo, una salida en la que resolvió varias cosas y otra en la que compró algo de paso. Revisaría qué cambió: el propósito de la compra, los lugares que se conectaron, el tiempo disponible, lo que decidió cargar.
+
+P138 No empezaría buscando una explicación única. Primero intentaría entender si estoy llamando “compra” a situaciones demasiado diferentes.
+
+P139 Entrevistador: ¿Y qué decisión de tu trabajo permitiría tomar?
+
+P140 Participante: Decidir con qué unidad voy a comparar. Tal vez tenga sentido comparar salidas completas en ciertos casos y decisiones puntuales de compra en otros. O quizá convenga acotar la pregunta a un tipo de salida.
+
+P141 También ayudaría a decidir qué seguimiento vale la pena hacer. Si veo que algo que interpreté como una preferencia estable cambia mucho entre ocasiones, tendría que reformularlo.
+
+P142 Entrevistador: ¿Qué parte de toda esa información priorizarías si solo pudieras obtener una?
+
+P143 Participante: La reconstrucción de una segunda ocasión que contrastara con la primera. No pediría de entrada un periodo entero. Querría saber si ese contraste realmente modifica la lectura.
+
+P144 Entrevistador: ¿Cómo lo pondrías a prueba?
+
+P145 Participante: Volvería a uno de los casos, si la persona tuviera interés y disponibilidad, y acordaríamos qué ocasión sería útil reconstruir. Compararía lo que puedo decir con la primera y lo que cambia al incorporar la segunda.
+
+P146 Si la segunda solo repite detalles y no ayuda a precisar nada, tendría que revisar si el seguimiento vale el esfuerzo. Si permite distinguir, por ejemplo, una preferencia por un lugar de una solución para un día particular, entonces sí me estaría dando algo importante.
+
+P147 Entrevistador: La señal de utilidad sería que te permitiera explicar más.
+
+P148 Participante: O explicar menos, pero mejor. Podría mostrarme que una afirmación que parecía general solo vale en cierta condición. Para mí eso también sería útil.
+
+P149 Entrevistador: De acuerdo: precisar el alcance, aunque se vuelva más pequeño.
+
+P150 Participante: Sí. No me gustaría evaluar ese ejercicio por la cantidad de cosas reunidas. Podríamos tener mucho material y seguir sin entender qué estamos comparando.
+
+P151 Entrevistador: ¿Ese cuaderno tendría que ser una herramienta nueva?
+
+P152 Participante: No necesariamente. Para pocos casos puedo organizarlo con documentos, esquemas y la hoja que ya usamos. Lo que estoy imaginando es una forma de reunir y leer el material, no una necesidad de cambiar de programa.
+
+P153 Si el trabajo creciera, seguramente tendría que reconsiderarlo. Pero para el ejercicio que te conté, nuestras herramientas fueron suficientes. Lo que más tiempo tomó fue interpretar y escribir con cuidado.
+
+P154 Entrevistador: ¿Qué conservarías de tu manera actual de trabajar, incluso si pudieras contar con esa información adicional?
+
+P155 Participante: La conversación después del recorrido. Durante una salida uno ve cosas, pero no siempre entiende qué significan para la persona. Ese momento de volver sobre lo ocurrido me parece muy valioso.
+
+P156 Conservaría también la discusión entre quienes estuvimos presentes. La diferencia entre lo que una observó y lo que otra recuerda puede hacer visible una decisión que estaba pasando inadvertida.
+
+P157 Y seguiría haciendo esquemas a mano al principio. No porque sean mejores por sí mismos, sino porque me permiten cambiar el orden, hacer una anotación al lado y no cerrar demasiado pronto la forma del recorrido.
+
+P158 Entrevistador: ¿Hay algo de ese ejercicio ideal que te genere dudas?
+
+P159 Participante: Sí, cuánto trabajo le estaríamos pidiendo a la persona. Un cuaderno muy completo puede sonar útil desde mi mesa y ser una carga para quien tiene que ayudar a construirlo. Por eso no lo pensaría como algo que deba llenarse todos los días de la misma forma.
+
+P160 Además, una narración posterior tiene su propio valor. No quisiera tratarla como una versión defectuosa de un registro inmediato. A veces, al contar después, la persona relaciona cosas que en el momento no habría mencionado. Tendría que conservar esa diferencia.
+
+P161 Entrevistador: ¿Eso cambia lo que priorizarías?
+
+P162 Participante: Refuerza lo de empezar por un contraste acotado. Antes de imaginar una recopilación extensa, ver si podemos reconstruir otra ocasión de una manera que tenga sentido para ambas partes. Y aceptar que quizá ese seguimiento no sea posible en todos los casos.
+
+P163 Entrevistador: Quiero comprobar una interpretación general. Tu trabajo empezó con una duda sobre lugares de compra y cercanía. Al seguir las salidas, la pregunta pasó a ser cómo se relacionaban distintas actividades y qué podían explicar esas relaciones sobre una compra concreta. ¿Lo dirías así?
+
+P164 Participante: Sí, con un matiz: la cercanía no desapareció. En algunas situaciones fue una razón muy clara y suficiente para entender la elección. Lo que dejamos de hacer fue usarla siempre de la misma manera o asumir que partía de la vivienda.
+
+P165 Y no diría que encontramos “la verdadera razón” detrás de lo que las personas decían. Lo que hicimos fue construir una descripción más precisa con ellas y revisar nuestras comparaciones.
+
+P166 Entrevistador: ¿Qué quedó abierto al cerrar el texto?
+
+P167 Participante: La repetición de los recorridos, que ya mencioné. También la experiencia de otras personas del hogar. A veces alguien hablaba de compras que hacía para varias personas, pero solo teníamos su perspectiva. No sabíamos si las demás describirían igual esa organización.
+
+P168 Y quedó abierta la relación con los lugares de venta desde quienes trabajan ahí. Los comerciantes aparecían en los relatos, por el trato o por productos específicos, pero no habíamos reconstruido su experiencia. No podía completar esa parte imaginando lo que pensarían.
+
+P169 Entrevistador: ¿Esos asuntos tendrían que resolverse para que el trabajo que hiciste resulte válido para ti?
+
+P170 Participante: No todos. Si tuviera que responder cada pregunta relacionada, nunca terminaría. El trabajo puede ser útil si deja claro qué observó, cómo lo interpretó y hasta dónde llega.
+
+P171 Otra cosa es que uno de esos asuntos se vuelva indispensable para una afirmación que quiero hacer. Ahí tendría que buscar cómo abordarlo o renunciar a esa afirmación. En este caso acotamos lo que decíamos.
+
+P172 Entrevistador: Estamos por cerrar. ¿Hay algo que haya quedado mal representado en mis preguntas o algún matiz que te interese añadir?
+
+P173 Participante: Quizá hemos hablado mucho de los momentos en que cambiamos una interpretación, porque son los que se prestan para contar una historia. Pero buena parte del trabajo fue bastante tranquila: revisar notas, encontrar que algo estaba suficientemente claro y seguir adelante. No todo nos obligó a reformular la pregunta.
+
+P174 También quisiera que no quedara la impresión de que acompañar un recorrido siempre es indispensable. Aquí nos ayudó para ciertas cosas. En otro trabajo podría ser suficiente una conversación detallada, o podría necesitar algo completamente distinto. Depende de lo que quiera comprender.
+
+P175 Entrevistador: Lo recojo. En este episodio el acompañamiento aportó elementos concretos, y también hubo información suficiente que pudieron utilizar sin que cada paso abriera una nueva duda.
+
+P176 Participante: Exacto. Tener límites no significa estar permanentemente paralizada. Hay decisiones que puedes tomar y explicar razonablemente con lo que tienes.
+
+P177 Entrevistador: Gracias por las precisiones y por compartir el recorrido completo, desde cómo apareció la pregunta hasta lo que pudiste comunicar. ¿Quieres dejar algo más antes de terminar?
+
+P178 Participante: Solo que, al contar un recorrido, también importa cómo lo reconoce quien lo hace. Nosotras necesitábamos analizarlo, pero si al explicárselo ya no encontraba su experiencia en esa descripción, había algo que revisar. No significa que tengamos que pensar igual sobre todo. Sí que debemos poder mostrar de dónde sale lo que estamos diciendo.
+
+P179 Entrevistador: Gracias. Con ese matiz cerramos la conversación.
+
+P180 Participante: Gracias a ti.

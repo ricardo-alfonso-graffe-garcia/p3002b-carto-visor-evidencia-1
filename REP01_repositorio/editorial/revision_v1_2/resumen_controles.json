@@ -1,0 +1,10 @@
+{
+  "controles_complementarios": "../controles/complementarios_v1_2.json",
+  "maquetacion": "../controles/maquetacion_v1_2.json",
+  "controles_adicionales": "controles_adicionales_v1_2.json",
+  "recomendaciones": 175,
+  "historia_fichas": 21,
+  "perfiles": 5,
+  "cuerpo_paginas": 10,
+  "no_equivale_a_calificacion": true
+}

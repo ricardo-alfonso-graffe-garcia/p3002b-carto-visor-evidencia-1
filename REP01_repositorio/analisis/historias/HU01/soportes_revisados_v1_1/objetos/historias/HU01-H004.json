@@ -1,0 +1,109 @@
+{
+  "id": "HU01-H004",
+  "titulo": "Precisar qué salidas pueden compararse",
+  "formulacion": "Como persona que investiga compras cotidianas, quiero reconstruir el origen, propósito, actividades y relaciones entre lugares de cada salida, para elegir una unidad comparable y conservar la importancia situada de tiempo y cercanía.",
+  "actores": [
+    "ACT01-A005"
+  ],
+  "perfil": "HU01-P002",
+  "necesidades": [
+    "N01-N006"
+  ],
+  "entrevistas": [
+    "E02"
+  ],
+  "tipo": "ACTUAL_A_PRESERVAR",
+  "contexto": "La colega cuestionó desde dónde y para qué se llegaba. Se distinguió visita-compra de comprar-volver; tiempo y distancia no desaparecieron.",
+  "objetivo": "reconstruir el origen, propósito, actividades y relaciones entre lugares de cada salida",
+  "beneficio_o_decision": "elegir una unidad comparable y conservar la importancia situada de tiempo y cercanía",
+  "restricciones": [
+    "Distancia y tiempo siguen importando situadamente. Un mapa sin explicación no establece relación social o causa de elección."
+  ],
+  "preservar": [
+    "Contraste con colega",
+    "Escuchar explicación posterior",
+    "Casos simples como contraste"
+  ],
+  "evidencias": [
+    "N01-V0044",
+    "N01-V0045",
+    "N01-V0046",
+    "N01-V0047",
+    "N01-V0048",
+    "N01-V0049",
+    "N01-V0050",
+    "N01-V0051",
+    "N01-V0052",
+    "N01-V0053",
+    "N01-V0054",
+    "N01-V0055",
+    "N01-V0056",
+    "N01-V0057",
+    "N01-V0058"
+  ],
+  "limites": "No se cuenta con notas originales ni toda variación temporal de cada caso.. Las formulaciones son derivaciones analíticas, no citas ni compromisos de participantes. La pertinencia de un producto sigue por validar.",
+  "criterios": [
+    {
+      "id": "HU01-K005",
+      "dado": "se dispone de reconstrucciones con orígenes y actividades diferentes",
+      "cuando": "se propone comparar tiempos o salidas",
+      "entonces": "se muestra qué no es equivalente, qué unidad acotada sí puede compararse y dónde tiempo y cercanía siguen importando",
+      "origen": "ADAPTADO_DE_CRITERIO_N01",
+      "criterios_n01": [
+        "N01-K006"
+      ],
+      "estado": "PROPUESTO_NO_EJECUTADO",
+      "limites": "Adaptación analítica de N01-K006. Observable N01 de origen PROPUESTA_ANALITICA; Dado/Cuando/Entonces y el cotejo son propuestas del análisis, no aceptación recabada. Distancia y tiempo siguen importando situadamente. Un mapa sin explicación no establece relación social o causa de elección. Soportes originales no aportados; no se ejecutó esta comprobación."
+    }
+  ],
+  "prioridad": {
+    "nivel": "ALTA",
+    "ambito": "E02: actividad actual: Precisar qué salidas pueden compararse",
+    "origen": "ANALISIS_CONDICIONAL",
+    "razon": "Alta al definir la comparación. No exige toda la semana ni coloca a personas en escala general de rapidez. Importancia expresada: No hay priorización comparable explícita de esta pieza por la persona. El nivel asignado es del análisis.",
+    "limites": "Orden local parcial y condicional al momento señalado. No ranking urbano, cartera implementable, aceptación ADIP ni factibilidad comprobada."
+  },
+  "perfil_metadatos": "HU01-M004",
+  "metaalgoritmo": [
+    {
+      "id": "HU01-OP014",
+      "nombre": "Reunir reconstrucciones",
+      "entrada": "Notas, palabras y esquemas de cada salida",
+      "operacion": "Propuesta: Identificar origen y actividad, observado frente a contado.",
+      "salida": "Secuencias con procedencia",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP015",
+      "nombre": "Precisar unidad",
+      "entrada": "Propósitos y actividades conectadas",
+      "operacion": "Propuesta: Revisar con colega si se compara salida completa o decisión y qué tiempos son equivalentes.",
+      "salida": "Unidad explícita",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP016",
+      "nombre": "Comparar pertinentemente",
+      "entrada": "Secuencias y unidad",
+      "operacion": "Propuesta: Poner casos compuestos y simples en relación sin imponer ruta mínima ni causa única.",
+      "salida": "Diferencias y límites de comparación",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP017",
+      "nombre": "Interpretar y decidir",
+      "entrada": "Comparación con explicaciones de personas",
+      "operacion": "Propuesta: Discutir alcance y escoger comparación acotada, conservando ambigüedad.",
+      "salida": "Decisión de análisis argumentada",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    }
+  ]
+}

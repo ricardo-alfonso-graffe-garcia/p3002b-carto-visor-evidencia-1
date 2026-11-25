@@ -1,0 +1,42 @@
+{
+  "archivos_declarados": 56,
+  "archivos_zip": 57,
+  "errores": [],
+  "lecturas": [
+    {
+      "analisis": "A01",
+      "version": "1",
+      "codigos": 19,
+      "segmentos": 77,
+      "parrafos_participante": 81
+    },
+    {
+      "analisis": "A02",
+      "version": "1",
+      "codigos": 22,
+      "segmentos": 111,
+      "parrafos_participante": 114
+    },
+    {
+      "analisis": "A03",
+      "version": "1",
+      "codigos": 21,
+      "segmentos": 119,
+      "parrafos_participante": 124
+    },
+    {
+      "analisis": "A04",
+      "version": "1.1",
+      "codigos": 22,
+      "segmentos": 111,
+      "parrafos_participante": 117
+    },
+    {
+      "analisis": "A05",
+      "version": "1",
+      "codigos": 21,
+      "segmentos": 104,
+      "parrafos_participante": 109
+    }
+  ]
+}

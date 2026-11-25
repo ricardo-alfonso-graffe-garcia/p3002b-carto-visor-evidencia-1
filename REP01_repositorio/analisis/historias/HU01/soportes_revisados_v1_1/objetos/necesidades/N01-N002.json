@@ -1,0 +1,269 @@
+{
+  "id": "N01-N002",
+  "titulo": "Identidad del espacio y sentido de la diferencia de acceso",
+  "enunciado": "La técnica de registros de la alcaldía necesita conocer si las referencias describen el mismo espacio y si cambió el acceso, la descripción o la localización, para conservar el registro y su punto o detener una modificación para aclarar otra identidad, en el contexto de revisión de registros de tres espacios para preparar visitas.",
+  "actores": [
+    "ACT01-A001"
+  ],
+  "entrevistas": [
+    "E01"
+  ],
+  "contexto": "Desde recibir la relación y petición hasta devolver la copia revisada y atender una pregunta posterior.",
+  "decision": "Conservar el registro y su punto o detener una modificación para aclarar otra identidad",
+  "objeto_informacion": "si las referencias describen el mismo espacio y si cambió el acceso, la descripción o la localización",
+  "tipo": "NECESIDAD_ACTUAL",
+  "estado_actual": "ATENDIDA_EN_EPISODIO",
+  "informacion_actual": "Nombre, descripción anterior, esquina del croquis y respuesta mediada del equipo coincidieron; conservó identificador y punto y ajustó el acceso.",
+  "faltante_o_deseada": "No faltó información para esta decisión; la otra puerta permaneció sin comprobar y no era requisito de esta revisión.",
+  "condiciones_y_limites": "El punto representa el sitio y no una puerta levantada con precisión; la primera intención de moverlo no se ejecutó.",
+  "soportes_mencionados": [
+    "Registro anterior",
+    "Mapa de revisión",
+    "Croquis sin medidas",
+    "Aclaración del equipo"
+  ],
+  "conservar": [
+    "Comparar antes de cambiar",
+    "Otra lectura con la compañera",
+    "Pregunta concreta a quien conoce el sitio"
+  ],
+  "evidencias": [
+    "N01-V0006",
+    "N01-V0007",
+    "N01-V0008",
+    "N01-V0009",
+    "N01-V0010",
+    "N01-V0011",
+    "N01-V0012",
+    "N01-V0013"
+  ],
+  "evidencia_que_limita": [
+    "N01-V0014",
+    "N01-V0015",
+    "N01-V0016",
+    "N01-V0017",
+    "N01-V0018"
+  ],
+  "razon_sin_contraevidencia": null,
+  "contexto_elicitacion": "Reconstrucción retrospectiva del episodio y repreguntas sobre decisión y suficiencia. La atribución descansa en respuestas de participante; preguntas, metáforas y recapitulaciones no son corroboración. Los localizadores del contexto están en cada evidencia.",
+  "codigos_comunes": [
+    "C002",
+    "C003",
+    "C004",
+    "C005",
+    "C006",
+    "C007",
+    "C008",
+    "C014"
+  ],
+  "hallazgos_s01": [
+    "S01-H001",
+    "S01-H002",
+    "S01-H004"
+  ],
+  "componentes_p01": [
+    "P01-E01-N003",
+    "P01-E01-N005",
+    "P01-E01-N006",
+    "P01-E01-N007",
+    "P01-E01-N008",
+    "P01-E01-N009",
+    "P01-E01-N010"
+  ],
+  "preferencias_act01": [
+    "ACT01-PR001"
+  ],
+  "variantes_por_caso": [],
+  "vinculo_territorial": {
+    "tipo": "ESPACIAL_DIRECTO",
+    "razon": "Debe distinguir sitio, esquina y acceso para no alterar indebidamente la localización.",
+    "evidencias": [
+      "N01-V0006",
+      "N01-V0007"
+    ],
+    "limites": "La pertinencia del lugar no demuestra necesidad de coordenadas o de un mapa. Alcaldía y unidad no identificadas; el equipo relatado observó el acceso y la entrevistada revisó su incorporación. No consta uso posterior de la copia."
+  },
+  "vinculos_sectoriales": [
+    {
+      "sector": "PUBLICO",
+      "actividad": "Revisión de registros de tres espacios para preparar visitas",
+      "iniciativa": null,
+      "estatus_iniciativa": "ACTIVIDAD_RELATADA_SIN_NOMBRE_FORMAL",
+      "nexo": "PUBLICO_DIRECTO",
+      "razon": "La función se declara en una alcaldía y sirve a una petición de revisión, con responsabilidad acotada.",
+      "evidencias": [
+        "N01-V0344",
+        "N01-V0006",
+        "N01-V0007"
+      ],
+      "limites": "No se identificó programa público que origine esta necesidad. Alcaldía y unidad no identificadas; el equipo relatado observó el acceso y la entrevistada revisó su incorporación. No consta uso posterior de la copia."
+    }
+  ],
+  "verificacion": [
+    {
+      "id": "N01-K002",
+      "observable": "Puede justificar conservar el punto y precisar la descripción sin afirmar acceso único o cierre de otra puerta.",
+      "metodo": "Revisión de una reconstrucción de la decisión con los pasajes y, si se facilitan, croquis, antecedentes y aclaración; observar si la diferencia conduce a la acción pertinente.",
+      "origen": "PROPUESTA_ANALITICA",
+      "estado": "PROPUESTA_NO_EJECUTADA",
+      "evidencias": [
+        "N01-V0006",
+        "N01-V0007",
+        "N01-V0008",
+        "N01-V0009",
+        "N01-V0010",
+        "N01-V0011",
+        "N01-V0012",
+        "N01-V0013"
+      ],
+      "limites": "Comprobación futura; no se ejecutó ni acredita aceptación humana. No se fijan umbrales numéricos. El punto representa el sitio y no una puerta levantada con precisión; la primera intención de moverlo no se ejecutó.",
+      "desglose_origen": {
+        "observable": "PROPUESTA_ANALITICA",
+        "operacionalizacion_metodo": "PROPUESTA_ANALITICA",
+        "aceptacion": "NO_RECABADA"
+      }
+    }
+  ],
+  "prioridad": {
+    "ambito": "E01",
+    "nivel": "ALTA",
+    "origen": "ANALISIS_CONDICIONAL",
+    "criterios": [
+      "N01-CP001",
+      "N01-CP002",
+      "N01-CP003",
+      "N01-CP004"
+    ],
+    "razon": "La identidad y lo representado determinan acciones diferentes. La coincidencia aparente no bastaba; la aclaración sí resolvió la duda.",
+    "comparables": [
+      "N01-N001",
+      "N01-N003"
+    ],
+    "limites": "Orden parcial dentro de esta actividad. No compara importancia urbana ni factibilidad técnica; evidencia más sólida no equivale a más impacto. Comparar distingue dependencias y momentos; las necesidades no son sustitutos y se admiten empates. En ideales frente a actuales, el nivel se lee dentro de su modalidad."
+  },
+  "importancia_expresada": "No hay priorización comparable explícita de esta pieza por la persona. El nivel asignado es del análisis.",
+  "pertinencia_diseno_posterior": "PENDIENTE: revisar con usuarios y encargo; la legitimidad de la necesidad no prescribe un soporte ni su incorporación a un visor.",
+  "factibilidad": "NO_DETERMINADA",
+  "incognitas": [
+    "No consta estado del acceso anterior ni precisión de puerta."
+  ],
+  "enlaces_codigos_asignados": [
+    {
+      "codigo": "C002",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R01-S022",
+        "R01-S023",
+        "R01-S043",
+        "R01-S044",
+        "R01-S047",
+        "R01-S077",
+        "R01-S079",
+        "R01-S125"
+      ],
+      "evidencias": [
+        "N01-V0006",
+        "N01-V0007",
+        "N01-V0008",
+        "N01-V0010",
+        "N01-V0011",
+        "N01-V0012",
+        "N01-V0018"
+      ]
+    },
+    {
+      "codigo": "C003",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R01-S044",
+        "R01-S079"
+      ],
+      "evidencias": [
+        "N01-V0008",
+        "N01-V0012"
+      ]
+    },
+    {
+      "codigo": "C004",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R01-S023",
+        "R01-S045",
+        "R01-S047",
+        "R01-S078",
+        "R01-S080"
+      ],
+      "evidencias": [
+        "N01-V0007",
+        "N01-V0009",
+        "N01-V0010",
+        "N01-V0011",
+        "N01-V0013"
+      ]
+    },
+    {
+      "codigo": "C005",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R01-S022"
+      ],
+      "evidencias": [
+        "N01-V0006"
+      ]
+    },
+    {
+      "codigo": "C006",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R01-S043"
+      ],
+      "evidencias": [
+        "N01-V0008"
+      ]
+    },
+    {
+      "codigo": "C007",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R01-S125"
+      ],
+      "evidencias": [
+        "N01-V0018"
+      ]
+    },
+    {
+      "codigo": "C008",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R01-S035",
+        "R01-S046",
+        "R01-S047",
+        "R01-S051",
+        "R01-S078",
+        "R01-S081"
+      ],
+      "evidencias": [
+        "N01-V0009",
+        "N01-V0010",
+        "N01-V0011",
+        "N01-V0014",
+        "N01-V0015",
+        "N01-V0016"
+      ]
+    },
+    {
+      "codigo": "C014",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R01-S080",
+        "R01-S082",
+        "R01-S084"
+      ],
+      "evidencias": [
+        "N01-V0013",
+        "N01-V0017"
+      ]
+    }
+  ],
+  "codigos_contextuales": []
+}

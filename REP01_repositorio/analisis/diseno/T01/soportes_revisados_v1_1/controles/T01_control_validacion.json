@@ -1,0 +1,33 @@
+{
+  "validador": "T01 revisado 1.1",
+  "estado": "SIN_ERRORES_ESTRUCTURALES",
+  "errores": [],
+  "advertencias": [],
+  "conteos": {
+    "fuentes": 41,
+    "afirmaciones_tecnicas": 17,
+    "fundamentos": 9,
+    "familias_agregacion": 8,
+    "practicas": 4,
+    "lentes": 4,
+    "herramientas": 4,
+    "modulos": 6,
+    "contratos": 11,
+    "productos": 3,
+    "historias_cubiertas": 21,
+    "requisitos_cubiertos": 39
+  },
+  "alcance": "Control estructural y referencial. No certifica lectura externa, corrección técnica, adecuación semántica de contratos, fidelidad, utilidad, adopción, implementación, figuras, FAIR/FDO o revisión humana independiente.",
+  "ejecucion": {
+    "fecha_utc": "2026-11-25T14:57:25.066917+00:00",
+    "argumentos": [
+      "output/P3002B_expediente_v1/analisis/validar_diseno_revisado.py",
+      "tmp/review/T01_insumos_v1",
+      "output/P3002B_expediente_v1/analisis/diseno/T01/T01_resultado_revisado_v1_1.json",
+      "--salida",
+      "output/P3002B_expediente_v1/analisis/diseno/T01/soportes_revisados_v1_1/controles/T01_control_validacion.json"
+    ],
+    "sha256_resultado": "4b0442dab0d1d6814e68934ea17d0ef483c65fb40080f87adc2180e2e123f8e5",
+    "sha256_validador": "d2983f749f6eba8137355caef20c35e90041a2c8c935b179de0793e1a6719726"
+  }
+}

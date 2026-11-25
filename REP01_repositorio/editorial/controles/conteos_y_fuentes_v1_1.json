@@ -1,0 +1,66 @@
+{
+  "libro": {
+    "archivo": "55_libro_comun_v1_3.json",
+    "codigos": 64,
+    "ejemplos": 123,
+    "sha256": "64c7e9cf5c19fb8e4998563cef9ff1edbe173712d9f47e16a450b4cd14d1c3ad"
+  },
+  "recodificacion": {
+    "archivos": [
+      {
+        "archivo": "analisis/recodificacion/R01/R01_resultado_revisado_v1_3.json",
+        "version": "1.3",
+        "parrafos": 81,
+        "fragmentos": 124,
+        "asignaciones": 202,
+        "sha256": "64caceb1ef61af483e83af28e6eb4e83b78a3e599389854240efc87a1037cdef"
+      },
+      {
+        "archivo": "analisis/recodificacion/R02/R02_resultado_revisado_v1_3.json",
+        "version": "1.3",
+        "parrafos": 114,
+        "fragmentos": 140,
+        "asignaciones": 165,
+        "sha256": "662378fc3f9f16265457d31aedf768c404eb5562d2dfb926e965603f6508c3dc"
+      },
+      {
+        "archivo": "analisis/recodificacion/R03/R03_resultado_revisado_v1_2.json",
+        "version": "1.2",
+        "parrafos": 124,
+        "fragmentos": 143,
+        "asignaciones": 214,
+        "sha256": "d931d7c4788de2b61d934bc7847be7b7b69566b7d1176b51626a29435e519664"
+      },
+      {
+        "archivo": "analisis/recodificacion/R04/R04_resultado_revisado_v1_1.json",
+        "version": "1.1",
+        "parrafos": 117,
+        "fragmentos": 155,
+        "asignaciones": 216,
+        "sha256": "772a4513cef334eba40df19e829a5f631cb496041d104b82f4b868ca24eb019e"
+      },
+      {
+        "archivo": "analisis/recodificacion/R05/R05_resultado_revisado_v1_1.json",
+        "version": "1.1",
+        "parrafos": 109,
+        "fragmentos": 151,
+        "asignaciones": 174,
+        "sha256": "cc7f2e03fea8673cbbd0f83f7673d794f2c70b4417b9fe0b481b1731f74c1f2b"
+      }
+    ],
+    "parrafos": 545,
+    "fragmentos": 713,
+    "asignaciones": 971
+  },
+  "necesidades": {
+    "archivo": "82_necesidades_v1_1.json",
+    "total": 29,
+    "deseos_ideales": 6
+  },
+  "historias": {
+    "archivo": "88_historias_y_objetos_v1_1.json",
+    "total": 21
+  },
+  "condicion_sin_historia": "N01-N005",
+  "alcance": "Conteos de fuentes preferidas, sin equiparar frecuencia con importancia o validación."
+}

@@ -1,0 +1,269 @@
+{
+  "id": "N01-N009",
+  "titulo": "Contraste de una segunda ocasión del mismo caso",
+  "enunciado": "La investigadora universitaria necesita conocer cómo varían propósito, actividades, lugares, tiempo y carga entre dos ocasiones que la propia persona considere distintas, para precisar la unidad de comparación, revisar una preferencia aparentemente estable y decidir si merece seguimiento, en el contexto de investigación universitaria sobre salidas de compra de alimentos.",
+  "actores": [
+    "ACT01-A005"
+  ],
+  "entrevistas": [
+    "E02"
+  ],
+  "contexto": "Desde revisar conversaciones exploratorias y delimitar una pregunta con una colega hasta presentar una lectura de casos y ajustar el texto.",
+  "decision": "Precisar la unidad de comparación, revisar una preferencia aparentemente estable y decidir si merece seguimiento",
+  "objeto_informacion": "cómo varían propósito, actividades, lugares, tiempo y carga entre dos ocasiones que la propia persona considere distintas",
+  "tipo": "DESEO_IDEAL",
+  "estado_actual": "NO_APLICA_AL_IDEAL",
+  "informacion_actual": "El ejercicio relata una salida detallada y recuerdos de otras; las herramientas actuales bastaron, sin acreditar repetición semanal.",
+  "faltante_o_deseada": "Desea primero una segunda ocasión contrastante antes que un periodo entero; el cuaderno tendría secuencia, palabras y desconocidos.",
+  "condiciones_y_limites": "Requiere interés y disponibilidad de quien comparta; carga anticipada no es rechazo recabado. No toda decisión se recuerda explícitamente ni el relato posterior es registro defectuoso.",
+  "soportes_mencionados": [
+    "Cuaderno por caso/periodo imaginado",
+    "Narración breve",
+    "Esquema cuando ayuda",
+    "Documentos y hoja existentes"
+  ],
+  "conservar": [
+    "Conversación posterior",
+    "Esquemas modificables",
+    "Interpretación cuidadosa",
+    "Desconocidos visibles"
+  ],
+  "evidencias": [
+    "N01-V0083",
+    "N01-V0084",
+    "N01-V0080",
+    "N01-V0085",
+    "N01-V0086",
+    "N01-V0087",
+    "N01-V0088",
+    "N01-V0089",
+    "N01-V0090",
+    "N01-V0091",
+    "N01-V0092",
+    "N01-V0093",
+    "N01-V0094",
+    "N01-V0095",
+    "N01-V0096",
+    "N01-V0070",
+    "N01-V0097"
+  ],
+  "evidencia_que_limita": [
+    "N01-V0098",
+    "N01-V0074",
+    "N01-V0081",
+    "N01-V0071"
+  ],
+  "razon_sin_contraevidencia": null,
+  "contexto_elicitacion": "Ideal abierto P128, consulta imaginada P132 y prioridad solicitada P142; P144 pide cómo probarlo. La recapitulación de P147 sobre explicar más recibe corrección P148: explicar menos y mejor también sirve.",
+  "codigos_comunes": [
+    "C029",
+    "C024",
+    "C030",
+    "C031",
+    "C017",
+    "C009"
+  ],
+  "hallazgos_s01": [
+    "S01-H016",
+    "S01-H017",
+    "S01-H018",
+    "S01-H019"
+  ],
+  "componentes_p01": [],
+  "preferencias_act01": [
+    "ACT01-PR006",
+    "ACT01-PR007",
+    "ACT01-PR008"
+  ],
+  "variantes_por_caso": [],
+  "vinculo_territorial": {
+    "tipo": "RELACION_CONTEXTUAL",
+    "razon": "La ocasión vincula lugares y actividades; no se pretende registrar cada movimiento o una vista general de la ciudad.",
+    "evidencias": [
+      "N01-V0083",
+      "N01-V0084"
+    ],
+    "limites": "La pertinencia del lugar no demuestra necesidad de coordenadas o de un mapa. Pocos casos por contactos, sin representatividad de zonas o ciudad; colegas y participantes internos son terceros relatados. No existe devolución completa acreditada."
+  },
+  "vinculos_sectoriales": [
+    {
+      "sector": "ACADEMICO",
+      "actividad": "Investigación universitaria sobre salidas de compra de alimentos",
+      "iniciativa": null,
+      "estatus_iniciativa": "ACTIVIDAD_RELATADA_SIN_NOMBRE_FORMAL",
+      "nexo": "RELEVANCIA_PUBLICA_POR_VALIDAR",
+      "razon": "La investigación trata relaciones urbanas de compras; su eventual aporte público requeriría definir destinatario y decisión, sin programa identificado.",
+      "evidencias": [
+        "N01-V0345",
+        "N01-V0083",
+        "N01-V0084"
+      ],
+      "limites": "No se identificó programa público que origine esta necesidad. Pocos casos por contactos, sin representatividad de zonas o ciudad; colegas y participantes internos son terceros relatados. No existe devolución completa acreditada."
+    }
+  ],
+  "verificacion": [
+    {
+      "id": "N01-K009",
+      "observable": "Al comparar primera y segunda ocasión puede precisar una afirmación o reducir su alcance; también puede concluir que el seguimiento no aporta.",
+      "metodo": "Comparación futura acordada y voluntaria, tal como propone E02-P145: examinar qué puede decir con una ocasión y qué cambia con la segunda. No se realizó ese retorno.",
+      "origen": "DECLARADO",
+      "estado": "PROPUESTA_NO_EJECUTADA",
+      "evidencias": [
+        "N01-V0083",
+        "N01-V0084",
+        "N01-V0080",
+        "N01-V0085",
+        "N01-V0086",
+        "N01-V0087",
+        "N01-V0088",
+        "N01-V0089",
+        "N01-V0090",
+        "N01-V0091",
+        "N01-V0092",
+        "N01-V0093",
+        "N01-V0094",
+        "N01-V0095",
+        "N01-V0096",
+        "N01-V0070",
+        "N01-V0097"
+      ],
+      "limites": "Comprobación futura; no se ejecutó ni acredita aceptación humana. No se fijan umbrales numéricos. Requiere interés y disponibilidad de quien comparta; carga anticipada no es rechazo recabado. No toda decisión se recuerda explícitamente ni el relato posterior es registro defectuoso.",
+      "desglose_origen": {
+        "observable": "DECLARADO",
+        "operacionalizacion_metodo": "PROPUESTA_ANALITICA",
+        "aceptacion": "NO_RECABADA"
+      }
+    }
+  ],
+  "prioridad": {
+    "ambito": "E02",
+    "nivel": "ALTA",
+    "origen": "ANALISIS_CONDICIONAL",
+    "criterios": [
+      "N01-CP001",
+      "N01-CP002",
+      "N01-CP003",
+      "N01-CP004"
+    ],
+    "razon": "Ella prioriza el contraste acotado frente al periodo entero; el análisis mantiene esa precedencia para explorar el ideal y deja incierta su viabilidad.",
+    "comparables": [],
+    "limites": "Orden parcial dentro de esta actividad. No compara importancia urbana ni factibilidad técnica; evidencia más sólida no equivale a más impacto. No hay otra necesidad con la misma subdecisión y modalidad para establecer una comparación homogénea; el nivel expresa pertinencia condicional, sin ranking total."
+  },
+  "importancia_expresada": "P143 y P162 priorizan una segunda ocasión contrastante antes de recopilar un periodo completo; no jerarquizan casos ni personas.",
+  "pertinencia_diseno_posterior": "PENDIENTE: revisar con usuarios y encargo; la legitimidad de la necesidad no prescribe un soporte ni su incorporación a un visor.",
+  "factibilidad": "NO_DETERMINADA",
+  "incognitas": [
+    "No hay segunda ocasión nueva producida ni aceptación de participantes.",
+    "Periodo pertinente y unidad a comparar deben acordarse."
+  ],
+  "enlaces_codigos_asignados": [
+    {
+      "codigo": "C029",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R02-S086",
+        "R02-S087",
+        "R02-S088",
+        "R02-S094",
+        "R02-S095",
+        "R02-S096",
+        "R02-S103",
+        "R02-S105",
+        "R02-S123"
+      ],
+      "evidencias": [
+        "N01-V0083",
+        "N01-V0084",
+        "N01-V0080",
+        "N01-V0087",
+        "N01-V0088",
+        "N01-V0091",
+        "N01-V0092",
+        "N01-V0097"
+      ]
+    },
+    {
+      "codigo": "C024",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R02-S100",
+        "R02-S113"
+      ],
+      "evidencias": [
+        "N01-V0089",
+        "N01-V0095"
+      ]
+    },
+    {
+      "codigo": "C030",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R02-S099",
+        "R02-S101",
+        "R02-S102",
+        "R02-S104",
+        "R02-S106",
+        "R02-S108",
+        "R02-S109",
+        "R02-S110",
+        "R02-S111",
+        "R02-S112",
+        "R02-S113"
+      ],
+      "evidencias": [
+        "N01-V0089",
+        "N01-V0090",
+        "N01-V0091",
+        "N01-V0092",
+        "N01-V0093",
+        "N01-V0094",
+        "N01-V0095"
+      ]
+    },
+    {
+      "codigo": "C031",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R02-S105",
+        "R02-S107",
+        "R02-S121",
+        "R02-S123"
+      ],
+      "evidencias": [
+        "N01-V0092",
+        "N01-V0093",
+        "N01-V0096",
+        "N01-V0097"
+      ]
+    },
+    {
+      "codigo": "C017",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R02-S090",
+        "R02-S091",
+        "R02-S094",
+        "R02-S115"
+      ],
+      "evidencias": [
+        "N01-V0085",
+        "N01-V0086",
+        "N01-V0087",
+        "N01-V0098"
+      ]
+    },
+    {
+      "codigo": "C009",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R02-S092",
+        "R02-S122"
+      ],
+      "evidencias": [
+        "N01-V0086",
+        "N01-V0070"
+      ]
+    }
+  ],
+  "codigos_contextuales": []
+}

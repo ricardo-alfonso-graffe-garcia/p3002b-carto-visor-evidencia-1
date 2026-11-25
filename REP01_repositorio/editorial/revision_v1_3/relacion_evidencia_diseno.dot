@@ -1,0 +1,15 @@
+digraph G {
+graph[rankdir=TB,bgcolor="white",pad=.15,nodesep=.3,ranksep=.26];
+node[shape=box,style="rounded,filled",fillcolor="#f3f6f8",color="#607587",fontname="Liberation Sans",fontsize=12,margin=".10,.07"];
+edge[color="#52697b",arrowsize=.65,fontname="Liberation Sans",fontsize=10];
+a[label="Fuentes y segmentos\nProcedencia y versión"];
+b[label="Actores y perfiles"];c[label="Procesos y decisiones"];d[label="Códigos y temas"];
+e[label="Necesidades verificables\nActuales y deseadas",fillcolor="#e3eef1"];
+f[label="Historias de usuario\nCapacidad y propósito"];
+g[label="Información y metadatos"];h[label="Operaciones y métodos"];
+i[label="Tres candidatos\nAlcance y criterios propuestos",fillcolor="#e3eef1"];
+j[label="Pruebas futuras y revisión\nEvidencia por obtener"];
+{rank=same;b;c;d;}{rank=same;g;h;}
+a->b;a->c;a->d;b->e;c->e;d->e;e->f;f->g;f->h;g->i;h->i;i->j;
+j:e->e:e[style=dashed,label="revisar",constraint=false];
+}

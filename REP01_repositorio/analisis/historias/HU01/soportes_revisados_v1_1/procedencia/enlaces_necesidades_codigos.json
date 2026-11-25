@@ -1,0 +1,2736 @@
+[
+  {
+    "necesidad": "N01-N001",
+    "codigos_comunes": [
+      "C001"
+    ],
+    "enlaces_codigos_asignados": [
+      {
+        "codigo": "C001",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R01-S006",
+          "R01-S063",
+          "R01-S064",
+          "R01-S123",
+          "R01-S124"
+        ],
+        "evidencias": [
+          "N01-V0001",
+          "N01-V0003",
+          "N01-V0004",
+          "N01-V0005"
+        ]
+      }
+    ],
+    "codigos_contextuales": [
+      {
+        "codigo": "C014",
+        "tipo": "RELACION_CONCEPTUAL_DEL_ANALISIS",
+        "justificacion": "El propósito delimita qué cuenta como suficiente; es relación conceptual, sin nueva asignación C014 a esos segmentos.",
+        "limites": "No es una ocurrencia codificada en estos pasajes ni una revisión de la codificación fuente."
+      }
+    ],
+    "hallazgos_s01": [
+      "S01-H004",
+      "S01-H020",
+      "S01-H022"
+    ],
+    "componentes_p01": [
+      "P01-E01-N001",
+      "P01-E01-N002",
+      "P01-E01-N014"
+    ]
+  },
+  {
+    "necesidad": "N01-N002",
+    "codigos_comunes": [
+      "C002",
+      "C003",
+      "C004",
+      "C005",
+      "C006",
+      "C007",
+      "C008",
+      "C014"
+    ],
+    "enlaces_codigos_asignados": [
+      {
+        "codigo": "C002",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R01-S022",
+          "R01-S023",
+          "R01-S043",
+          "R01-S044",
+          "R01-S047",
+          "R01-S077",
+          "R01-S079",
+          "R01-S125"
+        ],
+        "evidencias": [
+          "N01-V0006",
+          "N01-V0007",
+          "N01-V0008",
+          "N01-V0010",
+          "N01-V0011",
+          "N01-V0012",
+          "N01-V0018"
+        ]
+      },
+      {
+        "codigo": "C003",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R01-S044",
+          "R01-S079"
+        ],
+        "evidencias": [
+          "N01-V0008",
+          "N01-V0012"
+        ]
+      },
+      {
+        "codigo": "C004",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R01-S023",
+          "R01-S045",
+          "R01-S047",
+          "R01-S078",
+          "R01-S080"
+        ],
+        "evidencias": [
+          "N01-V0007",
+          "N01-V0009",
+          "N01-V0010",
+          "N01-V0011",
+          "N01-V0013"
+        ]
+      },
+      {
+        "codigo": "C005",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R01-S022"
+        ],
+        "evidencias": [
+          "N01-V0006"
+        ]
+      },
+      {
+        "codigo": "C006",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R01-S043"
+        ],
+        "evidencias": [
+          "N01-V0008"
+        ]
+      },
+      {
+        "codigo": "C007",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R01-S125"
+        ],
+        "evidencias": [
+          "N01-V0018"
+        ]
+      },
+      {
+        "codigo": "C008",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R01-S035",
+          "R01-S046",
+          "R01-S047",
+          "R01-S051",
+          "R01-S078",
+          "R01-S081"
+        ],
+        "evidencias": [
+          "N01-V0009",
+          "N01-V0010",
+          "N01-V0011",
+          "N01-V0014",
+          "N01-V0015",
+          "N01-V0016"
+        ]
+      },
+      {
+        "codigo": "C014",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R01-S080",
+          "R01-S082",
+          "R01-S084"
+        ],
+        "evidencias": [
+          "N01-V0013",
+          "N01-V0017"
+        ]
+      }
+    ],
+    "codigos_contextuales": [],
+    "hallazgos_s01": [
+      "S01-H001",
+      "S01-H002",
+      "S01-H004"
+    ],
+    "componentes_p01": [
+      "P01-E01-N003",
+      "P01-E01-N005",
+      "P01-E01-N006",
+      "P01-E01-N007",
+      "P01-E01-N008",
+      "P01-E01-N009",
+      "P01-E01-N010"
+    ]
+  },
+  {
+    "necesidad": "N01-N003",
+    "codigos_comunes": [
+      "C009",
+      "C010",
+      "C012",
+      "C008"
+    ],
+    "enlaces_codigos_asignados": [
+      {
+        "codigo": "C009",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R01-S046",
+          "R01-S052",
+          "R01-S060"
+        ],
+        "evidencias": [
+          "N01-V0009",
+          "N01-V0019",
+          "N01-V0026"
+        ]
+      },
+      {
+        "codigo": "C010",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R01-S053",
+          "R01-S054",
+          "R01-S055",
+          "R01-S056",
+          "R01-S058",
+          "R01-S059",
+          "R01-S115"
+        ],
+        "evidencias": [
+          "N01-V0019",
+          "N01-V0020",
+          "N01-V0021",
+          "N01-V0022",
+          "N01-V0025"
+        ]
+      },
+      {
+        "codigo": "C012",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R01-S067",
+          "R01-S068",
+          "R01-S126"
+        ],
+        "evidencias": [
+          "N01-V0023",
+          "N01-V0024"
+        ]
+      },
+      {
+        "codigo": "C008",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R01-S046",
+          "R01-S052",
+          "R01-S057",
+          "R01-S061"
+        ],
+        "evidencias": [
+          "N01-V0009",
+          "N01-V0019",
+          "N01-V0021",
+          "N01-V0026"
+        ]
+      }
+    ],
+    "codigos_contextuales": [],
+    "hallazgos_s01": [
+      "S01-H017",
+      "S01-H020",
+      "S01-H022"
+    ],
+    "componentes_p01": [
+      "P01-E01-N010",
+      "P01-E01-N011",
+      "P01-E01-N012",
+      "P01-E01-N013",
+      "P01-E01-N015"
+    ]
+  },
+  {
+    "necesidad": "N01-N004",
+    "codigos_comunes": [
+      "C016",
+      "C009",
+      "C012",
+      "C017",
+      "C030",
+      "C018"
+    ],
+    "enlaces_codigos_asignados": [
+      {
+        "codigo": "C016",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R01-S089",
+          "R01-S090",
+          "R01-S091",
+          "R01-S092",
+          "R01-S093",
+          "R01-S095",
+          "R01-S096",
+          "R01-S098",
+          "R01-S103",
+          "R01-S109",
+          "R01-S118"
+        ],
+        "evidencias": [
+          "N01-V0028",
+          "N01-V0029",
+          "N01-V0030",
+          "N01-V0031",
+          "N01-V0032",
+          "N01-V0033",
+          "N01-V0035",
+          "N01-V0038",
+          "N01-V0041"
+        ]
+      },
+      {
+        "codigo": "C009",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R01-S092",
+          "R01-S096"
+        ],
+        "evidencias": [
+          "N01-V0029",
+          "N01-V0032"
+        ]
+      },
+      {
+        "codigo": "C012",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R01-S097"
+        ],
+        "evidencias": [
+          "N01-V0032"
+        ]
+      },
+      {
+        "codigo": "C017",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R01-S093",
+          "R01-S094",
+          "R01-S095",
+          "R01-S109"
+        ],
+        "evidencias": [
+          "N01-V0030",
+          "N01-V0031",
+          "N01-V0038"
+        ]
+      },
+      {
+        "codigo": "C030",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R01-S098",
+          "R01-S101",
+          "R01-S104",
+          "R01-S105",
+          "R01-S106",
+          "R01-S107"
+        ],
+        "evidencias": [
+          "N01-V0033",
+          "N01-V0036",
+          "N01-V0037",
+          "N01-V0039",
+          "N01-V0040"
+        ]
+      },
+      {
+        "codigo": "C018",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R01-S091",
+          "R01-S102",
+          "R01-S106",
+          "R01-S108",
+          "R01-S110",
+          "R01-S111",
+          "R01-S112",
+          "R01-S113",
+          "R01-S117"
+        ],
+        "evidencias": [
+          "N01-V0028",
+          "N01-V0037",
+          "N01-V0038",
+          "N01-V0039",
+          "N01-V0041",
+          "N01-V0042",
+          "N01-V0043"
+        ]
+      }
+    ],
+    "codigos_contextuales": [],
+    "hallazgos_s01": [
+      "S01-H016",
+      "S01-H017",
+      "S01-H018",
+      "S01-H019",
+      "S01-H020"
+    ],
+    "componentes_p01": []
+  },
+  {
+    "necesidad": "N01-N005",
+    "codigos_comunes": [
+      "C008",
+      "C014",
+      "C015",
+      "C032"
+    ],
+    "enlaces_codigos_asignados": [
+      {
+        "codigo": "C008",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R01-S052",
+          "R01-S078",
+          "R01-S081"
+        ],
+        "evidencias": [
+          "N01-V0019",
+          "N01-V0011",
+          "N01-V0016"
+        ]
+      },
+      {
+        "codigo": "C014",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R01-S080",
+          "R01-S082",
+          "R01-S084"
+        ],
+        "evidencias": [
+          "N01-V0017",
+          "N01-V0013"
+        ]
+      },
+      {
+        "codigo": "C015",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R01-S081",
+          "R01-S124"
+        ],
+        "evidencias": [
+          "N01-V0016",
+          "N01-V0005"
+        ]
+      },
+      {
+        "codigo": "C032",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R01-S083"
+        ],
+        "evidencias": [
+          "N01-V0017"
+        ]
+      }
+    ],
+    "codigos_contextuales": [],
+    "hallazgos_s01": [
+      "S01-H001",
+      "S01-H022"
+    ],
+    "componentes_p01": [
+      "P01-E01-N002",
+      "P01-E01-N009",
+      "P01-E01-N012"
+    ]
+  },
+  {
+    "necesidad": "N01-N006",
+    "codigos_comunes": [
+      "C024",
+      "C025",
+      "C019",
+      "C023",
+      "C014"
+    ],
+    "enlaces_codigos_asignados": [
+      {
+        "codigo": "C024",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R02-S011",
+          "R02-S047",
+          "R02-S051",
+          "R02-S140"
+        ],
+        "evidencias": [
+          "N01-V0044",
+          "N01-V0046",
+          "N01-V0049"
+        ]
+      },
+      {
+        "codigo": "C025",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R02-S057"
+        ],
+        "evidencias": [
+          "N01-V0051"
+        ]
+      },
+      {
+        "codigo": "C019",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R02-S045",
+          "R02-S049",
+          "R02-S058",
+          "R02-S059",
+          "R02-S063",
+          "R02-S124"
+        ],
+        "evidencias": [
+          "N01-V0045",
+          "N01-V0047",
+          "N01-V0052",
+          "N01-V0053",
+          "N01-V0054",
+          "N01-V0058"
+        ]
+      },
+      {
+        "codigo": "C023",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R02-S028",
+          "R02-S050",
+          "R02-S053",
+          "R02-S124"
+        ],
+        "evidencias": [
+          "N01-V0048",
+          "N01-V0056",
+          "N01-V0057",
+          "N01-V0058"
+        ]
+      },
+      {
+        "codigo": "C014",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R02-S051",
+          "R02-S052",
+          "R02-S053"
+        ],
+        "evidencias": [
+          "N01-V0049",
+          "N01-V0050",
+          "N01-V0057"
+        ]
+      }
+    ],
+    "codigos_contextuales": [
+      {
+        "codigo": "C063",
+        "tipo": "RELACION_CONCEPTUAL_DEL_ANALISIS",
+        "justificacion": "Revisar desde dónde y para qué se compara se relaciona con orientar la pregunta; C063 no figura asignado en los segmentos citados.",
+        "limites": "No es una ocurrencia codificada en estos pasajes ni una revisión de la codificación fuente."
+      }
+    ],
+    "hallazgos_s01": [
+      "S01-H001",
+      "S01-H003",
+      "S01-H004",
+      "S01-H011"
+    ],
+    "componentes_p01": [
+      "P01-E02-N001",
+      "P01-E02-N002",
+      "P01-E02-N005",
+      "P01-E02-N007",
+      "P01-E02-N008",
+      "P01-E02-N009"
+    ]
+  },
+  {
+    "necesidad": "N01-N007",
+    "codigos_comunes": [
+      "C009",
+      "C008",
+      "C023",
+      "C027",
+      "C028",
+      "C026",
+      "C021"
+    ],
+    "enlaces_codigos_asignados": [
+      {
+        "codigo": "C009",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R02-S032",
+          "R02-S080",
+          "R02-S122",
+          "R02-S137"
+        ],
+        "evidencias": [
+          "N01-V0059",
+          "N01-V0065",
+          "N01-V0070",
+          "N01-V0073"
+        ]
+      },
+      {
+        "codigo": "C008",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R02-S033",
+          "R02-S085",
+          "R02-S130",
+          "R02-S131"
+        ],
+        "evidencias": [
+          "N01-V0060",
+          "N01-V0069",
+          "N01-V0072"
+        ]
+      },
+      {
+        "codigo": "C023",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R02-S053",
+          "R02-S079"
+        ],
+        "evidencias": [
+          "N01-V0057",
+          "N01-V0064"
+        ]
+      },
+      {
+        "codigo": "C027",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R02-S078"
+        ],
+        "evidencias": [
+          "N01-V0063"
+        ]
+      },
+      {
+        "codigo": "C028",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R02-S081",
+          "R02-S082",
+          "R02-S083",
+          "R02-S084",
+          "R02-S136"
+        ],
+        "evidencias": [
+          "N01-V0066",
+          "N01-V0067",
+          "N01-V0068",
+          "N01-V0069",
+          "N01-V0073"
+        ]
+      },
+      {
+        "codigo": "C026",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R02-S039"
+        ],
+        "evidencias": [
+          "N01-V0062"
+        ]
+      },
+      {
+        "codigo": "C021",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R02-S037"
+        ],
+        "evidencias": [
+          "N01-V0061"
+        ]
+      }
+    ],
+    "codigos_contextuales": [],
+    "hallazgos_s01": [
+      "S01-H001",
+      "S01-H004",
+      "S01-H005",
+      "S01-H017",
+      "S01-H020",
+      "S01-H021"
+    ],
+    "componentes_p01": [
+      "P01-E02-N006",
+      "P01-E02-N010",
+      "P01-E02-N011",
+      "P01-E02-N012",
+      "P01-E02-N013",
+      "P01-E02-N014",
+      "P01-E02-N015",
+      "P01-E02-N016"
+    ]
+  },
+  {
+    "necesidad": "N01-N008",
+    "codigos_comunes": [
+      "C015",
+      "C023"
+    ],
+    "enlaces_codigos_asignados": [
+      {
+        "codigo": "C015",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R02-S029",
+          "R02-S042",
+          "R02-S089",
+          "R02-S127",
+          "R02-S128"
+        ],
+        "evidencias": [
+          "N01-V0078",
+          "N01-V0080",
+          "N01-V0081",
+          "N01-V0082",
+          "N01-V0056"
+        ]
+      },
+      {
+        "codigo": "C023",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R02-S028"
+        ],
+        "evidencias": [
+          "N01-V0056"
+        ]
+      }
+    ],
+    "codigos_contextuales": [
+      {
+        "codigo": "C020",
+        "tipo": "RELACION_CONCEPTUAL_DEL_ANALISIS",
+        "justificacion": "Conocer el alcance de las alternativas respalda acotar la afirmación; no se atribuye a estos segmentos una nueva consulta o selección de casos.",
+        "limites": "No es una ocurrencia codificada en estos pasajes ni una revisión de la codificación fuente."
+      }
+    ],
+    "hallazgos_s01": [
+      "S01-H003",
+      "S01-H005",
+      "S01-H022"
+    ],
+    "componentes_p01": [
+      "P01-E02-N011",
+      "P01-E02-N013",
+      "P01-E02-N015"
+    ]
+  },
+  {
+    "necesidad": "N01-N009",
+    "codigos_comunes": [
+      "C029",
+      "C024",
+      "C030",
+      "C031",
+      "C017",
+      "C009"
+    ],
+    "enlaces_codigos_asignados": [
+      {
+        "codigo": "C029",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R02-S086",
+          "R02-S087",
+          "R02-S088",
+          "R02-S094",
+          "R02-S095",
+          "R02-S096",
+          "R02-S103",
+          "R02-S105",
+          "R02-S123"
+        ],
+        "evidencias": [
+          "N01-V0083",
+          "N01-V0084",
+          "N01-V0080",
+          "N01-V0087",
+          "N01-V0088",
+          "N01-V0091",
+          "N01-V0092",
+          "N01-V0097"
+        ]
+      },
+      {
+        "codigo": "C024",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R02-S100",
+          "R02-S113"
+        ],
+        "evidencias": [
+          "N01-V0089",
+          "N01-V0095"
+        ]
+      },
+      {
+        "codigo": "C030",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R02-S099",
+          "R02-S101",
+          "R02-S102",
+          "R02-S104",
+          "R02-S106",
+          "R02-S108",
+          "R02-S109",
+          "R02-S110",
+          "R02-S111",
+          "R02-S112",
+          "R02-S113"
+        ],
+        "evidencias": [
+          "N01-V0089",
+          "N01-V0090",
+          "N01-V0091",
+          "N01-V0092",
+          "N01-V0093",
+          "N01-V0094",
+          "N01-V0095"
+        ]
+      },
+      {
+        "codigo": "C031",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R02-S105",
+          "R02-S107",
+          "R02-S121",
+          "R02-S123"
+        ],
+        "evidencias": [
+          "N01-V0092",
+          "N01-V0093",
+          "N01-V0096",
+          "N01-V0097"
+        ]
+      },
+      {
+        "codigo": "C017",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R02-S090",
+          "R02-S091",
+          "R02-S094",
+          "R02-S115"
+        ],
+        "evidencias": [
+          "N01-V0085",
+          "N01-V0086",
+          "N01-V0087",
+          "N01-V0098"
+        ]
+      },
+      {
+        "codigo": "C009",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R02-S092",
+          "R02-S122"
+        ],
+        "evidencias": [
+          "N01-V0086",
+          "N01-V0070"
+        ]
+      }
+    ],
+    "codigos_contextuales": [],
+    "hallazgos_s01": [
+      "S01-H016",
+      "S01-H017",
+      "S01-H018",
+      "S01-H019"
+    ],
+    "componentes_p01": []
+  },
+  {
+    "necesidad": "N01-N010",
+    "codigos_comunes": [
+      "C034",
+      "C035",
+      "C037",
+      "C039",
+      "C042",
+      "C020"
+    ],
+    "enlaces_codigos_asignados": [
+      {
+        "codigo": "C034",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R03-S008",
+          "R03-S009",
+          "R03-S019",
+          "R03-S086",
+          "R03-S137",
+          "R03-S138",
+          "R03-S139"
+        ],
+        "evidencias": [
+          "N01-V0100",
+          "N01-V0101",
+          "N01-V0102",
+          "N01-V0111",
+          "N01-V0118",
+          "N01-V0119"
+        ]
+      },
+      {
+        "codigo": "C035",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R03-S094",
+          "R03-S095"
+        ],
+        "evidencias": [
+          "N01-V0116",
+          "N01-V0117"
+        ]
+      },
+      {
+        "codigo": "C037",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R03-S084",
+          "R03-S089"
+        ],
+        "evidencias": [
+          "N01-V0110",
+          "N01-V0112"
+        ]
+      },
+      {
+        "codigo": "C039",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R03-S009",
+          "R03-S019",
+          "R03-S040",
+          "R03-S041",
+          "R03-S084"
+        ],
+        "evidencias": [
+          "N01-V0101",
+          "N01-V0102",
+          "N01-V0103",
+          "N01-V0104",
+          "N01-V0110"
+        ]
+      },
+      {
+        "codigo": "C042",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R03-S053",
+          "R03-S082",
+          "R03-S090"
+        ],
+        "evidencias": [
+          "N01-V0107",
+          "N01-V0108",
+          "N01-V0113"
+        ]
+      },
+      {
+        "codigo": "C020",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R03-S040",
+          "R03-S041",
+          "R03-S042",
+          "R03-S044",
+          "R03-S083",
+          "R03-S084",
+          "R03-S093"
+        ],
+        "evidencias": [
+          "N01-V0103",
+          "N01-V0104",
+          "N01-V0105",
+          "N01-V0106",
+          "N01-V0109",
+          "N01-V0110",
+          "N01-V0115"
+        ]
+      }
+    ],
+    "codigos_contextuales": [],
+    "hallazgos_s01": [
+      "S01-H001",
+      "S01-H006",
+      "S01-H008"
+    ],
+    "componentes_p01": [
+      "P01-E03-N001",
+      "P01-E03-N002",
+      "P01-E03-N003",
+      "P01-E03-N005",
+      "P01-E03-N006",
+      "P01-E03-N008",
+      "P01-E03-N009"
+    ]
+  },
+  {
+    "necesidad": "N01-N011",
+    "codigos_comunes": [
+      "C040",
+      "C037",
+      "C042",
+      "C032"
+    ],
+    "enlaces_codigos_asignados": [
+      {
+        "codigo": "C040",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R03-S031",
+          "R03-S032",
+          "R03-S033",
+          "R03-S034",
+          "R03-S035",
+          "R03-S037",
+          "R03-S039",
+          "R03-S085"
+        ],
+        "evidencias": [
+          "N01-V0120",
+          "N01-V0121",
+          "N01-V0122",
+          "N01-V0123",
+          "N01-V0124",
+          "N01-V0125",
+          "N01-V0127"
+        ]
+      },
+      {
+        "codigo": "C037",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R03-S033",
+          "R03-S034"
+        ],
+        "evidencias": [
+          "N01-V0122",
+          "N01-V0123"
+        ]
+      },
+      {
+        "codigo": "C042",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R03-S082"
+        ],
+        "evidencias": [
+          "N01-V0108"
+        ]
+      },
+      {
+        "codigo": "C032",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R03-S038",
+          "R03-S080",
+          "R03-S081"
+        ],
+        "evidencias": [
+          "N01-V0125",
+          "N01-V0128",
+          "N01-V0129"
+        ]
+      }
+    ],
+    "codigos_contextuales": [],
+    "hallazgos_s01": [
+      "S01-H008",
+      "S01-H012"
+    ],
+    "componentes_p01": [
+      "P01-E03-N004",
+      "P01-E03-N005",
+      "P01-E03-N008",
+      "P01-E03-N010"
+    ]
+  },
+  {
+    "necesidad": "N01-N012",
+    "codigos_comunes": [
+      "C041",
+      "C037",
+      "C010",
+      "C027"
+    ],
+    "enlaces_codigos_asignados": [
+      {
+        "codigo": "C041",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R03-S049",
+          "R03-S050",
+          "R03-S051",
+          "R03-S121",
+          "R03-S123"
+        ],
+        "evidencias": [
+          "N01-V0130",
+          "N01-V0131",
+          "N01-V0132",
+          "N01-V0133",
+          "N01-V0134"
+        ]
+      },
+      {
+        "codigo": "C037",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R03-S050"
+        ],
+        "evidencias": [
+          "N01-V0131"
+        ]
+      },
+      {
+        "codigo": "C010",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R03-S048"
+        ],
+        "evidencias": [
+          "N01-V0130"
+        ]
+      },
+      {
+        "codigo": "C027",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R03-S121",
+          "R03-S122",
+          "R03-S123"
+        ],
+        "evidencias": [
+          "N01-V0133",
+          "N01-V0134"
+        ]
+      }
+    ],
+    "codigos_contextuales": [],
+    "hallazgos_s01": [
+      "S01-H011",
+      "S01-H021"
+    ],
+    "componentes_p01": [
+      "P01-E03-N007",
+      "P01-E03-N009",
+      "P01-E03-N011"
+    ]
+  },
+  {
+    "necesidad": "N01-N013",
+    "codigos_comunes": [
+      "C033",
+      "C036",
+      "C010",
+      "C044"
+    ],
+    "enlaces_codigos_asignados": [
+      {
+        "codigo": "C033",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R03-S025",
+          "R03-S047",
+          "R03-S060",
+          "R03-S098"
+        ],
+        "evidencias": [
+          "N01-V0136",
+          "N01-V0137",
+          "N01-V0145",
+          "N01-V0146"
+        ]
+      },
+      {
+        "codigo": "C036",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R03-S063",
+          "R03-S064",
+          "R03-S065",
+          "R03-S066",
+          "R03-S131"
+        ],
+        "evidencias": [
+          "N01-V0139",
+          "N01-V0140",
+          "N01-V0141",
+          "N01-V0142",
+          "N01-V0143"
+        ]
+      },
+      {
+        "codigo": "C010",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R03-S047",
+          "R03-S048",
+          "R03-S060",
+          "R03-S062",
+          "R03-S131",
+          "R03-S135"
+        ],
+        "evidencias": [
+          "N01-V0136",
+          "N01-V0130",
+          "N01-V0137",
+          "N01-V0138",
+          "N01-V0143",
+          "N01-V0144"
+        ]
+      },
+      {
+        "codigo": "C044",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R03-S060",
+          "R03-S062"
+        ],
+        "evidencias": [
+          "N01-V0137",
+          "N01-V0138"
+        ]
+      }
+    ],
+    "codigos_contextuales": [],
+    "hallazgos_s01": [
+      "S01-H008",
+      "S01-H009",
+      "S01-H021"
+    ],
+    "componentes_p01": [
+      "P01-E03-N007",
+      "P01-E03-N011",
+      "P01-E03-N013",
+      "P01-E03-N015"
+    ]
+  },
+  {
+    "necesidad": "N01-N014",
+    "codigos_comunes": [
+      "C043",
+      "C044",
+      "C038",
+      "C040"
+    ],
+    "enlaces_codigos_asignados": [
+      {
+        "codigo": "C043",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R03-S056",
+          "R03-S057",
+          "R03-S058"
+        ],
+        "evidencias": [
+          "N01-V0150",
+          "N01-V0151",
+          "N01-V0152"
+        ]
+      },
+      {
+        "codigo": "C044",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R03-S059",
+          "R03-S060",
+          "R03-S062",
+          "R03-S126",
+          "R03-S127"
+        ],
+        "evidencias": [
+          "N01-V0153",
+          "N01-V0137",
+          "N01-V0138",
+          "N01-V0154"
+        ]
+      },
+      {
+        "codigo": "C038",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R03-S016",
+          "R03-S017",
+          "R03-S128"
+        ],
+        "evidencias": [
+          "N01-V0148",
+          "N01-V0149",
+          "N01-V0155"
+        ]
+      },
+      {
+        "codigo": "C040",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R03-S057"
+        ],
+        "evidencias": [
+          "N01-V0151"
+        ]
+      }
+    ],
+    "codigos_contextuales": [],
+    "hallazgos_s01": [
+      "S01-H009",
+      "S01-H012",
+      "S01-H020"
+    ],
+    "componentes_p01": [
+      "P01-E03-N011",
+      "P01-E03-N012",
+      "P01-E03-N013",
+      "P01-E03-N014",
+      "P01-E03-N015"
+    ]
+  },
+  {
+    "necesidad": "N01-N015",
+    "codigos_comunes": [
+      "C045",
+      "C010",
+      "C034",
+      "C015"
+    ],
+    "enlaces_codigos_asignados": [
+      {
+        "codigo": "C045",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R03-S027",
+          "R03-S070",
+          "R03-S071",
+          "R03-S072",
+          "R03-S076",
+          "R03-S141"
+        ],
+        "evidencias": [
+          "N01-V0157",
+          "N01-V0160",
+          "N01-V0161",
+          "N01-V0162",
+          "N01-V0163",
+          "N01-V0164"
+        ]
+      },
+      {
+        "codigo": "C010",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R03-S068",
+          "R03-S070",
+          "R03-S071"
+        ],
+        "evidencias": [
+          "N01-V0158",
+          "N01-V0160",
+          "N01-V0161"
+        ]
+      },
+      {
+        "codigo": "C034",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R03-S070"
+        ],
+        "evidencias": [
+          "N01-V0160"
+        ]
+      },
+      {
+        "codigo": "C015",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R03-S099",
+          "R03-S100",
+          "R03-S140"
+        ],
+        "evidencias": [
+          "N01-V0156",
+          "N01-V0147",
+          "N01-V0135"
+        ]
+      }
+    ],
+    "codigos_contextuales": [],
+    "hallazgos_s01": [
+      "S01-H006",
+      "S01-H014",
+      "S01-H022"
+    ],
+    "componentes_p01": [
+      "P01-E03-N016",
+      "P01-E03-N017",
+      "P01-E03-N018"
+    ]
+  },
+  {
+    "necesidad": "N01-N016",
+    "codigos_comunes": [
+      "C017",
+      "C009",
+      "C060",
+      "C030",
+      "C031",
+      "C027"
+    ],
+    "enlaces_codigos_asignados": [
+      {
+        "codigo": "C017",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R03-S106",
+          "R03-S110",
+          "R03-S115"
+        ],
+        "evidencias": [
+          "N01-V0165",
+          "N01-V0167",
+          "N01-V0171"
+        ]
+      },
+      {
+        "codigo": "C009",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R03-S109",
+          "R03-S116"
+        ],
+        "evidencias": [
+          "N01-V0166",
+          "N01-V0172"
+        ]
+      },
+      {
+        "codigo": "C060",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R03-S111",
+          "R03-S114",
+          "R03-S116",
+          "R03-S117"
+        ],
+        "evidencias": [
+          "N01-V0168",
+          "N01-V0172",
+          "N01-V0173",
+          "N01-V0176"
+        ]
+      },
+      {
+        "codigo": "C030",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R03-S110",
+          "R03-S117",
+          "R03-S120",
+          "R03-S130"
+        ],
+        "evidencias": [
+          "N01-V0167",
+          "N01-V0173",
+          "N01-V0174",
+          "N01-V0177"
+        ]
+      },
+      {
+        "codigo": "C031",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R03-S115",
+          "R03-S118"
+        ],
+        "evidencias": [
+          "N01-V0171",
+          "N01-V0174"
+        ]
+      },
+      {
+        "codigo": "C027",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R03-S112",
+          "R03-S113",
+          "R03-S122",
+          "R03-S123"
+        ],
+        "evidencias": [
+          "N01-V0169",
+          "N01-V0170",
+          "N01-V0134"
+        ]
+      }
+    ],
+    "codigos_contextuales": [],
+    "hallazgos_s01": [
+      "S01-H014",
+      "S01-H016",
+      "S01-H017",
+      "S01-H018",
+      "S01-H019",
+      "S01-H021"
+    ],
+    "componentes_p01": []
+  },
+  {
+    "necesidad": "N01-N017",
+    "codigos_comunes": [
+      "C046",
+      "C009",
+      "C060"
+    ],
+    "enlaces_codigos_asignados": [
+      {
+        "codigo": "C046",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R03-S101",
+          "R03-S103",
+          "R03-S104",
+          "R03-S105",
+          "R03-S107",
+          "R03-S143"
+        ],
+        "evidencias": [
+          "N01-V0178",
+          "N01-V0179",
+          "N01-V0180",
+          "N01-V0181",
+          "N01-V0182"
+        ]
+      },
+      {
+        "codigo": "C009",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R03-S108"
+        ],
+        "evidencias": [
+          "N01-V0182"
+        ]
+      },
+      {
+        "codigo": "C060",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R03-S111"
+        ],
+        "evidencias": [
+          "N01-V0168"
+        ]
+      }
+    ],
+    "codigos_contextuales": [
+      {
+        "codigo": "C040",
+        "tipo": "RELACION_CONCEPTUAL_DEL_ANALISIS",
+        "justificacion": "Los ritmos ayudan a valorar una actividad en el lugar; C040 no está asignado en estos segmentos del ideal.",
+        "limites": "No es una ocurrencia codificada en estos pasajes ni una revisión de la codificación fuente."
+      }
+    ],
+    "hallazgos_s01": [
+      "S01-H012",
+      "S01-H016",
+      "S01-H017",
+      "S01-H018",
+      "S01-H019"
+    ],
+    "componentes_p01": []
+  },
+  {
+    "necesidad": "N01-N018",
+    "codigos_comunes": [
+      "C048",
+      "C014"
+    ],
+    "enlaces_codigos_asignados": [
+      {
+        "codigo": "C048",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R04-S007",
+          "R04-S032",
+          "R04-S034",
+          "R04-S036",
+          "R04-S037",
+          "R04-S038",
+          "R04-S039",
+          "R04-S040",
+          "R04-S041",
+          "R04-S096",
+          "R04-S146",
+          "R04-S147",
+          "R04-S148",
+          "R04-S149"
+        ],
+        "evidencias": [
+          "N01-V0183",
+          "N01-V0185",
+          "N01-V0186",
+          "N01-V0187",
+          "N01-V0188",
+          "N01-V0189",
+          "N01-V0191",
+          "N01-V0194",
+          "N01-V0195",
+          "N01-V0196",
+          "N01-V0197"
+        ]
+      },
+      {
+        "codigo": "C014",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R04-S038",
+          "R04-S095",
+          "R04-S100",
+          "R04-S105"
+        ],
+        "evidencias": [
+          "N01-V0188",
+          "N01-V0190",
+          "N01-V0193",
+          "N01-V0199"
+        ]
+      }
+    ],
+    "codigos_contextuales": [
+      {
+        "codigo": "C032",
+        "tipo": "RELACION_CONCEPTUAL_DEL_ANALISIS",
+        "justificacion": "Se vincula contextualmente con el criterio de propósito, sin afirmar preparación o método adicional: reponer según artículo no equivale a recodificarlo como C032.",
+        "limites": "No es una ocurrencia codificada en estos pasajes ni una revisión de la codificación fuente."
+      }
+    ],
+    "hallazgos_s01": [
+      "S01-H001",
+      "S01-H013"
+    ],
+    "componentes_p01": [
+      "P01-E04-N001",
+      "P01-E04-N002",
+      "P01-E04-N016"
+    ]
+  },
+  {
+    "necesidad": "N01-N019",
+    "codigos_comunes": [
+      "C002",
+      "C003",
+      "C052",
+      "C051",
+      "C014"
+    ],
+    "enlaces_codigos_asignados": [
+      {
+        "codigo": "C002",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R04-S033",
+          "R04-S042",
+          "R04-S048",
+          "R04-S099"
+        ],
+        "evidencias": [
+          "N01-V0185",
+          "N01-V0200",
+          "N01-V0202",
+          "N01-V0192"
+        ]
+      },
+      {
+        "codigo": "C003",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R04-S043",
+          "R04-S048",
+          "R04-S059"
+        ],
+        "evidencias": [
+          "N01-V0200",
+          "N01-V0202",
+          "N01-V0203"
+        ]
+      },
+      {
+        "codigo": "C052",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R04-S047",
+          "R04-S048",
+          "R04-S059",
+          "R04-S102"
+        ],
+        "evidencias": [
+          "N01-V0201",
+          "N01-V0202",
+          "N01-V0203",
+          "N01-V0208"
+        ]
+      },
+      {
+        "codigo": "C051",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R04-S049",
+          "R04-S101"
+        ],
+        "evidencias": [
+          "N01-V0202",
+          "N01-V0206"
+        ]
+      },
+      {
+        "codigo": "C014",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R04-S043",
+          "R04-S059",
+          "R04-S060",
+          "R04-S095",
+          "R04-S104",
+          "R04-S105"
+        ],
+        "evidencias": [
+          "N01-V0200",
+          "N01-V0203",
+          "N01-V0204",
+          "N01-V0190",
+          "N01-V0207",
+          "N01-V0199"
+        ]
+      }
+    ],
+    "codigos_contextuales": [],
+    "hallazgos_s01": [
+      "S01-H001",
+      "S01-H002",
+      "S01-H015"
+    ],
+    "componentes_p01": [
+      "P01-E04-N003",
+      "P01-E04-N004",
+      "P01-E04-N006",
+      "P01-E04-N009"
+    ]
+  },
+  {
+    "necesidad": "N01-N020",
+    "codigos_comunes": [
+      "C053",
+      "C045",
+      "C008",
+      "C015",
+      "C051"
+    ],
+    "enlaces_codigos_asignados": [
+      {
+        "codigo": "C053",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R04-S053",
+          "R04-S056",
+          "R04-S058",
+          "R04-S155"
+        ],
+        "evidencias": [
+          "N01-V0213",
+          "N01-V0215",
+          "N01-V0216",
+          "N01-V0217"
+        ]
+      },
+      {
+        "codigo": "C045",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R04-S010",
+          "R04-S012",
+          "R04-S019",
+          "R04-S057",
+          "R04-S080"
+        ],
+        "evidencias": [
+          "N01-V0210",
+          "N01-V0211",
+          "N01-V0216",
+          "N01-V0218",
+          "N01-V0220"
+        ]
+      },
+      {
+        "codigo": "C008",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R04-S020",
+          "R04-S051",
+          "R04-S101",
+          "R04-S103",
+          "R04-S113"
+        ],
+        "evidencias": [
+          "N01-V0212",
+          "N01-V0206",
+          "N01-V0208",
+          "N01-V0218",
+          "N01-V0221"
+        ]
+      },
+      {
+        "codigo": "C015",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R04-S020",
+          "R04-S051",
+          "R04-S058",
+          "R04-S078",
+          "R04-S079",
+          "R04-S080",
+          "R04-S103",
+          "R04-S113"
+        ],
+        "evidencias": [
+          "N01-V0212",
+          "N01-V0216",
+          "N01-V0208",
+          "N01-V0218",
+          "N01-V0219",
+          "N01-V0220",
+          "N01-V0221"
+        ]
+      },
+      {
+        "codigo": "C051",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R04-S052",
+          "R04-S101"
+        ],
+        "evidencias": [
+          "N01-V0213",
+          "N01-V0206"
+        ]
+      }
+    ],
+    "codigos_contextuales": [],
+    "hallazgos_s01": [
+      "S01-H014",
+      "S01-H015"
+    ],
+    "componentes_p01": [
+      "P01-E04-N007",
+      "P01-E04-N008",
+      "P01-E04-N010"
+    ]
+  },
+  {
+    "necesidad": "N01-N021",
+    "codigos_comunes": [
+      "C054",
+      "C045",
+      "C047",
+      "C050"
+    ],
+    "enlaces_codigos_asignados": [
+      {
+        "codigo": "C054",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R04-S010",
+          "R04-S054",
+          "R04-S071",
+          "R04-S072",
+          "R04-S141",
+          "R04-S142",
+          "R04-S143",
+          "R04-S144",
+          "R04-S150"
+        ],
+        "evidencias": [
+          "N01-V0210",
+          "N01-V0214",
+          "N01-V0223",
+          "N01-V0224",
+          "N01-V0225",
+          "N01-V0226",
+          "N01-V0227",
+          "N01-V0228"
+        ]
+      },
+      {
+        "codigo": "C045",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R04-S010",
+          "R04-S046",
+          "R04-S080",
+          "R04-S141",
+          "R04-S144",
+          "R04-S145",
+          "R04-S150"
+        ],
+        "evidencias": [
+          "N01-V0210",
+          "N01-V0222",
+          "N01-V0225",
+          "N01-V0227",
+          "N01-V0228",
+          "N01-V0220",
+          "N01-V0229"
+        ]
+      },
+      {
+        "codigo": "C047",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R04-S071",
+          "R04-S143"
+        ],
+        "evidencias": [
+          "N01-V0223",
+          "N01-V0227"
+        ]
+      },
+      {
+        "codigo": "C050",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R04-S009"
+        ],
+        "evidencias": [
+          "N01-V0210"
+        ]
+      }
+    ],
+    "codigos_contextuales": [],
+    "hallazgos_s01": [
+      "S01-H007",
+      "S01-H014"
+    ],
+    "componentes_p01": [
+      "P01-E04-N004",
+      "P01-E04-N008",
+      "P01-E04-N011",
+      "P01-E04-N015"
+    ]
+  },
+  {
+    "necesidad": "N01-N022",
+    "codigos_comunes": [
+      "C064",
+      "C011",
+      "C004"
+    ],
+    "enlaces_codigos_asignados": [
+      {
+        "codigo": "C064",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R04-S075",
+          "R04-S152",
+          "R04-S153"
+        ],
+        "evidencias": [
+          "N01-V0223",
+          "N01-V0230",
+          "N01-V0233"
+        ]
+      },
+      {
+        "codigo": "C011",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R04-S074",
+          "R04-S077",
+          "R04-S085",
+          "R04-S086"
+        ],
+        "evidencias": [
+          "N01-V0232",
+          "N01-V0234",
+          "N01-V0235"
+        ]
+      },
+      {
+        "codigo": "C004",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R04-S073"
+        ],
+        "evidencias": [
+          "N01-V0231"
+        ]
+      }
+    ],
+    "codigos_contextuales": [],
+    "hallazgos_s01": [
+      "S01-H002",
+      "S01-H013"
+    ],
+    "componentes_p01": [
+      "P01-E04-N011",
+      "P01-E04-N012",
+      "P01-E04-N013",
+      "P01-E04-N014",
+      "P01-E04-N015"
+    ]
+  },
+  {
+    "necesidad": "N01-N023",
+    "codigos_comunes": [
+      "C055",
+      "C009",
+      "C017",
+      "C030",
+      "C031",
+      "C053"
+    ],
+    "enlaces_codigos_asignados": [
+      {
+        "codigo": "C055",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R04-S107",
+          "R04-S108",
+          "R04-S109",
+          "R04-S115",
+          "R04-S122",
+          "R04-S130"
+        ],
+        "evidencias": [
+          "N01-V0237",
+          "N01-V0238",
+          "N01-V0239",
+          "N01-V0243",
+          "N01-V0247",
+          "N01-V0250"
+        ]
+      },
+      {
+        "codigo": "C009",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R04-S109",
+          "R04-S117",
+          "R04-S120",
+          "R04-S121",
+          "R04-S125",
+          "R04-S129",
+          "R04-S154"
+        ],
+        "evidencias": [
+          "N01-V0239",
+          "N01-V0244",
+          "N01-V0246",
+          "N01-V0249",
+          "N01-V0250",
+          "N01-V0251"
+        ]
+      },
+      {
+        "codigo": "C017",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R04-S114",
+          "R04-S115",
+          "R04-S116",
+          "R04-S118",
+          "R04-S124",
+          "R04-S125",
+          "R04-S128",
+          "R04-S129"
+        ],
+        "evidencias": [
+          "N01-V0242",
+          "N01-V0243",
+          "N01-V0245",
+          "N01-V0248",
+          "N01-V0249",
+          "N01-V0250",
+          "N01-V0255"
+        ]
+      },
+      {
+        "codigo": "C030",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R04-S111",
+          "R04-S112",
+          "R04-S131",
+          "R04-S132",
+          "R04-S139"
+        ],
+        "evidencias": [
+          "N01-V0241",
+          "N01-V0251",
+          "N01-V0252",
+          "N01-V0217"
+        ]
+      },
+      {
+        "codigo": "C031",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R04-S124",
+          "R04-S133"
+        ],
+        "evidencias": [
+          "N01-V0248",
+          "N01-V0252"
+        ]
+      },
+      {
+        "codigo": "C053",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R04-S108",
+          "R04-S112",
+          "R04-S155"
+        ],
+        "evidencias": [
+          "N01-V0238",
+          "N01-V0241",
+          "N01-V0217"
+        ]
+      }
+    ],
+    "codigos_contextuales": [],
+    "hallazgos_s01": [
+      "S01-H015",
+      "S01-H016",
+      "S01-H017",
+      "S01-H018",
+      "S01-H019"
+    ],
+    "componentes_p01": []
+  },
+  {
+    "necesidad": "N01-N024",
+    "codigos_comunes": [
+      "C049",
+      "C047",
+      "C045",
+      "C058",
+      "C019"
+    ],
+    "enlaces_codigos_asignados": [
+      {
+        "codigo": "C049",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R04-S006",
+          "R04-S035",
+          "R04-S044",
+          "R04-S061",
+          "R04-S062",
+          "R04-S087"
+        ],
+        "evidencias": [
+          "N01-V0256",
+          "N01-V0260",
+          "N01-V0261",
+          "N01-V0262",
+          "N01-V0263",
+          "N01-V0266"
+        ]
+      },
+      {
+        "codigo": "C047",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R04-S022",
+          "R04-S024",
+          "R04-S025",
+          "R04-S044",
+          "R04-S092"
+        ],
+        "evidencias": [
+          "N01-V0257",
+          "N01-V0258",
+          "N01-V0259",
+          "N01-V0261",
+          "N01-V0267"
+        ]
+      },
+      {
+        "codigo": "C045",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R04-S045",
+          "R04-S046",
+          "R04-S063",
+          "R04-S064"
+        ],
+        "evidencias": [
+          "N01-V0261",
+          "N01-V0222",
+          "N01-V0264",
+          "N01-V0265"
+        ]
+      },
+      {
+        "codigo": "C058",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R04-S066"
+        ],
+        "evidencias": [
+          "N01-V0265"
+        ]
+      },
+      {
+        "codigo": "C019",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R04-S061",
+          "R04-S063",
+          "R04-S068"
+        ],
+        "evidencias": [
+          "N01-V0262",
+          "N01-V0264",
+          "N01-V0268"
+        ]
+      }
+    ],
+    "codigos_contextuales": [],
+    "hallazgos_s01": [
+      "S01-H007",
+      "S01-H011",
+      "S01-H013"
+    ],
+    "componentes_p01": [
+      "P01-E04-N003",
+      "P01-E04-N004",
+      "P01-E04-N005",
+      "P01-E04-N010",
+      "P01-E04-N011"
+    ]
+  },
+  {
+    "necesidad": "N01-N025",
+    "codigos_comunes": [
+      "C034",
+      "C039",
+      "C041",
+      "C042",
+      "C058",
+      "C059"
+    ],
+    "enlaces_codigos_asignados": [
+      {
+        "codigo": "C034",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R05-S013",
+          "R05-S034",
+          "R05-S048",
+          "R05-S050",
+          "R05-S051",
+          "R05-S057",
+          "R05-S058",
+          "R05-S146",
+          "R05-S150"
+        ],
+        "evidencias": [
+          "N01-V0271",
+          "N01-V0272",
+          "N01-V0278",
+          "N01-V0279",
+          "N01-V0282",
+          "N01-V0283",
+          "N01-V0290",
+          "N01-V0294"
+        ]
+      },
+      {
+        "codigo": "C039",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R05-S056",
+          "R05-S092"
+        ],
+        "evidencias": [
+          "N01-V0281",
+          "N01-V0287"
+        ]
+      },
+      {
+        "codigo": "C041",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R05-S047",
+          "R05-S060",
+          "R05-S061",
+          "R05-S062",
+          "R05-S098"
+        ],
+        "evidencias": [
+          "N01-V0278",
+          "N01-V0284",
+          "N01-V0285",
+          "N01-V0286",
+          "N01-V0292"
+        ]
+      },
+      {
+        "codigo": "C042",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R05-S039",
+          "R05-S040",
+          "R05-S050",
+          "R05-S091",
+          "R05-S092",
+          "R05-S094",
+          "R05-S095"
+        ],
+        "evidencias": [
+          "N01-V0274",
+          "N01-V0275",
+          "N01-V0279",
+          "N01-V0287",
+          "N01-V0288",
+          "N01-V0289"
+        ]
+      },
+      {
+        "codigo": "C058",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R05-S035",
+          "R05-S036",
+          "R05-S038",
+          "R05-S041",
+          "R05-S059",
+          "R05-S099",
+          "R05-S105"
+        ],
+        "evidencias": [
+          "N01-V0272",
+          "N01-V0273",
+          "N01-V0275",
+          "N01-V0283",
+          "N01-V0292",
+          "N01-V0293"
+        ]
+      },
+      {
+        "codigo": "C059",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R05-S013",
+          "R05-S051",
+          "R05-S052",
+          "R05-S095"
+        ],
+        "evidencias": [
+          "N01-V0271",
+          "N01-V0279",
+          "N01-V0280",
+          "N01-V0289"
+        ]
+      }
+    ],
+    "codigos_contextuales": [],
+    "hallazgos_s01": [
+      "S01-H001",
+      "S01-H006",
+      "S01-H008",
+      "S01-H011"
+    ],
+    "componentes_p01": [
+      "P01-E05-N002",
+      "P01-E05-N003",
+      "P01-E05-N004",
+      "P01-E05-N005",
+      "P01-E05-N006",
+      "P01-E05-N008",
+      "P01-E05-N009",
+      "P01-E05-N017"
+    ]
+  },
+  {
+    "necesidad": "N01-N026",
+    "codigos_comunes": [
+      "C052",
+      "C056",
+      "C059"
+    ],
+    "enlaces_codigos_asignados": [
+      {
+        "codigo": "C052",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R05-S007",
+          "R05-S064",
+          "R05-S066",
+          "R05-S067",
+          "R05-S068"
+        ],
+        "evidencias": [
+          "N01-V0296",
+          "N01-V0298",
+          "N01-V0299",
+          "N01-V0300",
+          "N01-V0301"
+        ]
+      },
+      {
+        "codigo": "C056",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R05-S006",
+          "R05-S008",
+          "R05-S009",
+          "R05-S069",
+          "R05-S078",
+          "R05-S090",
+          "R05-S143",
+          "R05-S144",
+          "R05-S145"
+        ],
+        "evidencias": [
+          "N01-V0296",
+          "N01-V0297",
+          "N01-V0302",
+          "N01-V0304",
+          "N01-V0305",
+          "N01-V0306",
+          "N01-V0308"
+        ]
+      },
+      {
+        "codigo": "C059",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R05-S106",
+          "R05-S142"
+        ],
+        "evidencias": [
+          "N01-V0307",
+          "N01-V0308"
+        ]
+      }
+    ],
+    "codigos_contextuales": [],
+    "hallazgos_s01": [
+      "S01-H010",
+      "S01-H019"
+    ],
+    "componentes_p01": [
+      "P01-E05-N010",
+      "P01-E05-N012",
+      "P01-E05-N013",
+      "P01-E05-N016"
+    ]
+  },
+  {
+    "necesidad": "N01-N027",
+    "codigos_comunes": [
+      "C041"
+    ],
+    "enlaces_codigos_asignados": [
+      {
+        "codigo": "C041",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R05-S022",
+          "R05-S023",
+          "R05-S065",
+          "R05-S102",
+          "R05-S104"
+        ],
+        "evidencias": [
+          "N01-V0309",
+          "N01-V0310",
+          "N01-V0313",
+          "N01-V0314"
+        ]
+      }
+    ],
+    "codigos_contextuales": [
+      {
+        "codigo": "C059",
+        "tipo": "RELACION_CONCEPTUAL_DEL_ANALISIS",
+        "justificacion": "Orientarse sostiene explorar sin que otra persona elija; la relación con margen situado es conceptual, sin añadir C059 a las citas.",
+        "limites": "No es una ocurrencia codificada en estos pasajes ni una revisión de la codificación fuente."
+      }
+    ],
+    "hallazgos_s01": [
+      "S01-H011"
+    ],
+    "componentes_p01": [
+      "P01-E05-N010",
+      "P01-E05-N011"
+    ]
+  },
+  {
+    "necesidad": "N01-N028",
+    "codigos_comunes": [
+      "C040",
+      "C019",
+      "C034",
+      "C059"
+    ],
+    "enlaces_codigos_asignados": [
+      {
+        "codigo": "C040",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R05-S028",
+          "R05-S074",
+          "R05-S075",
+          "R05-S076",
+          "R05-S077",
+          "R05-S111"
+        ],
+        "evidencias": [
+          "N01-V0317",
+          "N01-V0320",
+          "N01-V0321",
+          "N01-V0322",
+          "N01-V0323",
+          "N01-V0324"
+        ]
+      },
+      {
+        "codigo": "C019",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R05-S072",
+          "R05-S073"
+        ],
+        "evidencias": [
+          "N01-V0318",
+          "N01-V0319"
+        ]
+      },
+      {
+        "codigo": "C034",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R05-S071",
+          "R05-S072",
+          "R05-S150"
+        ],
+        "evidencias": [
+          "N01-V0303",
+          "N01-V0318",
+          "N01-V0290"
+        ]
+      },
+      {
+        "codigo": "C059",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R05-S095",
+          "R05-S138",
+          "R05-S140",
+          "R05-S141"
+        ],
+        "evidencias": [
+          "N01-V0289",
+          "N01-V0326",
+          "N01-V0327"
+        ]
+      }
+    ],
+    "codigos_contextuales": [],
+    "hallazgos_s01": [
+      "S01-H008",
+      "S01-H011",
+      "S01-H012",
+      "S01-H019"
+    ],
+    "componentes_p01": [
+      "P01-E05-N013",
+      "P01-E05-N014",
+      "P01-E05-N015",
+      "P01-E05-N016"
+    ]
+  },
+  {
+    "necesidad": "N01-N029",
+    "codigos_comunes": [
+      "C040",
+      "C062",
+      "C017",
+      "C009",
+      "C060",
+      "C030",
+      "C031"
+    ],
+    "enlaces_codigos_asignados": [
+      {
+        "codigo": "C040",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R05-S107",
+          "R05-S108",
+          "R05-S110",
+          "R05-S111",
+          "R05-S114",
+          "R05-S118",
+          "R05-S129",
+          "R05-S131"
+        ],
+        "evidencias": [
+          "N01-V0328",
+          "N01-V0329",
+          "N01-V0330",
+          "N01-V0324",
+          "N01-V0331",
+          "N01-V0333",
+          "N01-V0340",
+          "N01-V0341"
+        ]
+      },
+      {
+        "codigo": "C062",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R05-S126"
+        ],
+        "evidencias": [
+          "N01-V0337"
+        ]
+      },
+      {
+        "codigo": "C017",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R05-S112",
+          "R05-S115",
+          "R05-S116",
+          "R05-S122",
+          "R05-S125"
+        ],
+        "evidencias": [
+          "N01-V0331",
+          "N01-V0332",
+          "N01-V0335",
+          "N01-V0337"
+        ]
+      },
+      {
+        "codigo": "C009",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R05-S114",
+          "R05-S119",
+          "R05-S127"
+        ],
+        "evidencias": [
+          "N01-V0331",
+          "N01-V0333",
+          "N01-V0338"
+        ]
+      },
+      {
+        "codigo": "C060",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R05-S120",
+          "R05-S124",
+          "R05-S128",
+          "R05-S132"
+        ],
+        "evidencias": [
+          "N01-V0334",
+          "N01-V0336",
+          "N01-V0339",
+          "N01-V0341"
+        ]
+      },
+      {
+        "codigo": "C030",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R05-S133",
+          "R05-S134",
+          "R05-S136"
+        ],
+        "evidencias": [
+          "N01-V0342",
+          "N01-V0343",
+          "N01-V0325"
+        ]
+      },
+      {
+        "codigo": "C031",
+        "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+        "segmentos_revisados": [
+          "R05-S137"
+        ],
+        "evidencias": [
+          "N01-V0325"
+        ]
+      }
+    ],
+    "codigos_contextuales": [],
+    "hallazgos_s01": [
+      "S01-H012",
+      "S01-H016",
+      "S01-H017",
+      "S01-H018",
+      "S01-H019"
+    ],
+    "componentes_p01": []
+  }
+]

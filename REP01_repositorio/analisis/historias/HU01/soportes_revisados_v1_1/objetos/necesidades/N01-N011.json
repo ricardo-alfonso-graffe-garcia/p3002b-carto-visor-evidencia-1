@@ -1,0 +1,205 @@
+{
+  "id": "N01-N011",
+  "titulo": "Condiciones del salón para leer, conversar y recibir",
+  "enunciado": "La coordinadora de proyectos culturales necesita conocer cómo se escucha, cómo se pueden disponer mesas y sillas, por dónde se entra y qué usos coinciden con la actividad, para elegir entre salón y patio y preparar un acomodo adecuado para esta propuesta, en el contexto de coordinación de tres encuentros de lectura y conversación en un espacio comunitario.",
+  "actores": [
+    "ACT01-A012"
+  ],
+  "entrevistas": [
+    "E03"
+  ],
+  "contexto": "Desde la conversación que invita a regresar al espacio hasta comunicar, después de la serie y la consulta al equipo, interés sin nueva programación.",
+  "decision": "Elegir entre salón y patio y preparar un acomodo adecuado para esta propuesta",
+  "objeto_informacion": "cómo se escucha, cómo se pueden disponer mesas y sillas, por dónde se entra y qué usos coinciden con la actividad",
+  "tipo": "NECESIDAD_ACTUAL",
+  "estado_actual": "ATENDIDA_EN_EPISODIO",
+  "informacion_actual": "La visita en horario parecido, la experiencia de sentarse y escuchar, y confirmaciones sobre otros usos hicieron adecuado el salón.",
+  "faltante_o_deseada": "No se declaró una carencia del lugar; una visita sola no cubría las tres fechas y fue complementada.",
+  "condiciones_y_limites": "No busca el mejor salón de la ciudad, silencio absoluto, medición acústica o aforo técnico. Con otro propósito la revisión puede cambiar.",
+  "soportes_mencionados": [
+    "Visita",
+    "Conversación con anfitriones",
+    "Salón y patio",
+    "Mesas y sillas"
+  ],
+  "conservar": [
+    "Visitar cuando lo amerita la actividad",
+    "Prueba situada de escucha",
+    "Conocimiento operativo de anfitriones"
+  ],
+  "evidencias": [
+    "N01-V0120",
+    "N01-V0121",
+    "N01-V0122",
+    "N01-V0123",
+    "N01-V0124",
+    "N01-V0125",
+    "N01-V0126",
+    "N01-V0108",
+    "N01-V0127"
+  ],
+  "evidencia_que_limita": [
+    "N01-V0128",
+    "N01-V0129",
+    "N01-V0114",
+    "N01-V0117"
+  ],
+  "razon_sin_contraevidencia": null,
+  "contexto_elicitacion": "Reconstrucción retrospectiva del episodio y repreguntas sobre decisión y suficiencia. La atribución descansa en respuestas de participante; preguntas, metáforas y recapitulaciones no son corroboración. Los localizadores del contexto están en cada evidencia.",
+  "codigos_comunes": [
+    "C040",
+    "C037",
+    "C042",
+    "C032"
+  ],
+  "hallazgos_s01": [
+    "S01-H008",
+    "S01-H012"
+  ],
+  "componentes_p01": [
+    "P01-E03-N004",
+    "P01-E03-N005",
+    "P01-E03-N008",
+    "P01-E03-N010"
+  ],
+  "preferencias_act01": [
+    "ACT01-PR011"
+  ],
+  "variantes_por_caso": [],
+  "vinculo_territorial": {
+    "tipo": "REFERENCIA_DE_LUGAR",
+    "razon": "Son propiedades vividas y acuerdos de uso de un espacio conocido, sin coordenadas necesarias demostradas.",
+    "evidencias": [
+      "N01-V0120",
+      "N01-V0121"
+    ],
+    "limites": "La pertinencia del lugar no demuestra necesidad de coordenadas o de un mapa. Organización y espacio sin nombre formal; consulta parcial, sin motivos de no asistencia ni impacto total conocidos. No identifica un programa público."
+  },
+  "vinculos_sectoriales": [
+    {
+      "sector": "SOCIEDAD_CIVIL",
+      "actividad": "Coordinación de tres encuentros de lectura y conversación en un espacio comunitario",
+      "iniciativa": null,
+      "estatus_iniciativa": "ACTIVIDAD_RELATADA_SIN_NOMBRE_FORMAL",
+      "nexo": "RELEVANCIA_PUBLICA_POR_VALIDAR",
+      "razon": "La actividad cultural tiene uso comunitario relatado; una política o programa público de origen no fue identificado.",
+      "evidencias": [
+        "N01-V0346",
+        "N01-V0120",
+        "N01-V0121"
+      ],
+      "limites": "No se identificó programa público que origine esta necesidad. Organización y espacio sin nombre formal; consulta parcial, sin motivos de no asistencia ni impacto total conocidos. No identifica un programa público."
+    }
+  ],
+  "verificacion": [
+    {
+      "id": "N01-K011",
+      "observable": "Puede explicar por qué el salón sirve a leer, conversar y apoyar hojas en esas fechas, distinguiendo observación puntual de confirmación.",
+      "metodo": "Contrastar criterios relatados con lo observado y lo confirmado si se facilitan registros; una comprobación futura debe realizarse en condiciones pertinentes a la nueva actividad.",
+      "origen": "PROPUESTA_ANALITICA",
+      "estado": "PROPUESTA_NO_EJECUTADA",
+      "evidencias": [
+        "N01-V0120",
+        "N01-V0121",
+        "N01-V0122",
+        "N01-V0123",
+        "N01-V0124",
+        "N01-V0125",
+        "N01-V0126",
+        "N01-V0108",
+        "N01-V0127"
+      ],
+      "limites": "Comprobación futura; no se ejecutó ni acredita aceptación humana. No se fijan umbrales numéricos. No busca el mejor salón de la ciudad, silencio absoluto, medición acústica o aforo técnico. Con otro propósito la revisión puede cambiar.",
+      "desglose_origen": {
+        "observable": "PROPUESTA_ANALITICA",
+        "operacionalizacion_metodo": "PROPUESTA_ANALITICA",
+        "aceptacion": "NO_RECABADA"
+      }
+    }
+  ],
+  "prioridad": {
+    "ambito": "E03",
+    "nivel": "ALTA",
+    "origen": "ANALISIS_CONDICIONAL",
+    "criterios": [
+      "N01-CP001",
+      "N01-CP002",
+      "N01-CP003",
+      "N01-CP004"
+    ],
+    "razon": "Complementa la disponibilidad: un salón libre no permite por sí solo cumplir la actividad. Se vincula al compromiso de la serie.",
+    "comparables": [
+      "N01-N010"
+    ],
+    "limites": "Orden parcial dentro de esta actividad. No compara importancia urbana ni factibilidad técnica; evidencia más sólida no equivale a más impacto. Comparar distingue dependencias y momentos; las necesidades no son sustitutos y se admiten empates. En ideales frente a actuales, el nivel se lee dentro de su modalidad."
+  },
+  "importancia_expresada": "No hay priorización comparable explícita de esta pieza por la persona. El nivel asignado es del análisis.",
+  "pertinencia_diseno_posterior": "PENDIENTE: revisar con usuarios y encargo; la legitimidad de la necesidad no prescribe un soporte ni su incorporación a un visor.",
+  "factibilidad": "NO_DETERMINADA",
+  "incognitas": [
+    "No hay mediciones o registro externo de la visita.",
+    "Cambios de uso futuros requieren nueva comprobación."
+  ],
+  "enlaces_codigos_asignados": [
+    {
+      "codigo": "C040",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R03-S031",
+        "R03-S032",
+        "R03-S033",
+        "R03-S034",
+        "R03-S035",
+        "R03-S037",
+        "R03-S039",
+        "R03-S085"
+      ],
+      "evidencias": [
+        "N01-V0120",
+        "N01-V0121",
+        "N01-V0122",
+        "N01-V0123",
+        "N01-V0124",
+        "N01-V0125",
+        "N01-V0127"
+      ]
+    },
+    {
+      "codigo": "C037",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R03-S033",
+        "R03-S034"
+      ],
+      "evidencias": [
+        "N01-V0122",
+        "N01-V0123"
+      ]
+    },
+    {
+      "codigo": "C042",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R03-S082"
+      ],
+      "evidencias": [
+        "N01-V0108"
+      ]
+    },
+    {
+      "codigo": "C032",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R03-S038",
+        "R03-S080",
+        "R03-S081"
+      ],
+      "evidencias": [
+        "N01-V0125",
+        "N01-V0128",
+        "N01-V0129"
+      ]
+    }
+  ],
+  "codigos_contextuales": []
+}

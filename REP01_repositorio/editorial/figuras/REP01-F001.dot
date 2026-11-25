@@ -1,0 +1,18 @@
+digraph G {
+graph [rankdir=TB, bgcolor="white", nodesep=.28, ranksep=.48, pad=.1, splines=polyline];
+node [shape=box,style="rounded,filled",fillcolor="#edf4f7",color="#56788b",fontname="Liberation Sans",fontsize=13,margin=".13,.10",penwidth=1.2];
+edge [color="#486474",arrowsize=.7,penwidth=1.1,fontname="Liberation Sans",fontsize=11];
+n1 [label="1 Recibir y delimitar\nTres registros para\npreparar visitas"];
+n2 [label="2 Contrastar referencias\nTabla, antecedentes,\nmapa y croquis"];
+n3 [label="3 Aclarar el tercer sitio\nPregunta por solicitante;\nresponde equipo del recorrido"];
+n4 [label="4 Decidir y preparar copia\nConservar identidad y punto;\nprecisar acceso utilizado"];
+n5 [label="5 Devolver y explicar\nResponder por el cambio de calle;\nfin de esta revisión"];
+n6 [label="Límite\nOtro acceso y uso posterior\nno comprobados",fillcolor="#fff4dc",color="#b08a40"];
+{rank=same;n1;n2;n3;} {rank=same;n6;n5;n4;}
+n1 -> n2 -> n3 [constraint=false];
+n3 -> n4;
+n4 -> n5 [constraint=false];
+n5 -> n6 [style=dashed,arrowhead=none,label="alcance",constraint=false];
+n6 -> n5 -> n4 [style=invis];
+n1 -> n6 [style=invis];n2 -> n5 [style=invis];
+}

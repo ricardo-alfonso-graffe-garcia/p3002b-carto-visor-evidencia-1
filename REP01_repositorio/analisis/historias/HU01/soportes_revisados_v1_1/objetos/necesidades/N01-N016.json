@@ -1,0 +1,240 @@
+{
+  "id": "N01-N016",
+  "titulo": "Acuerdos e interlocución recuperables al retomar el espacio",
+  "enunciado": "La coordinadora de proyectos culturales necesita conocer con quién se habló, qué se confirmó, qué ocurrió y qué debe volver a preguntarse, para preparar otro acercamiento o permitir que otra persona del equipo retome la relación sin depender de memoria oral completa, en el contexto de coordinación de tres encuentros de lectura y conversación en un espacio comunitario.",
+  "actores": [
+    "ACT01-A012"
+  ],
+  "entrevistas": [
+    "E03"
+  ],
+  "contexto": "Desde la conversación que invita a regresar al espacio hasta comunicar, después de la serie y la consulta al equipo, interés sin nueva programación.",
+  "decision": "Preparar otro acercamiento o permitir que otra persona del equipo retome la relación sin depender de memoria oral completa",
+  "objeto_informacion": "con quién se habló, qué se confirmó, qué ocurrió y qué debe volver a preguntarse",
+  "tipo": "DESEO_IDEAL",
+  "estado_actual": "NO_APLICA_AL_IDEAL",
+  "informacion_actual": "Notas, mensajes y calendario bastaron para la serie; hubo recuperación puntual de un mensaje de horario.",
+  "faltante_o_deseada": "Desea memoria por espacio que separe lo dicho antes y notas propias posteriores, empezando por acuerdos prácticos y preguntas.",
+  "condiciones_y_limites": "Sirve especialmente si varias personas retoman; requiere notas fáciles de mantener y revalidación con anfitriones, sin explicarles su lugar desde una nota antigua. No perfiles individuales.",
+  "soportes_mencionados": [
+    "Carpeta por espacio imaginada",
+    "Página de interlocutores y preguntas",
+    "Notas propias separadas",
+    "Calendario y mensajes actuales"
+  ],
+  "conservar": [
+    "Visita y conversación pertinentes",
+    "Confirmar vigencia",
+    "Comunicación sencilla de series pequeñas"
+  ],
+  "evidencias": [
+    "N01-V0111",
+    "N01-V0112",
+    "N01-V0165",
+    "N01-V0166",
+    "N01-V0167",
+    "N01-V0168",
+    "N01-V0169",
+    "N01-V0170",
+    "N01-V0171",
+    "N01-V0172",
+    "N01-V0173",
+    "N01-V0174"
+  ],
+  "evidencia_que_limita": [
+    "N01-V0175",
+    "N01-V0176",
+    "N01-V0134",
+    "N01-V0154",
+    "N01-V0177"
+  ],
+  "razon_sin_contraevidencia": null,
+  "contexto_elicitacion": "P149 abre ideal, P155 solicita organización y primer uso, P159 uso con otras personas y P167 prioridad. P173 sugiere llegada: P174-P175 limitan a referencias útiles y rechazan acumular trayectos.",
+  "codigos_comunes": [
+    "C017",
+    "C009",
+    "C060",
+    "C030",
+    "C031",
+    "C027"
+  ],
+  "hallazgos_s01": [
+    "S01-H014",
+    "S01-H016",
+    "S01-H017",
+    "S01-H018",
+    "S01-H019",
+    "S01-H021"
+  ],
+  "componentes_p01": [],
+  "preferencias_act01": [
+    "ACT01-PR010",
+    "ACT01-PR011"
+  ],
+  "variantes_por_caso": [],
+  "vinculo_territorial": {
+    "tipo": "REFERENCIA_DE_LUGAR",
+    "razon": "La unidad es la relación con un espacio y sus acuerdos, sin necesidad cartográfica directa.",
+    "evidencias": [
+      "N01-V0111",
+      "N01-V0112"
+    ],
+    "limites": "La pertinencia del lugar no demuestra necesidad de coordenadas o de un mapa. Organización y espacio sin nombre formal; consulta parcial, sin motivos de no asistencia ni impacto total conocidos. No identifica un programa público."
+  },
+  "vinculos_sectoriales": [
+    {
+      "sector": "SOCIEDAD_CIVIL",
+      "actividad": "Coordinación de tres encuentros de lectura y conversación en un espacio comunitario",
+      "iniciativa": null,
+      "estatus_iniciativa": "ACTIVIDAD_RELATADA_SIN_NOMBRE_FORMAL",
+      "nexo": "RELEVANCIA_PUBLICA_POR_VALIDAR",
+      "razon": "La actividad cultural tiene uso comunitario relatado; una política o programa público de origen no fue identificado.",
+      "evidencias": [
+        "N01-V0346",
+        "N01-V0111",
+        "N01-V0112"
+      ],
+      "limites": "No se identificó programa público que origine esta necesidad. Organización y espacio sin nombre formal; consulta parcial, sin motivos de no asistencia ni impacto total conocidos. No identifica un programa público."
+    }
+  ],
+  "verificacion": [
+    {
+      "id": "N01-K016",
+      "observable": "Otra persona del equipo puede preparar el acercamiento y distinguir lo que se sabe de lo que debe confirmar, sin pedir toda la historia desde cero.",
+      "metodo": "En una revisión futura autorizada, retomar un caso con las notas y contrastar el acercamiento preparado con acuerdos y pendientes. Valorar el esfuerzo real de dejar notas, sin dar por medido un ahorro.",
+      "origen": "DECLARADO",
+      "estado": "PROPUESTA_NO_EJECUTADA",
+      "evidencias": [
+        "N01-V0111",
+        "N01-V0112",
+        "N01-V0165",
+        "N01-V0166",
+        "N01-V0167",
+        "N01-V0168",
+        "N01-V0169",
+        "N01-V0170",
+        "N01-V0171",
+        "N01-V0172",
+        "N01-V0173",
+        "N01-V0174"
+      ],
+      "limites": "Comprobación futura; no se ejecutó ni acredita aceptación humana. No se fijan umbrales numéricos. Sirve especialmente si varias personas retoman; requiere notas fáciles de mantener y revalidación con anfitriones, sin explicarles su lugar desde una nota antigua. No perfiles individuales.",
+      "desglose_origen": {
+        "observable": "DECLARADO",
+        "operacionalizacion_metodo": "PROPUESTA_ANALITICA",
+        "aceptacion": "NO_RECABADA"
+      }
+    }
+  ],
+  "prioridad": {
+    "ambito": "E03",
+    "nivel": "ALTA",
+    "origen": "ANALISIS_CONDICIONAL",
+    "criterios": [
+      "N01-CP001",
+      "N01-CP002",
+      "N01-CP003",
+      "N01-CP004"
+    ],
+    "razon": "La coordinadora prioriza acuerdos prácticos y qué volver a preguntar; el análisis la coloca antes de enriquecer ritmos de uso dentro del ideal, condicionada a relevo efectivo.",
+    "comparables": [
+      "N01-N017"
+    ],
+    "limites": "Orden parcial dentro de esta actividad. No compara importancia urbana ni factibilidad técnica; evidencia más sólida no equivale a más impacto. Comparar distingue dependencias y momentos; las necesidades no son sustitutos y se admiten empates. En ideales frente a actuales, el nivel se lee dentro de su modalidad."
+  },
+  "importancia_expresada": "P168 prioriza acuerdos prácticos y lo que hay que volver a preguntar; P169 indica horario previo, confirmación e interlocución como punto para retomar, sin repetir automáticamente.",
+  "pertinencia_diseno_posterior": "PENDIENTE: revisar con usuarios y encargo; la legitimidad de la necesidad no prescribe un soporte ni su incorporación a un visor.",
+  "factibilidad": "NO_DETERMINADA",
+  "incognitas": [
+    "No hay preferencia directa de anfitriones por carpeta u homologación.",
+    "No se conoce quién mantendría las notas ni el esfuerzo real."
+  ],
+  "enlaces_codigos_asignados": [
+    {
+      "codigo": "C017",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R03-S106",
+        "R03-S110",
+        "R03-S115"
+      ],
+      "evidencias": [
+        "N01-V0165",
+        "N01-V0167",
+        "N01-V0171"
+      ]
+    },
+    {
+      "codigo": "C009",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R03-S109",
+        "R03-S116"
+      ],
+      "evidencias": [
+        "N01-V0166",
+        "N01-V0172"
+      ]
+    },
+    {
+      "codigo": "C060",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R03-S111",
+        "R03-S114",
+        "R03-S116",
+        "R03-S117"
+      ],
+      "evidencias": [
+        "N01-V0168",
+        "N01-V0172",
+        "N01-V0173",
+        "N01-V0176"
+      ]
+    },
+    {
+      "codigo": "C030",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R03-S110",
+        "R03-S117",
+        "R03-S120",
+        "R03-S130"
+      ],
+      "evidencias": [
+        "N01-V0167",
+        "N01-V0173",
+        "N01-V0174",
+        "N01-V0177"
+      ]
+    },
+    {
+      "codigo": "C031",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R03-S115",
+        "R03-S118"
+      ],
+      "evidencias": [
+        "N01-V0171",
+        "N01-V0174"
+      ]
+    },
+    {
+      "codigo": "C027",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R03-S112",
+        "R03-S113",
+        "R03-S122",
+        "R03-S123"
+      ],
+      "evidencias": [
+        "N01-V0169",
+        "N01-V0170",
+        "N01-V0134"
+      ]
+    }
+  ],
+  "codigos_contextuales": []
+}

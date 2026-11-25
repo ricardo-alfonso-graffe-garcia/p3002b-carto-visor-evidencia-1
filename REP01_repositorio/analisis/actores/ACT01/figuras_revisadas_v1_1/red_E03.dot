@@ -1,0 +1,25 @@
+digraph G {
+graph [rankdir=LR, bgcolor="white", pad="0.4", nodesep="0.45", ranksep="1.0", fontname="DejaVu Sans", fontsize=22, labelloc=t, label="Tres encuentros culturales\nACT01-AMB003\nVerde continuo: acción propia declarada · Azul continuo: tercero relatado\nVioleta discontinuo: atribución documental\nÁmbar punteado: hipótesis (solo en figura separada)"];
+node [shape=box, style="rounded,filled", fillcolor="#edf5f8", color="#467187", fontname="DejaVu Sans", fontsize=17, margin="0.18,0.12"];
+edge [fontname="DejaVu Sans", fontsize=13, arrowsize=0.8];
+"ACT01-A012" [label="Coordinadora\n(ACT01-A012)", fillcolor="#e3f4ee"];
+"ACT01-A013" [label="Dos interlocutores del espacio\n(ACT01-A013)", fillcolor="#edf5f8"];
+"ACT01-A014" [label="Mediadora de lectura\n(ACT01-A014)", fillcolor="#edf5f8"];
+"ACT01-A015" [label="Compañera de programación\n(ACT01-A015)", fillcolor="#edf5f8"];
+"ACT01-A016" [label="Personas consultadas antes\n(ACT01-A016)", fillcolor="#edf5f8"];
+"ACT01-A017" [label="Asistentes de los encuentros\n(ACT01-A017)", fillcolor="#edf5f8"];
+"ACT01-A018" [label="Equipo de la organización\n(ACT01-A018)", fillcolor="#edf5f8"];
+"ACT01-A029" [label="Otros grupos que usan el espacio\ncultural\n(ACT01-A029)", fillcolor="#edf5f8"];
+"ACT01-A030" [label="Persona que comunica la\ninvitación cultural desde otra\nactividad\n(ACT01-A030)", fillcolor="#edf5f8"];
+"ACT01-A012" -> "ACT01-A013" [id="ACT01-R012", label="Construye propuesta y\nsolicita confirmación\nACT01-R012", color="#16785b", fontcolor="#146449", style="solid", tooltip="DECLARADA: voz entrevistada; contraparte sin voz independiente"];
+"ACT01-A013" -> "ACT01-A012" [id="ACT01-R013", label="Confirma usos y orienta\nllegada\nACT01-R013", color="#176d9b", fontcolor="#175578", style="solid", tooltip="RELATADA_POR_TERCERO: voz entrevistada; contraparte sin voz independiente"];
+"ACT01-A029" -> "ACT01-A013" [id="ACT01-R014", label="Sus usos requieren\ncomprobación de horario\nACT01-R014", color="#176d9b", fontcolor="#175578", style="solid", tooltip="RELATADA_POR_TERCERO: voz entrevistada; contraparte sin voz independiente"];
+"ACT01-A014" -> "ACT01-A012" [id="ACT01-R015", label="Coconstruye contenido y\nrevisa sesiones\nACT01-R015", color="#176d9b", fontcolor="#175578", style="solid", tooltip="RELATADA_POR_TERCERO: voz entrevistada; contraparte sin voz independiente"];
+"ACT01-A015" -> "ACT01-A012" [id="ACT01-R016", label="Revisa compromisos y\ncalendario\nACT01-R016", color="#176d9b", fontcolor="#175578", style="solid", tooltip="RELATADA_POR_TERCERO: voz entrevistada; contraparte sin voz independiente"];
+"ACT01-A016" -> "ACT01-A012" [id="ACT01-R017", label="Informa disponibilidad\nparcial\nACT01-R017", color="#176d9b", fontcolor="#175578", style="solid", tooltip="RELATADA_POR_TERCERO: voz entrevistada; contraparte sin voz independiente"];
+"ACT01-A017" -> "ACT01-A014" [id="ACT01-R018", label="Orienta adaptación\ncultural con\nintervenciones\nACT01-R018", color="#176d9b", fontcolor="#175578", style="solid", tooltip="RELATADA_POR_TERCERO: voz entrevistada; contraparte sin voz independiente"];
+"ACT01-A017" -> "ACT01-A012" [id="ACT01-R019", label="Pregunta y propone sin\ncompromiso colectivo\nACT01-R019", color="#176d9b", fontcolor="#175578", style="solid", tooltip="RELATADA_POR_TERCERO: voz entrevistada; contraparte sin voz independiente"];
+"ACT01-A012" -> "ACT01-A018" [id="ACT01-R020", label="Devuelve valoración para\nconsiderar futuro\nACT01-R020", color="#16785b", fontcolor="#146449", style="solid", tooltip="DECLARADA: voz entrevistada; contraparte sin voz independiente"];
+"ACT01-A018" -> "ACT01-A012" [id="ACT01-R021", label="Acuerda posibilidad sin\nprogramar\nACT01-R021", color="#176d9b", fontcolor="#175578", style="solid", tooltip="RELATADA_POR_TERCERO: voz entrevistada; contraparte sin voz independiente"];
+"ACT01-A030" -> "ACT01-A017" [id="ACT01-R022", label="Comunica invitación a una\nasistente nueva\nACT01-R022", color="#176d9b", fontcolor="#175578", style="solid", tooltip="RELATADA_POR_TERCERO: voz entrevistada; contraparte sin voz independiente"];
+}

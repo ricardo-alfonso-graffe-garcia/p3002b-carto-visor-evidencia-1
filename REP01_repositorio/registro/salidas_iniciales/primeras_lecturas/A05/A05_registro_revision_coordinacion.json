@@ -1,0 +1,86 @@
+{
+  "analisis": "A05",
+  "entrevista": "E05",
+  "fecha_revision": "2026-11-24",
+  "original_analisis": "A05_analisis_E05_v1(1).docx",
+  "library_file_id_original": "libfile_fde3_f-161971a2a59081919a10ba7c5e1bd10f_6c45573f28988191995a53873b532314",
+  "sha256_analisis_docx": "3d3ce60f805e763feb5b06292cea5838c1cd245cd368510170b78394932953e4",
+  "sha256_transcripcion_docx_comprobado": "f8ecccb57bd7103362a09c0153d072937ab330ebdabc55086caf32fe442f44a8",
+  "json_extraido_sin_cambios": true,
+  "copia_lectura": "1.1",
+  "cambio_narrativo": 1,
+  "validacion": {
+    "estado": "ESTRUCTURA_Y_CITAS_OK",
+    "citas_segmentos": 104,
+    "citas_ejemplos": 21,
+    "apariciones_citas_narrativa": 10,
+    "errores": [],
+    "advertencias": []
+  },
+  "revision_humana_independiente": "PENDIENTE",
+  "estado": "PRIMERA_LECTURA_LOCAL_REVISADA_PARA_CONSOLIDACION_POSTERIOR",
+  "nota_metodologica": "Convenciones diferentes para preguntas cerradas neutrales y continuaciones; fijar regla común y recodificar las cinco.",
+  "citas_narrativa": [
+    {
+      "cita": "Pero podía volver sin comprar y aun así haber pasado una buena tarde.",
+      "parrafos_coincidentes": [
+        "E05-P014"
+      ]
+    },
+    {
+      "cita": "Yo diría ir a mirar libros.",
+      "parrafos_coincidentes": [
+        "E05-P173"
+      ]
+    },
+    {
+      "cita": "hacerle espacio",
+      "parrafos_coincidentes": [
+        "E05-P107"
+      ]
+    },
+    {
+      "cita": "ponernos de acuerdo",
+      "parrafos_coincidentes": [
+        "E05-P108"
+      ]
+    },
+    {
+      "cita": "ir y mirar",
+      "parrafos_coincidentes": [
+        "E05-P109"
+      ]
+    },
+    {
+      "cita": "seguir un rato o volver",
+      "parrafos_coincidentes": [
+        "E05-P111",
+        "E05-P114"
+      ]
+    },
+    {
+      "cita": "No son cajones separados.",
+      "parrafos_coincidentes": [
+        "E05-P112"
+      ]
+    },
+    {
+      "cita": "Yo abrí el espacio, pero no fui dirigiendo todo.",
+      "parrafos_coincidentes": [
+        "E05-P032"
+      ]
+    },
+    {
+      "cita": "hablar a gusto",
+      "parrafos_coincidentes": [
+        "E05-P138"
+      ]
+    },
+    {
+      "cita": "No me pondría a llenar una ficha cada vez que tomo algo.",
+      "parrafos_coincidentes": [
+        "E05-P165"
+      ]
+    }
+  ]
+}

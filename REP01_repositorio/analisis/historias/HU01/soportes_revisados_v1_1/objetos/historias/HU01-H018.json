@@ -1,0 +1,119 @@
+{
+  "id": "HU01-H018",
+  "titulo": "Acordar lo necesario para encontrarse",
+  "formulacion": "Como persona que propone una salida con una amistad, quiero hacer compatibles nuestros tiempos, comprobar apertura según el propósito y precisar el punto de encuentro, para concretar ir a mirar libros dejando abierta la continuación acordada.",
+  "actores": [
+    "ACT01-A024"
+  ],
+  "perfil": "HU01-P005",
+  "necesidades": [
+    "N01-N025"
+  ],
+  "entrevistas": [
+    "E05"
+  ],
+  "tipo": "ACTUAL_A_PRESERVAR",
+  "contexto": "Pendientes se revisaron mientras intercambiaban mensajes. Página de la librería y margen al cierre bastaron; reconfirmación y aviso al entrar precisaron encuentro. Qué revisó la amistad no se sabe.",
+  "objetivo": "hacer compatibles nuestros tiempos, comprobar apertura según el propósito y precisar el punto de encuentro",
+  "beneficio_o_decision": "concretar ir a mirar libros dejando abierta la continuación acordada",
+  "restricciones": [
+    "Horario publicado bastó para este propósito sin llamada; título específico o lugar nuevo podrían exigir otra preparación. La segunda parada abierta fue acordada."
+  ],
+  "preservar": [
+    "Acuerdo recíproco",
+    "Margen para llegar",
+    "Decidir continuidad en destino"
+  ],
+  "evidencias": [
+    "N01-V0271",
+    "N01-V0272",
+    "N01-V0273",
+    "N01-V0274",
+    "N01-V0275",
+    "N01-V0276",
+    "N01-V0277",
+    "N01-V0278",
+    "N01-V0279",
+    "N01-V0280",
+    "N01-V0281",
+    "N01-V0282",
+    "N01-V0283",
+    "N01-V0284",
+    "N01-V0285",
+    "N01-V0286",
+    "N01-V0287",
+    "N01-V0288",
+    "N01-V0289",
+    "N01-V0290",
+    "N01-V0291",
+    "N01-V0292",
+    "N01-V0293",
+    "N01-V0294",
+    "N01-V0295"
+  ],
+  "limites": "No se dispone de mensajes ni copia histórica del horario.; No se sabe qué verificó la amistad.. Las formulaciones son derivaciones analíticas, no citas ni compromisos de participantes. La pertinencia de un producto sigue por validar.",
+  "criterios": [
+    {
+      "id": "HU01-K024",
+      "dado": "se propone una tarde con una amistad",
+      "cuando": "se revisan pendientes y acuerdan lugar, hora y apertura según la información consultada",
+      "entonces": "se identifica qué permitiría encontrarse y qué quedó abierto por acuerdo; el aviso dentro precisa el punto sin inferir otra sede",
+      "origen": "ADAPTADO_DE_CRITERIO_N01",
+      "criterios_n01": [
+        "N01-K025"
+      ],
+      "estado": "PROPUESTO_NO_EJECUTADO",
+      "limites": "Adaptación analítica de N01-K025. Observable N01 de origen PROPUESTA_ANALITICA; Dado/Cuando/Entonces y el cotejo son propuestas del análisis, no aceptación recabada. Horario publicado bastó para este propósito sin llamada; título específico o lugar nuevo podrían exigir otra preparación. La segunda parada abierta fue acordada. Soportes originales no aportados; no se ejecutó esta comprobación."
+    }
+  ],
+  "prioridad": {
+    "nivel": "ALTA",
+    "ambito": "E05: actividad actual: Acordar lo necesario para encontrarse",
+    "origen": "ANALISIS_CONDICIONAL",
+    "razon": "Alta antes de iniciar, para condiciones que podrían impedir encontrarse. No exige asegurar cafetería ni título. Importancia expresada: E05-P124 prioriza acordar lo que puede impedir que se encuentren o que el plan empiece frente a escoger el libro en destino; P125 aclara que no elegir cafetería no impedía ir a librería. Es una distinción de condiciones, no ranking urbano.",
+    "limites": "Orden local parcial y condicional al momento señalado. No ranking urbano, cartera implementable, aceptación ADIP ni factibilidad comprobada."
+  },
+  "perfil_metadatos": "HU01-M018",
+  "metaalgoritmo": [
+    {
+      "id": "HU01-OP074",
+      "nombre": "Proponer y revisar posibilidades",
+      "entrada": "Intención propia, pendientes y mensajes",
+      "operacion": "Propuesta: Hacer espacio mientras se acuerda sin decidir disponibilidad ajena.",
+      "salida": "Día y alcance por acordar",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP075",
+      "nombre": "Comprobar apertura pertinente",
+      "entrada": "Página del propio lugar y referencia de experiencia previa",
+      "operacion": "Propuesta: Examinar horario consultado y margen según propósito sin afirmar vigencia externa.",
+      "salida": "Referencia suficiente o duda",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP076",
+      "nombre": "Concretar encuentro",
+      "entrada": "Disponibilidad, lugar y hora propuestos",
+      "operacion": "Propuesta: Presentar y confirmar punto y continuidad abierta en acuerdo recíproco.",
+      "salida": "Acuerdo mínimo",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP077",
+      "nombre": "Reconfirmar y precisar",
+      "entrada": "Acuerdo y situación de llegada",
+      "operacion": "Propuesta: Confirmar que sigue en pie y avisar ubicación cerca de entrada; decidir iniciar.",
+      "salida": "Encuentro localizable sin plan completo",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    }
+  ]
+}

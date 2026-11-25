@@ -1,0 +1,78 @@
+{
+  "id": "HU01-P001",
+  "nombre": "Revisar correspondencia entre registros y lugares",
+  "tipo": "PERFIL_FUNCIONAL",
+  "descripcion": "Síntesis analítica de la voz E01, sus capacidades y decisiones, limitada a la actividad relatada y sus variantes declaradas; no biografía ni arquetipo representativo.",
+  "actores": [
+    "ACT01-A001"
+  ],
+  "entrevistas": [
+    "E01"
+  ],
+  "necesidades": [
+    "N01-N001",
+    "N01-N002",
+    "N01-N003",
+    "N01-N004",
+    "N01-N005"
+  ],
+  "capacidades": [
+    "Comparar nombres, descripción, croquis y punto según lo que representan.",
+    "Formular una pregunta concreta y recuperar aclaración mediada.",
+    "Contrastar con una compañera y explicar la revisión propia."
+  ],
+  "restricciones": [
+    "No organiza visitas ni decide actividades. El encargo no cambió en el episodio.",
+    "El punto representa el sitio y no una puerta levantada con precisión; la primera intención de moverlo no se ejecutó.",
+    "No es actualizar automáticamente todas las bases ni enviar cada intercambio interno.",
+    "La carpeta es soporte imaginado, no carencia de este caso; una observación nueva puede requerir conversación. No registrar todo lo que se desconoce.",
+    "No es una carencia del encargo relatado ni necesidad atribuida al equipo de visitas; la técnica dice quizá para otra solicitud. Debe delimitarse primero quién confirma qué."
+  ],
+  "patron": "Conserva o modifica después de comprender la correspondencia entre espacio, acceso y descripción.",
+  "contraejemplo_y_limite": "Un sitio nuevo con referencias claras o una relación sin observaciones no necesita la carpeta ideal. No representa toda la alcaldía ni organiza visitas.",
+  "evidencias": [
+    "N01-V0001",
+    "N01-V0002",
+    "N01-V0003",
+    "N01-V0004",
+    "N01-V0005",
+    "N01-V0006",
+    "N01-V0007",
+    "N01-V0008",
+    "N01-V0009",
+    "N01-V0010",
+    "N01-V0011",
+    "N01-V0012",
+    "N01-V0013",
+    "N01-V0014",
+    "N01-V0015",
+    "N01-V0016",
+    "N01-V0017",
+    "N01-V0018",
+    "N01-V0019",
+    "N01-V0020",
+    "N01-V0021",
+    "N01-V0022",
+    "N01-V0023",
+    "N01-V0024",
+    "N01-V0025",
+    "N01-V0026",
+    "N01-V0027",
+    "N01-V0028",
+    "N01-V0029",
+    "N01-V0030",
+    "N01-V0031",
+    "N01-V0032",
+    "N01-V0033",
+    "N01-V0034",
+    "N01-V0035",
+    "N01-V0036",
+    "N01-V0037",
+    "N01-V0038",
+    "N01-V0039",
+    "N01-V0040",
+    "N01-V0041",
+    "N01-V0042",
+    "N01-V0043"
+  ]
+}

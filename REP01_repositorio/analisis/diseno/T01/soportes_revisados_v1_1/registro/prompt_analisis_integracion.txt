@@ -1,0 +1,7 @@
+Petición de la persona usuaria, 25 de noviembre de 2026:
+
+Lee íntegramente las instrucciones adjuntas y comprueba el paquete de insumos. Desarrolla T01 con la profundidad solicitada: fundamentos críticos, MAUP, incertidumbre, alternativas de agregación, evaluación de los cuatro lentes, arquitectura adaptada de GeoInsights y dos o tres productos candidatos concretos. Justifica las propuestas mediante las historias y necesidades revisadas, conservando sus condiciones y límites. Contrasta las afirmaciones técnicas con fuentes primarias y documenta qué consultaste. Explica los conceptos en lenguaje comprensible, con identificadores como apoyo. Ejecuta el validador sobre el resultado final, realiza las comprobaciones complementarias y entrega los cuatro archivos completos indicados.
+
+Estrategia de contexto aplicada: lectura de instrucciones completas y maestro 10–16; 21 historias y perfiles; necesidades/fichas/procesos; regreso dirigido a párrafos canónicos y preguntas. Lectura estática del snapshot y consulta primaria técnica; composición por secciones, sin nuevos registros de campo.
+
+No se incluyen prompts de desarrollo de entrevistas ni se exportan instrucciones internas del servicio. Los archivos preparar_t01.py y empacar_t01.py conservan el texto de especificaciones, las transformaciones documentales y las comprobaciones utilizadas. Modelo exacto y parámetros no expuestos: null; revisión asistida, humana independiente pendiente.

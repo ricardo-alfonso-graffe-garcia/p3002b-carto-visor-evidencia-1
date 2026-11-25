@@ -1,0 +1,153 @@
+{
+  "naturaleza": "VISTA_EDITORIAL_DE_PROTOTIPO_LOCAL_NO_REGISTRADO",
+  "estado": "SIN_PID_O_TIPO_Y_PERFIL_EXTERNOS_REGISTRADOS",
+  "registro_original": {
+    "id": "HU01-OD037",
+    "entidad": "HU01-H003",
+    "tipo": "HISTORIA",
+    "titulo": "Retomar el sentido del último cambio de un lugar",
+    "descripcion": "Como persona que retoma un registro territorial, quiero encontrar la explicación del último cambio pertinente, su respaldo y la duda que sigue abierta, para decidir si puedo usar el registro o necesito una nueva aclaración.",
+    "version": "1.0",
+    "estado": "PROTOTIPO_LOCAL_NO_REGISTRADO",
+    "ruta_payload": "objetos/historias/HU01-H003.json",
+    "sha256": "07e88d3dae372c57377b36d177617745be74d241a1d8190c6ee4b09455ddc577",
+    "pid_externo": null,
+    "tipo_registrado_externo": null,
+    "perfil_registrado_externo": null,
+    "procedencia": {
+      "actividad": "Formulación analítica derivada de necesidades, evidencia participante y decisiones HU01; no observación independiente.",
+      "fuentes": [
+        "N01-N004",
+        "N01-V0028",
+        "N01-V0029",
+        "N01-V0030",
+        "N01-V0031",
+        "N01-V0032",
+        "N01-V0033",
+        "N01-V0034",
+        "N01-V0035",
+        "N01-V0036",
+        "N01-V0037",
+        "N01-V0038",
+        "N01-V0039",
+        "N01-V0040",
+        "N01-V0041",
+        "N01-V0042",
+        "N01-V0043"
+      ],
+      "revision": "Revisión asistida por LLM; revisión humana independiente PENDIENTE. El control técnico no es aceptación o aval."
+    },
+    "acceso": {
+      "condicion": "Consulta local de entrega académica en este contexto; cualquier difusión requiere aclarar autorizaciones.",
+      "fundamento": "Los materiales fueron aportados para realizar HU01. Acceso técnico y consentimiento relatado no otorgan permiso de publicación.",
+      "autorizacion_publicacion": "NO_CONSTA"
+    },
+    "licencia": {
+      "valor": null,
+      "fundamento": "No consta licencia explícita de este artefacto concreto ni permiso de extender licencias ajenas al corpus o conjunto."
+    },
+    "relaciones": [
+      {
+        "tipo": "DERIVA_DE",
+        "destino_entidad": "N01-N004"
+      },
+      {
+        "tipo": "DESCRITO_POR",
+        "destino_entidad": "HU01-M003"
+      },
+      {
+        "tipo": "RELACIONADO_CON",
+        "destino_entidad": "HU01-P001"
+      }
+    ]
+  },
+  "necesidad_relacionada": {
+    "id": "HU01-OD004",
+    "entidad": "N01-N004",
+    "tipo": "NECESIDAD",
+    "titulo": "Explicación recuperable del último cambio pertinente",
+    "descripcion": "La técnica de registros de la alcaldía necesita conocer qué cambió en la identificación del lugar, por qué, con qué respaldo, a qué revisión corresponde y qué duda pertinente sigue abierta, para decidir al retomar un registro si puede usarlo o requiere una nueva aclaración, en el contexto de revisión de registros de tres espacios para preparar visitas.",
+    "version": "1.1",
+    "estado": "PROTOTIPO_LOCAL_NO_REGISTRADO",
+    "ruta_payload": "objetos/necesidades/N01-N004.json",
+    "sha256": "bc181cd503d5821264bd0249f37f23828c873a2abf95a6465302fbc7e7537ba9",
+    "pid_externo": null,
+    "tipo_registrado_externo": null,
+    "perfil_registrado_externo": null,
+    "procedencia": {
+      "actividad": "Representar entidad heredada N01 sin recodificar.",
+      "fuentes": [
+        "N01-V0028",
+        "N01-V0029",
+        "N01-V0030",
+        "N01-V0031",
+        "N01-V0032",
+        "N01-V0033",
+        "N01-V0034",
+        "N01-V0035",
+        "N01-V0036",
+        "N01-V0037",
+        "N01-V0038"
+      ],
+      "revision": "Revisión asistida por LLM; revisión humana independiente PENDIENTE. El control técnico no es aceptación o aval."
+    },
+    "acceso": {
+      "condicion": "Consulta local de entrega académica en este contexto; cualquier difusión requiere aclarar autorizaciones.",
+      "fundamento": "Los materiales fueron aportados para realizar HU01. Acceso técnico y consentimiento relatado no otorgan permiso de publicación.",
+      "autorizacion_publicacion": "NO_CONSTA"
+    },
+    "licencia": {
+      "valor": null,
+      "fundamento": "No consta licencia explícita de este artefacto concreto ni permiso de extender licencias ajenas al corpus o conjunto."
+    },
+    "relaciones": [
+      {
+        "tipo": "DERIVA_DE",
+        "destino_entidad": "N01-V0028"
+      },
+      {
+        "tipo": "DERIVA_DE",
+        "destino_entidad": "N01-V0029"
+      },
+      {
+        "tipo": "DERIVA_DE",
+        "destino_entidad": "N01-V0030"
+      },
+      {
+        "tipo": "DERIVA_DE",
+        "destino_entidad": "N01-V0031"
+      },
+      {
+        "tipo": "DERIVA_DE",
+        "destino_entidad": "N01-V0032"
+      },
+      {
+        "tipo": "DERIVA_DE",
+        "destino_entidad": "N01-V0033"
+      },
+      {
+        "tipo": "DERIVA_DE",
+        "destino_entidad": "N01-V0034"
+      },
+      {
+        "tipo": "DERIVA_DE",
+        "destino_entidad": "N01-V0035"
+      },
+      {
+        "tipo": "DERIVA_DE",
+        "destino_entidad": "N01-V0036"
+      },
+      {
+        "tipo": "DERIVA_DE",
+        "destino_entidad": "N01-V0037"
+      },
+      {
+        "tipo": "DERIVA_DE",
+        "destino_entidad": "N01-V0038"
+      }
+    ]
+  },
+  "fuente_registro": "88_historias_y_objetos_v1_1.json / objetos_digitales",
+  "interpretacion": "Se muestra un registro existente, sin alterar su contenido. Esta vista no es un FDO registrado ni introduce una nueva historia, versión de payload, entidad empírica o permiso.",
+  "huella_payload_verificada": true
+}

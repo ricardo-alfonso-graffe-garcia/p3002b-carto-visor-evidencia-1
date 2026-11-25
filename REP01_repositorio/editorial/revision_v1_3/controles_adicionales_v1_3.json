@@ -1,0 +1,43 @@
+{
+  "version": "1.3",
+  "estado": "SIN_ERRORES_EN_ALCANCE_COMPROBADO",
+  "controles": [
+    {
+      "control": "Siete citas presentes en el PDF final, además del cotejo canónico",
+      "resultado": "PASS",
+      "citas": 7
+    },
+    {
+      "control": "Enlaces locales del PDF final resuelven",
+      "resultado": "PASS",
+      "locales": 37,
+      "totales": 48
+    },
+    {
+      "control": "Fuentes de corpus y análisis de 1.2 inalteradas",
+      "resultado": "PASS",
+      "preexistentes_iguales": 571,
+      "cambiados": [
+        "indice.html",
+        "LEEME.md",
+        "editorial/registros/guia_por_seccion.md"
+      ],
+      "omitidos": []
+    },
+    {
+      "control": "Trece páginas inspeccionadas visualmente de forma asistida",
+      "resultado": "PASS",
+      "cuerpo": 10,
+      "total": 13
+    },
+    {
+      "control": "20 puntos de presencia y brechas; 175 tratamientos históricos conservados",
+      "resultado": "PASS"
+    }
+  ],
+  "limites": [
+    "No revisión humana independiente",
+    "No pruebas de utilidad ni cálculo espacial ejecutados",
+    "No conformidad integral FAIR/FDO/JANUS"
+  ]
+}

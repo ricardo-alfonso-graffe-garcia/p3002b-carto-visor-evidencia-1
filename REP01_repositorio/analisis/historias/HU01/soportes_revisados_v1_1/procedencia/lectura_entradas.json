@@ -1,0 +1,152 @@
+[
+  {
+    "archivo": "corpus/E01_texto_con_localizadores.txt",
+    "alcance": "Lectura íntegra de conversación: encabezados, preguntas, respuestas, continuaciones, metáforas, proceso, suficiencia, ejercicio ideal, recapitulaciones, correcciones y cierre.",
+    "comprobacion": "SHA-256 conforme al manifiesto; lectura/consulta delimitada, sin equiparar ambas operaciones."
+  },
+  {
+    "archivo": "corpus/E01_corpus_analisis_v1.json",
+    "alcance": "Consulta estructural de versión, párrafos, turnos y correspondencia con texto localizado; la lectura verbal completa se efectuó en el TXT.",
+    "comprobacion": "SHA-256 conforme al manifiesto; lectura/consulta delimitada, sin equiparar ambas operaciones."
+  },
+  {
+    "archivo": "corpus/E02_texto_con_localizadores.txt",
+    "alcance": "Lectura íntegra de conversación: encabezados, preguntas, respuestas, continuaciones, metáforas, proceso, suficiencia, ejercicio ideal, recapitulaciones, correcciones y cierre.",
+    "comprobacion": "SHA-256 conforme al manifiesto; lectura/consulta delimitada, sin equiparar ambas operaciones."
+  },
+  {
+    "archivo": "corpus/E02_corpus_analisis_v1.json",
+    "alcance": "Consulta estructural de versión, párrafos, turnos y correspondencia con texto localizado; la lectura verbal completa se efectuó en el TXT.",
+    "comprobacion": "SHA-256 conforme al manifiesto; lectura/consulta delimitada, sin equiparar ambas operaciones."
+  },
+  {
+    "archivo": "corpus/E03_texto_con_localizadores.txt",
+    "alcance": "Lectura íntegra de conversación: encabezados, preguntas, respuestas, continuaciones, metáforas, proceso, suficiencia, ejercicio ideal, recapitulaciones, correcciones y cierre.",
+    "comprobacion": "SHA-256 conforme al manifiesto; lectura/consulta delimitada, sin equiparar ambas operaciones."
+  },
+  {
+    "archivo": "corpus/E03_corpus_analisis_v1.json",
+    "alcance": "Consulta estructural de versión, párrafos, turnos y correspondencia con texto localizado; la lectura verbal completa se efectuó en el TXT.",
+    "comprobacion": "SHA-256 conforme al manifiesto; lectura/consulta delimitada, sin equiparar ambas operaciones."
+  },
+  {
+    "archivo": "corpus/E04_texto_con_localizadores.txt",
+    "alcance": "Lectura íntegra de conversación: encabezados, preguntas, respuestas, continuaciones, metáforas, proceso, suficiencia, ejercicio ideal, recapitulaciones, correcciones y cierre.",
+    "comprobacion": "SHA-256 conforme al manifiesto; lectura/consulta delimitada, sin equiparar ambas operaciones."
+  },
+  {
+    "archivo": "corpus/E04_corpus_analisis_v1.json",
+    "alcance": "Consulta estructural de versión, párrafos, turnos y correspondencia con texto localizado; la lectura verbal completa se efectuó en el TXT.",
+    "comprobacion": "SHA-256 conforme al manifiesto; lectura/consulta delimitada, sin equiparar ambas operaciones."
+  },
+  {
+    "archivo": "corpus/E05_texto_con_localizadores.txt",
+    "alcance": "Lectura íntegra de conversación: encabezados, preguntas, respuestas, continuaciones, metáforas, proceso, suficiencia, ejercicio ideal, recapitulaciones, correcciones y cierre.",
+    "comprobacion": "SHA-256 conforme al manifiesto; lectura/consulta delimitada, sin equiparar ambas operaciones."
+  },
+  {
+    "archivo": "corpus/E05_corpus_analisis_v1.json",
+    "alcance": "Consulta estructural de versión, párrafos, turnos y correspondencia con texto localizado; la lectura verbal completa se efectuó en el TXT.",
+    "comprobacion": "SHA-256 conforme al manifiesto; lectura/consulta delimitada, sin equiparar ambas operaciones."
+  },
+  {
+    "archivo": "manifest.json",
+    "alcance": "Lectura íntegra del manifiesto y cotejo de sus 67 entradas por tamaño y huella.",
+    "comprobacion": "Integridad conforme al manifiesto cuando figura en él. Alcance efectivo descrito; los análisis derivados no son observaciones independientes."
+  },
+  {
+    "archivo": "instrucciones_HU01.md",
+    "alcance": "Lectura íntegra, además de las instrucciones adjuntas 84_instrucciones_HU01(2).md; mismo contenido cotejado por bytes.",
+    "comprobacion": "Integridad conforme al manifiesto cuando figura en él. Alcance efectivo descrito; los análisis derivados no son observaciones independientes."
+  },
+  {
+    "archivo": "procesos_revisados.json",
+    "alcance": "Lectura de los cinco procesos: finalidad, alcance, roles, soportes, agrupaciones, nodos, relaciones, variaciones, correcciones, incógnitas y cierres. E01 completo; E02–E05 mediante vista sin repetir listas de evidencias o enlaces ya disponibles. No se releen íntegras las 418 citas duplicadas.",
+    "comprobacion": "Integridad conforme al manifiesto cuando figura en él. Alcance efectivo descrito; los análisis derivados no son observaciones independientes."
+  },
+  {
+    "archivo": "necesidades_revisadas.json",
+    "alcance": "Revisión sustantiva de las 29 necesidades: situación, decisión, información actual/deseada, restricciones, conservación, elicitación, verificaciones, prioridades e incógnitas; consulta de enlaces y seis relaciones contextuales. 351 referencias conservadas; citas participantes cotejadas con conversación.",
+    "comprobacion": "Integridad conforme al manifiesto cuando figura en él. Alcance efectivo descrito; los análisis derivados no son observaciones independientes."
+  },
+  {
+    "archivo": "actores_revisados.json",
+    "alcance": "Lectura de cinco fichas funcionales y consulta de los cinco actores entrevistados, orígenes, roles y posición ante homologación. Comprobación estructurada de las 46 posiciones NO_RECABADA. No lectura íntegra de cada ficha de terceros ni de 435 citas duplicadas.",
+    "comprobacion": "Integridad conforme al manifiesto cuando figura en él. Alcance efectivo descrito; los análisis derivados no son observaciones independientes."
+  },
+  {
+    "archivo": "sintesis_revisada.json",
+    "alcance": "Lectura de enunciados, explicaciones, alcances y límites de los 22 hallazgos y decisiones metodológicas pertinentes; consulta de vínculos desde N01. No reproducción íntegra de todas las evidencias duplicadas.",
+    "comprobacion": "Integridad conforme al manifiesto cuando figura en él. Alcance efectivo descrito; los análisis derivados no son observaciones independientes."
+  },
+  {
+    "archivo": "documental_revisado.json",
+    "alcance": "Lectura de cobertura de cinco casos, diez preguntas específicas pendientes, decisiones y límites; consulta de estados y cuestiones pendientes. No se releen todas las fuentes públicas ni se atribuye su lectura antecedente como propia.",
+    "comprobacion": "Integridad conforme al manifiesto cuando figura en él. Alcance efectivo descrito; los análisis derivados no son observaciones independientes."
+  },
+  {
+    "archivo": "libro_comun_v1_3.json",
+    "alcance": "Consulta de nombres de los 64 códigos y lectura dirigida de definiciones/fronteras pertinentes: respaldo, procedencia, suficiencia, unidad, conservación, utilidad, carga, compromisos, relevo, desempeño, exploración y revalidación. No recodificación ni lectura exhaustiva de los 123 ejemplos.",
+    "comprobacion": "Integridad conforme al manifiesto cuando figura en él. Alcance efectivo descrito; los análisis derivados no son observaciones independientes."
+  },
+  {
+    "archivo": "referencias_FAIR_FDO.md",
+    "alcance": "Lectura íntegra de resúmenes, alcances y advertencias de versiones; consulta propia adicional documentada en procedencia/referencias_tecnicas.json.",
+    "comprobacion": "Integridad conforme al manifiesto cuando figura en él. Alcance efectivo descrito; los análisis derivados no son observaciones independientes."
+  },
+  {
+    "archivo": "referencias_FAIR_FDO.json",
+    "alcance": "Consulta íntegra del registro de referencias de preparación, distinto de lectura integral de documentos externos.",
+    "comprobacion": "Integridad conforme al manifiesto cuando figura en él. Alcance efectivo descrito; los análisis derivados no son observaciones independientes."
+  },
+  {
+    "archivo": "LEEME.md",
+    "alcance": "Lectura íntegra de alcance de transferencia.",
+    "comprobacion": "Integridad conforme al manifiesto cuando figura en él. Alcance efectivo descrito; los análisis derivados no son observaciones independientes."
+  },
+  {
+    "archivo": "registro_entradas.json",
+    "alcance": "Lectura íntegra de versiones y fuentes preferidas.",
+    "comprobacion": "Integridad conforme al manifiesto cuando figura en él. Alcance efectivo descrito; los análisis derivados no son observaciones independientes."
+  },
+  {
+    "archivo": "requisitos_HU01_y_metodo.md",
+    "alcance": "Lectura íntegra de límites del encargo y etapas siguientes.",
+    "comprobacion": "Integridad conforme al manifiesto cuando figura en él. Alcance efectivo descrito; los análisis derivados no son observaciones independientes."
+  },
+  {
+    "archivo": "requisitos_pertinentes.json",
+    "alcance": "Consulta de estructura y número de registros; no se afirma lectura íntegra de los 72 requisitos ni cobertura de toda rúbrica.",
+    "comprobacion": "Integridad conforme al manifiesto cuando figura en él. Alcance efectivo descrito; los análisis derivados no son observaciones independientes."
+  },
+  {
+    "archivo": "validar_historias.py",
+    "alcance": "Lectura completa del código para conocer alcance y límites; ejecución con resultado y payloads finales.",
+    "comprobacion": "Integridad conforme al manifiesto cuando figura en él. Alcance efectivo descrito; los análisis derivados no son observaciones independientes."
+  },
+  {
+    "archivo": "recodificacion/R01_resultado_revisado_v1_3.json",
+    "alcance": "Consulta estructurada de versión y cotejo de existencia de 62 segmentos enlazados por N01; consulta de asignaciones mediante N01. No lectura integral de todos los segmentos, memos o incidencias; se mantiene la codificación vigente.",
+    "comprobacion": "SHA-256 conforme y referencias de segmentos existentes; no validación interpretativa independiente."
+  },
+  {
+    "archivo": "recodificacion/R02_resultado_revisado_v1_3.json",
+    "alcance": "Consulta estructurada de versión y cotejo de existencia de 64 segmentos enlazados por N01; consulta de asignaciones mediante N01. No lectura integral de todos los segmentos, memos o incidencias; se mantiene la codificación vigente.",
+    "comprobacion": "SHA-256 conforme y referencias de segmentos existentes; no validación interpretativa independiente."
+  },
+  {
+    "archivo": "recodificacion/R03_resultado_revisado_v1_2.json",
+    "alcance": "Consulta estructurada de versión y cotejo de existencia de 88 segmentos enlazados por N01; consulta de asignaciones mediante N01. No lectura integral de todos los segmentos, memos o incidencias; se mantiene la codificación vigente.",
+    "comprobacion": "SHA-256 conforme y referencias de segmentos existentes; no validación interpretativa independiente."
+  },
+  {
+    "archivo": "recodificacion/R04_resultado_revisado_v1_1.json",
+    "alcance": "Consulta estructurada de versión y cotejo de existencia de 102 segmentos enlazados por N01; consulta de asignaciones mediante N01. No lectura integral de todos los segmentos, memos o incidencias; se mantiene la codificación vigente.",
+    "comprobacion": "SHA-256 conforme y referencias de segmentos existentes; no validación interpretativa independiente."
+  },
+  {
+    "archivo": "recodificacion/R05_resultado_revisado_v1_1.json",
+    "alcance": "Consulta estructurada de versión y cotejo de existencia de 85 segmentos enlazados por N01; consulta de asignaciones mediante N01. No lectura integral de todos los segmentos, memos o incidencias; se mantiene la codificación vigente.",
+    "comprobacion": "SHA-256 conforme y referencias de segmentos existentes; no validación interpretativa independiente."
+  }
+]

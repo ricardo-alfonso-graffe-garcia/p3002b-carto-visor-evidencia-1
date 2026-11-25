@@ -1,0 +1,18 @@
+{
+  "manuscrito": "REP01_reporte_v1_1.md",
+  "pdf_paginas": [
+    2,
+    12
+  ],
+  "ubicaciones": [
+    {
+      "linea_md": 20,
+      "texto": "Las cinco transcripciones fueron generadas con IA bajo la excepción autorizada por el profesor para esta evidencia. Se analizan como un corpus del ejercicio académico. Distingo sus relatos de la documentación institucional y de las propuestas que elaboro; los ejemplos permiten examinar decisiones y necesidades, pero no demostrar cómo opera una dependencia concreta. La declaración final precisa el uso de IA y los registros disponibles."
+    },
+    {
+      "linea_md": 197,
+      "texto": "Las transcripciones se generaron con IA conforme a la excepción que el profesor autorizó para esta evidencia. No son transcripciones automáticas de grabaciones aportadas. Las aperturas contienen acuerdos verbales dentro del diálogo; no se adjuntaron audios o consentimientos firmados. Las fechas de entrevista están registradas como no consignadas y se mantienen así."
+    }
+  ],
+  "alcance": "Localización para revisión del usuario; se conserva una declaración fiel a modalidad autorizada y registros disponibles."
+}

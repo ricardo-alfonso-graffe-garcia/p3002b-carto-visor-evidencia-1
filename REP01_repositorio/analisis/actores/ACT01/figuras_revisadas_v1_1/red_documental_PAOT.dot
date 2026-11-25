@@ -1,0 +1,12 @@
+digraph G {
+graph [rankdir=LR, bgcolor="white", pad="0.4", nodesep="0.45", ranksep="1.0", fontname="DejaVu Sans", fontsize=22, labelloc=t, label="PAOT: incorporación y funciones de estudios\nLa adscripción del manual no conecta ambos procesos en un flujo\nACT01-AMB008 | ACT01-AMB009\nAzul continuo: relación relatada · Violeta discontinuo: atribución documental\nÁmbar punteado: hipótesis (solo en figura separada)"];
+node [shape=box, style="rounded,filled", fillcolor="#edf5f8", color="#467187", fontname="DejaVu Sans", fontsize=17, margin="0.18,0.12"];
+edge [fontname="DejaVu Sans", fontsize=13, arrowsize=0.8];
+"ACT01-A038" [label="PAOT: incorporación de\ninformación al SIG-PAOT\n(ACT01-A038)", fillcolor="#f0eafb"];
+"ACT01-A039" [label="Subdirección de Estudios y\nReportes de Ordenamiento\nTerritorial, PAOT\n(ACT01-A039)", fillcolor="#f0eafb"];
+"ACT01-A040" [label="Líder Coordinador de Proyectos\nde Estudios de Ordenamiento\nTerritorial, PAOT\n(ACT01-A040)", fillcolor="#f0eafb"];
+"ACT01-A046" [label="Dependencias aportantes al SIG-\nPAOT en el supuesto legal\n(ACT01-A046)", fillcolor="#f0eafb"];
+"ACT01-A046" -> "ACT01-A038" [id="ACT01-R039", label="Aportación condicionada en\nSIG-PAOT\nACT01-R039", color="#7852a5", fontcolor="#64408d", style="dashed"];
+"ACT01-A038" -> "ACT01-A039" [id="ACT01-R040", label="Manual sitúa función de\norganización y supervisión\nACT01-R040", color="#7852a5", fontcolor="#64408d", style="dashed"];
+"ACT01-A038" -> "ACT01-A040" [id="ACT01-R041", label="Manual sitúa función de\nprocesamiento y\ncartografía\nACT01-R041", color="#7852a5", fontcolor="#64408d", style="dashed"];
+}

@@ -1,0 +1,34 @@
+{
+  "validador": "REP01 editorial 1.3",
+  "estado": "SIN_ERRORES_ESTRUCTURALES",
+  "errores": [],
+  "advertencias": [],
+  "conteos": {
+    "palabras_cuerpo": 5435,
+    "secciones": 9,
+    "citas": 7,
+    "voces": 5,
+    "afirmaciones": 46,
+    "figuras": 3,
+    "requisitos": 208,
+    "archivos_inventariados": 597
+  },
+  "paginacion": "COMPROBADA",
+  "alcance": "Cotejo documental estructural y literal. Incluye conteo del PDF y su huella; no certifica calidad narrativa, pertinencia semántica, fuentes externas, inspección visual o validación humana. La inspección visual asistida se registra aparte.",
+  "ejecucion": {
+    "fecha_utc": "2026-11-25T19:54:30.665878+00:00",
+    "argumentos": [
+      "tmp/review/REP01_revision_v1_3/REP01_repositorio/editorial/scripts/validar_reporte_v1_3.py",
+      "tmp/review/REP01_insumos_v1",
+      "tmp/review/REP01_revision_v1_3/REP01_reporte_v1_3.md",
+      "tmp/review/REP01_revision_v1_3/REP01_trazabilidad_v1_3.json",
+      "--repositorio",
+      "tmp/review/REP01_revision_v1_3/REP01_repositorio",
+      "--salida",
+      "tmp/review/REP01_revision_v1_3/REP01_control_editorial_v1_3.json"
+    ],
+    "sha256_manuscrito": "d3ecaf10f1be035150df6fa09a85c03cb9b22dffb90f8faba18ce3b1cefed350",
+    "sha256_trazabilidad": "fa49caa4ba50c558887fce01dc1efc4bfce22ce6529dcc98706009bc327a35db",
+    "sha256_validador": "8e9529296994065c80f201c220c4db05f7249e97781d191a66ea2ba2c2d9f7c4"
+  }
+}

@@ -1,0 +1,1647 @@
+{
+  "entrevista": "E01",
+  "version_transcripcion": "1",
+  "archivo_origen": "E01_transcripcion_v1.docx",
+  "library_file_id_origen": "libfile_fde3_f-d90a14b8516081918e461564197a8816_6c45573f28988191995a53873b532314",
+  "sha256_origen": "c8d26940efe307a3b040502f6065cf771ca9ec05240b602be4d02f2ba113096b",
+  "perfil": "P01",
+  "guion": "1.0",
+  "paquete": "E01 1.0",
+  "fecha_revision": "2026-11-24",
+  "fecha_entrevista": null,
+  "estado": "recibida y revisada editorialmente; versión de referencia para análisis; sin cambios de contenido",
+  "alcance_revision": "Lectura completa del documento y revisión de cobertura; no constituye validación docente ni codificación independiente.",
+  "observacion_usuario": "Ritmo monótono; contenido relevante. Posibles detalles menores de forma al final.",
+  "parrafos": [
+    {
+      "id": "P001",
+      "texto": "Transcripción E01"
+    },
+    {
+      "id": "P002",
+      "texto": "Perfil funcional: persona con función técnica de registro y mantenimiento de información territorial en una alcaldía de la Ciudad de México.Instrumento utilizado: entrevista semiestructurada, guion versión 1.0."
+    },
+    {
+      "id": "P004",
+      "texto": "Entrevistador: Gracias por conversar conmigo. Este trabajo tiene un propósito académico: comprender cómo se realizan algunas actividades y decisiones relacionadas con información sobre lugares. Me interesa conocer tu experiencia, sin partir de que haya un problema específico que debamos encontrar. Participar es voluntario; puedes dejar de responder cualquier pregunta o terminar la conversación cuando lo prefieras. Lo que conversemos se utilizará con fines académicos y evitaremos nombres o datos que permitan identificar a otras personas. También, con tu consentimiento, voy a grabar esta conversación con el fin de llevar a cabo el propósito académico que te mencionaba antes. ¿Estás de acuerdo en comenzar con todas estas aclaraciones?"
+    },
+    {
+      "id": "P005",
+      "texto": "Participante: Sí, estoy de acuerdo con todo. También con lo que me estás diciendo de la grabación. No hay problema."
+    },
+    {
+      "id": "P006",
+      "texto": "Entrevistador: Para ubicarnos, ¿podrías contarme en qué consiste tu trabajo?"
+    },
+    {
+      "id": "P007",
+      "texto": "Participante: Trabajo con registros que tienen una ubicación dentro de la alcaldía. Parte de lo que hago es revisar que lo que dice un registro corresponda con el lugar al que se refiere. También preparo información cuando alguien necesita consultar determinados sitios o revisar una relación de lugares. No todo mi trabajo es poner puntos en un mapa. Hay bastante lectura de descripciones, comparación con lo que ya tenemos y preguntas para entender qué nos están pidiendo."
+    },
+    {
+      "id": "P008",
+      "texto": "Entrevistador: ¿Qué tipo de preguntas necesitas hacer?"
+    },
+    {
+      "id": "P009",
+      "texto": "Participante: Por ejemplo, si me dicen que cambió una dirección, necesito entender qué cambió. Puede ser que el lugar se haya trasladado, pero también puede ser que ahora se entre por otra calle o que antes lo hubieran descrito de una forma poco clara. Si trato las tres cosas igual, puedo modificar algo que no corresponde."
+    },
+    {
+      "id": "P010",
+      "texto": "Entrevistador: ¿Podrías elegir una actividad reciente que nos permita recorrer eso con detalle?"
+    },
+    {
+      "id": "P011",
+      "texto": "Participante: Sí. Revisé una relación de tres espacios donde se realizan actividades. La persona que nos pidió la revisión quería preparar una relación para unas visitas. Dos registros salieron bastante directos. En el tercero venía una indicación de que la entrada estaba por una calle distinta de la que teníamos anotada. Ese sirve para explicar lo que hago, porque hubo que precisar qué significaba esa diferencia."
+    },
+    {
+      "id": "P012",
+      "texto": "Entrevistador: ¿Qué te correspondía entregar?"
+    },
+    {
+      "id": "P013",
+      "texto": "Participante: Una copia revisada de la relación, con las referencias de ubicación que pudiéramos sostener y las observaciones necesarias. Mi parte era revisar los registros y devolverlos de forma que quien preparaba las visitas pudiera reconocer los sitios. Yo no organizaba las visitas ni decidía qué actividades iban a realizar allí."
+    },
+    {
+      "id": "P014",
+      "texto": "Entrevistador: Antes de entrar en ese tercer registro, ¿cómo quedaron los otros dos?"
+    },
+    {
+      "id": "P015",
+      "texto": "Participante: Uno coincidía con lo que ya teníamos. En el otro ajusté una referencia escrita porque mencionaba un comercio que ya no servía para reconocer el acceso. El equipo que había recorrido la zona había señalado una referencia más clara. La ubicación del espacio no cambió."
+    },
+    {
+      "id": "P016",
+      "texto": "Entrevistador: Entonces, que un registro pase por tus manos no significa que necesariamente lo modifiques."
+    },
+    {
+      "id": "P017",
+      "texto": "Participante: No. A veces la revisión termina en decir que se puede usar como está. En esos dos casos no había mucho más que buscar. El tercero fue el que me hizo detenerme."
+    },
+    {
+      "id": "P018",
+      "texto": "Entrevistador: Si reconstruimos ese episodio, ¿dónde pondrías tú el inicio y dónde el final?"
+    },
+    {
+      "id": "P019",
+      "texto": "Participante: Para mí empieza cuando recibo la relación con la petición de revisarla. Seguramente antes hubo conversaciones para decidir las visitas, pero yo no participé. Y termina cuando devuelvo la copia revisada y respondo una pregunta que me hicieron sobre el tercer sitio. Después ya no seguí lo de las visitas."
+    },
+    {
+      "id": "P020",
+      "texto": "Entrevistador: Empecemos por lo que recibiste."
+    },
+    {
+      "id": "P021",
+      "texto": "Participante: Recibí una tabla con los tres registros. Tenía los nombres con los que los identificaban, la dirección escrita y observaciones. En el tercero decía algo parecido a “entrada por la otra calle”. También venía un croquis sencillo del recorrido que había hecho el equipo. No era un plano con medidas; señalaba la esquina, el espacio y por dónde habían entrado."
+    },
+    {
+      "id": "P022",
+      "texto": "Entrevistador: ¿Qué hiciste primero con eso?"
+    },
+    {
+      "id": "P023",
+      "texto": "Participante: Busqué los tres registros en la información con la que trabajo. Comparé los nombres y las referencias, porque a veces una misma palabra se usa de manera distinta. Luego abrí la ubicación de cada uno en el mapa que utilizo para revisar. Fui viendo si lo recibido hablaba de los mismos sitios."
+    },
+    {
+      "id": "P024",
+      "texto": "Entrevistador: ¿El tercer registro te pareció distinto desde el principio?"
+    },
+    {
+      "id": "P025",
+      "texto": "Participante: El nombre coincidía y el punto estaba en el lugar que mostraba el croquis. Lo distinto era la calle de entrada. El espacio está en una esquina, entonces las dos descripciones podían estar hablando del mismo predio. Pero que pudieran coincidir no era suficiente para darlo por hecho."
+    },
+    {
+      "id": "P026",
+      "texto": "Entrevistador: ¿Qué posibilidades estabas considerando?"
+    },
+    {
+      "id": "P027",
+      "texto": "Participante: Que fuera el mismo espacio y hubieran usado otro acceso. Que la descripción anterior estuviera incompleta. O que quien hizo la anotación estuviera hablando de un lugar cercano. Esta última posibilidad me parecía menos probable por el croquis, pero no quería descartarla solamente porque a mí me parecía."
+    },
+    {
+      "id": "P028",
+      "texto": "Entrevistador: ¿Cómo decidiste qué hacer?"
+    },
+    {
+      "id": "P029",
+      "texto": "Participante: Primero revisé si teníamos alguna nota anterior que explicara la referencia. Encontré una descripción que ubicaba el espacio en la esquina, sin decir que el punto representara una puerta en particular. Después pregunté a una compañera con la que reviso estos registros si recordaba por qué estaba descrito así. Y preparé una pregunta para quien había enviado la relación."
+    },
+    {
+      "id": "P030",
+      "texto": "Entrevistador: ¿Qué preguntaste?"
+    },
+    {
+      "id": "P031",
+      "texto": "Participante: Si el equipo había entrado al mismo espacio que figuraba en la relación anterior o si estaba señalando otro lugar. También pedí que aclararan si la observación era sobre la entrada que habían utilizado o sobre un traslado. Traté de preguntar eso de forma concreta."
+    },
+    {
+      "id": "P032",
+      "texto": "Entrevistador: ¿Por qué esa distinción era importante para tu parte?"
+    },
+    {
+      "id": "P033",
+      "texto": "Participante: Porque yo podía cambiar una referencia de acceso conservando el registro del lugar. Si era otro espacio, ya no se resolvía cambiando una frase. Primero había que aclarar qué registro correspondía a qué sitio. Y si se había trasladado, tenía que revisar también la ubicación. Eran acciones diferentes."
+    },
+    {
+      "id": "P034",
+      "texto": "Entrevistador: ¿Quiénes intervinieron en este recorrido, según lo que tú pudiste ver?"
+    },
+    {
+      "id": "P035",
+      "texto": "Participante: La persona que nos pidió revisar la relación, el equipo que había hecho el recorrido, mi compañera y yo. El equipo eran varias personas, pero para esta tarea yo recibí sus observaciones juntas. No sé cómo se repartieron ellos el trabajo."
+    },
+    {
+      "id": "P036",
+      "texto": "Entrevistador: ¿Hablaste directamente con ese equipo?"
+    },
+    {
+      "id": "P037",
+      "texto": "Participante: En este caso no. La pregunta la envié a quien nos había pedido la revisión y esa persona recuperó la aclaración. En otras ocasiones sí he hablado directamente con alguien que estuvo en el sitio, pero aquí el intercambio pasó por ella."
+    },
+    {
+      "id": "P038",
+      "texto": "Entrevistador: Me gustaría explorar cómo ves esos papeles mediante una comparación. Si tuvieras que representar a cada participante con una imagen, un objeto o alguna comparación elegida por ti, ¿qué escogerías? Lo que importa es cómo te ayuda a explicar su intervención."
+    },
+    {
+      "id": "P039",
+      "texto": "Participante: A ver… Para quien pidió la revisión, pensaría en un separador de libro."
+    },
+    {
+      "id": "P040",
+      "texto": "Entrevistador: ¿Qué del separador describe su papel?"
+    },
+    {
+      "id": "P041",
+      "texto": "Participante: Que marca en qué parte hay que poner atención. Nos mandó una relación concreta y dijo para qué la necesitaba. No era revisar todo lo que tenemos. También mantuvo localizada la pregunta mientras nosotros revisábamos. Si yo le decía que faltaba aclarar una cosa, sabía a qué asunto correspondía."
+    },
+    {
+      "id": "P042",
+      "texto": "Entrevistador: ¿Esa persona también decidía cómo debías resolver la ubicación?"
+    },
+    {
+      "id": "P043",
+      "texto": "Participante: No en este caso. Podía explicarme para qué se usaría la relación y conseguir la respuesta del equipo. La revisión técnica la hacía yo. Si me hubiera dicho “ponlo en la otra calle” sin más, todavía habría necesitado entender qué estaba representando."
+    },
+    {
+      "id": "P044",
+      "texto": "Entrevistador: ¿Qué comparación elegirías para el equipo que recorrió los sitios?"
+    },
+    {
+      "id": "P045",
+      "texto": "Participante: Una libreta de campo abierta. Porque trajeron cosas que se ven estando allí: por dónde entraron, qué referencia les ayudó, cómo reconocieron el sitio."
+    },
+    {
+      "id": "P046",
+      "texto": "Entrevistador: ¿Qué significa que la libreta esté abierta?"
+    },
+    {
+      "id": "P047",
+      "texto": "Participante: Que puedo preguntar sobre lo que anotaron. Una observación breve no siempre trae toda la explicación, pero detrás hay una experiencia que pueden contar. Tampoco significa que yo pueda pedirles cualquier cosa y la sepan. Si no revisaron la otra puerta, no me pueden asegurar qué pasa con esa puerta."
+    },
+    {
+      "id": "P048",
+      "texto": "Entrevistador: ¿Eso ocurrió en este caso?"
+    },
+    {
+      "id": "P049",
+      "texto": "Participante: Sí. Aclararon que habían entrado por la calle que aparecía en la nota. No confirmaron si el acceso mencionado antes seguía funcionando. Esa diferencia se quedó en mi revisión: yo sabía por dónde habían entrado, no sabía que el otro acceso hubiera dejado de utilizarse."
+    },
+    {
+      "id": "P050",
+      "texto": "Entrevistador: ¿Y tu compañera?"
+    },
+    {
+      "id": "P051",
+      "texto": "Participante: La compararía con alguien que sostiene el otro extremo de una cinta de medir. No porque aquí midiéramos distancias. Es porque me ayuda a revisar desde otro extremo lo que estoy entendiendo."
+    },
+    {
+      "id": "P052",
+      "texto": "Entrevistador: ¿Qué sostuvo ella en este episodio?"
+    },
+    {
+      "id": "P053",
+      "texto": "Participante: La lectura de la información anterior. Yo estaba muy concentrada en la nueva anotación y ella me hizo volver a cómo habíamos identificado el espacio. Vimos que el punto estaba asociado al sitio, no a una entrada específica. Eso ayudó a no moverlo sólo porque la nueva descripción nombraba otra calle."
+    },
+    {
+      "id": "P054",
+      "texto": "Entrevistador: ¿Necesitabas que ella autorizara la decisión?"
+    },
+    {
+      "id": "P055",
+      "texto": "Participante: No. Le consulté porque trabajamos con información semejante y me servía contrastar la lectura. La decisión sobre la revisión que yo entregué fue mía. No quisiera que la comparación sonara a que ella tiene que validar todo lo que hago."
+    },
+    {
+      "id": "P056",
+      "texto": "Entrevistador: Entendido. ¿Cómo te representarías tú?"
+    },
+    {
+      "id": "P057",
+      "texto": "Participante: Como una mesa de trabajo donde se extienden varias hojas."
+    },
+    {
+      "id": "P058",
+      "texto": "Entrevistador: Cuéntame qué hay en esa mesa."
+    },
+    {
+      "id": "P059",
+      "texto": "Participante: Lo que recibí, lo que ya estaba registrado, el croquis y las aclaraciones. Mi trabajo es ponerlos en relación. Una hoja sola puede verse muy clara y, al ponerla junto a otra, aparece una diferencia que hay que entender. Pero yo no produzco todo lo que llega a la mesa. No estuve en el recorrido ni sé para qué más usan esos lugares."
+    },
+    {
+      "id": "P060",
+      "texto": "Entrevistador: ¿La comparación también te sirve cuando todo coincide?"
+    },
+    {
+      "id": "P061",
+      "texto": "Participante: Sí. No sólo cuando hay una duda. En los otros dos registros puse las cosas juntas, vi que correspondían y seguí. A veces esa mesa se despeja rápido."
+    },
+    {
+      "id": "P062",
+      "texto": "Entrevistador: Volvamos al momento de la aclaración. ¿Qué respondió quien solicitó la revisión?"
+    },
+    {
+      "id": "P063",
+      "texto": "Participante: Nos hizo llegar que el equipo había visitado el mismo espacio de la relación. Habían entrado por el costado y querían que esa referencia apareciera para las próximas visitas. El croquis coincidía con eso. No estaban informando un traslado."
+    },
+    {
+      "id": "P064",
+      "texto": "Entrevistador: ¿Con esa respuesta cambiaste el registro?"
+    },
+    {
+      "id": "P065",
+      "texto": "Participante: Cambié la descripción del acceso en la copia que estaba preparando. Conservé el identificador y la ubicación del espacio. Dejé una observación breve indicando que la referencia correspondía al acceso utilizado en ese recorrido. También guardé la aclaración junto con lo que había recibido para poder explicar después por qué había hecho el ajuste."
+    },
+    {
+      "id": "P066",
+      "texto": "Entrevistador: ¿Por qué no desplazaste el punto hacia la entrada que acababan de señalar?"
+    },
+    {
+      "id": "P067",
+      "texto": "Participante: Porque el punto nos estaba sirviendo para reconocer el espacio dentro de esa esquina. No teníamos un levantamiento de la puerta ni se esperaba llegar a una precisión así con ese registro. Moverlo unos metros en la pantalla podía dar la impresión de que habíamos ubicado exactamente el acceso, y eso no era lo que se había comprobado."
+    },
+    {
+      "id": "P068",
+      "texto": "Entrevistador: ¿Cómo sabías qué representaba ese punto?"
+    },
+    {
+      "id": "P069",
+      "texto": "Participante: Por la descripción anterior y por la forma en que estaba trabajado ese conjunto de registros. Lo revisé con mi compañera, como te decía. No te puedo decir que todos los puntos que maneja cualquier otra área representen lo mismo. En estos registros concretos lo pudimos reconocer."
+    },
+    {
+      "id": "P070",
+      "texto": "Entrevistador: Entonces resolviste que la entrada anterior ya no debía utilizarse."
+    },
+    {
+      "id": "P071",
+      "texto": "Participante: No, eso no lo resolví. Ahí sí haría una corrección a lo que entendiste. Yo incorporé una referencia que el equipo había utilizado. No comprobé que la otra entrada estuviera cerrada o que hubiera una indicación de dejar de usarla."
+    },
+    {
+      "id": "P072",
+      "texto": "Entrevistador: ¿Cómo evitaste que la nueva redacción se entendiera de esa manera?"
+    },
+    {
+      "id": "P073",
+      "texto": "Participante: No puse “único acceso” ni “acceso anterior cancelado”. Describí la entrada utilizada y dejé la observación de dónde venía esa información. Quien preparaba la visita podía entender la referencia, pero si necesitaba saber por dónde debía ingresar un grupo en otra circunstancia, eso requería confirmarlo con quienes correspondiera."
+    },
+    {
+      "id": "P074",
+      "texto": "Entrevistador: ¿Te pidieron esa confirmación adicional?"
+    },
+    {
+      "id": "P075",
+      "texto": "Participante: No. La pregunta posterior fue por qué la calle de la descripción ya no coincidía con la que aparecía antes. Expliqué que seguíamos hablando del mismo espacio y que habíamos incorporado la referencia del recorrido. Con eso dieron por atendida mi parte."
+    },
+    {
+      "id": "P076",
+      "texto": "Entrevistador: Antes de esa pregunta posterior, ¿cómo revisaste lo que ibas a entregar?"
+    },
+    {
+      "id": "P077",
+      "texto": "Participante: Volví a leer los tres registros seguidos. Cuando uno se concentra en una observación puede dejar algo cortado o usar una expresión que sólo entiende porque acaba de leer todos los mensajes. Revisé que el identificador del tercer espacio siguiera siendo el mismo, que no hubiera cambiado la ubicación y que la descripción no afirmara más de lo que sabíamos. Luego devolví la copia revisada con una explicación corta de los cambios."
+    },
+    {
+      "id": "P078",
+      "texto": "Entrevistador: ¿Qué querías que se entendiera en esa explicación?"
+    },
+    {
+      "id": "P079",
+      "texto": "Participante: Qué podían usar y qué habíamos aclarado. En el primero no hubo cambio. En el segundo se sustituyó la referencia que ya no ayudaba a reconocer el acceso. En el tercero se precisó la entrada utilizada en el recorrido. No mandé toda mi conversación con mi compañera; eso no les hacía falta para preparar la relación."
+    },
+    {
+      "id": "P080",
+      "texto": "Entrevistador: ¿Qué pasó después con esa copia?"
+    },
+    {
+      "id": "P081",
+      "texto": "Participante: Sé que la recibió quien estaba preparando las visitas, porque me hizo la pregunta que te conté. No vi cómo quedó la relación que usaron al salir ni estuve en esas visitas. Supongo que utilizaron la referencia, pero no tengo cómo asegurártelo."
+    },
+    {
+      "id": "P082",
+      "texto": "Entrevistador: Si miras ahora el recorrido completo y lo agrupas en partes, ¿cómo llamarías tú a esas partes?"
+    },
+    {
+      "id": "P083",
+      "texto": "Participante: Primero, “entender el encargo”. Luego, “ponerlo junto a lo que tenemos”. Después diría “resolver lo que no encaja”. Y al final, “dejarlo listo y explicarlo”."
+    },
+    {
+      "id": "P084",
+      "texto": "Entrevistador: ¿Dónde empieza y termina “entender el encargo”?"
+    },
+    {
+      "id": "P085",
+      "texto": "Participante: Empieza con leer lo que me piden y saber para qué lo necesitan. Termina cuando puedo decir qué me toca revisar. Aunque a veces tengo que volver a esa parte. Si después me piden algo distinto, necesito entender ese cambio antes de seguir."
+    },
+    {
+      "id": "P086",
+      "texto": "Entrevistador: ¿En este caso tuviste que volver?"
+    },
+    {
+      "id": "P087",
+      "texto": "Participante: No cambió el encargo. Lo que tuve que aclarar fue el contenido de una observación."
+    },
+    {
+      "id": "P088",
+      "texto": "Entrevistador: ¿Y “ponerlo junto a lo que tenemos” y “resolver lo que no encaja” ocurrieron una después de la otra?"
+    },
+    {
+      "id": "P089",
+      "texto": "Participante: No tan separadas. Mientras comparaba ya iba anotando la pregunta. Y mientras esperaba la respuesta terminé los otros dos registros. Lo estoy agrupando para explicarlo, pero no fue que cerré una parte y abrí la siguiente sin regresar."
+    },
+    {
+      "id": "P090",
+      "texto": "Entrevistador: ¿Mantendrías esos nombres con esa salvedad?"
+    },
+    {
+      "id": "P091",
+      "texto": "Participante: Sí. Me sirven. Sólo cambiaría el último a “devolver y dejar entendible”, porque “dejarlo listo” suena como si ya no pudiera volver una pregunta. Y sí puede volver."
+    },
+    {
+      "id": "P092",
+      "texto": "Entrevistador: Cuando vuelve una pregunta, ¿por dónde entra normalmente a tu trabajo?"
+    },
+    {
+      "id": "P093",
+      "texto": "Participante: Por distintos medios de trabajo, según con quién esté tratando. A veces me preguntan sobre la misma copia que mandé. Otras me dicen de palabra que no entienden una referencia. Yo intento ubicar primero cuál versión están viendo y qué parte les causa duda."
+    },
+    {
+      "id": "P094",
+      "texto": "Entrevistador: ¿Por qué necesitas ubicar la versión?"
+    },
+    {
+      "id": "P095",
+      "texto": "Participante: Porque puede que estén mirando la relación que recibimos al inicio o una copia donde ya se incorporó algo. Si no sé eso, puedo explicar un cambio que todavía no están viendo. No siempre pasa, pero cuando pasa se resuelve viendo el documento concreto."
+    },
+    {
+      "id": "P096",
+      "texto": "Entrevistador: ¿Hay una secuencia fija para pedir que algo se revise de nuevo?"
+    },
+    {
+      "id": "P097",
+      "texto": "Participante: En lo que yo hago, no siempre. Una duda de redacción puede resolverse en el mismo intercambio. Si alguien dice que el lugar es otro, entonces necesito detener esa modificación y revisar la correspondencia. No te puedo describir un circuito que aplique a toda la alcaldía. Te estoy contando cómo atiendo estas consultas dentro de mi trabajo."
+    },
+    {
+      "id": "P098",
+      "texto": "Entrevistador: ¿Qué habría cambiado en este episodio si el equipo hubiera dicho que se trataba de otro espacio?"
+    },
+    {
+      "id": "P099",
+      "texto": "Participante: Habría separado esa cuestión de los otros dos registros. No habría reutilizado el identificador sólo porque el nombre se parecía. Tendría que pedir referencias para reconocer el otro sitio y ver qué relación tenía con el registro anterior. Dependiendo de lo que apareciera, consultaría con el equipo con el que trabajo cómo incorporarlo. Pero eso ya es lo que habría hecho, no lo que ocurrió."
+    },
+    {
+      "id": "P100",
+      "texto": "Entrevistador: ¿Y si no hubiera llegado la aclaración sobre la entrada?"
+    },
+    {
+      "id": "P101",
+      "texto": "Participante: Podía devolver los otros dos revisados y señalar que el tercero seguía pendiente de aclarar. No había necesidad de inventar una respuesta para entregar los tres de la misma manera."
+    },
+    {
+      "id": "P102",
+      "texto": "Entrevistador: ¿Eso sucede con frecuencia?"
+    },
+    {
+      "id": "P103",
+      "texto": "Participante: No sabría darte una frecuencia. Hay relaciones que se revisan completas sin preguntar nada y otras donde se aparta un registro. Este caso lo recuerdo por la diferencia entre ubicar el espacio y describir por dónde entraron."
+    },
+    {
+      "id": "P104",
+      "texto": "Entrevistador: Quisiera detenerme en la decisión de conservar el mismo registro. ¿Qué necesitabas saber para tomarla?"
+    },
+    {
+      "id": "P105",
+      "texto": "Participante: Si la nueva observación se refería al mismo lugar. Ésa era la pregunta principal. Después, qué parte de la descripción había cambiado y qué tan lejos podía llevar esa información."
+    },
+    {
+      "id": "P106",
+      "texto": "Entrevistador: ¿En qué te apoyaste para responderla?"
+    },
+    {
+      "id": "P107",
+      "texto": "Participante: En la coincidencia del nombre, la esquina que mostraba el croquis, la descripción anterior y la aclaración del equipo. Ninguna cosa por separado me daba todo. El nombre podía repetirse o escribirse de otra forma. El croquis me ayudaba a reconocer el sitio, pero no decía por sí solo si estaban hablando de un traslado. La respuesta del equipo aclaró eso."
+    },
+    {
+      "id": "P108",
+      "texto": "Entrevistador: ¿Cómo reconociste que ya tenías suficiente?"
+    },
+    {
+      "id": "P109",
+      "texto": "Participante: Cuando las referencias coincidieron y la aclaración respondió a la duda que yo tenía que resolver. Podía explicar por qué conservaba el registro y por qué ajustaba la descripción. Para esa tarea me alcanzaba."
+    },
+    {
+      "id": "P110",
+      "texto": "Entrevistador: ¿Qué seguías sin saber?"
+    },
+    {
+      "id": "P111",
+      "texto": "Participante: Si la otra entrada seguía en uso, si había horarios distintos para entrar por un lado o por otro, o si la siguiente visita iba a tener alguna condición diferente. No lo sabía y no lo puse como si lo supiera."
+    },
+    {
+      "id": "P112",
+      "texto": "Entrevistador: ¿Esos datos habrían hecho mejor tu revisión?"
+    },
+    {
+      "id": "P113",
+      "texto": "Participante: Habrían dado más detalle, pero no todos eran necesarios para lo que estaba haciendo. Si la solicitud hubiera sido indicar el acceso para una actividad con condiciones específicas, quizá sí. Para reconocer el mismo espacio y dejar una referencia que el equipo ya había usado, no necesitaba resolver todo eso."
+    },
+    {
+      "id": "P114",
+      "texto": "Entrevistador: ¿Hay algo que te haga desconfiar de una información aunque venga acompañada de una explicación?"
+    },
+    {
+      "id": "P115",
+      "texto": "Participante: Más que desconfiar, me hace revisar si la explicación realmente responde a la pregunta. Si pregunto si es el mismo espacio y me contestan que la calle está bien escrita, todavía no sé si es el mismo espacio. Puede ser una respuesta correcta sobre otra cosa. También me detengo si el croquis y la descripción señalan lugares diferentes."
+    },
+    {
+      "id": "P116",
+      "texto": "Entrevistador: ¿Qué haces entonces?"
+    },
+    {
+      "id": "P117",
+      "texto": "Participante: Intento mostrar la diferencia de manera concreta. “En este dibujo aparece de este lado y en el texto se menciona el otro”. A veces basta con eso para que quien lo elaboró diga qué quiso señalar. No necesariamente hay un dato equivocado; puede que yo esté leyendo mal una referencia."
+    },
+    {
+      "id": "P118",
+      "texto": "Entrevistador: ¿Recuerdas algún momento de este episodio en que tu propia lectura cambiara?"
+    },
+    {
+      "id": "P119",
+      "texto": "Participante: Al principio pensé que tendría que mover el punto. No lo había hecho, pero fue mi primera reacción al leer otra calle. Cuando revisé la descripción anterior y lo hablé con mi compañera, vi que estaba confundiendo la localización del espacio con la ubicación de una puerta. Por eso me sirvió volver a lo que ya teníamos."
+    },
+    {
+      "id": "P120",
+      "texto": "Entrevistador: Hasta aquí hemos hablado de lo que utilizaste. Ahora quisiera proponerte un ejercicio distinto: pensando en tu trabajo, ¿qué te gustaría poder saber con facilidad, aunque hoy no conozcas una fuente donde consultarlo?"
+    },
+    {
+      "id": "P121",
+      "texto": "Participante: Me gustaría saber qué quiso decir quien dejó ciertas observaciones muy breves. A veces leo “revisado” o “cambio de ubicación” y no sé qué se revisó o qué cambió exactamente. No estoy diciendo que toda nuestra información venga así. Hay notas muy claras. Pero cuando aparece una de esas frases, tengo que reconstruir el sentido."
+    },
+    {
+      "id": "P122",
+      "texto": "Entrevistador: ¿Qué querrías encontrar detrás de una frase como “cambio de ubicación”?"
+    },
+    {
+      "id": "P123",
+      "texto": "Participante: Si la persona observó un traslado, corrigió un punto que estaba mal puesto o sólo escribió de otra manera la dirección. Son cosas que pueden quedar resumidas con las mismas palabras. Querría saber qué vio o qué comparación hizo para decirlo."
+    },
+    {
+      "id": "P124",
+      "texto": "Entrevistador: Si pudieras organizar esa información a tu manera, ¿cómo sería el espacio donde la consultarías?"
+    },
+    {
+      "id": "P125",
+      "texto": "Participante: Lo imagino bastante sencillo, como una carpeta por lugar. Al abrirla vería el registro con el que estoy trabajando y, al lado, las notas que explican los cambios o las revisiones. Si hubo un croquis que ayudó a reconocerlo, estaría ahí. No abriría primero un mapa de todos los lugares."
+    },
+    {
+      "id": "P126",
+      "texto": "Entrevistador: Descríbeme qué harías primero al entrar a esa carpeta con una tarea como la que relataste."
+    },
+    {
+      "id": "P127",
+      "texto": "Participante: Buscaría el registro por su identificador o por el nombre que me enviaron. Comprobaría que es el lugar correcto. Luego leería la descripción que estamos usando y la explicación de la modificación más reciente. Si mi duda siguiera siendo espacial, abriría el mapa o el croquis."
+    },
+    {
+      "id": "P128",
+      "texto": "Entrevistador: ¿Qué tendría esa explicación para que te resultara útil?"
+    },
+    {
+      "id": "P129",
+      "texto": "Participante: Una frase que dijera qué se comprobó y con qué referencia. Por ejemplo, en este caso: se confirmó que era el mismo espacio y se incorporó el acceso utilizado durante el recorrido. También necesitaría reconocer a qué revisión corresponde. Si es una nota de hace tiempo, tengo que poder distinguirla de una aclaración que acaba de llegar."
+    },
+    {
+      "id": "P130",
+      "texto": "Entrevistador: ¿Querrías conservar todos los intercambios?"
+    },
+    {
+      "id": "P131",
+      "texto": "Participante: No necesariamente. Hay mensajes que sólo dicen que ya recibieron el archivo o que van a preguntar. Eso no me ayuda mucho después. Sí conservaría el material necesario para entender la decisión. Y si una duda quedó abierta, querría que no desapareciera entre las notas."
+    },
+    {
+      "id": "P132",
+      "texto": "Entrevistador: ¿Cómo te gustaría ver esa duda abierta?"
+    },
+    {
+      "id": "P133",
+      "texto": "Participante: Escrita de forma directa. En este caso podría ser que no se comprobó si el otro acceso seguía en uso. Aunque tampoco pondría todas las cosas que nadie preguntó. Si hago una lista de todo lo que no sabemos de un lugar, no termino. Me refiero a una duda que surgió en la revisión y que importa para entender lo que entregamos."
+    },
+    {
+      "id": "P134",
+      "texto": "Entrevistador: ¿Esa carpeta te permitiría decidir sin consultar a otras personas?"
+    },
+    {
+      "id": "P135",
+      "texto": "Participante: Algunas cosas, sí. Si la explicación ya está y responde a mi pregunta, no tendría que volver a preguntar lo mismo. Pero si aparece una observación nueva, voy a necesitar hablar con alguien. La carpeta no puede decirme lo que pasó después de lo último que contiene."
+    },
+    {
+      "id": "P136",
+      "texto": "Entrevistador: De lo que imaginaste, ¿qué parte priorizarías?"
+    },
+    {
+      "id": "P137",
+      "texto": "Participante: La explicación del último cambio que afecta la identificación del lugar. Antes que reunir muchos materiales, querría poder entender eso. Si sólo hay espacio para una nota útil, que me diga qué se cambió y por qué."
+    },
+    {
+      "id": "P138",
+      "texto": "Entrevistador: ¿Qué decisión concreta te ayudaría a tomar?"
+    },
+    {
+      "id": "P139",
+      "texto": "Participante: Si puedo usar el registro para atender la solicitud que tengo o si necesito aclarar algo antes. También si una observación nueva contradice lo anterior o simplemente añade una referencia. En el episodio que contamos, quizá habría entendido antes por qué el punto estaba ahí."
+    },
+    {
+      "id": "P140",
+      "texto": "Entrevistador: ¿Qué te mostraría, en una jornada de trabajo, que esa forma de consulta te sirve?"
+    },
+    {
+      "id": "P141",
+      "texto": "Participante: Que al retomar un lugar después de un tiempo pueda explicar la revisión sin depender de acordarme de la conversación. O que mi compañera pueda continuar con lo que dejé y reconocer dónde está la duda. No esperaría dejar de hacer consultas. Esperaría que las consultas fueran sobre lo que de verdad falta."
+    },
+    {
+      "id": "P142",
+      "texto": "Entrevistador: ¿Hay alguna parte de tu trabajo para la que eso no te aportaría mucho?"
+    },
+    {
+      "id": "P143",
+      "texto": "Participante: Sí. Si recibo un sitio nuevo con referencias claras y no tengo que compararlo con una historia anterior, esa carpeta de revisiones todavía no tendría gran cosa que aportar. O si me piden una relación sencilla que ya tenemos preparada y no ha surgido ninguna observación. No todo necesita el mismo recorrido."
+    },
+    {
+      "id": "P144",
+      "texto": "Entrevistador: ¿Cómo se relaciona ese ejercicio ideal con lo que ya haces?"
+    },
+    {
+      "id": "P145",
+      "texto": "Participante: Parte de eso ya lo hacemos guardando notas y materiales con los registros. Lo ideal sería encontrarlos de manera más pareja, con una explicación que se entienda después. No estoy imaginando empezar desde cero. En este caso pude recuperar la descripción anterior y eso funcionó."
+    },
+    {
+      "id": "P146",
+      "texto": "Entrevistador: ¿Qué conservarías de tu manera actual de trabajar?"
+    },
+    {
+      "id": "P147",
+      "texto": "Participante: Comparar antes de cambiar. Y poder hacer una pregunta corta a la persona que tiene la experiencia del sitio. También conservaría revisar con mi compañera cuando necesito otra lectura. Aunque tuviera todo muy ordenado, me seguiría sirviendo escuchar cómo entiende ella una descripción."
+    },
+    {
+      "id": "P148",
+      "texto": "Entrevistador: ¿Hay algo de esa revisión compartida que no pudiera quedar escrito?"
+    },
+    {
+      "id": "P149",
+      "texto": "Participante: Puede quedar escrito el resultado, pero la conversación ayuda a llegar a él. Mi compañera me puede preguntar por qué estoy suponiendo algo y yo darme cuenta de que no tengo una razón suficiente. No siempre sé desde el principio cuál es la pregunta que debo dejar en una nota."
+    },
+    {
+      "id": "P150",
+      "texto": "Entrevistador: Antes dijiste que no todo tu trabajo consiste en poner puntos. Después de recorrer el caso, ¿qué parte dirías que suele quedar menos visible?"
+    },
+    {
+      "id": "P151",
+      "texto": "Participante: Entender a qué se refiere lo que recibimos. Desde fuera puede parecer que hay una dirección y sólo hay que encontrarla. A veces sí es así de directo. Otras veces primero hay que distinguir si dos descripciones hablan de lo mismo. Esa parte no siempre se ve en el resultado final, porque al final queda una fila bastante sencilla."
+    },
+    {
+      "id": "P152",
+      "texto": "Entrevistador: ¿Te interesa que quien recibe esa fila conozca todo ese trabajo?"
+    },
+    {
+      "id": "P153",
+      "texto": "Participante: No todo. Me interesa que entienda lo necesario para usarla. Si le mando una explicación larguísima de cada comparación, quizá le dificulte encontrar lo que necesita. Pero si hay una condición que cambia cómo debe leer el dato, sí quiero que la vea."
+    },
+    {
+      "id": "P154",
+      "texto": "Entrevistador: Para revisar lo que entendí: tu tarea fue contrastar tres registros para una relación de visitas. En uno de ellos aclaraste que la observación se refería a otro acceso del mismo espacio. Conservaste su identificación y su punto, ajustaste la referencia escrita y explicaste el alcance de esa revisión. ¿Qué corregirías?"
+    },
+    {
+      "id": "P155",
+      "texto": "Participante: Eso está bien. Sólo añadiría que no fui yo quien comprobó el acceso en el sitio. Me apoyé en lo que informó el equipo y en el croquis. Yo revisé cómo incorporar esa información al registro."
+    },
+    {
+      "id": "P156",
+      "texto": "Entrevistador: Gracias por precisarlo. También entendí que para ti sería útil encontrar con más facilidad el sentido de algunas revisiones anteriores, aunque en este episodio la información disponible te alcanzó."
+    },
+    {
+      "id": "P157",
+      "texto": "Participante: Sí. No quisiera que pareciera que este caso quedó a medias por no tener esa carpeta que imaginamos. Lo pudimos atender. El ejercicio me hizo pensar en otras ocasiones donde una nota breve ya no se entiende tan fácilmente."
+    },
+    {
+      "id": "P158",
+      "texto": "Entrevistador: ¿Nos quedó fuera algo importante sobre cómo trabajas?"
+    },
+    {
+      "id": "P159",
+      "texto": "Participante: Que a veces dejar un registro como está también lleva revisión. Si sólo miras qué cambió en el archivo, no ves que el primero de esos tres se comparó y se consideró suficiente. No lo digo para que se anote cada movimiento que hacemos, sino porque conservar algo también puede ser una decisión."
+    },
+    {
+      "id": "P160",
+      "texto": "Entrevistador: ¿Te parece que eso describe bien lo que ocurrió con el punto del tercer espacio?"
+    },
+    {
+      "id": "P161",
+      "texto": "Participante: Sí, ahí también. Lo conservé después de revisar qué representaba. No fue que se me olvidara moverlo."
+    },
+    {
+      "id": "P162",
+      "texto": "Entrevistador: ¿Hay algún último matiz que quieras dejar antes de cerrar?"
+    },
+    {
+      "id": "P163",
+      "texto": "Participante: Que ésta es mi parte del trabajo. Puedo explicar por qué devolví esa relación de esa manera. Sobre cómo se organizó la visita o qué decidieron después en el lugar, tendrían que preguntar a quienes participaron. A mí me sirve tener clara esa diferencia."
+    },
+    {
+      "id": "P164",
+      "texto": "Entrevistador: Queda clara. Gracias por recorrer el episodio con tanto detalle y por corregir las interpretaciones que no correspondían. Con esto cerramos la conversación."
+    },
+    {
+      "id": "P165",
+      "texto": "Participante: Gracias. Me pareció bien poder ir al caso concreto; así se entiende mejor lo que hago."
+    }
+  ],
+  "turnos": [
+    {
+      "id": "T001",
+      "parrafo": "P004",
+      "voz": "Entrevistador",
+      "texto": "Gracias por conversar conmigo. Este trabajo tiene un propósito académico: comprender cómo se realizan algunas actividades y decisiones relacionadas con información sobre lugares. Me interesa conocer tu experiencia, sin partir de que haya un problema específico que debamos encontrar. Participar es voluntario; puedes dejar de responder cualquier pregunta o terminar la conversación cuando lo prefieras. Lo que conversemos se utilizará con fines académicos y evitaremos nombres o datos que permitan identificar a otras personas. También, con tu consentimiento, voy a grabar esta conversación con el fin de llevar a cabo el propósito académico que te mencionaba antes. ¿Estás de acuerdo en comenzar con todas estas aclaraciones?"
+    },
+    {
+      "id": "T002",
+      "parrafo": "P005",
+      "voz": "Participante",
+      "texto": "Sí, estoy de acuerdo con todo. También con lo que me estás diciendo de la grabación. No hay problema."
+    },
+    {
+      "id": "T003",
+      "parrafo": "P006",
+      "voz": "Entrevistador",
+      "texto": "Para ubicarnos, ¿podrías contarme en qué consiste tu trabajo?"
+    },
+    {
+      "id": "T004",
+      "parrafo": "P007",
+      "voz": "Participante",
+      "texto": "Trabajo con registros que tienen una ubicación dentro de la alcaldía. Parte de lo que hago es revisar que lo que dice un registro corresponda con el lugar al que se refiere. También preparo información cuando alguien necesita consultar determinados sitios o revisar una relación de lugares. No todo mi trabajo es poner puntos en un mapa. Hay bastante lectura de descripciones, comparación con lo que ya tenemos y preguntas para entender qué nos están pidiendo."
+    },
+    {
+      "id": "T005",
+      "parrafo": "P008",
+      "voz": "Entrevistador",
+      "texto": "¿Qué tipo de preguntas necesitas hacer?"
+    },
+    {
+      "id": "T006",
+      "parrafo": "P009",
+      "voz": "Participante",
+      "texto": "Por ejemplo, si me dicen que cambió una dirección, necesito entender qué cambió. Puede ser que el lugar se haya trasladado, pero también puede ser que ahora se entre por otra calle o que antes lo hubieran descrito de una forma poco clara. Si trato las tres cosas igual, puedo modificar algo que no corresponde."
+    },
+    {
+      "id": "T007",
+      "parrafo": "P010",
+      "voz": "Entrevistador",
+      "texto": "¿Podrías elegir una actividad reciente que nos permita recorrer eso con detalle?"
+    },
+    {
+      "id": "T008",
+      "parrafo": "P011",
+      "voz": "Participante",
+      "texto": "Sí. Revisé una relación de tres espacios donde se realizan actividades. La persona que nos pidió la revisión quería preparar una relación para unas visitas. Dos registros salieron bastante directos. En el tercero venía una indicación de que la entrada estaba por una calle distinta de la que teníamos anotada. Ese sirve para explicar lo que hago, porque hubo que precisar qué significaba esa diferencia."
+    },
+    {
+      "id": "T009",
+      "parrafo": "P012",
+      "voz": "Entrevistador",
+      "texto": "¿Qué te correspondía entregar?"
+    },
+    {
+      "id": "T010",
+      "parrafo": "P013",
+      "voz": "Participante",
+      "texto": "Una copia revisada de la relación, con las referencias de ubicación que pudiéramos sostener y las observaciones necesarias. Mi parte era revisar los registros y devolverlos de forma que quien preparaba las visitas pudiera reconocer los sitios. Yo no organizaba las visitas ni decidía qué actividades iban a realizar allí."
+    },
+    {
+      "id": "T011",
+      "parrafo": "P014",
+      "voz": "Entrevistador",
+      "texto": "Antes de entrar en ese tercer registro, ¿cómo quedaron los otros dos?"
+    },
+    {
+      "id": "T012",
+      "parrafo": "P015",
+      "voz": "Participante",
+      "texto": "Uno coincidía con lo que ya teníamos. En el otro ajusté una referencia escrita porque mencionaba un comercio que ya no servía para reconocer el acceso. El equipo que había recorrido la zona había señalado una referencia más clara. La ubicación del espacio no cambió."
+    },
+    {
+      "id": "T013",
+      "parrafo": "P016",
+      "voz": "Entrevistador",
+      "texto": "Entonces, que un registro pase por tus manos no significa que necesariamente lo modifiques."
+    },
+    {
+      "id": "T014",
+      "parrafo": "P017",
+      "voz": "Participante",
+      "texto": "No. A veces la revisión termina en decir que se puede usar como está. En esos dos casos no había mucho más que buscar. El tercero fue el que me hizo detenerme."
+    },
+    {
+      "id": "T015",
+      "parrafo": "P018",
+      "voz": "Entrevistador",
+      "texto": "Si reconstruimos ese episodio, ¿dónde pondrías tú el inicio y dónde el final?"
+    },
+    {
+      "id": "T016",
+      "parrafo": "P019",
+      "voz": "Participante",
+      "texto": "Para mí empieza cuando recibo la relación con la petición de revisarla. Seguramente antes hubo conversaciones para decidir las visitas, pero yo no participé. Y termina cuando devuelvo la copia revisada y respondo una pregunta que me hicieron sobre el tercer sitio. Después ya no seguí lo de las visitas."
+    },
+    {
+      "id": "T017",
+      "parrafo": "P020",
+      "voz": "Entrevistador",
+      "texto": "Empecemos por lo que recibiste."
+    },
+    {
+      "id": "T018",
+      "parrafo": "P021",
+      "voz": "Participante",
+      "texto": "Recibí una tabla con los tres registros. Tenía los nombres con los que los identificaban, la dirección escrita y observaciones. En el tercero decía algo parecido a “entrada por la otra calle”. También venía un croquis sencillo del recorrido que había hecho el equipo. No era un plano con medidas; señalaba la esquina, el espacio y por dónde habían entrado."
+    },
+    {
+      "id": "T019",
+      "parrafo": "P022",
+      "voz": "Entrevistador",
+      "texto": "¿Qué hiciste primero con eso?"
+    },
+    {
+      "id": "T020",
+      "parrafo": "P023",
+      "voz": "Participante",
+      "texto": "Busqué los tres registros en la información con la que trabajo. Comparé los nombres y las referencias, porque a veces una misma palabra se usa de manera distinta. Luego abrí la ubicación de cada uno en el mapa que utilizo para revisar. Fui viendo si lo recibido hablaba de los mismos sitios."
+    },
+    {
+      "id": "T021",
+      "parrafo": "P024",
+      "voz": "Entrevistador",
+      "texto": "¿El tercer registro te pareció distinto desde el principio?"
+    },
+    {
+      "id": "T022",
+      "parrafo": "P025",
+      "voz": "Participante",
+      "texto": "El nombre coincidía y el punto estaba en el lugar que mostraba el croquis. Lo distinto era la calle de entrada. El espacio está en una esquina, entonces las dos descripciones podían estar hablando del mismo predio. Pero que pudieran coincidir no era suficiente para darlo por hecho."
+    },
+    {
+      "id": "T023",
+      "parrafo": "P026",
+      "voz": "Entrevistador",
+      "texto": "¿Qué posibilidades estabas considerando?"
+    },
+    {
+      "id": "T024",
+      "parrafo": "P027",
+      "voz": "Participante",
+      "texto": "Que fuera el mismo espacio y hubieran usado otro acceso. Que la descripción anterior estuviera incompleta. O que quien hizo la anotación estuviera hablando de un lugar cercano. Esta última posibilidad me parecía menos probable por el croquis, pero no quería descartarla solamente porque a mí me parecía."
+    },
+    {
+      "id": "T025",
+      "parrafo": "P028",
+      "voz": "Entrevistador",
+      "texto": "¿Cómo decidiste qué hacer?"
+    },
+    {
+      "id": "T026",
+      "parrafo": "P029",
+      "voz": "Participante",
+      "texto": "Primero revisé si teníamos alguna nota anterior que explicara la referencia. Encontré una descripción que ubicaba el espacio en la esquina, sin decir que el punto representara una puerta en particular. Después pregunté a una compañera con la que reviso estos registros si recordaba por qué estaba descrito así. Y preparé una pregunta para quien había enviado la relación."
+    },
+    {
+      "id": "T027",
+      "parrafo": "P030",
+      "voz": "Entrevistador",
+      "texto": "¿Qué preguntaste?"
+    },
+    {
+      "id": "T028",
+      "parrafo": "P031",
+      "voz": "Participante",
+      "texto": "Si el equipo había entrado al mismo espacio que figuraba en la relación anterior o si estaba señalando otro lugar. También pedí que aclararan si la observación era sobre la entrada que habían utilizado o sobre un traslado. Traté de preguntar eso de forma concreta."
+    },
+    {
+      "id": "T029",
+      "parrafo": "P032",
+      "voz": "Entrevistador",
+      "texto": "¿Por qué esa distinción era importante para tu parte?"
+    },
+    {
+      "id": "T030",
+      "parrafo": "P033",
+      "voz": "Participante",
+      "texto": "Porque yo podía cambiar una referencia de acceso conservando el registro del lugar. Si era otro espacio, ya no se resolvía cambiando una frase. Primero había que aclarar qué registro correspondía a qué sitio. Y si se había trasladado, tenía que revisar también la ubicación. Eran acciones diferentes."
+    },
+    {
+      "id": "T031",
+      "parrafo": "P034",
+      "voz": "Entrevistador",
+      "texto": "¿Quiénes intervinieron en este recorrido, según lo que tú pudiste ver?"
+    },
+    {
+      "id": "T032",
+      "parrafo": "P035",
+      "voz": "Participante",
+      "texto": "La persona que nos pidió revisar la relación, el equipo que había hecho el recorrido, mi compañera y yo. El equipo eran varias personas, pero para esta tarea yo recibí sus observaciones juntas. No sé cómo se repartieron ellos el trabajo."
+    },
+    {
+      "id": "T033",
+      "parrafo": "P036",
+      "voz": "Entrevistador",
+      "texto": "¿Hablaste directamente con ese equipo?"
+    },
+    {
+      "id": "T034",
+      "parrafo": "P037",
+      "voz": "Participante",
+      "texto": "En este caso no. La pregunta la envié a quien nos había pedido la revisión y esa persona recuperó la aclaración. En otras ocasiones sí he hablado directamente con alguien que estuvo en el sitio, pero aquí el intercambio pasó por ella."
+    },
+    {
+      "id": "T035",
+      "parrafo": "P038",
+      "voz": "Entrevistador",
+      "texto": "Me gustaría explorar cómo ves esos papeles mediante una comparación. Si tuvieras que representar a cada participante con una imagen, un objeto o alguna comparación elegida por ti, ¿qué escogerías? Lo que importa es cómo te ayuda a explicar su intervención."
+    },
+    {
+      "id": "T036",
+      "parrafo": "P039",
+      "voz": "Participante",
+      "texto": "A ver… Para quien pidió la revisión, pensaría en un separador de libro."
+    },
+    {
+      "id": "T037",
+      "parrafo": "P040",
+      "voz": "Entrevistador",
+      "texto": "¿Qué del separador describe su papel?"
+    },
+    {
+      "id": "T038",
+      "parrafo": "P041",
+      "voz": "Participante",
+      "texto": "Que marca en qué parte hay que poner atención. Nos mandó una relación concreta y dijo para qué la necesitaba. No era revisar todo lo que tenemos. También mantuvo localizada la pregunta mientras nosotros revisábamos. Si yo le decía que faltaba aclarar una cosa, sabía a qué asunto correspondía."
+    },
+    {
+      "id": "T039",
+      "parrafo": "P042",
+      "voz": "Entrevistador",
+      "texto": "¿Esa persona también decidía cómo debías resolver la ubicación?"
+    },
+    {
+      "id": "T040",
+      "parrafo": "P043",
+      "voz": "Participante",
+      "texto": "No en este caso. Podía explicarme para qué se usaría la relación y conseguir la respuesta del equipo. La revisión técnica la hacía yo. Si me hubiera dicho “ponlo en la otra calle” sin más, todavía habría necesitado entender qué estaba representando."
+    },
+    {
+      "id": "T041",
+      "parrafo": "P044",
+      "voz": "Entrevistador",
+      "texto": "¿Qué comparación elegirías para el equipo que recorrió los sitios?"
+    },
+    {
+      "id": "T042",
+      "parrafo": "P045",
+      "voz": "Participante",
+      "texto": "Una libreta de campo abierta. Porque trajeron cosas que se ven estando allí: por dónde entraron, qué referencia les ayudó, cómo reconocieron el sitio."
+    },
+    {
+      "id": "T043",
+      "parrafo": "P046",
+      "voz": "Entrevistador",
+      "texto": "¿Qué significa que la libreta esté abierta?"
+    },
+    {
+      "id": "T044",
+      "parrafo": "P047",
+      "voz": "Participante",
+      "texto": "Que puedo preguntar sobre lo que anotaron. Una observación breve no siempre trae toda la explicación, pero detrás hay una experiencia que pueden contar. Tampoco significa que yo pueda pedirles cualquier cosa y la sepan. Si no revisaron la otra puerta, no me pueden asegurar qué pasa con esa puerta."
+    },
+    {
+      "id": "T045",
+      "parrafo": "P048",
+      "voz": "Entrevistador",
+      "texto": "¿Eso ocurrió en este caso?"
+    },
+    {
+      "id": "T046",
+      "parrafo": "P049",
+      "voz": "Participante",
+      "texto": "Sí. Aclararon que habían entrado por la calle que aparecía en la nota. No confirmaron si el acceso mencionado antes seguía funcionando. Esa diferencia se quedó en mi revisión: yo sabía por dónde habían entrado, no sabía que el otro acceso hubiera dejado de utilizarse."
+    },
+    {
+      "id": "T047",
+      "parrafo": "P050",
+      "voz": "Entrevistador",
+      "texto": "¿Y tu compañera?"
+    },
+    {
+      "id": "T048",
+      "parrafo": "P051",
+      "voz": "Participante",
+      "texto": "La compararía con alguien que sostiene el otro extremo de una cinta de medir. No porque aquí midiéramos distancias. Es porque me ayuda a revisar desde otro extremo lo que estoy entendiendo."
+    },
+    {
+      "id": "T049",
+      "parrafo": "P052",
+      "voz": "Entrevistador",
+      "texto": "¿Qué sostuvo ella en este episodio?"
+    },
+    {
+      "id": "T050",
+      "parrafo": "P053",
+      "voz": "Participante",
+      "texto": "La lectura de la información anterior. Yo estaba muy concentrada en la nueva anotación y ella me hizo volver a cómo habíamos identificado el espacio. Vimos que el punto estaba asociado al sitio, no a una entrada específica. Eso ayudó a no moverlo sólo porque la nueva descripción nombraba otra calle."
+    },
+    {
+      "id": "T051",
+      "parrafo": "P054",
+      "voz": "Entrevistador",
+      "texto": "¿Necesitabas que ella autorizara la decisión?"
+    },
+    {
+      "id": "T052",
+      "parrafo": "P055",
+      "voz": "Participante",
+      "texto": "No. Le consulté porque trabajamos con información semejante y me servía contrastar la lectura. La decisión sobre la revisión que yo entregué fue mía. No quisiera que la comparación sonara a que ella tiene que validar todo lo que hago."
+    },
+    {
+      "id": "T053",
+      "parrafo": "P056",
+      "voz": "Entrevistador",
+      "texto": "Entendido. ¿Cómo te representarías tú?"
+    },
+    {
+      "id": "T054",
+      "parrafo": "P057",
+      "voz": "Participante",
+      "texto": "Como una mesa de trabajo donde se extienden varias hojas."
+    },
+    {
+      "id": "T055",
+      "parrafo": "P058",
+      "voz": "Entrevistador",
+      "texto": "Cuéntame qué hay en esa mesa."
+    },
+    {
+      "id": "T056",
+      "parrafo": "P059",
+      "voz": "Participante",
+      "texto": "Lo que recibí, lo que ya estaba registrado, el croquis y las aclaraciones. Mi trabajo es ponerlos en relación. Una hoja sola puede verse muy clara y, al ponerla junto a otra, aparece una diferencia que hay que entender. Pero yo no produzco todo lo que llega a la mesa. No estuve en el recorrido ni sé para qué más usan esos lugares."
+    },
+    {
+      "id": "T057",
+      "parrafo": "P060",
+      "voz": "Entrevistador",
+      "texto": "¿La comparación también te sirve cuando todo coincide?"
+    },
+    {
+      "id": "T058",
+      "parrafo": "P061",
+      "voz": "Participante",
+      "texto": "Sí. No sólo cuando hay una duda. En los otros dos registros puse las cosas juntas, vi que correspondían y seguí. A veces esa mesa se despeja rápido."
+    },
+    {
+      "id": "T059",
+      "parrafo": "P062",
+      "voz": "Entrevistador",
+      "texto": "Volvamos al momento de la aclaración. ¿Qué respondió quien solicitó la revisión?"
+    },
+    {
+      "id": "T060",
+      "parrafo": "P063",
+      "voz": "Participante",
+      "texto": "Nos hizo llegar que el equipo había visitado el mismo espacio de la relación. Habían entrado por el costado y querían que esa referencia apareciera para las próximas visitas. El croquis coincidía con eso. No estaban informando un traslado."
+    },
+    {
+      "id": "T061",
+      "parrafo": "P064",
+      "voz": "Entrevistador",
+      "texto": "¿Con esa respuesta cambiaste el registro?"
+    },
+    {
+      "id": "T062",
+      "parrafo": "P065",
+      "voz": "Participante",
+      "texto": "Cambié la descripción del acceso en la copia que estaba preparando. Conservé el identificador y la ubicación del espacio. Dejé una observación breve indicando que la referencia correspondía al acceso utilizado en ese recorrido. También guardé la aclaración junto con lo que había recibido para poder explicar después por qué había hecho el ajuste."
+    },
+    {
+      "id": "T063",
+      "parrafo": "P066",
+      "voz": "Entrevistador",
+      "texto": "¿Por qué no desplazaste el punto hacia la entrada que acababan de señalar?"
+    },
+    {
+      "id": "T064",
+      "parrafo": "P067",
+      "voz": "Participante",
+      "texto": "Porque el punto nos estaba sirviendo para reconocer el espacio dentro de esa esquina. No teníamos un levantamiento de la puerta ni se esperaba llegar a una precisión así con ese registro. Moverlo unos metros en la pantalla podía dar la impresión de que habíamos ubicado exactamente el acceso, y eso no era lo que se había comprobado."
+    },
+    {
+      "id": "T065",
+      "parrafo": "P068",
+      "voz": "Entrevistador",
+      "texto": "¿Cómo sabías qué representaba ese punto?"
+    },
+    {
+      "id": "T066",
+      "parrafo": "P069",
+      "voz": "Participante",
+      "texto": "Por la descripción anterior y por la forma en que estaba trabajado ese conjunto de registros. Lo revisé con mi compañera, como te decía. No te puedo decir que todos los puntos que maneja cualquier otra área representen lo mismo. En estos registros concretos lo pudimos reconocer."
+    },
+    {
+      "id": "T067",
+      "parrafo": "P070",
+      "voz": "Entrevistador",
+      "texto": "Entonces resolviste que la entrada anterior ya no debía utilizarse."
+    },
+    {
+      "id": "T068",
+      "parrafo": "P071",
+      "voz": "Participante",
+      "texto": "No, eso no lo resolví. Ahí sí haría una corrección a lo que entendiste. Yo incorporé una referencia que el equipo había utilizado. No comprobé que la otra entrada estuviera cerrada o que hubiera una indicación de dejar de usarla."
+    },
+    {
+      "id": "T069",
+      "parrafo": "P072",
+      "voz": "Entrevistador",
+      "texto": "¿Cómo evitaste que la nueva redacción se entendiera de esa manera?"
+    },
+    {
+      "id": "T070",
+      "parrafo": "P073",
+      "voz": "Participante",
+      "texto": "No puse “único acceso” ni “acceso anterior cancelado”. Describí la entrada utilizada y dejé la observación de dónde venía esa información. Quien preparaba la visita podía entender la referencia, pero si necesitaba saber por dónde debía ingresar un grupo en otra circunstancia, eso requería confirmarlo con quienes correspondiera."
+    },
+    {
+      "id": "T071",
+      "parrafo": "P074",
+      "voz": "Entrevistador",
+      "texto": "¿Te pidieron esa confirmación adicional?"
+    },
+    {
+      "id": "T072",
+      "parrafo": "P075",
+      "voz": "Participante",
+      "texto": "No. La pregunta posterior fue por qué la calle de la descripción ya no coincidía con la que aparecía antes. Expliqué que seguíamos hablando del mismo espacio y que habíamos incorporado la referencia del recorrido. Con eso dieron por atendida mi parte."
+    },
+    {
+      "id": "T073",
+      "parrafo": "P076",
+      "voz": "Entrevistador",
+      "texto": "Antes de esa pregunta posterior, ¿cómo revisaste lo que ibas a entregar?"
+    },
+    {
+      "id": "T074",
+      "parrafo": "P077",
+      "voz": "Participante",
+      "texto": "Volví a leer los tres registros seguidos. Cuando uno se concentra en una observación puede dejar algo cortado o usar una expresión que sólo entiende porque acaba de leer todos los mensajes. Revisé que el identificador del tercer espacio siguiera siendo el mismo, que no hubiera cambiado la ubicación y que la descripción no afirmara más de lo que sabíamos. Luego devolví la copia revisada con una explicación corta de los cambios."
+    },
+    {
+      "id": "T075",
+      "parrafo": "P078",
+      "voz": "Entrevistador",
+      "texto": "¿Qué querías que se entendiera en esa explicación?"
+    },
+    {
+      "id": "T076",
+      "parrafo": "P079",
+      "voz": "Participante",
+      "texto": "Qué podían usar y qué habíamos aclarado. En el primero no hubo cambio. En el segundo se sustituyó la referencia que ya no ayudaba a reconocer el acceso. En el tercero se precisó la entrada utilizada en el recorrido. No mandé toda mi conversación con mi compañera; eso no les hacía falta para preparar la relación."
+    },
+    {
+      "id": "T077",
+      "parrafo": "P080",
+      "voz": "Entrevistador",
+      "texto": "¿Qué pasó después con esa copia?"
+    },
+    {
+      "id": "T078",
+      "parrafo": "P081",
+      "voz": "Participante",
+      "texto": "Sé que la recibió quien estaba preparando las visitas, porque me hizo la pregunta que te conté. No vi cómo quedó la relación que usaron al salir ni estuve en esas visitas. Supongo que utilizaron la referencia, pero no tengo cómo asegurártelo."
+    },
+    {
+      "id": "T079",
+      "parrafo": "P082",
+      "voz": "Entrevistador",
+      "texto": "Si miras ahora el recorrido completo y lo agrupas en partes, ¿cómo llamarías tú a esas partes?"
+    },
+    {
+      "id": "T080",
+      "parrafo": "P083",
+      "voz": "Participante",
+      "texto": "Primero, “entender el encargo”. Luego, “ponerlo junto a lo que tenemos”. Después diría “resolver lo que no encaja”. Y al final, “dejarlo listo y explicarlo”."
+    },
+    {
+      "id": "T081",
+      "parrafo": "P084",
+      "voz": "Entrevistador",
+      "texto": "¿Dónde empieza y termina “entender el encargo”?"
+    },
+    {
+      "id": "T082",
+      "parrafo": "P085",
+      "voz": "Participante",
+      "texto": "Empieza con leer lo que me piden y saber para qué lo necesitan. Termina cuando puedo decir qué me toca revisar. Aunque a veces tengo que volver a esa parte. Si después me piden algo distinto, necesito entender ese cambio antes de seguir."
+    },
+    {
+      "id": "T083",
+      "parrafo": "P086",
+      "voz": "Entrevistador",
+      "texto": "¿En este caso tuviste que volver?"
+    },
+    {
+      "id": "T084",
+      "parrafo": "P087",
+      "voz": "Participante",
+      "texto": "No cambió el encargo. Lo que tuve que aclarar fue el contenido de una observación."
+    },
+    {
+      "id": "T085",
+      "parrafo": "P088",
+      "voz": "Entrevistador",
+      "texto": "¿Y “ponerlo junto a lo que tenemos” y “resolver lo que no encaja” ocurrieron una después de la otra?"
+    },
+    {
+      "id": "T086",
+      "parrafo": "P089",
+      "voz": "Participante",
+      "texto": "No tan separadas. Mientras comparaba ya iba anotando la pregunta. Y mientras esperaba la respuesta terminé los otros dos registros. Lo estoy agrupando para explicarlo, pero no fue que cerré una parte y abrí la siguiente sin regresar."
+    },
+    {
+      "id": "T087",
+      "parrafo": "P090",
+      "voz": "Entrevistador",
+      "texto": "¿Mantendrías esos nombres con esa salvedad?"
+    },
+    {
+      "id": "T088",
+      "parrafo": "P091",
+      "voz": "Participante",
+      "texto": "Sí. Me sirven. Sólo cambiaría el último a “devolver y dejar entendible”, porque “dejarlo listo” suena como si ya no pudiera volver una pregunta. Y sí puede volver."
+    },
+    {
+      "id": "T089",
+      "parrafo": "P092",
+      "voz": "Entrevistador",
+      "texto": "Cuando vuelve una pregunta, ¿por dónde entra normalmente a tu trabajo?"
+    },
+    {
+      "id": "T090",
+      "parrafo": "P093",
+      "voz": "Participante",
+      "texto": "Por distintos medios de trabajo, según con quién esté tratando. A veces me preguntan sobre la misma copia que mandé. Otras me dicen de palabra que no entienden una referencia. Yo intento ubicar primero cuál versión están viendo y qué parte les causa duda."
+    },
+    {
+      "id": "T091",
+      "parrafo": "P094",
+      "voz": "Entrevistador",
+      "texto": "¿Por qué necesitas ubicar la versión?"
+    },
+    {
+      "id": "T092",
+      "parrafo": "P095",
+      "voz": "Participante",
+      "texto": "Porque puede que estén mirando la relación que recibimos al inicio o una copia donde ya se incorporó algo. Si no sé eso, puedo explicar un cambio que todavía no están viendo. No siempre pasa, pero cuando pasa se resuelve viendo el documento concreto."
+    },
+    {
+      "id": "T093",
+      "parrafo": "P096",
+      "voz": "Entrevistador",
+      "texto": "¿Hay una secuencia fija para pedir que algo se revise de nuevo?"
+    },
+    {
+      "id": "T094",
+      "parrafo": "P097",
+      "voz": "Participante",
+      "texto": "En lo que yo hago, no siempre. Una duda de redacción puede resolverse en el mismo intercambio. Si alguien dice que el lugar es otro, entonces necesito detener esa modificación y revisar la correspondencia. No te puedo describir un circuito que aplique a toda la alcaldía. Te estoy contando cómo atiendo estas consultas dentro de mi trabajo."
+    },
+    {
+      "id": "T095",
+      "parrafo": "P098",
+      "voz": "Entrevistador",
+      "texto": "¿Qué habría cambiado en este episodio si el equipo hubiera dicho que se trataba de otro espacio?"
+    },
+    {
+      "id": "T096",
+      "parrafo": "P099",
+      "voz": "Participante",
+      "texto": "Habría separado esa cuestión de los otros dos registros. No habría reutilizado el identificador sólo porque el nombre se parecía. Tendría que pedir referencias para reconocer el otro sitio y ver qué relación tenía con el registro anterior. Dependiendo de lo que apareciera, consultaría con el equipo con el que trabajo cómo incorporarlo. Pero eso ya es lo que habría hecho, no lo que ocurrió."
+    },
+    {
+      "id": "T097",
+      "parrafo": "P100",
+      "voz": "Entrevistador",
+      "texto": "¿Y si no hubiera llegado la aclaración sobre la entrada?"
+    },
+    {
+      "id": "T098",
+      "parrafo": "P101",
+      "voz": "Participante",
+      "texto": "Podía devolver los otros dos revisados y señalar que el tercero seguía pendiente de aclarar. No había necesidad de inventar una respuesta para entregar los tres de la misma manera."
+    },
+    {
+      "id": "T099",
+      "parrafo": "P102",
+      "voz": "Entrevistador",
+      "texto": "¿Eso sucede con frecuencia?"
+    },
+    {
+      "id": "T100",
+      "parrafo": "P103",
+      "voz": "Participante",
+      "texto": "No sabría darte una frecuencia. Hay relaciones que se revisan completas sin preguntar nada y otras donde se aparta un registro. Este caso lo recuerdo por la diferencia entre ubicar el espacio y describir por dónde entraron."
+    },
+    {
+      "id": "T101",
+      "parrafo": "P104",
+      "voz": "Entrevistador",
+      "texto": "Quisiera detenerme en la decisión de conservar el mismo registro. ¿Qué necesitabas saber para tomarla?"
+    },
+    {
+      "id": "T102",
+      "parrafo": "P105",
+      "voz": "Participante",
+      "texto": "Si la nueva observación se refería al mismo lugar. Ésa era la pregunta principal. Después, qué parte de la descripción había cambiado y qué tan lejos podía llevar esa información."
+    },
+    {
+      "id": "T103",
+      "parrafo": "P106",
+      "voz": "Entrevistador",
+      "texto": "¿En qué te apoyaste para responderla?"
+    },
+    {
+      "id": "T104",
+      "parrafo": "P107",
+      "voz": "Participante",
+      "texto": "En la coincidencia del nombre, la esquina que mostraba el croquis, la descripción anterior y la aclaración del equipo. Ninguna cosa por separado me daba todo. El nombre podía repetirse o escribirse de otra forma. El croquis me ayudaba a reconocer el sitio, pero no decía por sí solo si estaban hablando de un traslado. La respuesta del equipo aclaró eso."
+    },
+    {
+      "id": "T105",
+      "parrafo": "P108",
+      "voz": "Entrevistador",
+      "texto": "¿Cómo reconociste que ya tenías suficiente?"
+    },
+    {
+      "id": "T106",
+      "parrafo": "P109",
+      "voz": "Participante",
+      "texto": "Cuando las referencias coincidieron y la aclaración respondió a la duda que yo tenía que resolver. Podía explicar por qué conservaba el registro y por qué ajustaba la descripción. Para esa tarea me alcanzaba."
+    },
+    {
+      "id": "T107",
+      "parrafo": "P110",
+      "voz": "Entrevistador",
+      "texto": "¿Qué seguías sin saber?"
+    },
+    {
+      "id": "T108",
+      "parrafo": "P111",
+      "voz": "Participante",
+      "texto": "Si la otra entrada seguía en uso, si había horarios distintos para entrar por un lado o por otro, o si la siguiente visita iba a tener alguna condición diferente. No lo sabía y no lo puse como si lo supiera."
+    },
+    {
+      "id": "T109",
+      "parrafo": "P112",
+      "voz": "Entrevistador",
+      "texto": "¿Esos datos habrían hecho mejor tu revisión?"
+    },
+    {
+      "id": "T110",
+      "parrafo": "P113",
+      "voz": "Participante",
+      "texto": "Habrían dado más detalle, pero no todos eran necesarios para lo que estaba haciendo. Si la solicitud hubiera sido indicar el acceso para una actividad con condiciones específicas, quizá sí. Para reconocer el mismo espacio y dejar una referencia que el equipo ya había usado, no necesitaba resolver todo eso."
+    },
+    {
+      "id": "T111",
+      "parrafo": "P114",
+      "voz": "Entrevistador",
+      "texto": "¿Hay algo que te haga desconfiar de una información aunque venga acompañada de una explicación?"
+    },
+    {
+      "id": "T112",
+      "parrafo": "P115",
+      "voz": "Participante",
+      "texto": "Más que desconfiar, me hace revisar si la explicación realmente responde a la pregunta. Si pregunto si es el mismo espacio y me contestan que la calle está bien escrita, todavía no sé si es el mismo espacio. Puede ser una respuesta correcta sobre otra cosa. También me detengo si el croquis y la descripción señalan lugares diferentes."
+    },
+    {
+      "id": "T113",
+      "parrafo": "P116",
+      "voz": "Entrevistador",
+      "texto": "¿Qué haces entonces?"
+    },
+    {
+      "id": "T114",
+      "parrafo": "P117",
+      "voz": "Participante",
+      "texto": "Intento mostrar la diferencia de manera concreta. “En este dibujo aparece de este lado y en el texto se menciona el otro”. A veces basta con eso para que quien lo elaboró diga qué quiso señalar. No necesariamente hay un dato equivocado; puede que yo esté leyendo mal una referencia."
+    },
+    {
+      "id": "T115",
+      "parrafo": "P118",
+      "voz": "Entrevistador",
+      "texto": "¿Recuerdas algún momento de este episodio en que tu propia lectura cambiara?"
+    },
+    {
+      "id": "T116",
+      "parrafo": "P119",
+      "voz": "Participante",
+      "texto": "Al principio pensé que tendría que mover el punto. No lo había hecho, pero fue mi primera reacción al leer otra calle. Cuando revisé la descripción anterior y lo hablé con mi compañera, vi que estaba confundiendo la localización del espacio con la ubicación de una puerta. Por eso me sirvió volver a lo que ya teníamos."
+    },
+    {
+      "id": "T117",
+      "parrafo": "P120",
+      "voz": "Entrevistador",
+      "texto": "Hasta aquí hemos hablado de lo que utilizaste. Ahora quisiera proponerte un ejercicio distinto: pensando en tu trabajo, ¿qué te gustaría poder saber con facilidad, aunque hoy no conozcas una fuente donde consultarlo?"
+    },
+    {
+      "id": "T118",
+      "parrafo": "P121",
+      "voz": "Participante",
+      "texto": "Me gustaría saber qué quiso decir quien dejó ciertas observaciones muy breves. A veces leo “revisado” o “cambio de ubicación” y no sé qué se revisó o qué cambió exactamente. No estoy diciendo que toda nuestra información venga así. Hay notas muy claras. Pero cuando aparece una de esas frases, tengo que reconstruir el sentido."
+    },
+    {
+      "id": "T119",
+      "parrafo": "P122",
+      "voz": "Entrevistador",
+      "texto": "¿Qué querrías encontrar detrás de una frase como “cambio de ubicación”?"
+    },
+    {
+      "id": "T120",
+      "parrafo": "P123",
+      "voz": "Participante",
+      "texto": "Si la persona observó un traslado, corrigió un punto que estaba mal puesto o sólo escribió de otra manera la dirección. Son cosas que pueden quedar resumidas con las mismas palabras. Querría saber qué vio o qué comparación hizo para decirlo."
+    },
+    {
+      "id": "T121",
+      "parrafo": "P124",
+      "voz": "Entrevistador",
+      "texto": "Si pudieras organizar esa información a tu manera, ¿cómo sería el espacio donde la consultarías?"
+    },
+    {
+      "id": "T122",
+      "parrafo": "P125",
+      "voz": "Participante",
+      "texto": "Lo imagino bastante sencillo, como una carpeta por lugar. Al abrirla vería el registro con el que estoy trabajando y, al lado, las notas que explican los cambios o las revisiones. Si hubo un croquis que ayudó a reconocerlo, estaría ahí. No abriría primero un mapa de todos los lugares."
+    },
+    {
+      "id": "T123",
+      "parrafo": "P126",
+      "voz": "Entrevistador",
+      "texto": "Descríbeme qué harías primero al entrar a esa carpeta con una tarea como la que relataste."
+    },
+    {
+      "id": "T124",
+      "parrafo": "P127",
+      "voz": "Participante",
+      "texto": "Buscaría el registro por su identificador o por el nombre que me enviaron. Comprobaría que es el lugar correcto. Luego leería la descripción que estamos usando y la explicación de la modificación más reciente. Si mi duda siguiera siendo espacial, abriría el mapa o el croquis."
+    },
+    {
+      "id": "T125",
+      "parrafo": "P128",
+      "voz": "Entrevistador",
+      "texto": "¿Qué tendría esa explicación para que te resultara útil?"
+    },
+    {
+      "id": "T126",
+      "parrafo": "P129",
+      "voz": "Participante",
+      "texto": "Una frase que dijera qué se comprobó y con qué referencia. Por ejemplo, en este caso: se confirmó que era el mismo espacio y se incorporó el acceso utilizado durante el recorrido. También necesitaría reconocer a qué revisión corresponde. Si es una nota de hace tiempo, tengo que poder distinguirla de una aclaración que acaba de llegar."
+    },
+    {
+      "id": "T127",
+      "parrafo": "P130",
+      "voz": "Entrevistador",
+      "texto": "¿Querrías conservar todos los intercambios?"
+    },
+    {
+      "id": "T128",
+      "parrafo": "P131",
+      "voz": "Participante",
+      "texto": "No necesariamente. Hay mensajes que sólo dicen que ya recibieron el archivo o que van a preguntar. Eso no me ayuda mucho después. Sí conservaría el material necesario para entender la decisión. Y si una duda quedó abierta, querría que no desapareciera entre las notas."
+    },
+    {
+      "id": "T129",
+      "parrafo": "P132",
+      "voz": "Entrevistador",
+      "texto": "¿Cómo te gustaría ver esa duda abierta?"
+    },
+    {
+      "id": "T130",
+      "parrafo": "P133",
+      "voz": "Participante",
+      "texto": "Escrita de forma directa. En este caso podría ser que no se comprobó si el otro acceso seguía en uso. Aunque tampoco pondría todas las cosas que nadie preguntó. Si hago una lista de todo lo que no sabemos de un lugar, no termino. Me refiero a una duda que surgió en la revisión y que importa para entender lo que entregamos."
+    },
+    {
+      "id": "T131",
+      "parrafo": "P134",
+      "voz": "Entrevistador",
+      "texto": "¿Esa carpeta te permitiría decidir sin consultar a otras personas?"
+    },
+    {
+      "id": "T132",
+      "parrafo": "P135",
+      "voz": "Participante",
+      "texto": "Algunas cosas, sí. Si la explicación ya está y responde a mi pregunta, no tendría que volver a preguntar lo mismo. Pero si aparece una observación nueva, voy a necesitar hablar con alguien. La carpeta no puede decirme lo que pasó después de lo último que contiene."
+    },
+    {
+      "id": "T133",
+      "parrafo": "P136",
+      "voz": "Entrevistador",
+      "texto": "De lo que imaginaste, ¿qué parte priorizarías?"
+    },
+    {
+      "id": "T134",
+      "parrafo": "P137",
+      "voz": "Participante",
+      "texto": "La explicación del último cambio que afecta la identificación del lugar. Antes que reunir muchos materiales, querría poder entender eso. Si sólo hay espacio para una nota útil, que me diga qué se cambió y por qué."
+    },
+    {
+      "id": "T135",
+      "parrafo": "P138",
+      "voz": "Entrevistador",
+      "texto": "¿Qué decisión concreta te ayudaría a tomar?"
+    },
+    {
+      "id": "T136",
+      "parrafo": "P139",
+      "voz": "Participante",
+      "texto": "Si puedo usar el registro para atender la solicitud que tengo o si necesito aclarar algo antes. También si una observación nueva contradice lo anterior o simplemente añade una referencia. En el episodio que contamos, quizá habría entendido antes por qué el punto estaba ahí."
+    },
+    {
+      "id": "T137",
+      "parrafo": "P140",
+      "voz": "Entrevistador",
+      "texto": "¿Qué te mostraría, en una jornada de trabajo, que esa forma de consulta te sirve?"
+    },
+    {
+      "id": "T138",
+      "parrafo": "P141",
+      "voz": "Participante",
+      "texto": "Que al retomar un lugar después de un tiempo pueda explicar la revisión sin depender de acordarme de la conversación. O que mi compañera pueda continuar con lo que dejé y reconocer dónde está la duda. No esperaría dejar de hacer consultas. Esperaría que las consultas fueran sobre lo que de verdad falta."
+    },
+    {
+      "id": "T139",
+      "parrafo": "P142",
+      "voz": "Entrevistador",
+      "texto": "¿Hay alguna parte de tu trabajo para la que eso no te aportaría mucho?"
+    },
+    {
+      "id": "T140",
+      "parrafo": "P143",
+      "voz": "Participante",
+      "texto": "Sí. Si recibo un sitio nuevo con referencias claras y no tengo que compararlo con una historia anterior, esa carpeta de revisiones todavía no tendría gran cosa que aportar. O si me piden una relación sencilla que ya tenemos preparada y no ha surgido ninguna observación. No todo necesita el mismo recorrido."
+    },
+    {
+      "id": "T141",
+      "parrafo": "P144",
+      "voz": "Entrevistador",
+      "texto": "¿Cómo se relaciona ese ejercicio ideal con lo que ya haces?"
+    },
+    {
+      "id": "T142",
+      "parrafo": "P145",
+      "voz": "Participante",
+      "texto": "Parte de eso ya lo hacemos guardando notas y materiales con los registros. Lo ideal sería encontrarlos de manera más pareja, con una explicación que se entienda después. No estoy imaginando empezar desde cero. En este caso pude recuperar la descripción anterior y eso funcionó."
+    },
+    {
+      "id": "T143",
+      "parrafo": "P146",
+      "voz": "Entrevistador",
+      "texto": "¿Qué conservarías de tu manera actual de trabajar?"
+    },
+    {
+      "id": "T144",
+      "parrafo": "P147",
+      "voz": "Participante",
+      "texto": "Comparar antes de cambiar. Y poder hacer una pregunta corta a la persona que tiene la experiencia del sitio. También conservaría revisar con mi compañera cuando necesito otra lectura. Aunque tuviera todo muy ordenado, me seguiría sirviendo escuchar cómo entiende ella una descripción."
+    },
+    {
+      "id": "T145",
+      "parrafo": "P148",
+      "voz": "Entrevistador",
+      "texto": "¿Hay algo de esa revisión compartida que no pudiera quedar escrito?"
+    },
+    {
+      "id": "T146",
+      "parrafo": "P149",
+      "voz": "Participante",
+      "texto": "Puede quedar escrito el resultado, pero la conversación ayuda a llegar a él. Mi compañera me puede preguntar por qué estoy suponiendo algo y yo darme cuenta de que no tengo una razón suficiente. No siempre sé desde el principio cuál es la pregunta que debo dejar en una nota."
+    },
+    {
+      "id": "T147",
+      "parrafo": "P150",
+      "voz": "Entrevistador",
+      "texto": "Antes dijiste que no todo tu trabajo consiste en poner puntos. Después de recorrer el caso, ¿qué parte dirías que suele quedar menos visible?"
+    },
+    {
+      "id": "T148",
+      "parrafo": "P151",
+      "voz": "Participante",
+      "texto": "Entender a qué se refiere lo que recibimos. Desde fuera puede parecer que hay una dirección y sólo hay que encontrarla. A veces sí es así de directo. Otras veces primero hay que distinguir si dos descripciones hablan de lo mismo. Esa parte no siempre se ve en el resultado final, porque al final queda una fila bastante sencilla."
+    },
+    {
+      "id": "T149",
+      "parrafo": "P152",
+      "voz": "Entrevistador",
+      "texto": "¿Te interesa que quien recibe esa fila conozca todo ese trabajo?"
+    },
+    {
+      "id": "T150",
+      "parrafo": "P153",
+      "voz": "Participante",
+      "texto": "No todo. Me interesa que entienda lo necesario para usarla. Si le mando una explicación larguísima de cada comparación, quizá le dificulte encontrar lo que necesita. Pero si hay una condición que cambia cómo debe leer el dato, sí quiero que la vea."
+    },
+    {
+      "id": "T151",
+      "parrafo": "P154",
+      "voz": "Entrevistador",
+      "texto": "Para revisar lo que entendí: tu tarea fue contrastar tres registros para una relación de visitas. En uno de ellos aclaraste que la observación se refería a otro acceso del mismo espacio. Conservaste su identificación y su punto, ajustaste la referencia escrita y explicaste el alcance de esa revisión. ¿Qué corregirías?"
+    },
+    {
+      "id": "T152",
+      "parrafo": "P155",
+      "voz": "Participante",
+      "texto": "Eso está bien. Sólo añadiría que no fui yo quien comprobó el acceso en el sitio. Me apoyé en lo que informó el equipo y en el croquis. Yo revisé cómo incorporar esa información al registro."
+    },
+    {
+      "id": "T153",
+      "parrafo": "P156",
+      "voz": "Entrevistador",
+      "texto": "Gracias por precisarlo. También entendí que para ti sería útil encontrar con más facilidad el sentido de algunas revisiones anteriores, aunque en este episodio la información disponible te alcanzó."
+    },
+    {
+      "id": "T154",
+      "parrafo": "P157",
+      "voz": "Participante",
+      "texto": "Sí. No quisiera que pareciera que este caso quedó a medias por no tener esa carpeta que imaginamos. Lo pudimos atender. El ejercicio me hizo pensar en otras ocasiones donde una nota breve ya no se entiende tan fácilmente."
+    },
+    {
+      "id": "T155",
+      "parrafo": "P158",
+      "voz": "Entrevistador",
+      "texto": "¿Nos quedó fuera algo importante sobre cómo trabajas?"
+    },
+    {
+      "id": "T156",
+      "parrafo": "P159",
+      "voz": "Participante",
+      "texto": "Que a veces dejar un registro como está también lleva revisión. Si sólo miras qué cambió en el archivo, no ves que el primero de esos tres se comparó y se consideró suficiente. No lo digo para que se anote cada movimiento que hacemos, sino porque conservar algo también puede ser una decisión."
+    },
+    {
+      "id": "T157",
+      "parrafo": "P160",
+      "voz": "Entrevistador",
+      "texto": "¿Te parece que eso describe bien lo que ocurrió con el punto del tercer espacio?"
+    },
+    {
+      "id": "T158",
+      "parrafo": "P161",
+      "voz": "Participante",
+      "texto": "Sí, ahí también. Lo conservé después de revisar qué representaba. No fue que se me olvidara moverlo."
+    },
+    {
+      "id": "T159",
+      "parrafo": "P162",
+      "voz": "Entrevistador",
+      "texto": "¿Hay algún último matiz que quieras dejar antes de cerrar?"
+    },
+    {
+      "id": "T160",
+      "parrafo": "P163",
+      "voz": "Participante",
+      "texto": "Que ésta es mi parte del trabajo. Puedo explicar por qué devolví esa relación de esa manera. Sobre cómo se organizó la visita o qué decidieron después en el lugar, tendrían que preguntar a quienes participaron. A mí me sirve tener clara esa diferencia."
+    },
+    {
+      "id": "T161",
+      "parrafo": "P164",
+      "voz": "Entrevistador",
+      "texto": "Queda clara. Gracias por recorrer el episodio con tanto detalle y por corregir las interpretaciones que no correspondían. Con esto cerramos la conversación."
+    },
+    {
+      "id": "T162",
+      "parrafo": "P165",
+      "voz": "Participante",
+      "texto": "Gracias. Me pareció bien poder ir al caso concreto; así se entiende mejor lo que hago."
+    }
+  ]
+}

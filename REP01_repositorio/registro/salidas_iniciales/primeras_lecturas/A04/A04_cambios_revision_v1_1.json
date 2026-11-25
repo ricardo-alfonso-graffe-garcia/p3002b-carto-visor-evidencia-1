@@ -1,0 +1,31 @@
+{
+  "version_recibida": "1",
+  "version_trabajo": "1.1",
+  "fecha_revision": "2026-11-24",
+  "alcance": "Una precisión de procedencia en la explicación y dos ampliaciones literales de ejemplos. Sin cambiar códigos, segmentos, asignaciones, cobertura o transcripción.",
+  "cambios": [
+    {
+      "objeto": "explicacion_apertura",
+      "campo": "referencia_de_la_actividad",
+      "anterior": "El encabezado sitúa el perfil en una mercería de barrio de CDMX, sin especialización en cartografía ni análisis de datos (E04-P002).",
+      "nuevo": "El encabezado describe un pequeño negocio de barrio de CDMX y un perfil sin especialización en cartografía ni análisis de datos; la participante precisa que se trata de una mercería (E04-P002; E04-P008).",
+      "motivo": "E04-P002 no identifica la mercería; la actividad concreta se declara en E04-P008."
+    },
+    {
+      "objeto": "E04-C003",
+      "campo": "ejemplos[0].cita",
+      "parrafo_id": "E04-P057",
+      "anterior": "No una cantidad igual para todo.",
+      "nuevo": "No una cantidad igual para todo. En ese elástico me fijo en lo que queda y en cuánto se ha estado cortando.",
+      "motivo": "El fragmento literal ampliado muestra el criterio o la alternativa que el código describe, preservando su alcance."
+    },
+    {
+      "objeto": "E04-C017",
+      "campo": "ejemplos[0].cita",
+      "parrafo_id": "E04-P122",
+      "anterior": "Eso no ocurrió con el rollo que estamos contando.",
+      "nuevo": "Pero si es algo que sí necesitamos reponer, busco primero si hay el mismo en el otro lugar. Ya después decido si vale la pena probar otro. Eso no ocurrió con el rollo que estamos contando.",
+      "motivo": "El fragmento literal ampliado muestra el criterio o la alternativa que el código describe, preservando su alcance."
+    }
+  ]
+}

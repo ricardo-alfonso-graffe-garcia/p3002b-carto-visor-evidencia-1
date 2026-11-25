@@ -1,0 +1,58 @@
+[
+  {
+    "id": "HU01-FT001",
+    "url": "https://fairdo.org/documents/fdo_specifications/",
+    "localizador": "Specifications y Older Documents, líneas 24–38 del lector",
+    "lectura_efectiva": "Índice y advertencia sobre documentos anteriores; no especificación normativa detallada.",
+    "version": "Índice consultado en esta ejecución; sin versión normativa adoptada."
+  },
+  {
+    "id": "HU01-FT002",
+    "url": "https://fairdo-org.github.io/fdo-architecture-spec/",
+    "localizador": "Introducción y estado, líneas 0–4 del lector",
+    "lectura_efectiva": "Se recuperó introducción completa y declaración draft work document; no se leyeron requisitos de todas las secciones.",
+    "version": "Borrador según declaración de la página."
+  },
+  {
+    "id": "HU01-FT003",
+    "url": "https://www.go-fair.org/fair-principles/",
+    "localizador": "Lista F1–F4, A1–A2, I1–I3, R1–R1.3",
+    "lectura_efectiva": "Principios recuperados y leídos para evaluación local; no guía de implementación integral.",
+    "version": "Página de principios, sin certificación."
+  },
+  {
+    "id": "HU01-FT004",
+    "url": "https://www.researchobject.org/ro-crate/specification/1.2/introduction.html",
+    "localizador": "Introduction, líneas 54–61",
+    "lectura_efectiva": "Definición de agregación y descripción y documento de metadatos JSON-LD. No lectura integral de especificación.",
+    "version": "1.2 elegida como referencia de alcance; no presentada como versión más reciente."
+  },
+  {
+    "id": "HU01-FT005",
+    "url": "https://schema.datacite.org/",
+    "localizador": "Definición y cabecera de Metadata Schema 4.7, líneas 0–16",
+    "lectura_efectiva": "Propósito de identificación, cita y recuperación e índice de versión. No lectura de propiedades obligatorias detalladas.",
+    "version": "4.7 en índice consultado; no esquema implementado."
+  },
+  {
+    "id": "HU01-FT006",
+    "url": "https://www.w3.org/TR/prov-o/",
+    "localizador": "Abstract, líneas 30–35",
+    "lectura_efectiva": "Propósito de representar e intercambiar procedencia y namespace; no lectura integral de ontología.",
+    "version": "W3C Recommendation de 30 abril 2013 según cabecera."
+  },
+  {
+    "id": "HU01-FT007",
+    "url": "https://www.w3.org/TR/prov-overview/",
+    "localizador": "Abstract y lista de documentos, líneas 17–37",
+    "lectura_efectiva": "Entidades, actividades y personas, y relación de PROV-O con la familia; no implementación de modelo.",
+    "version": "Overview, Working Group Note de 30 abril 2013."
+  },
+  {
+    "id": "HU01-FT008",
+    "url": "https://nanopub.net/",
+    "localizador": "What is a nanopublication? y Structure, líneas 7–22",
+    "lectura_efectiva": "Unidad de conocimiento con procedencia/metadatos y partes de estructura; no implementación ni publicación.",
+    "version": "Página introductoria consultada, sin fijar perfil normativo completo."
+  }
+]

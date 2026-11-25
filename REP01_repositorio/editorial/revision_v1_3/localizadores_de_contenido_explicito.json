@@ -1,0 +1,107 @@
+{
+  "version": "1.3",
+  "tipo_paginas": "Físicas del PDF contando portada",
+  "secciones": [
+    {
+      "id": "REP01-S001",
+      "titulo": "1 La pregunta que antecede al visor",
+      "pagina_pdf_inicio": 2,
+      "pagina_cuerpo_inicio": 1
+    },
+    {
+      "id": "REP01-S002",
+      "titulo": "2 Leer las respuestas junto con lo que se preguntó",
+      "pagina_pdf_inicio": 2,
+      "pagina_cuerpo_inicio": 1
+    },
+    {
+      "id": "REP01-S003",
+      "titulo": "3 Cinco recorridos con cierres diferentes",
+      "pagina_pdf_inicio": 4,
+      "pagina_cuerpo_inicio": 3
+    },
+    {
+      "id": "REP01-S004",
+      "titulo": "4 Poder preferencias y coordinación entre actores",
+      "pagina_pdf_inicio": 5,
+      "pagina_cuerpo_inicio": 4
+    },
+    {
+      "id": "REP01-S005",
+      "titulo": "5 Necesidades de información y criterios de verificación",
+      "pagina_pdf_inicio": 7,
+      "pagina_cuerpo_inicio": 6
+    },
+    {
+      "id": "REP01-S006",
+      "titulo": "6 Contraste del diagnóstico institucional",
+      "pagina_pdf_inicio": 9,
+      "pagina_cuerpo_inicio": 8
+    },
+    {
+      "id": "REP01-S007",
+      "titulo": "7 Decisiones de representación cartográfica",
+      "pagina_pdf_inicio": 9,
+      "pagina_cuerpo_inicio": 8
+    },
+    {
+      "id": "REP01-S008",
+      "titulo": "8 Tres propuestas de apoyo documental",
+      "pagina_pdf_inicio": 10,
+      "pagina_cuerpo_inicio": 9
+    },
+    {
+      "id": "REP01-S009",
+      "titulo": "9 Conclusiones y agenda de verificación",
+      "pagina_pdf_inicio": 11,
+      "pagina_cuerpo_inicio": 10
+    }
+  ],
+  "figuras": [
+    {
+      "id": "REP01-F004",
+      "titulo": "Relación entre evidencia necesidades y productos",
+      "numero_visible": 1,
+      "pagina_pdf": 3
+    },
+    {
+      "id": "REP01-F001",
+      "titulo": "Conservar el punto después de interpretar la diferencia",
+      "numero_visible": 2,
+      "pagina_pdf": 4
+    },
+    {
+      "id": "REP01-F005",
+      "titulo": "Mapa de actores del episodio de revisión territorial",
+      "numero_visible": 3,
+      "pagina_pdf": 6
+    }
+  ],
+  "terminos": {
+    "Historia de revisión territorial": [
+      7
+    ],
+    "Historia de contraste de ocasiones": [
+      8
+    ],
+    "La cadena se puede": [
+      8
+    ],
+    "Representación digital de la historia": [
+      8
+    ],
+    "principios FAIR": [
+      11
+    ],
+    "FDO": [
+      8,
+      12
+    ],
+    "adaptación de JANUS": [
+      2
+    ],
+    "No se recabaron posturas": [
+      6
+    ]
+  }
+}

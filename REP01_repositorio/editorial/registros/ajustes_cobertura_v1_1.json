@@ -1,0 +1,116 @@
+[
+  {
+    "requisito": "ALC02",
+    "antes": "PARCIAL",
+    "despues": "ATENDIDO_EN_SOPORTE",
+    "razon": "Cinco transcripciones completas E01–E05 y análisis conservados bajo la excepción docente comunicada. No se cambia su procedencia."
+  },
+  {
+    "requisito": "NAT12",
+    "antes": "PARCIAL",
+    "despues": "ATENDIDO_EN_SOPORTE",
+    "razon": "Comparación binaria de fuentes canónicas y conservación de contraejemplos; no se cambiaron testimonios para sostener la tesis."
+  },
+  {
+    "requisito": "COD07",
+    "antes": "PARCIAL",
+    "despues": "ATENDIDO_EN_SOPORTE",
+    "razon": "Libro común 1.3 y cinco recodificaciones preferidas conservados; control repetido de 545 párrafos, 713 fragmentos y 971 asignaciones. Pilotaje humano separado y pendiente."
+  },
+  {
+    "requisito": "FDO02",
+    "antes": "PARCIAL",
+    "despues": "ATENDIDO_EN_SOPORTE",
+    "razon": "Los 76 objetos locales conservan ids, versiones, metadatos y procedencia; el cotejo de payloads y relaciones fue repetido."
+  },
+  {
+    "requisito": "FDO04",
+    "antes": "PARCIAL",
+    "despues": "ATENDIDO_EN_MANUSCRITO",
+    "razon": "La sección 9 distingue acceso con permisos de apertura del contenido; no exige abrir el corpus para satisfacer la distinción."
+  },
+  {
+    "requisito": "FDO05",
+    "antes": "PARCIAL",
+    "despues": "ATENDIDO_EN_SOPORTE",
+    "razon": "Los PID externos permanecen nulos y no se inventan depósitos ni DOI del proyecto."
+  },
+  {
+    "requisito": "FDO06",
+    "antes": "PARCIAL",
+    "despues": "ATENDIDO_EN_SOPORTE",
+    "razon": "El índice inverso y las relaciones de objetos conservan vínculos desde párrafos a necesidades, historias y propuestas."
+  },
+  {
+    "requisito": "FDO07",
+    "antes": "PARCIAL",
+    "despues": "ATENDIDO_EN_MANUSCRITO",
+    "razon": "La sección 9 limita los hashes a integridad y distingue ese control de la verdad del contenido."
+  },
+  {
+    "requisito": "FDO08",
+    "antes": "PARCIAL",
+    "despues": "ATENDIDO_EN_SOPORTE",
+    "razon": "HU01 evalúa empaquetado y T01 evalúa extensión FAIR/JANUS; la evaluación no requiere implementar RO-Crate para este enunciado."
+  },
+  {
+    "requisito": "FDO09",
+    "antes": "PARCIAL",
+    "despues": "ATENDIDO_EN_SOPORTE",
+    "razon": "Versiones de corpus, libro, recodificaciones, dato/metadato y representaciones se conservan diferenciadas."
+  },
+  {
+    "requisito": "JAN09",
+    "antes": "PARCIAL",
+    "despues": "ATENDIDO_EN_MANUSCRITO",
+    "razon": "La nota metodológica y la conclusión distinguen revisión asistida de revisión humana independiente pendiente; distinguirlas no exige haber completado ambas."
+  },
+  {
+    "requisito": "CTX06",
+    "antes": "PARCIAL",
+    "despues": "ATENDIDO_EN_SOPORTE",
+    "razon": "Los paquetes explícitos de análisis A01–A05 y sus primeras lecturas preceden a la síntesis en los registros conservados. No se certifica una configuración histórica no registrada."
+  },
+  {
+    "requisito": "CTX07",
+    "antes": "PARCIAL",
+    "despues": "ATENDIDO_EN_SOPORTE",
+    "razon": "S01 identifica corpus cerrado y libro común como entradas; se conservan las versiones preferidas sin reiniciar entrevistas."
+  },
+  {
+    "requisito": "CTX08",
+    "antes": "PARCIAL",
+    "despues": "ATENDIDO_EN_SOPORTE",
+    "razon": "La matriz editorial separa 208 requisitos especificados de los estados de ejecución y explica límites por requisito."
+  },
+  {
+    "requisito": "CTX11",
+    "antes": "PARCIAL",
+    "despues": "ATENDIDO_EN_SOPORTE",
+    "razon": "Revisión asistida efectiva de manuscrito, literalidad/contexto, trazabilidad, figuras y navegación además de controles estructurales."
+  },
+  {
+    "requisito": "ALC05",
+    "antes": "PENDIENTE",
+    "despues": "ATENDIDO_EN_SOPORTE",
+    "razon": "Word y PDF producidos; PDF de doce páginas totales con nueve de cuerpo. Tres figuras y cinco tablas inspeccionadas en página; fuentes completas preservadas en repositorio."
+  },
+  {
+    "requisito": "PRO12",
+    "antes": "PARCIAL",
+    "despues": "ATENDIDO_EN_SOPORTE",
+    "razon": "Word y PDF producidos; PDF de doce páginas totales con nueve de cuerpo. Tres figuras y cinco tablas inspeccionadas en página; fuentes completas preservadas en repositorio."
+  },
+  {
+    "requisito": "RED08",
+    "antes": "PARCIAL",
+    "despues": "ATENDIDO_EN_SOPORTE",
+    "razon": "Word y PDF producidos; PDF de doce páginas totales con nueve de cuerpo. Tres figuras y cinco tablas inspeccionadas en página; fuentes completas preservadas en repositorio."
+  },
+  {
+    "requisito": "RED15",
+    "antes": "PARCIAL",
+    "despues": "ATENDIDO_EN_SOPORTE",
+    "razon": "Word y PDF producidos; PDF de doce páginas totales con nueve de cuerpo. Tres figuras y cinco tablas inspeccionadas en página; fuentes completas preservadas en repositorio."
+  }
+]

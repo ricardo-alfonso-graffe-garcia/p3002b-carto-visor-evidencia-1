@@ -1,0 +1,66 @@
+{
+  "version": "1.2",
+  "tipo": "REVISION_ASISTIDA_DOCUMENTAL",
+  "comprobaciones": [
+    {
+      "cadena": "Territorial",
+      "origen": "E01-P125/R01-S093",
+      "codigos": [
+        "C016",
+        "C017"
+      ],
+      "tema_hallazgo": [
+        "S01-T006",
+        "S01-H016"
+      ],
+      "perfil": "HU01-P001",
+      "necesidad": "N01-N004",
+      "historia": "HU01-H003",
+      "metadatos": "HU01-M003",
+      "operaciones": [
+        "HU01-OP009",
+        "HU01-OP010",
+        "HU01-OP011",
+        "HU01-OP012",
+        "HU01-OP013"
+      ],
+      "criterio": "HU01-K004",
+      "producto": "T01-P001",
+      "alcance": "El fragmento expresa organización ideal y explicación. La prioridad usa E01-P137/C016; no se le asigna C004. No prueba carencia del episodio ni aceptación de producto."
+    },
+    {
+      "cadena": "Segunda ocasión",
+      "origen": "E02-P143",
+      "tema_hallazgo": [
+        "S01-T006",
+        "S01-H016"
+      ],
+      "perfil": "HU01-P002",
+      "necesidad": "N01-N009",
+      "historia": "HU01-H006",
+      "metadatos": "HU01-M006",
+      "criterio": "HU01-K008",
+      "producto": "T01-P002",
+      "alcance": "Deseo elicitado, participación futura voluntaria; no segunda ocasión nueva aportada."
+    },
+    {
+      "cadena": "Contraejemplos no especializados",
+      "origen": [
+        "E04-P152",
+        "E05-P119"
+      ],
+      "historias": [
+        "HU01-H017",
+        "HU01-H021"
+      ],
+      "alcance": "Muestra material y descubrimiento se preservan; no se fuerzan a producto público o dato espacial."
+    }
+  ],
+  "pendientes": [
+    "Validación humana independiente de interpretación",
+    "Aplicabilidad de procedimiento institucional a cada episodio",
+    "Posiciones efectivamente recabadas frente a homologación",
+    "Datos y permisos de productos y EX01",
+    "Pruebas de utilidad y conformidad FAIR integral"
+  ]
+}

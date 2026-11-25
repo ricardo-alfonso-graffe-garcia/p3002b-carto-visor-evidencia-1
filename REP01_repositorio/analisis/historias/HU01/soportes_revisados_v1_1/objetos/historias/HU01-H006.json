@@ -1,0 +1,126 @@
+{
+  "id": "HU01-H006",
+  "titulo": "Contrastar otra ocasión antes de ampliar el seguimiento",
+  "formulacion": "Como persona que investiga variación en las compras, quiero reconstruir una segunda ocasión que la persona considere distinta y leerla junto a la primera, para precisar la unidad, reducir o modificar una afirmación y decidir si seguir aporta.",
+  "actores": [
+    "ACT01-A005"
+  ],
+  "perfil": "HU01-P002",
+  "necesidades": [
+    "N01-N009"
+  ],
+  "entrevistas": [
+    "E02"
+  ],
+  "tipo": "IDEAL_A_CONTRASTAR",
+  "contexto": "Ideal abierto E02-P128, consulta imaginada P132, prioridad P142 y comprobación solicitada P144. Cuaderno por caso y periodo acordado, con narración y esquema cuando ayude; no programa nuevo obligatorio.",
+  "objetivo": "reconstruir una segunda ocasión que la persona considere distinta y leerla junto a la primera",
+  "beneficio_o_decision": "precisar la unidad, reducir o modificar una afirmación y decidir si seguir aporta",
+  "restricciones": [
+    "Requiere interés y disponibilidad de quien comparta; carga anticipada no es rechazo recabado. No toda decisión se recuerda explícitamente ni el relato posterior es registro defectuoso."
+  ],
+  "preservar": [
+    "Conversación posterior",
+    "Esquemas modificables",
+    "Interpretación cuidadosa",
+    "Desconocidos visibles"
+  ],
+  "evidencias": [
+    "N01-V0083",
+    "N01-V0084",
+    "N01-V0080",
+    "N01-V0085",
+    "N01-V0086",
+    "N01-V0087",
+    "N01-V0088",
+    "N01-V0089",
+    "N01-V0090",
+    "N01-V0091",
+    "N01-V0092",
+    "N01-V0093",
+    "N01-V0094",
+    "N01-V0095",
+    "N01-V0096",
+    "N01-V0070",
+    "N01-V0097",
+    "N01-V0098",
+    "N01-V0074",
+    "N01-V0081",
+    "N01-V0071"
+  ],
+  "limites": "No hay segunda ocasión nueva producida ni aceptación de participantes.; Periodo pertinente y unidad a comparar deben acordarse.. Las formulaciones son derivaciones analíticas, no citas ni compromisos de participantes. La pertinencia de un producto sigue por validar.",
+  "criterios": [
+    {
+      "id": "HU01-K008",
+      "dado": "hay interés y disponibilidad para reconstruir otra ocasión contrastante",
+      "cuando": "se comparan lo que puede decirse con la primera y con ambas",
+      "entonces": "se precisa o reduce una afirmación o se explica por qué el seguimiento no aporta, sin exigir un periodo entero",
+      "origen": "ADAPTADO_DE_CRITERIO_N01",
+      "criterios_n01": [
+        "N01-K009"
+      ],
+      "estado": "PROPUESTO_NO_EJECUTADO",
+      "limites": "Adaptación analítica de N01-K009. Observable N01 de origen DECLARADO; Dado/Cuando/Entonces y el cotejo son propuestas del análisis, no aceptación recabada. Requiere interés y disponibilidad de quien comparta; carga anticipada no es rechazo recabado. No toda decisión se recuerda explícitamente ni el relato posterior es registro defectuoso. Soportes originales no aportados; no se ejecutó esta comprobación."
+    }
+  ],
+  "prioridad": {
+    "nivel": "ALTA",
+    "ambito": "E02: ideal a contrastar: Contrastar otra ocasión antes de ampliar el seguimiento",
+    "origen": "ANALISIS_CONDICIONAL",
+    "razon": "Alta dentro del ideal de contraste acotado, antes de pedir un periodo completo. Interés, disponibilidad y esfuerzo siguen por contrastar. Importancia expresada: P143 y P162 priorizan una segunda ocasión contrastante antes de recopilar un periodo completo; no jerarquizan casos ni personas.",
+    "limites": "Orden local parcial y condicional al momento señalado. No ranking urbano, cartera implementable, aceptación ADIP ni factibilidad comprobada."
+  },
+  "perfil_metadatos": "HU01-M006",
+  "metaalgoritmo": [
+    {
+      "id": "HU01-OP022",
+      "nombre": "Acordar contraste acotado",
+      "entrada": "Pregunta de trabajo e interés y disponibilidad por recabar",
+      "operacion": "Propuesta: Proponer una ocasión que la persona considere distinta y acordar periodo pertinente.",
+      "salida": "Alcance voluntario, o seguimiento no viable",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP023",
+      "nombre": "Reconstruir otra ocasión",
+      "entrada": "Lo que se acepte compartir de la segunda salida",
+      "operacion": "Propuesta: Narrar secuencia, propósitos, lugares, tiempo y carga; separar recuerdo y observación.",
+      "salida": "Ocasión con palabras y desconocidos",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP024",
+      "nombre": "Comparar dentro del caso",
+      "entrada": "Primera y segunda ocasión con procedencia",
+      "operacion": "Propuesta: Ponerlas juntas antes de comparar personas; revisar si la unidad sigue siendo la misma.",
+      "salida": "Contraste interpretado",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP025",
+      "nombre": "Confirmar lectura y decidir",
+      "entrada": "Diferencias y palabras de la persona",
+      "operacion": "Propuesta: Conversar lo que se pueda aclarar y decidir precisar, reducir o mantener afirmación.",
+      "salida": "Alcance de afirmación y decisión de seguimiento",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP026",
+      "nombre": "Valorar esfuerzo y utilidad",
+      "entrada": "Contraste y experiencia de quienes lo construyan",
+      "operacion": "Propuesta: Revisar si aporta distinciones con esfuerzo que tenga sentido; no exigir llenado diario.",
+      "salida": "Continuar, adaptar o detener como opciones futuras",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    }
+  ]
+}

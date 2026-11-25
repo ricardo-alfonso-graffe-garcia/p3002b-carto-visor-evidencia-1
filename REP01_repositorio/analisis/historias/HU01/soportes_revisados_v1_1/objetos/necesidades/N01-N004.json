@@ -1,0 +1,267 @@
+{
+  "id": "N01-N004",
+  "titulo": "Explicación recuperable del último cambio pertinente",
+  "enunciado": "La técnica de registros de la alcaldía necesita conocer qué cambió en la identificación del lugar, por qué, con qué respaldo, a qué revisión corresponde y qué duda pertinente sigue abierta, para decidir al retomar un registro si puede usarlo o requiere una nueva aclaración, en el contexto de revisión de registros de tres espacios para preparar visitas.",
+  "actores": [
+    "ACT01-A001"
+  ],
+  "entrevistas": [
+    "E01"
+  ],
+  "contexto": "Desde recibir la relación y petición hasta devolver la copia revisada y atender una pregunta posterior.",
+  "decision": "Decidir al retomar un registro si puede usarlo o requiere una nueva aclaración",
+  "objeto_informacion": "qué cambió en la identificación del lugar, por qué, con qué respaldo, a qué revisión corresponde y qué duda pertinente sigue abierta",
+  "tipo": "DESEO_IDEAL",
+  "estado_actual": "NO_APLICA_AL_IDEAL",
+  "informacion_actual": "Parte de las notas por registro ya existe. En otras ocasiones expresiones como revisado o cambio de ubicación no explican qué se comprobó; este episodio se atendió.",
+  "faltante_o_deseada": "Desea una explicación encontrada de manera más pareja, empezando por el último cambio que afecta identificar el lugar, sin reunir mensajes irrelevantes.",
+  "condiciones_y_limites": "La carpeta es soporte imaginado, no carencia de este caso; una observación nueva puede requerir conversación. No registrar todo lo que se desconoce.",
+  "soportes_mencionados": [
+    "Carpeta por lugar imaginada",
+    "Registro",
+    "Notas de revisión",
+    "Croquis si ayuda"
+  ],
+  "conservar": [
+    "Notas actuales que funcionaron",
+    "Consulta sobre hechos nuevos",
+    "Conversación que ayuda a descubrir la pregunta"
+  ],
+  "evidencias": [
+    "N01-V0028",
+    "N01-V0029",
+    "N01-V0030",
+    "N01-V0031",
+    "N01-V0032",
+    "N01-V0033",
+    "N01-V0034",
+    "N01-V0035",
+    "N01-V0036",
+    "N01-V0037",
+    "N01-V0038"
+  ],
+  "evidencia_que_limita": [
+    "N01-V0039",
+    "N01-V0040",
+    "N01-V0041",
+    "N01-V0042",
+    "N01-V0043"
+  ],
+  "razon_sin_contraevidencia": null,
+  "contexto_elicitacion": "Ejercicio ideal abierto en E01-P120 y organización solicitada en P124. P130 sugiere guardar todos los intercambios y la participante limita esa amplitud; P136 pide priorizar y P140 pide señal de utilidad. P156 propone una recapitulación que P157 acota a otras ocasiones.",
+  "codigos_comunes": [
+    "C016",
+    "C009",
+    "C012",
+    "C017",
+    "C030",
+    "C018"
+  ],
+  "hallazgos_s01": [
+    "S01-H016",
+    "S01-H017",
+    "S01-H018",
+    "S01-H019",
+    "S01-H020"
+  ],
+  "componentes_p01": [],
+  "preferencias_act01": [
+    "ACT01-PR001",
+    "ACT01-PR002"
+  ],
+  "variantes_por_caso": [],
+  "vinculo_territorial": {
+    "tipo": "REFERENCIA_DE_LUGAR",
+    "razon": "La unidad de recuperación es el lugar; mapa o croquis se abrirían solo si persiste duda espacial.",
+    "evidencias": [
+      "N01-V0028",
+      "N01-V0029"
+    ],
+    "limites": "La pertinencia del lugar no demuestra necesidad de coordenadas o de un mapa. Alcaldía y unidad no identificadas; el equipo relatado observó el acceso y la entrevistada revisó su incorporación. No consta uso posterior de la copia."
+  },
+  "vinculos_sectoriales": [
+    {
+      "sector": "PUBLICO",
+      "actividad": "Revisión de registros de tres espacios para preparar visitas",
+      "iniciativa": null,
+      "estatus_iniciativa": "ACTIVIDAD_RELATADA_SIN_NOMBRE_FORMAL",
+      "nexo": "PUBLICO_DIRECTO",
+      "razon": "La función se declara en una alcaldía y sirve a una petición de revisión, con responsabilidad acotada.",
+      "evidencias": [
+        "N01-V0344",
+        "N01-V0028",
+        "N01-V0029"
+      ],
+      "limites": "No se identificó programa público que origine esta necesidad. Alcaldía y unidad no identificadas; el equipo relatado observó el acceso y la entrevistada revisó su incorporación. No consta uso posterior de la copia."
+    }
+  ],
+  "verificacion": [
+    {
+      "id": "N01-K004",
+      "observable": "Al retomar un lugar puede explicar la revisión sin depender del recuerdo de la conversación; otra compañera identifica la duda que quedó.",
+      "metodo": "En una revisión futura autorizada, retomar una explicación y contrastar qué se entiende con sus respaldos; valorar si hace falta preguntar por algo nuevo.",
+      "origen": "DECLARADO",
+      "estado": "PROPUESTA_NO_EJECUTADA",
+      "evidencias": [
+        "N01-V0028",
+        "N01-V0029",
+        "N01-V0030",
+        "N01-V0031",
+        "N01-V0032",
+        "N01-V0033",
+        "N01-V0034",
+        "N01-V0035",
+        "N01-V0036",
+        "N01-V0037",
+        "N01-V0038"
+      ],
+      "limites": "Comprobación futura; no se ejecutó ni acredita aceptación humana. No se fijan umbrales numéricos. La carpeta es soporte imaginado, no carencia de este caso; una observación nueva puede requerir conversación. No registrar todo lo que se desconoce.",
+      "desglose_origen": {
+        "observable": "DECLARADO",
+        "operacionalizacion_metodo": "PROPUESTA_ANALITICA",
+        "aceptacion": "NO_RECABADA"
+      }
+    }
+  ],
+  "prioridad": {
+    "ambito": "E01",
+    "nivel": "ALTA",
+    "origen": "ANALISIS_CONDICIONAL",
+    "criterios": [
+      "N01-CP001",
+      "N01-CP002",
+      "N01-CP003",
+      "N01-CP004"
+    ],
+    "razon": "Es la primera pieza que ella elige en el ideal frente a reunir muchos materiales; el análisis la conserva como candidata prioritaria para retomar revisiones, no como fallo pasado.",
+    "comparables": [],
+    "limites": "Orden parcial dentro de esta actividad. No compara importancia urbana ni factibilidad técnica; evidencia más sólida no equivale a más impacto. No hay otra necesidad con la misma subdecisión y modalidad para establecer una comparación homogénea; el nivel expresa pertinencia condicional, sin ranking total."
+  },
+  "importancia_expresada": "En E01-P137 prioriza la explicación del último cambio que afecta identificar el lugar antes que reunir muchos materiales; no jerarquiza necesidades urbanas.",
+  "pertinencia_diseno_posterior": "PENDIENTE: revisar con usuarios y encargo; la legitimidad de la necesidad no prescribe un soporte ni su incorporación a un visor.",
+  "factibilidad": "NO_DETERMINADA",
+  "incognitas": [
+    "No está comprobada la consistencia de notas entre registros.",
+    "No hay aceptación de la compañera ni esfuerzo de mantenimiento medido."
+  ],
+  "carencia_declarada_relacionada": {
+    "contexto": "Otras ocasiones de lectura de notas breves, no el tercer registro atendido de este episodio.",
+    "alcance": "Algunas expresiones como revisado o cambio de ubicación no explican qué se revisó o cambió; existen también notas claras. La persona reconstruye el sentido y no afirma fallo general.",
+    "evidencias": [
+      "N01-V0028",
+      "N01-V0029"
+    ],
+    "clasificacion": "Límite informacional declarado en práctica general; el objeto N01-N004 mantiene estatus de deseo de recuperación más pareja."
+  },
+  "enlaces_codigos_asignados": [
+    {
+      "codigo": "C016",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R01-S089",
+        "R01-S090",
+        "R01-S091",
+        "R01-S092",
+        "R01-S093",
+        "R01-S095",
+        "R01-S096",
+        "R01-S098",
+        "R01-S103",
+        "R01-S109",
+        "R01-S118"
+      ],
+      "evidencias": [
+        "N01-V0028",
+        "N01-V0029",
+        "N01-V0030",
+        "N01-V0031",
+        "N01-V0032",
+        "N01-V0033",
+        "N01-V0035",
+        "N01-V0038",
+        "N01-V0041"
+      ]
+    },
+    {
+      "codigo": "C009",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R01-S092",
+        "R01-S096"
+      ],
+      "evidencias": [
+        "N01-V0029",
+        "N01-V0032"
+      ]
+    },
+    {
+      "codigo": "C012",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R01-S097"
+      ],
+      "evidencias": [
+        "N01-V0032"
+      ]
+    },
+    {
+      "codigo": "C017",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R01-S093",
+        "R01-S094",
+        "R01-S095",
+        "R01-S109"
+      ],
+      "evidencias": [
+        "N01-V0030",
+        "N01-V0031",
+        "N01-V0038"
+      ]
+    },
+    {
+      "codigo": "C030",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R01-S098",
+        "R01-S101",
+        "R01-S104",
+        "R01-S105",
+        "R01-S106",
+        "R01-S107"
+      ],
+      "evidencias": [
+        "N01-V0033",
+        "N01-V0036",
+        "N01-V0037",
+        "N01-V0039",
+        "N01-V0040"
+      ]
+    },
+    {
+      "codigo": "C018",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R01-S091",
+        "R01-S102",
+        "R01-S106",
+        "R01-S108",
+        "R01-S110",
+        "R01-S111",
+        "R01-S112",
+        "R01-S113",
+        "R01-S117"
+      ],
+      "evidencias": [
+        "N01-V0028",
+        "N01-V0037",
+        "N01-V0038",
+        "N01-V0039",
+        "N01-V0041",
+        "N01-V0042",
+        "N01-V0043"
+      ]
+    }
+  ],
+  "codigos_contextuales": []
+}

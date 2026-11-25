@@ -1,0 +1,120 @@
+{
+  "id": "HU01-H003",
+  "titulo": "Retomar el sentido del último cambio de un lugar",
+  "formulacion": "Como persona que retoma un registro territorial, quiero encontrar la explicación del último cambio pertinente, su respaldo y la duda que sigue abierta, para decidir si puedo usar el registro o necesito una nueva aclaración.",
+  "actores": [
+    "ACT01-A001"
+  ],
+  "perfil": "HU01-P001",
+  "necesidades": [
+    "N01-N004"
+  ],
+  "entrevistas": [
+    "E01"
+  ],
+  "tipo": "IDEAL_A_CONTRASTAR",
+  "contexto": "Ejercicio ideal abierto E01-P120; organización solicitada P124, selección de intercambios P130 y prioridad solicitada P136. La carpeta por lugar es preferencia imaginada; parte de las notas ya funcionó.",
+  "objetivo": "encontrar la explicación del último cambio pertinente, su respaldo y la duda que sigue abierta",
+  "beneficio_o_decision": "decidir si puedo usar el registro o necesito una nueva aclaración",
+  "restricciones": [
+    "La carpeta es soporte imaginado, no carencia de este caso; una observación nueva puede requerir conversación. No registrar todo lo que se desconoce."
+  ],
+  "preservar": [
+    "Notas actuales que funcionaron",
+    "Consulta sobre hechos nuevos",
+    "Conversación que ayuda a descubrir la pregunta"
+  ],
+  "evidencias": [
+    "N01-V0028",
+    "N01-V0029",
+    "N01-V0030",
+    "N01-V0031",
+    "N01-V0032",
+    "N01-V0033",
+    "N01-V0034",
+    "N01-V0035",
+    "N01-V0036",
+    "N01-V0037",
+    "N01-V0038",
+    "N01-V0039",
+    "N01-V0040",
+    "N01-V0041",
+    "N01-V0042",
+    "N01-V0043"
+  ],
+  "limites": "No está comprobada la consistencia de notas entre registros.; No hay aceptación de la compañera ni esfuerzo de mantenimiento medido.. Las formulaciones son derivaciones analíticas, no citas ni compromisos de participantes. La pertinencia de un producto sigue por validar.",
+  "criterios": [
+    {
+      "id": "HU01-K004",
+      "dado": "se cuenta en una revisión futura con explicación y respaldos de un lugar",
+      "cuando": "se retoma su último cambio pertinente",
+      "entonces": "se puede explicar qué cambió y por qué, reconocer revisión y duda, y decidir si falta una consulta nueva",
+      "origen": "ADAPTADO_DE_CRITERIO_N01",
+      "criterios_n01": [
+        "N01-K004"
+      ],
+      "estado": "PROPUESTO_NO_EJECUTADO",
+      "limites": "Adaptación analítica de N01-K004. Observable N01 de origen DECLARADO; Dado/Cuando/Entonces y el cotejo son propuestas del análisis, no aceptación recabada. La carpeta es soporte imaginado, no carencia de este caso; una observación nueva puede requerir conversación. No registrar todo lo que se desconoce. Soportes originales no aportados; no se ejecutó esta comprobación."
+    }
+  ],
+  "prioridad": {
+    "nivel": "ALTA",
+    "ambito": "E01: ideal a contrastar: Retomar el sentido del último cambio de un lugar",
+    "origen": "ANALISIS_CONDICIONAL",
+    "razon": "Alta dentro del ideal para retomar identificación; la participante prima explicación antes que acumular materiales. No prioridad sobre tareas de otros casos. Importancia expresada: En E01-P137 prioriza la explicación del último cambio que afecta identificar el lugar antes que reunir muchos materiales; no jerarquiza necesidades urbanas.",
+    "limites": "Orden local parcial y condicional al momento señalado. No ranking urbano, cartera implementable, aceptación ADIP ni factibilidad comprobada."
+  },
+  "perfil_metadatos": "HU01-M003",
+  "metaalgoritmo": [
+    {
+      "id": "HU01-OP009",
+      "nombre": "Recuperar último cambio pertinente",
+      "entrada": "Registro por identificador o nombre y notas existentes",
+      "operacion": "Propuesta: Reconocer lugar y revisión antes de abrir croquis o mapa si hacen falta.",
+      "salida": "Registro y explicación vinculados",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP010",
+      "nombre": "Revisar procedencia y duda",
+      "entrada": "Explicación y referencias",
+      "operacion": "Propuesta: Distinguir qué cambió, por qué, qué se comprobó y qué duda importa.",
+      "salida": "Respaldo localizado y duda visible",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP011",
+      "nombre": "Interpretar suficiencia",
+      "entrada": "Explicación y tarea actual",
+      "operacion": "Propuesta: Comparar alcance de revisión con el uso que se pretende; no ampliar a hechos posteriores.",
+      "salida": "Pregunta resuelta o falta nueva",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP012",
+      "nombre": "Consultar y decidir",
+      "entrada": "Falta nueva y respaldo pertinente",
+      "operacion": "Propuesta: Conversar cuando no alcanza; decidir usar o dejar pendiente.",
+      "salida": "Decisión acotada",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP013",
+      "nombre": "Contrastar utilidad",
+      "entrada": "Explicación recuperada por quien retoma",
+      "operacion": "Propuesta: Valorar si permite explicar sin memoria oral y seleccionar solo materiales útiles.",
+      "salida": "Revisión del apoyo, sin ahorro medido",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    }
+  ]
+}

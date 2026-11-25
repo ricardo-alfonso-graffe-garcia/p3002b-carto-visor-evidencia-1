@@ -1,0 +1,267 @@
+{
+  "id": "N01-N010",
+  "titulo": "Compromisos compartidos que permiten anunciar la serie",
+  "enunciado": "La coordinadora de proyectos culturales necesita conocer si el salón está confirmado en las tres fechas, el equipo puede sostenerlas y hay personas interesadas para quienes el horario es posible, para elegir una propuesta realizable y decidir anunciarla dentro de su función de coordinación, en el contexto de coordinación de tres encuentros de lectura y conversación en un espacio comunitario.",
+  "actores": [
+    "ACT01-A012"
+  ],
+  "entrevistas": [
+    "E03"
+  ],
+  "contexto": "Desde la conversación que invita a regresar al espacio hasta comunicar, después de la serie y la consulta al equipo, interés sin nueva programación.",
+  "decision": "Elegir una propuesta realizable y decidir anunciarla dentro de su función de coordinación",
+  "objeto_informacion": "si el salón está confirmado en las tres fechas, el equipo puede sostenerlas y hay personas interesadas para quienes el horario es posible",
+  "tipo": "NECESIDAD_ACTUAL",
+  "estado_actual": "ATENDIDA_EN_EPISODIO",
+  "informacion_actual": "Cruzó agendas, habló con mediadora y programación, consultó parcialmente horarios y recibió confirmación de anfitriones. Mantuvo tres encuentros en vez de sumar otro sin acuerdo.",
+  "faltante_o_deseada": "No faltó un dato indispensable para invitar; asistencia exacta y elección final de lecturas podían permanecer abiertas.",
+  "condiciones_y_limites": "Interés en volver y compatibilidad horaria son distintos. No determina horario favorito de la comunidad ni compromete sola salón, equipo o contenido.",
+  "soportes_mencionados": [
+    "Agendas",
+    "Conversación con mediadora",
+    "Mensajes de anfitriones",
+    "Resumen",
+    "Calendario"
+  ],
+  "conservar": [
+    "Construir sentido de la propuesta entre varias personas",
+    "Confirmar antes de anunciar",
+    "Consulta acotada sin representatividad"
+  ],
+  "evidencias": [
+    "N01-V0099",
+    "N01-V0100",
+    "N01-V0101",
+    "N01-V0102",
+    "N01-V0103",
+    "N01-V0104",
+    "N01-V0105",
+    "N01-V0106",
+    "N01-V0107",
+    "N01-V0108",
+    "N01-V0109",
+    "N01-V0110",
+    "N01-V0111",
+    "N01-V0112",
+    "N01-V0113"
+  ],
+  "evidencia_que_limita": [
+    "N01-V0114",
+    "N01-V0115",
+    "N01-V0116",
+    "N01-V0117",
+    "N01-V0118",
+    "N01-V0119"
+  ],
+  "razon_sin_contraevidencia": null,
+  "contexto_elicitacion": "Reconstrucción retrospectiva del episodio y repreguntas sobre decisión y suficiencia. La atribución descansa en respuestas de participante; preguntas, metáforas y recapitulaciones no son corroboración. Los localizadores del contexto están en cada evidencia.",
+  "codigos_comunes": [
+    "C034",
+    "C035",
+    "C037",
+    "C039",
+    "C042",
+    "C020"
+  ],
+  "hallazgos_s01": [
+    "S01-H001",
+    "S01-H006",
+    "S01-H008"
+  ],
+  "componentes_p01": [
+    "P01-E03-N001",
+    "P01-E03-N002",
+    "P01-E03-N003",
+    "P01-E03-N005",
+    "P01-E03-N006",
+    "P01-E03-N008",
+    "P01-E03-N009"
+  ],
+  "preferencias_act01": [
+    "ACT01-PR009",
+    "ACT01-PR016"
+  ],
+  "variantes_por_caso": [],
+  "vinculo_territorial": {
+    "tipo": "REFERENCIA_DE_LUGAR",
+    "razon": "La disponibilidad de un salón en fechas acordadas es uso situado, no dato geométrico.",
+    "evidencias": [
+      "N01-V0099",
+      "N01-V0100"
+    ],
+    "limites": "La pertinencia del lugar no demuestra necesidad de coordenadas o de un mapa. Organización y espacio sin nombre formal; consulta parcial, sin motivos de no asistencia ni impacto total conocidos. No identifica un programa público."
+  },
+  "vinculos_sectoriales": [
+    {
+      "sector": "SOCIEDAD_CIVIL",
+      "actividad": "Coordinación de tres encuentros de lectura y conversación en un espacio comunitario",
+      "iniciativa": null,
+      "estatus_iniciativa": "ACTIVIDAD_RELATADA_SIN_NOMBRE_FORMAL",
+      "nexo": "RELEVANCIA_PUBLICA_POR_VALIDAR",
+      "razon": "La actividad cultural tiene uso comunitario relatado; una política o programa público de origen no fue identificado.",
+      "evidencias": [
+        "N01-V0346",
+        "N01-V0099",
+        "N01-V0100"
+      ],
+      "limites": "No se identificó programa público que origine esta necesidad. Organización y espacio sin nombre formal; consulta parcial, sin motivos de no asistencia ni impacto total conocidos. No identifica un programa público."
+    }
+  ],
+  "verificacion": [
+    {
+      "id": "N01-K010",
+      "observable": "Puede distinguir posibilidades, confirmaciones y pendientes, y explicar por qué ya se puede cumplir lo que dice la invitación.",
+      "metodo": "Cotejar resumen, confirmaciones, agendas e invitación del mismo episodio si se aportan; observar si algún pendiente afectaba realizarlo. No transformar interés en asistencia garantizada.",
+      "origen": "PROPUESTA_ANALITICA",
+      "estado": "PROPUESTA_NO_EJECUTADA",
+      "evidencias": [
+        "N01-V0099",
+        "N01-V0100",
+        "N01-V0101",
+        "N01-V0102",
+        "N01-V0103",
+        "N01-V0104",
+        "N01-V0105",
+        "N01-V0106",
+        "N01-V0107",
+        "N01-V0108",
+        "N01-V0109",
+        "N01-V0110",
+        "N01-V0111",
+        "N01-V0112",
+        "N01-V0113"
+      ],
+      "limites": "Comprobación futura; no se ejecutó ni acredita aceptación humana. No se fijan umbrales numéricos. Interés en volver y compatibilidad horaria son distintos. No determina horario favorito de la comunidad ni compromete sola salón, equipo o contenido.",
+      "desglose_origen": {
+        "observable": "PROPUESTA_ANALITICA",
+        "operacionalizacion_metodo": "PROPUESTA_ANALITICA",
+        "aceptacion": "NO_RECABADA"
+      }
+    }
+  ],
+  "prioridad": {
+    "ambito": "E03",
+    "nivel": "ALTA",
+    "origen": "ANALISIS_CONDICIONAL",
+    "criterios": [
+      "N01-CP001",
+      "N01-CP002",
+      "N01-CP003",
+      "N01-CP004"
+    ],
+    "razon": "Es la condición explícita para circular la invitación y sostener continuidad. La suficiencia se define por poder cumplir la serie, no por conocer a toda la zona.",
+    "comparables": [
+      "N01-N011"
+    ],
+    "limites": "Orden parcial dentro de esta actividad. No compara importancia urbana ni factibilidad técnica; evidencia más sólida no equivale a más impacto. Comparar distingue dependencias y momentos; las necesidades no son sustitutos y se admiten empates. En ideales frente a actuales, el nivel se lee dentro de su modalidad."
+  },
+  "importancia_expresada": "No hay priorización comparable explícita de esta pieza por la persona. El nivel asignado es del análisis.",
+  "pertinencia_diseno_posterior": "PENDIENTE: revisar con usuarios y encargo; la legitimidad de la necesidad no prescribe un soporte ni su incorporación a un visor.",
+  "factibilidad": "NO_DETERMINADA",
+  "incognitas": [
+    "No están aportados mensajes, calendario ni invitación originales.",
+    "Se desconoce motivo de no respuesta o inasistencia."
+  ],
+  "enlaces_codigos_asignados": [
+    {
+      "codigo": "C034",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R03-S008",
+        "R03-S009",
+        "R03-S019",
+        "R03-S086",
+        "R03-S137",
+        "R03-S138",
+        "R03-S139"
+      ],
+      "evidencias": [
+        "N01-V0100",
+        "N01-V0101",
+        "N01-V0102",
+        "N01-V0111",
+        "N01-V0118",
+        "N01-V0119"
+      ]
+    },
+    {
+      "codigo": "C035",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R03-S094",
+        "R03-S095"
+      ],
+      "evidencias": [
+        "N01-V0116",
+        "N01-V0117"
+      ]
+    },
+    {
+      "codigo": "C037",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R03-S084",
+        "R03-S089"
+      ],
+      "evidencias": [
+        "N01-V0110",
+        "N01-V0112"
+      ]
+    },
+    {
+      "codigo": "C039",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R03-S009",
+        "R03-S019",
+        "R03-S040",
+        "R03-S041",
+        "R03-S084"
+      ],
+      "evidencias": [
+        "N01-V0101",
+        "N01-V0102",
+        "N01-V0103",
+        "N01-V0104",
+        "N01-V0110"
+      ]
+    },
+    {
+      "codigo": "C042",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R03-S053",
+        "R03-S082",
+        "R03-S090"
+      ],
+      "evidencias": [
+        "N01-V0107",
+        "N01-V0108",
+        "N01-V0113"
+      ]
+    },
+    {
+      "codigo": "C020",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R03-S040",
+        "R03-S041",
+        "R03-S042",
+        "R03-S044",
+        "R03-S083",
+        "R03-S084",
+        "R03-S093"
+      ],
+      "evidencias": [
+        "N01-V0103",
+        "N01-V0104",
+        "N01-V0105",
+        "N01-V0106",
+        "N01-V0109",
+        "N01-V0110",
+        "N01-V0115"
+      ]
+    }
+  ],
+  "codigos_contextuales": []
+}

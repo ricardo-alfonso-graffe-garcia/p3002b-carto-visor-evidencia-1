@@ -1,0 +1,14 @@
+digraph G {
+graph [rankdir=LR, bgcolor="white", pad="0.4", nodesep="0.45", ranksep="1.0", fontname="DejaVu Sans", fontsize=22, labelloc=t, label="Revisión pública de tres registros\nACT01-AMB001\nVerde continuo: acción propia declarada · Azul continuo: tercero relatado\nVioleta discontinuo: atribución documental\nÁmbar punteado: hipótesis (solo en figura separada)"];
+node [shape=box, style="rounded,filled", fillcolor="#edf5f8", color="#467187", fontname="DejaVu Sans", fontsize=17, margin="0.18,0.12"];
+edge [fontname="DejaVu Sans", fontsize=13, arrowsize=0.8];
+"ACT01-A001" [label="Técnica de registros\n(ACT01-A001)", fillcolor="#e3f4ee"];
+"ACT01-A002" [label="Solicitante de revisión\n(ACT01-A002)", fillcolor="#edf5f8"];
+"ACT01-A003" [label="Equipo del recorrido\n(ACT01-A003)", fillcolor="#edf5f8"];
+"ACT01-A004" [label="Compañera de revisión\n(ACT01-A004)", fillcolor="#edf5f8"];
+"ACT01-A002" -> "ACT01-A001" [id="ACT01-R001", label="Delimita petición y recibe\nrevisión\nACT01-R001", color="#176d9b", fontcolor="#175578", style="solid", tooltip="RELATADA_POR_TERCERO: voz entrevistada; contraparte sin voz independiente"];
+"ACT01-A001" -> "ACT01-A002" [id="ACT01-R002", label="Pregunta y devuelve copia\nexplicada\nACT01-R002", color="#16785b", fontcolor="#146449", style="solid", tooltip="DECLARADA: voz entrevistada; contraparte sin voz independiente"];
+"ACT01-A002" -> "ACT01-A003" [id="ACT01-R003", label="Recupera aclaración del\nrecorrido\nACT01-R003", color="#176d9b", fontcolor="#175578", style="solid", tooltip="RELATADA_POR_TERCERO: voz entrevistada; contraparte sin voz independiente"];
+"ACT01-A003" -> "ACT01-A002" [id="ACT01-R004", label="Aporta aclaración por\nintermediación\nACT01-R004", color="#176d9b", fontcolor="#175578", style="solid", tooltip="RELATADA_POR_TERCERO: voz entrevistada; contraparte sin voz independiente"];
+"ACT01-A004" -> "ACT01-A001" [id="ACT01-R005", label="Contrasta lectura de\nantecedentes\nACT01-R005", color="#176d9b", fontcolor="#175578", style="solid", tooltip="RELATADA_POR_TERCERO: voz entrevistada; contraparte sin voz independiente"];
+}

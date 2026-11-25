@@ -1,0 +1,181 @@
+{
+  "id": "N01-N017",
+  "titulo": "Ritmos de uso para orientar otra propuesta cultural",
+  "enunciado": "La coordinadora de proyectos culturales necesita conocer cómo se vive cada horario, si se llega de paso o con tiempo y cómo otras actividades dan movimiento al lugar, para elegir si proponer encuentros prolongados, entradas breves o continuidad semanal y preparar mejores preguntas, en el contexto de coordinación de tres encuentros de lectura y conversación en un espacio comunitario.",
+  "actores": [
+    "ACT01-A012"
+  ],
+  "entrevistas": [
+    "E03"
+  ],
+  "contexto": "Desde la conversación que invita a regresar al espacio hasta comunicar, después de la serie y la consulta al equipo, interés sin nueva programación.",
+  "decision": "Elegir si proponer encuentros prolongados, entradas breves o continuidad semanal y preparar mejores preguntas",
+  "objeto_informacion": "cómo se vive cada horario, si se llega de paso o con tiempo y cómo otras actividades dan movimiento al lugar",
+  "tipo": "DESEO_IDEAL",
+  "estado_actual": "NO_APLICA_AL_IDEAL",
+  "informacion_actual": "En este lugar obtuvieron lo necesario conversando y visitando; no sintió faltar algo indispensable.",
+  "faltante_o_deseada": "Desea una primera idea de ritmos en lugares nuevos, contada por quienes los conocen, con fuente y ocasión.",
+  "condiciones_y_limites": "No es una verdad permanente del espacio. Una descripción no sustituye visita ni conversación, ni disponibilidad equivale a disposición a participar.",
+  "soportes_mencionados": [
+    "Descripción de uso en carpeta imaginada",
+    "Relatos de anfitriones",
+    "Visita"
+  ],
+  "conservar": [
+    "Preguntar mejor al ir",
+    "Distinguir fuente y ocasión",
+    "No endurecer una nota como característica del lugar"
+  ],
+  "evidencias": [
+    "N01-V0178",
+    "N01-V0179",
+    "N01-V0180",
+    "N01-V0181",
+    "N01-V0182"
+  ],
+  "evidencia_que_limita": [
+    "N01-V0168",
+    "N01-V0170",
+    "N01-V0174",
+    "N01-V0154"
+  ],
+  "razon_sin_contraevidencia": null,
+  "contexto_elicitacion": "P149 pregunta información ideal sin sugerir ritmos; P152 solicita decisión y P155 organización. El ejemplo de franja de P157 es ilustración imaginada, no declaración nueva de anfitriones.",
+  "codigos_comunes": [
+    "C046",
+    "C009",
+    "C060"
+  ],
+  "hallazgos_s01": [
+    "S01-H012",
+    "S01-H016",
+    "S01-H017",
+    "S01-H018",
+    "S01-H019"
+  ],
+  "componentes_p01": [],
+  "preferencias_act01": [
+    "ACT01-PR010",
+    "ACT01-PR011"
+  ],
+  "variantes_por_caso": [],
+  "vinculo_territorial": {
+    "tipo": "REFERENCIA_DE_LUGAR",
+    "razon": "Los ritmos describen usos situados del lugar en ocasiones; no se derivan de coordenadas.",
+    "evidencias": [
+      "N01-V0178",
+      "N01-V0179"
+    ],
+    "limites": "La pertinencia del lugar no demuestra necesidad de coordenadas o de un mapa. Organización y espacio sin nombre formal; consulta parcial, sin motivos de no asistencia ni impacto total conocidos. No identifica un programa público."
+  },
+  "vinculos_sectoriales": [
+    {
+      "sector": "SOCIEDAD_CIVIL",
+      "actividad": "Coordinación de tres encuentros de lectura y conversación en un espacio comunitario",
+      "iniciativa": null,
+      "estatus_iniciativa": "ACTIVIDAD_RELATADA_SIN_NOMBRE_FORMAL",
+      "nexo": "RELEVANCIA_PUBLICA_POR_VALIDAR",
+      "razon": "La actividad cultural tiene uso comunitario relatado; una política o programa público de origen no fue identificado.",
+      "evidencias": [
+        "N01-V0346",
+        "N01-V0178",
+        "N01-V0179"
+      ],
+      "limites": "No se identificó programa público que origine esta necesidad. Organización y espacio sin nombre formal; consulta parcial, sin motivos de no asistencia ni impacto total conocidos. No identifica un programa público."
+    }
+  ],
+  "verificacion": [
+    {
+      "id": "N01-K017",
+      "observable": "La referencia permite formular una propuesta y preguntas pertinentes sobre duración y forma de sumarse, y deja explícito qué habrá que confirmar.",
+      "metodo": "Contrastar en una revisión futura la propuesta preliminar con lo que confirmen anfitriones y la experiencia situada; no sustituir conversación por etiqueta de franja.",
+      "origen": "PROPUESTA_ANALITICA",
+      "estado": "PROPUESTA_NO_EJECUTADA",
+      "evidencias": [
+        "N01-V0178",
+        "N01-V0179",
+        "N01-V0180",
+        "N01-V0181",
+        "N01-V0182"
+      ],
+      "limites": "Comprobación futura; no se ejecutó ni acredita aceptación humana. No se fijan umbrales numéricos. No es una verdad permanente del espacio. Una descripción no sustituye visita ni conversación, ni disponibilidad equivale a disposición a participar.",
+      "desglose_origen": {
+        "observable": "PROPUESTA_ANALITICA",
+        "operacionalizacion_metodo": "PROPUESTA_ANALITICA",
+        "aceptacion": "NO_RECABADA"
+      }
+    }
+  ],
+  "prioridad": {
+    "ambito": "E03",
+    "nivel": "MEDIA",
+    "origen": "ANALISIS_CONDICIONAL",
+    "criterios": [
+      "N01-CP001",
+      "N01-CP002",
+      "N01-CP003",
+      "N01-CP004"
+    ],
+    "razon": "Puede orientar un lugar nuevo, pero la prioridad expresada empieza por acuerdos prácticos; no hubo carencia indispensable en la serie actual.",
+    "comparables": [
+      "N01-N016"
+    ],
+    "limites": "Orden parcial dentro de esta actividad. No compara importancia urbana ni factibilidad técnica; evidencia más sólida no equivale a más impacto. Comparar distingue dependencias y momentos; las necesidades no son sustitutos y se admiten empates. En ideales frente a actuales, el nivel se lee dentro de su modalidad."
+  },
+  "importancia_expresada": "No hay priorización comparable explícita de esta pieza por la persona. El nivel asignado es del análisis.",
+  "pertinencia_diseno_posterior": "PENDIENTE: revisar con usuarios y encargo; la legitimidad de la necesidad no prescribe un soporte ni su incorporación a un visor.",
+  "factibilidad": "NO_DETERMINADA",
+  "incognitas": [
+    "No se dispone de descripción estable de ritmos ni de fuente para cada nuevo espacio.",
+    "No hay utilidad o rapidez de acercamiento medida."
+  ],
+  "enlaces_codigos_asignados": [
+    {
+      "codigo": "C046",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R03-S101",
+        "R03-S103",
+        "R03-S104",
+        "R03-S105",
+        "R03-S107",
+        "R03-S143"
+      ],
+      "evidencias": [
+        "N01-V0178",
+        "N01-V0179",
+        "N01-V0180",
+        "N01-V0181",
+        "N01-V0182"
+      ]
+    },
+    {
+      "codigo": "C009",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R03-S108"
+      ],
+      "evidencias": [
+        "N01-V0182"
+      ]
+    },
+    {
+      "codigo": "C060",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R03-S111"
+      ],
+      "evidencias": [
+        "N01-V0168"
+      ]
+    }
+  ],
+  "codigos_contextuales": [
+    {
+      "codigo": "C040",
+      "tipo": "RELACION_CONCEPTUAL_DEL_ANALISIS",
+      "justificacion": "Los ritmos ayudan a valorar una actividad en el lugar; C040 no está asignado en estos segmentos del ideal.",
+      "limites": "No es una ocurrencia codificada en estos pasajes ni una revisión de la codificación fuente."
+    }
+  ]
+}

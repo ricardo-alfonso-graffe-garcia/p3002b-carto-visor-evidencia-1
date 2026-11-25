@@ -1,0 +1,863 @@
+[
+  {
+    "codigo_local_id": "E01-C001",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C001"
+    ],
+    "justificacion": "Equivale al límite funcional del servicio; no se fusiona con desconocimiento."
+  },
+  {
+    "codigo_local_id": "E01-C002",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C002"
+    ],
+    "justificacion": "Lugar, puerta y traslado son distinciones de identidad, comparables a precisar un artículo sin igualar sus atributos."
+  },
+  {
+    "codigo_local_id": "E01-C003",
+    "accion": "MANTENER",
+    "codigos_comunes_ids": [
+      "C003"
+    ],
+    "justificacion": "Conserva la operación de poner soportes en relación, distinta de su suficiencia."
+  },
+  {
+    "codigo_local_id": "E01-C004",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C004"
+    ],
+    "justificacion": "Integra conservar o ajustar con el reconocimiento del trabajo sin cambio visible."
+  },
+  {
+    "codigo_local_id": "E01-C005",
+    "accion": "MANTENER",
+    "codigos_comunes_ids": [
+      "C005"
+    ],
+    "justificacion": "La consulta debe resolver la duda concreta; no es mera intermediación."
+  },
+  {
+    "codigo_local_id": "E01-C006",
+    "accion": "MANTENER",
+    "codigos_comunes_ids": [
+      "C006"
+    ],
+    "justificacion": "Preserva relación solicitante-equipo-técnica y su capacidad acotada."
+  },
+  {
+    "codigo_local_id": "E01-C007",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C007"
+    ],
+    "justificacion": "Equivale al contraste de interpretaciones con responsabilidades diferentes de E02."
+  },
+  {
+    "codigo_local_id": "E01-C008",
+    "accion": "MANTENER",
+    "codigos_comunes_ids": [
+      "C008"
+    ],
+    "justificacion": "Mantiene la frontera entre acceso utilizado, exclusividad y precisión aparente."
+  },
+  {
+    "codigo_local_id": "E01-C009",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C009"
+    ],
+    "justificacion": "Se integra con distinguir fuentes y acciones sin exigir conservar todo intercambio."
+  },
+  {
+    "codigo_local_id": "E01-C010",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C010"
+    ],
+    "justificacion": "Se comparte la función de hacer entendible lo utilizable con alcance acotado."
+  },
+  {
+    "codigo_local_id": "E01-C011",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C011"
+    ],
+    "justificacion": "Se conserva agrupación retrospectiva y retornos; no se traducen los nombres a etapas externas."
+  },
+  {
+    "codigo_local_id": "E01-C012",
+    "accion": "MANTENER",
+    "codigos_comunes_ids": [
+      "C012"
+    ],
+    "justificacion": "Copia consultada es distinta de procedencia y vigencia del lugar."
+  },
+  {
+    "codigo_local_id": "E01-C013",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C013"
+    ],
+    "justificacion": "Comparte consulta, detención y pendiente con E04, conservando el carácter hipotético."
+  },
+  {
+    "codigo_local_id": "E01-C014",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C014"
+    ],
+    "justificacion": "Equivale al criterio situado de respaldo suficiente para una decisión."
+  },
+  {
+    "codigo_local_id": "E01-C015",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C015"
+    ],
+    "justificacion": "Reúne límites de perspectiva sin convertirlos en responsabilidades ni déficits."
+  },
+  {
+    "codigo_local_id": "E01-C016",
+    "accion": "DIVIDIR",
+    "codigos_comunes_ids": [
+      "C016",
+      "C030"
+    ],
+    "justificacion": "Separa contenido prioritario del cambio (P121-P137) y utilidad para retomar o continuar (P139-P141); releer fragmentos."
+  },
+  {
+    "codigo_local_id": "E01-C017",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C017"
+    ],
+    "justificacion": "Carpeta por lugar se conserva como unidad y formato imaginados, no interfaz obligatoria."
+  },
+  {
+    "codigo_local_id": "E01-C018",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C018"
+    ],
+    "justificacion": "Integra diálogo y comparación que seguirían funcionando aun con mejor documentación."
+  },
+  {
+    "codigo_local_id": "E01-C019",
+    "accion": "DIVIDIR",
+    "codigos_comunes_ids": [
+      "C010",
+      "C004"
+    ],
+    "justificacion": "Separa explicación selectiva para uso (P153) y reconocimiento de conservar como trabajo (P159); no copia ambos destinos a todos los segmentos."
+  },
+  {
+    "codigo_local_id": "E02-C001",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C019"
+    ],
+    "justificacion": "Cercanía se interpreta dentro de actividades; no se convierte en razón geométrica universal."
+  },
+  {
+    "codigo_local_id": "E02-C002",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C020"
+    ],
+    "justificacion": "Integra acceso parcial y alcance de pregunta con consulta situada; conserva la limitación de diseño de precios."
+  },
+  {
+    "codigo_local_id": "E02-C003",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C011"
+    ],
+    "justificacion": "Delimitación, fases y retornos comparten criterio con las otras cuatro agrupaciones."
+  },
+  {
+    "codigo_local_id": "E02-C004",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C007"
+    ],
+    "justificacion": "Comparte revisión de criterios entre colegas sin delegación jerárquica."
+  },
+  {
+    "codigo_local_id": "E02-C005",
+    "accion": "MANTENER",
+    "codigos_comunes_ids": [
+      "C021"
+    ],
+    "justificacion": "Preserva capacidad de compartir o restringir experiencia sin aprobar toda la interpretación."
+  },
+  {
+    "codigo_local_id": "E02-C006",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C015"
+    ],
+    "justificacion": "Ambigüedad y perspectivas no recogidas se mantienen explícitas sin imputación."
+  },
+  {
+    "codigo_local_id": "E02-C007",
+    "accion": "MANTENER",
+    "codigos_comunes_ids": [
+      "C022"
+    ],
+    "justificacion": "La producción situada de evidencia no equivale a toda adaptación de una actividad."
+  },
+  {
+    "codigo_local_id": "E02-C008",
+    "accion": "MANTENER",
+    "codigos_comunes_ids": [
+      "C023"
+    ],
+    "justificacion": "Conserva revisión de causa única, generalización y contraejemplos."
+  },
+  {
+    "codigo_local_id": "E02-C009",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C009"
+    ],
+    "justificacion": "Se integra con origen de evidencia conservando valor propio de reconstrucción retrospectiva."
+  },
+  {
+    "codigo_local_id": "E02-C010",
+    "accion": "MANTENER",
+    "codigos_comunes_ids": [
+      "C024"
+    ],
+    "justificacion": "La unidad comparada es una decisión específica, no mero dato temporal o espacial."
+  },
+  {
+    "codigo_local_id": "E02-C011",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C014"
+    ],
+    "justificacion": "Comparte suficiencia relativa a tarea o afirmación, incluso renunciar a afirmar."
+  },
+  {
+    "codigo_local_id": "E02-C012",
+    "accion": "MANTENER",
+    "codigos_comunes_ids": [
+      "C025"
+    ],
+    "justificacion": "Conserva ritmo, pausa y restricción sin escala homogénea."
+  },
+  {
+    "codigo_local_id": "E02-C013",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C019"
+    ],
+    "justificacion": "El mapa sitúa funciones y conexiones junto al relato; no explica por sí solo."
+  },
+  {
+    "codigo_local_id": "E02-C014",
+    "accion": "MANTENER",
+    "codigos_comunes_ids": [
+      "C026"
+    ],
+    "justificacion": "La crítica externa no es responsabilidad interna ni aprobación de C01."
+  },
+  {
+    "codigo_local_id": "E02-C015",
+    "accion": "DIVIDIR",
+    "codigos_comunes_ids": [
+      "C010",
+      "C027"
+    ],
+    "justificacion": "Separa contenido y alcance de la comunicación (P115-P120) de omitir detalles identificadores (P117)."
+  },
+  {
+    "codigo_local_id": "E02-C016",
+    "accion": "MANTENER",
+    "codigos_comunes_ids": [
+      "C028"
+    ],
+    "justificacion": "Preserva retorno parcial y corrección de descripciones sin acuerdo total."
+  },
+  {
+    "codigo_local_id": "E02-C017",
+    "accion": "MANTENER",
+    "codigos_comunes_ids": [
+      "C029"
+    ],
+    "justificacion": "Conserva prioridad minoritaria de otra ocasión contrastante, no recopilación exhaustiva."
+  },
+  {
+    "codigo_local_id": "E02-C018",
+    "accion": "DIVIDIR",
+    "codigos_comunes_ids": [
+      "C017",
+      "C009"
+    ],
+    "justificacion": "Separa organización por caso y periodo (P133-P135) de distinguir palabras, momentos y vacíos (P134); leer cada fragmento."
+  },
+  {
+    "codigo_local_id": "E02-C019",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C030"
+    ],
+    "justificacion": "Precisión y decisión analítica comparten criterio de ayuda; explicar menos puede ser útil."
+  },
+  {
+    "codigo_local_id": "E02-C020",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C018"
+    ],
+    "justificacion": "Herramientas suficientes y prácticas conservables expresan continuidad de recursos, sin déficit supuesto."
+  },
+  {
+    "codigo_local_id": "E02-C021",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C031"
+    ],
+    "justificacion": "La carga negociada de seguimiento comparte viabilidad con mantenimiento de otras notas; no presume consentimiento."
+  },
+  {
+    "codigo_local_id": "E02-C022",
+    "accion": "DIVIDIR",
+    "codigos_comunes_ids": [
+      "C018",
+      "C032"
+    ],
+    "justificacion": "Separa rutina que permite avanzar (P173, P176) y pluralidad de métodos según pregunta (P174)."
+  },
+  {
+    "codigo_local_id": "E03-C001",
+    "accion": "MANTENER",
+    "codigos_comunes_ids": [
+      "C033"
+    ],
+    "justificacion": "Escuchar, contar o escribir son participaciones legítimas sin producto obligatorio."
+  },
+  {
+    "codigo_local_id": "E03-C002",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C034"
+    ],
+    "justificacion": "Construcción y seguimiento con decisiones distribuidas se integran con reciprocidad, sin centralizar poder."
+  },
+  {
+    "codigo_local_id": "E03-C003",
+    "accion": "MANTENER",
+    "codigos_comunes_ids": [
+      "C035"
+    ],
+    "justificacion": "Conserva sentido de la propuesta en esa relación; no basta disponibilidad del salón."
+  },
+  {
+    "codigo_local_id": "E03-C004",
+    "accion": "MANTENER",
+    "codigos_comunes_ids": [
+      "C036"
+    ],
+    "justificacion": "Continuidad de serie no requiere asistencia obligatoria; no se pierde en coordinación genérica."
+  },
+  {
+    "codigo_local_id": "E03-C005",
+    "accion": "MANTENER",
+    "codigos_comunes_ids": [
+      "C037"
+    ],
+    "justificacion": "Conocimiento operativo y comprobaciones de anfitriones son distintos de valorar el salón."
+  },
+  {
+    "codigo_local_id": "E03-C006",
+    "accion": "MANTENER",
+    "codigos_comunes_ids": [
+      "C038"
+    ],
+    "justificacion": "La bisagra cultural adapta contenido; no equivale por su nombre a otras metáforas."
+  },
+  {
+    "codigo_local_id": "E03-C007",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C039"
+    ],
+    "justificacion": "Integra revisión de tiempo y compromisos sostenibles; distingue capacidad de equipo y reserva personal."
+  },
+  {
+    "codigo_local_id": "E03-C008",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C020"
+    ],
+    "justificacion": "Consulta e interés limitados permiten esta decisión sin representar a comunidad ni asegurar asistencia."
+  },
+  {
+    "codigo_local_id": "E03-C009",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C040"
+    ],
+    "justificacion": "Se integra valoración situada con condiciones para conversar, sin evaluación normativa universal."
+  },
+  {
+    "codigo_local_id": "E03-C010",
+    "accion": "DIVIDIR",
+    "codigos_comunes_ids": [
+      "C010",
+      "C041"
+    ],
+    "justificacion": "Separa explicar propuesta y participación (P074-P075) de puerta y referencia de llegada (P077-P078)."
+  },
+  {
+    "codigo_local_id": "E03-C011",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C042"
+    ],
+    "justificacion": "Comparte umbral de condiciones indispensables con E05; simultaneidad no implica anuncio anticipado."
+  },
+  {
+    "codigo_local_id": "E03-C012",
+    "accion": "MANTENER",
+    "codigos_comunes_ids": [
+      "C043"
+    ],
+    "justificacion": "Preserva recepción y ajuste físico local dentro de facultades de quienes están presentes."
+  },
+  {
+    "codigo_local_id": "E03-C013",
+    "accion": "MANTENER",
+    "codigos_comunes_ids": [
+      "C044"
+    ],
+    "justificacion": "Revisión entre encuentros tiene tiempo y función distintos de mediación durante sesión."
+  },
+  {
+    "codigo_local_id": "E03-C014",
+    "accion": "DIVIDIR",
+    "codigos_comunes_ids": [
+      "C010",
+      "C045"
+    ],
+    "justificacion": "Separa devolución y comunicación de cierre (P106-P107) de interés, propuesta y promesa futura (P108-P111)."
+  },
+  {
+    "codigo_local_id": "E03-C015",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C018"
+    ],
+    "justificacion": "Notas, calendario y mensajes suficientes se conservan como recursos vigentes, sin centralización obligatoria."
+  },
+  {
+    "codigo_local_id": "E03-C016",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C015"
+    ],
+    "justificacion": "Se integran causas no conocidas, alcance de comentarios y efectos no observados sin completarlos."
+  },
+  {
+    "codigo_local_id": "E03-C017",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C011"
+    ],
+    "justificacion": "Mantiene nombres propios y variaciones; no convierte el recorrido en receta."
+  },
+  {
+    "codigo_local_id": "E03-C018",
+    "accion": "MANTENER",
+    "codigos_comunes_ids": [
+      "C046"
+    ],
+    "justificacion": "Conserva información deseada sobre cómo se vive un horario para orientar propuesta."
+  },
+  {
+    "codigo_local_id": "E03-C019",
+    "accion": "DIVIDIR",
+    "codigos_comunes_ids": [
+      "C017",
+      "C009",
+      "C060"
+    ],
+    "justificacion": "Separa carpeta y consulta de memoria (P156, P160), fuentes y momentos (P157-P158), y comprobación de vigencia dialogada (P161, P185)."
+  },
+  {
+    "codigo_local_id": "E03-C020",
+    "accion": "DIVIDIR",
+    "codigos_comunes_ids": [
+      "C017",
+      "C030",
+      "C031"
+    ],
+    "justificacion": "Prioridad de acuerdos y pendientes organiza consulta (P168-P169); relevo expresa utilidad (P171); carga condiciona mantenimiento (P172)."
+  },
+  {
+    "codigo_local_id": "E03-C021",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C027"
+    ],
+    "justificacion": "Se reúne selección útil sin perfiles ni trayectos innecesarios y sin convertir propuesta individual en opinión grupal."
+  },
+  {
+    "codigo_local_id": "E04-C001",
+    "accion": "MANTENER",
+    "codigos_comunes_ids": [
+      "C047"
+    ],
+    "justificacion": "Conserva autonomía, reciprocidad y continuidad real del mostrador; no es solo memoria futura."
+  },
+  {
+    "codigo_local_id": "E04-C002",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C001"
+    ],
+    "justificacion": "El límite entre comparar para vender y confeccionar corresponde al alcance de servicio."
+  },
+  {
+    "codigo_local_id": "E04-C003",
+    "accion": "MANTENER",
+    "codigos_comunes_ids": [
+      "C048"
+    ],
+    "justificacion": "Remanente, movimiento, espacio y alternativas forman una decisión situada; no se fragmentan en reglas universales."
+  },
+  {
+    "codigo_local_id": "E04-C004",
+    "accion": "MANTENER",
+    "codigos_comunes_ids": [
+      "C049"
+    ],
+    "justificacion": "Conserva lista progresiva y compras agrupadas por oportunidad y tiempo."
+  },
+  {
+    "codigo_local_id": "E04-C005",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C045"
+    ],
+    "justificacion": "Reponer acordado y consultar sin encargo son estados distintos, comparables a interés frente a programación."
+  },
+  {
+    "codigo_local_id": "E04-C006",
+    "accion": "MANTENER",
+    "codigos_comunes_ids": [
+      "C050"
+    ],
+    "justificacion": "La petición aporta uso individual sin representar clientela ni obligar a cambiar."
+  },
+  {
+    "codigo_local_id": "E04-C007",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C002"
+    ],
+    "justificacion": "Ancho, referencia y muestra precisan la entidad pedida; no prueban desempeño."
+  },
+  {
+    "codigo_local_id": "E04-C008",
+    "accion": "MANTENER",
+    "codigos_comunes_ids": [
+      "C051"
+    ],
+    "justificacion": "Conserva mediación de oferta y límites de quien vende, sin fusionar todas las bisagras."
+  },
+  {
+    "codigo_local_id": "E04-C009",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C052"
+    ],
+    "justificacion": "Comparación física comparte examen directo con leer candidatos, conservando modalidad y límites de uso."
+  },
+  {
+    "codigo_local_id": "E04-C010",
+    "accion": "MANTENER",
+    "codigos_comunes_ids": [
+      "C053"
+    ],
+    "justificacion": "Cantidad y conveniencia siguen limitando incorporación aunque mejore la información."
+  },
+  {
+    "codigo_local_id": "E04-C011",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C014"
+    ],
+    "justificacion": "Comparte suficiencia parcial para decisión concreta, sin garantía total del rollo."
+  },
+  {
+    "codigo_local_id": "E04-C012",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C015"
+    ],
+    "justificacion": "Resultado de cliente, adecuación y fuentes no conocidas permanecen abiertos."
+  },
+  {
+    "codigo_local_id": "E04-C013",
+    "accion": "MANTENER",
+    "codigos_comunes_ids": [
+      "C054"
+    ],
+    "justificacion": "Preserva referencia compartida como pendiente sin disponibilidad comercial ni tarea diaria."
+  },
+  {
+    "codigo_local_id": "E04-C014",
+    "accion": "DIVIDIR",
+    "codigos_comunes_ids": [
+      "C019",
+      "C058"
+    ],
+    "justificacion": "Separa función espacial de agrupar o no visitar (P082-P085) y saber llegar que resuelve orientación actual (P087, P159-P160)."
+  },
+  {
+    "codigo_local_id": "E04-C015",
+    "accion": "REFORMULAR",
+    "codigos_comunes_ids": [
+      "C011"
+    ],
+    "justificacion": "El primer despacho precisa cierre del recorrido; se integra como límite de actividad, conservando separación de remanentes y sin confundirlo con coser."
+  },
+  {
+    "codigo_local_id": "E04-C016",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C011"
+    ],
+    "justificacion": "Fases entrelazadas y nombre corregido se integran conservando el cierre en primer corte."
+  },
+  {
+    "codigo_local_id": "E04-C017",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C013"
+    ],
+    "justificacion": "Consulta, aplazamiento y búsqueda alternativa comparten resolución contingente, sin añadir sucesos."
+  },
+  {
+    "codigo_local_id": "E04-C018",
+    "accion": "MANTENER",
+    "codigos_comunes_ids": [
+      "C055"
+    ],
+    "justificacion": "Se mantiene conocimiento deseado después de coser y usar, distinto de tacto y predicción de ventas."
+  },
+  {
+    "codigo_local_id": "E04-C019",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C017"
+    ],
+    "justificacion": "Cuaderno se integra como consulta por muestra pertinente y tangible, sin catálogo total ni sustitución del tacto."
+  },
+  {
+    "codigo_local_id": "E04-C020",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C009"
+    ],
+    "justificacion": "Se integra trazabilidad de acciones y experiencia ajena, manteniendo fuentes de pruebas sin resolver."
+  },
+  {
+    "codigo_local_id": "E04-C021",
+    "accion": "DIVIDIR",
+    "codigos_comunes_ids": [
+      "C030",
+      "C031"
+    ],
+    "justificacion": "Separa justificar probar o dejar y contrastar después (P164) de seguir llenando notas solo si ayudan (P165)."
+  },
+  {
+    "codigo_local_id": "E04-C022",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C018"
+    ],
+    "justificacion": "Muestras, conversación, escucha y revisión física permanecen recursos vigentes."
+  },
+  {
+    "codigo_local_id": "E05-C001",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C039"
+    ],
+    "justificacion": "Reserva personal y margen se integran con compromisos temporales sin atribuirle control sobre disponibilidad ajena."
+  },
+  {
+    "codigo_local_id": "E05-C002",
+    "accion": "MANTENER",
+    "codigos_comunes_ids": [
+      "C056"
+    ],
+    "justificacion": "Se conserva explorar y compartir como éxito posible sin compra."
+  },
+  {
+    "codigo_local_id": "E05-C003",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C034"
+    ],
+    "justificacion": "Integra reciprocidad y apertura acordada, manteniendo autonomía y voluntad renovada de ambas partes."
+  },
+  {
+    "codigo_local_id": "E05-C004",
+    "accion": "MANTENER",
+    "codigos_comunes_ids": [
+      "C057"
+    ],
+    "justificacion": "Iniciar concreta intención; no equivale a dirigir, acordar por dos o reservar agenda solamente."
+  },
+  {
+    "codigo_local_id": "E05-C005",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C041"
+    ],
+    "justificacion": "La pregunta resuelve una sección; no recomienda título ni demuestra función institucional amplia."
+  },
+  {
+    "codigo_local_id": "E05-C006",
+    "accion": "DIVIDIR",
+    "codigos_comunes_ids": [
+      "C015",
+      "C001"
+    ],
+    "justificacion": "Separa no saber revisiones o funciones ajenas (P039, P061) de delimitar capacidad propia y control (P116-P117)."
+  },
+  {
+    "codigo_local_id": "E05-C007",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C058"
+    ],
+    "justificacion": "El recuerdo orienta sin garantizar permanencia; equivale a saber llegar de E04."
+  },
+  {
+    "codigo_local_id": "E05-C008",
+    "accion": "REFORMULAR",
+    "codigos_comunes_ids": [
+      "C014"
+    ],
+    "justificacion": "Se amplía de consulta horaria a suficiencia proporcionada al propósito, conservando fuente, margen y ausencia de llamada."
+  },
+  {
+    "codigo_local_id": "E05-C009",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C041"
+    ],
+    "justificacion": "Acuerdo de encuentro y aviso precisan dónde encontrarse; no implican seguimiento permanente."
+  },
+  {
+    "codigo_local_id": "E05-C010",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C052"
+    ],
+    "justificacion": "Lectura y precio sostienen elección directa; se conserva autonomía frente a reseñas o aprobación ajena."
+  },
+  {
+    "codigo_local_id": "E05-C011",
+    "accion": "DIVIDIR",
+    "codigos_comunes_ids": [
+      "C034",
+      "C019",
+      "C040"
+    ],
+    "justificacion": "Separa renovar ganas compartidas (P092), cercanía funcional (P094) y oferta, mesa y audición observadas (P097-P098)."
+  },
+  {
+    "codigo_local_id": "E05-C012",
+    "accion": "REFORMULAR",
+    "codigos_comunes_ids": [
+      "C011"
+    ],
+    "justificacion": "Despedida define cierre, compra no basta y lectura posterior queda fuera; se integra al límite del recorrido sin imponer una fase doméstica."
+  },
+  {
+    "codigo_local_id": "E05-C013",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C011"
+    ],
+    "justificacion": "Nombres y superposición se integran manteniendo autonomía del último tramo y sin cadena rígida."
+  },
+  {
+    "codigo_local_id": "E05-C014",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C042"
+    ],
+    "justificacion": "Comparte criterio de resolver lo que habilita empezar, dejando elección y segunda parada abiertas."
+  },
+  {
+    "codigo_local_id": "E05-C015",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C032"
+    ],
+    "justificacion": "Finalidad, tiempo, compañía y familiaridad modifican preparación; no se añaden como sucesos de esa tarde."
+  },
+  {
+    "codigo_local_id": "E05-C016",
+    "accion": "DIVIDIR",
+    "codigos_comunes_ids": [
+      "C019",
+      "C041"
+    ],
+    "justificacion": "Separa ubicación razonable y cercanía del plan (P132-P133) de fachada, entrada y referencia puntual (P130)."
+  },
+  {
+    "codigo_local_id": "E05-C017",
+    "accion": "FUSIONAR",
+    "codigos_comunes_ids": [
+      "C040"
+    ],
+    "justificacion": "Deseo de escucharse y estar a gusto se integra con valoración del lugar; conservar estatus deseado y ausencia de fallo esa tarde."
+  },
+  {
+    "codigo_local_id": "E05-C018",
+    "accion": "DIVIDIR",
+    "codigos_comunes_ids": [
+      "C017",
+      "C009"
+    ],
+    "justificacion": "Separa nota/lista y acceso por zona (P145-P146, P154) de observaciones con momento y origen (P148, P156)."
+  },
+  {
+    "codigo_local_id": "E05-C019",
+    "accion": "DIVIDIR",
+    "codigos_comunes_ids": [
+      "C009",
+      "C060"
+    ],
+    "justificacion": "Separa confianza según quién observó y contenido interpretable (P156-P157) de vigencia y comprobación actual (P149, P152, P160)."
+  },
+  {
+    "codigo_local_id": "E05-C020",
+    "accion": "DIVIDIR",
+    "codigos_comunes_ids": [
+      "C030",
+      "C031"
+    ],
+    "justificacion": "Separa proponer o descartar con referencia (P162-P163) y carga aceptable sin ficha por visita (P165)."
+  },
+  {
+    "codigo_local_id": "E05-C021",
+    "accion": "DIVIDIR",
+    "codigos_comunes_ids": [
+      "C018",
+      "C059"
+    ],
+    "justificacion": "Separa trato directo que conservaría (P168) y decisión abierta o descubrimiento en situación (P167, P170-P171)."
+  }
+]

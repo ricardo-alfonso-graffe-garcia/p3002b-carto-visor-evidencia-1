@@ -1,0 +1,103 @@
+{
+  "id": "HU01-H015",
+  "titulo": "Reconocer unidades y porciones al despachar",
+  "formulacion": "Como persona que despacha elástico en la mercería, quiero mantener identificable qué rollo se corta y qué recorte sirve a una medida, para usar primero el abierto e incorporar el nuevo sin mezclar porciones.",
+  "actores": [
+    "ACT01-A019"
+  ],
+  "perfil": "HU01-P004",
+  "necesidades": [
+    "N01-N022"
+  ],
+  "entrevistas": [
+    "E04"
+  ],
+  "tipo": "ACTUAL_A_PRESERVAR",
+  "contexto": "El nuevo quedó por ancho, el abierto al frente; el recorte se separó y el primer despacho del nuevo cerró reposición. No significa coser ni vender todo el rollo.",
+  "objetivo": "mantener identificable qué rollo se corta y qué recorte sirve a una medida",
+  "beneficio_o_decision": "usar primero el abierto e incorporar el nuevo sin mezclar porciones",
+  "restricciones": [
+    "No implica lote formal ni cantidades o pérdidas; cierre es primer despacho, no venta de todo el rollo y no coser prendas."
+  ],
+  "preservar": [
+    "No mezclar porciones",
+    "Consumir unidad abierta primero",
+    "Comprobar manejo al despachar"
+  ],
+  "evidencias": [
+    "N01-V0223",
+    "N01-V0230",
+    "N01-V0231",
+    "N01-V0232",
+    "N01-V0233",
+    "N01-V0234",
+    "N01-V0235",
+    "N01-V0236",
+    "N01-V0204"
+  ],
+  "limites": "No están disponibles los rollos ni observación directa del despacho.. Las formulaciones son derivaciones analíticas, no citas ni compromisos de participantes. La pertinencia de un producto sigue por validar.",
+  "criterios": [
+    {
+      "id": "HU01-K021",
+      "dado": "se dispone de rollo abierto, nuevo y porciones separadas",
+      "cuando": "se prepara el despacho de una medida",
+      "entonces": "se reconoce qué unidad se corta y si el recorte alcanza, ubicando el cierre de reposición en el primer despacho del nuevo",
+      "origen": "ADAPTADO_DE_CRITERIO_N01",
+      "criterios_n01": [
+        "N01-K022"
+      ],
+      "estado": "PROPUESTO_NO_EJECUTADO",
+      "limites": "Adaptación analítica de N01-K022. Observable N01 de origen PROPUESTA_ANALITICA; Dado/Cuando/Entonces y el cotejo son propuestas del análisis, no aceptación recabada. No implica lote formal ni cantidades o pérdidas; cierre es primer despacho, no venta de todo el rollo y no coser prendas. Soportes originales no aportados; no se ejecutó esta comprobación."
+    }
+  ],
+  "prioridad": {
+    "nivel": "ALTA",
+    "ambito": "E04: actividad actual: Reconocer unidades y porciones al despachar",
+    "origen": "ANALISIS_CONDICIONAL",
+    "razon": "Alta en la fase de despacho, distinta de elegir compra. Se conserva disposición física suficiente sin exigir inventario digital. Importancia expresada: No hay priorización comparable explícita de esta pieza por la persona. El nivel asignado es del análisis.",
+    "limites": "Orden local parcial y condicional al momento señalado. No ranking urbano, cartera implementable, aceptación ADIP ni factibilidad comprobada."
+  },
+  "perfil_metadatos": "HU01-M015",
+  "metaalgoritmo": [
+    {
+      "id": "HU01-OP061",
+      "nombre": "Reconocer unidades físicas",
+      "entrada": "Abierto, nuevo, recortes y sección por ancho",
+      "operacion": "Propuesta: Distinguir qué se está cortando sin inventar lotes formales.",
+      "salida": "Unidades identificables",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP062",
+      "nombre": "Ordenar uso pertinente",
+      "entrada": "Unidades y porciones",
+      "operacion": "Propuesta: Conservar abierto al frente y separar recorte de porción utilizable para cualquier medida.",
+      "salida": "Disposición física",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP063",
+      "nombre": "Comprobar al despachar",
+      "entrada": "Medida solicitada y unidad a cortar",
+      "operacion": "Propuesta: Revisar si porción sirve y cómo se maneja el nuevo al primer corte.",
+      "salida": "Disponibilidad situada y manejo observado",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP064",
+      "nombre": "Decidir cierre y comunicar",
+      "entrada": "Primer despacho y lo observado",
+      "operacion": "Propuesta: Reconocer reposición incorporada sin esperar venta total ni afirmar desempeño cosido.",
+      "salida": "Cierre de reposición acotado",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    }
+  ]
+}

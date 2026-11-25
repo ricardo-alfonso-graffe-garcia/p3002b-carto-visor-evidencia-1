@@ -1,0 +1,30 @@
+graph 1 19.375 9.1667
+node s1 2.1944 7.875 4.3889 1.0278 "Fuentes funcionales E01\nPetición, copia, croquis y aclaración\nOriginales no aportados" rounded,filled box #42657D #F2EFE8
+node s2 8.9722 7.875 3.6944 1.0278 "Fuentes funcionales E02\nNotas y relatos de ocasiones\nSegunda ocasión por acordar" rounded,filled box #42657D #F2EFE8
+node s3 15.931 7.875 3.6944 1.0278 "Fuentes funcionales E03\nAcuerdos, calendario y notas\nOriginales no aportados" rounded,filled box #42657D #F2EFE8
+node p1 2.1944 6 3.9583 1.0278 "Expediente de revisión · P001\nÚltimo cambio, respaldo y duda\nHistorias H001–H003" rounded,filled box #42657D #E5EFF6
+node p2 8.9722 6 4.1528 1.0278 "Cuaderno de contraste · P002\nOcasiones, unidad y afirmaciones\nHistorias H004–H006" rounded,filled box #42657D #E5EFF6
+node p3 15.931 6 4.2778 1.0278 "Memoria cultural · P003\nAcuerdos y qué volver a preguntar\nH007–H008; H010–H012" rounded,filled box #42657D #E5EFF6
+node d1 2.1944 4.125 3.875 1.0278 "Decisión técnica\nConservar / modificar / detener\no pedir nueva aclaración" rounded,filled box #42657D #E8F1E8
+node d2 8.9722 4.125 4.5417 1.0278 "Decisión de análisis\nQué comparar y hasta dónde afirmar\no detener seguimiento" rounded,filled box #42657D #E8F1E8
+node d3 15.931 4.125 4.2778 1.0278 "Decisión de coordinación\nQué retomar, confirmar y anunciar\no conservar como idea" rounded,filled box #42657D #E8F1E8
+node c1 2.1944 2.25 4.0833 1.0278 "Comprobar en fase siguiente\nRetomar cambio y explicar límite\nCriterios K001–K004" rounded,filled box #42657D #F4EBD9
+node c2 8.9722 2.25 3.6944 1.0278 "Comprobar en fase siguiente\nQué cambia con otra ocasión\nCriterios K005–K008" rounded,filled box #42657D #F4EBD9
+node c3 15.931 2.25 4.0556 1.0278 "Comprobar en fase siguiente\nRelevo, vigencia y comunicación\nCriterios K009–K012" rounded,filled box #42657D #F4EBD9
+node legend 8.9722 0.52778 8.8611 1.0556 "Cada columna es una relación de diseño, sin cadena entre casos.\nFlechas continuas: fundamento/uso/comprobación propuestos; discontinuas: \
+reformulación.\nP y K usan prefijo T01; H usa HU01. Fuentes concretas y permisos por confirmar.\nTodas las pruebas son propuestas, \
+sin adopción, desempeño o aceptación acreditados." rounded,filled note #42657D white
+edge s1 p1 4 2.1944 7.3563 2.1944 7.1324 2.1944 6.8667 2.1944 6.631 "evidencia autorizada" 3.0625 6.9375 solid #315E78
+edge s2 p2 4 8.9722 7.3563 8.9722 7.1324 8.9722 6.8667 8.9722 6.631 "contraste voluntario" 9.8125 6.9375 solid #315E78
+edge s3 p3 4 15.931 7.3563 15.931 7.1324 15.931 6.8667 15.931 6.631 "fuente y ocasión" 16.625 6.9375 solid #315E78
+edge p1 d1 4 2.1944 5.4813 2.1944 5.2574 2.1944 4.9917 2.1944 4.756 "explicar revisión" 2.8681 5.0625 solid #315E78
+edge p2 d2 4 8.9722 5.4813 8.9722 5.2574 8.9722 4.9917 8.9722 4.756 "examinar respaldo" 9.75 5.0625 solid #315E78
+edge p3 d3 4 15.931 5.4813 15.931 5.2574 15.931 4.9917 15.931 4.756 "preparar preguntas" 16.743 5.0625 solid #315E78
+edge d1 c1 4 2.1944 3.6063 2.1944 3.3824 2.1944 3.1167 2.1944 2.881 "ensayo de tarea" 2.8681 3.1875 solid #315E78
+edge d2 c2 4 8.9722 3.6063 8.9722 3.3824 8.9722 3.1167 8.9722 2.881 "comparar alcance" 9.7361 3.1875 solid #315E78
+edge d3 c3 4 15.931 3.6063 15.931 3.3824 15.931 3.1167 15.931 2.881 "retomar y revalidar" 16.736 3.1875 solid #315E78
+edge c1 p1 10 3.5248 2.7654 3.8786 2.9696 4.2144 3.2459 4.4028 3.6111 4.6122 4.0171 4.6122 4.2329 4.4028 4.6389 4.2321 4.9699 3.9403 5.2278 3.6237 5.4252 reformular 5.0139 4.125 dashed #A45D27
+edge c2 p2 10 10.564 2.764 10.944 2.964 11.301 3.2384 11.514 3.6111 11.741 4.0075 11.738 4.2409 11.514 4.6389 11.323 4.9775 11.014 5.2348 10.675 5.4288 reformular 12.139 4.125 dashed #A45D27
+edge c2 legend 4 8.9722 1.7323 8.9722 1.5562 8.9722 1.3562 8.9722 1.1712 invis #315E78
+edge c3 p3 10 17.471 2.7667 17.832 2.9667 18.165 3.2404 18.347 3.6111 18.549 4.021 18.547 4.228 18.347 4.6389 18.183 4.9771 17.893 5.2345 17.57 5.4288 reformular 18.931 4.125 dashed #A45D27
+stop

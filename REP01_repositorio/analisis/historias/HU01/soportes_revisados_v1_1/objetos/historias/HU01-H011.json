@@ -1,0 +1,121 @@
+{
+  "id": "HU01-H011",
+  "titulo": "Retomar acuerdos del espacio entre personas del equipo",
+  "formulacion": "Como persona del equipo que prepara otro acercamiento cultural, quiero recuperar interlocución, acuerdos prácticos, notas propias y preguntas por confirmar, para preparar una conversación situada sin depender de que otra persona recuerde toda la historia.",
+  "actores": [
+    "ACT01-A012"
+  ],
+  "perfil": "HU01-P003",
+  "necesidades": [
+    "N01-N016"
+  ],
+  "entrevistas": [
+    "E03"
+  ],
+  "tipo": "IDEAL_A_CONTRASTAR",
+  "contexto": "Ideal abierto E03-P149; organización P155, uso compartido P159 y prioridad P167. Carpeta por espacio imaginada, con página inicial de contactos funcionales y pendientes, sin inventar nombres.",
+  "objetivo": "recuperar interlocución, acuerdos prácticos, notas propias y preguntas por confirmar",
+  "beneficio_o_decision": "preparar una conversación situada sin depender de que otra persona recuerde toda la historia",
+  "restricciones": [
+    "Sirve especialmente si varias personas retoman; requiere notas fáciles de mantener y revalidación con anfitriones, sin explicarles su lugar desde una nota antigua. No perfiles individuales."
+  ],
+  "preservar": [
+    "Visita y conversación pertinentes",
+    "Confirmar vigencia",
+    "Comunicación sencilla de series pequeñas"
+  ],
+  "evidencias": [
+    "N01-V0111",
+    "N01-V0112",
+    "N01-V0165",
+    "N01-V0166",
+    "N01-V0167",
+    "N01-V0168",
+    "N01-V0169",
+    "N01-V0170",
+    "N01-V0171",
+    "N01-V0172",
+    "N01-V0173",
+    "N01-V0174",
+    "N01-V0175",
+    "N01-V0176",
+    "N01-V0134",
+    "N01-V0154",
+    "N01-V0177"
+  ],
+  "limites": "No hay preferencia directa de anfitriones por carpeta u homologación.; No se conoce quién mantendría las notas ni el esfuerzo real.. Las formulaciones son derivaciones analíticas, no citas ni compromisos de participantes. La pertinencia de un producto sigue por validar.",
+  "criterios": [
+    {
+      "id": "HU01-K015",
+      "dado": "otra persona del equipo necesita preparar un acercamiento y hay notas pertinentes",
+      "cuando": "se consultan interlocución, acuerdos y preguntas",
+      "entonces": "puede preparar qué retomar y qué confirmar, distinguiendo relato anterior y nota propia, sin depender de memoria oral completa",
+      "origen": "ADAPTADO_DE_CRITERIO_N01",
+      "criterios_n01": [
+        "N01-K016"
+      ],
+      "estado": "PROPUESTO_NO_EJECUTADO",
+      "limites": "Adaptación analítica de N01-K016. Observable N01 de origen DECLARADO; Dado/Cuando/Entonces y el cotejo son propuestas del análisis, no aceptación recabada. Sirve especialmente si varias personas retoman; requiere notas fáciles de mantener y revalidación con anfitriones, sin explicarles su lugar desde una nota antigua. No perfiles individuales. Soportes originales no aportados; no se ejecutó esta comprobación."
+    }
+  ],
+  "prioridad": {
+    "nivel": "ALTA",
+    "ambito": "E03: ideal a contrastar: Retomar acuerdos del espacio entre personas del equipo",
+    "origen": "ANALISIS_CONDICIONAL",
+    "razon": "Alta dentro del ideal si varias personas retoman relación. La persona prioriza acuerdos y preguntas antes de ampliar descripciones; no acredita ahorro ni mantenimiento. Importancia expresada: P168 prioriza acuerdos prácticos y lo que hay que volver a preguntar; P169 indica horario previo, confirmación e interlocución como punto para retomar, sin repetir automáticamente.",
+    "limites": "Orden local parcial y condicional al momento señalado. No ranking urbano, cartera implementable, aceptación ADIP ni factibilidad comprobada."
+  },
+  "perfil_metadatos": "HU01-M011",
+  "metaalgoritmo": [
+    {
+      "id": "HU01-OP043",
+      "nombre": "Localizar memoria por espacio",
+      "entrada": "Notas y acuerdos que realmente se conserven",
+      "operacion": "Propuesta: Reunir interlocución funcional, experiencia previa y preguntas útiles.",
+      "salida": "Página inicial por preparar",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP044",
+      "nombre": "Separar procedencias",
+      "entrada": "Lo dicho antes y notas propias posteriores",
+      "operacion": "Propuesta: Asociar fuente y ocasión sin perfiles personales ni trayectos innecesarios.",
+      "salida": "Notas distinguibles",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP045",
+      "nombre": "Preparar acercamiento",
+      "entrada": "Acuerdos y preguntas",
+      "operacion": "Propuesta: Interpretar lo que requiere revalidación y presentar síntesis al equipo.",
+      "salida": "Preguntas para retomar",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP046",
+      "nombre": "Revalidar y decidir",
+      "entrada": "Síntesis e interlocución del lugar",
+      "operacion": "Propuesta: Conversar si sigue teniendo sentido sin imponer la nota; decidir próximo acuerdo o esperar.",
+      "salida": "Alcance actualizado o pendiente",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP047",
+      "nombre": "Revisar mantenimiento",
+      "entrada": "Trabajo real de registrar y preparar",
+      "operacion": "Propuesta: Contrastar si otra persona puede retomar y si el esfuerzo tiene sentido.",
+      "salida": "Decisión sobre sostener notas, aún no medida",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    }
+  ]
+}

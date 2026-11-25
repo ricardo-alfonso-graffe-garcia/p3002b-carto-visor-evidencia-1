@@ -1,0 +1,138 @@
+{
+  "id": "HU01-H005",
+  "titulo": "Escribir hasta donde alcanza la evidencia de elección",
+  "formulacion": "Como persona responsable del análisis de compras, quiero vincular lo observado y relatado con cada afirmación y señalar las alternativas no reconstruidas, para decidir si puedo describir el recorrido o debo limitar una explicación de elección.",
+  "actores": [
+    "ACT01-A005"
+  ],
+  "perfil": "HU01-P002",
+  "necesidades": [
+    "N01-N007",
+    "N01-N008"
+  ],
+  "entrevistas": [
+    "E02"
+  ],
+  "tipo": "ACTUAL_A_PRESERVAR",
+  "contexto": "La descripción acotada fue posible. Una crítica mostró que no se reconstruyeron todas las alternativas para explicar elección; se retiró una valoración tras retorno parcial, sin aprobación académica total.",
+  "objetivo": "vincular lo observado y relatado con cada afirmación y señalar las alternativas no reconstruidas",
+  "beneficio_o_decision": "decidir si puedo describir el recorrido o debo limitar una explicación de elección",
+  "restricciones": [
+    "Una narración posterior tiene valor propio. La responsabilidad académica es del equipo y la objeción externa no lo sustituye.",
+    "No se conoce un conjunto exhaustivo de opciones ni una causa única. Abordar el asunto o renunciar a la afirmación depende de qué se quiera sostener."
+  ],
+  "preservar": [
+    "Voces discordantes",
+    "Narración posterior",
+    "Discusión entre observadoras",
+    "Acotar afirmaciones suficientes",
+    "No imaginar perspectivas de comerciantes u hogares",
+    "Acotar lo que se afirma"
+  ],
+  "evidencias": [
+    "N01-V0059",
+    "N01-V0060",
+    "N01-V0061",
+    "N01-V0062",
+    "N01-V0057",
+    "N01-V0063",
+    "N01-V0064",
+    "N01-V0065",
+    "N01-V0066",
+    "N01-V0067",
+    "N01-V0068",
+    "N01-V0069",
+    "N01-V0070",
+    "N01-V0071",
+    "N01-V0072",
+    "N01-V0073",
+    "N01-V0074",
+    "N01-V0075",
+    "N01-V0076",
+    "N01-V0077",
+    "N01-V0078",
+    "N01-V0079",
+    "N01-V0080",
+    "N01-V0081",
+    "N01-V0082",
+    "N01-V0056",
+    "N01-V0050"
+  ],
+  "limites": "No hay versiones de texto o devolución completa documentadas.; Alternativas específicas y su viabilidad por ocasión.; Disponibilidad y recuerdo para un futuro contraste.. Las formulaciones son derivaciones analíticas, no citas ni compromisos de participantes. La pertinencia de un producto sigue por validar.",
+  "criterios": [
+    {
+      "id": "HU01-K006",
+      "dado": "una afirmación se apoya en notas y relatos de distinto momento",
+      "cuando": "se prepara su redacción",
+      "entonces": "se vincula el respaldo con lo afirmado, sin convertir hábito contado en repetición observada ni imponer una valoración no sostenida",
+      "origen": "ADAPTADO_DE_CRITERIO_N01",
+      "criterios_n01": [
+        "N01-K007"
+      ],
+      "estado": "PROPUESTO_NO_EJECUTADO",
+      "limites": "Adaptación analítica de N01-K007. Observable N01 de origen PROPUESTA_ANALITICA; Dado/Cuando/Entonces y el cotejo son propuestas del análisis, no aceptación recabada. Una narración posterior tiene valor propio. La responsabilidad académica es del equipo y la objeción externa no lo sustituye. Soportes originales no aportados; no se ejecutó esta comprobación."
+    },
+    {
+      "id": "HU01-K007",
+      "dado": "no se reconstruyeron todas las alternativas conocidas y posibles",
+      "cuando": "se pretende explicar elección entre opciones",
+      "entonces": "se señalan las opciones desconocidas y se decide abordarlas o limitarse a la descripción respaldada",
+      "origen": "ADAPTADO_DE_CRITERIO_N01",
+      "criterios_n01": [
+        "N01-K008"
+      ],
+      "estado": "PROPUESTO_NO_EJECUTADO",
+      "limites": "Adaptación analítica de N01-K008. Observable N01 de origen PROPUESTA_ANALITICA; Dado/Cuando/Entonces y el cotejo son propuestas del análisis, no aceptación recabada. No se conoce un conjunto exhaustivo de opciones ni una causa única. Abordar el asunto o renunciar a la afirmación depende de qué se quiera sostener. Soportes originales no aportados; no se ejecutó esta comprobación."
+    }
+  ],
+  "prioridad": {
+    "nivel": "PENDIENTE",
+    "ambito": "E02: actividad actual: Escribir hasta donde alcanza la evidencia de elección",
+    "origen": "ANALISIS_CONDICIONAL",
+    "razon": "N007 es alta al escribir; N008 es media y se activa si se pretende explicar elección entre opciones. La integración conserva esa condición, sin elevar automáticamente la carencia a bloqueo de la descripción. Importancia expresada: No hay priorización comparable explícita de esta pieza por la persona. El nivel asignado es del análisis.",
+    "limites": "Orden local parcial y condicional al momento señalado. No ranking urbano, cartera implementable, aceptación ADIP ni factibilidad comprobada."
+  },
+  "perfil_metadatos": "HU01-M005",
+  "metaalgoritmo": [
+    {
+      "id": "HU01-OP018",
+      "nombre": "Vincular afirmación y respaldo",
+      "entrada": "Borrador, notas y relatos",
+      "operacion": "Propuesta: Separar visto, contado e interpretación y localizar evidencia de cada afirmación.",
+      "salida": "Trazas de afirmaciones",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP019",
+      "nombre": "Examinar alternativas desconocidas",
+      "entrada": "Crítica sobre elección y opciones no reconstruidas",
+      "operacion": "Propuesta: Distinguir descripción de recorrido de explicación entre alternativas; no completar otras perspectivas.",
+      "salida": "Límite explícito de explicación",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP020",
+      "nombre": "Revisar con otras lecturas",
+      "entrada": "Trazas, colega y retornos parciales cuando existan",
+      "operacion": "Propuesta: Discutir valoraciones y omitir ubicaciones innecesarias sin exigir aprobación total.",
+      "salida": "Redacción revisada con fuente",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP021",
+      "nombre": "Decidir qué sostener",
+      "entrada": "Redacción y límites",
+      "operacion": "Propuesta: Acotar afirmación o definir qué habría que abordar para ampliarla.",
+      "salida": "Descripción defendible y agenda",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    }
+  ]
+}

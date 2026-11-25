@@ -1,0 +1,740 @@
+{
+  "fecha": "2026-11-25",
+  "cambios": [
+    {
+      "perfil": "HU01-M001",
+      "campo": "escala_espacial",
+      "antes": {
+        "campo": "escala_espacial",
+        "estado": "RESPALDADO",
+        "valor": "Reconocimiento situado de espacios y relaciones entre lugares; sin escala cartográfica numérica declarada.",
+        "justificacion": "Se compara ubicación del mismo espacio; el croquis no tiene medidas y el punto no es puerta precisa.",
+        "evidencias": [
+          "N01-V0001",
+          "N01-V0002",
+          "N01-V0003",
+          "N01-V0004",
+          "N01-V0005",
+          "N01-V0006",
+          "N01-V0007",
+          "N01-V0008",
+          "N01-V0009",
+          "N01-V0010",
+          "N01-V0011",
+          "N01-V0012",
+          "N01-V0013",
+          "N01-V0014",
+          "N01-V0015",
+          "N01-V0016",
+          "N01-V0017",
+          "N01-V0018"
+        ]
+      },
+      "resolucion": "CONTEXTO_ESPACIAL_SEPARADO_ESCALA_DESCONOCIDA"
+    },
+    {
+      "perfil": "HU01-M001",
+      "campo": "resolucion_temporal",
+      "antes": {
+        "campo": "resolucion_temporal",
+        "estado": "RESPALDADO",
+        "valor": "Revisión y recorrido relatados, sin fechas de levantamiento conocidas.",
+        "justificacion": "Se respalda la distinción temporal cualitativa de uso, sin imponer frecuencia, duración, registro continuo ni granularidad numérica ausentes.",
+        "evidencias": [
+          "N01-V0001",
+          "N01-V0002",
+          "N01-V0003",
+          "N01-V0004",
+          "N01-V0005",
+          "N01-V0006",
+          "N01-V0007",
+          "N01-V0008",
+          "N01-V0009",
+          "N01-V0010",
+          "N01-V0011",
+          "N01-V0012",
+          "N01-V0013",
+          "N01-V0014",
+          "N01-V0015",
+          "N01-V0016",
+          "N01-V0017",
+          "N01-V0018"
+        ]
+      },
+      "resolucion": "CONTEXTO_TEMPORAL_SEPARADO_RESOLUCION_DESCONOCIDA"
+    },
+    {
+      "perfil": "HU01-M002",
+      "campo": "resolucion_temporal",
+      "antes": {
+        "campo": "resolucion_temporal",
+        "estado": "RESPALDADO",
+        "valor": "Revisión documental consultada; una nueva pregunta se vincularía a esa copia.",
+        "justificacion": "Se respalda la distinción temporal cualitativa de uso, sin imponer frecuencia, duración, registro continuo ni granularidad numérica ausentes.",
+        "evidencias": [
+          "N01-V0009",
+          "N01-V0019",
+          "N01-V0020",
+          "N01-V0021",
+          "N01-V0022",
+          "N01-V0023",
+          "N01-V0024",
+          "N01-V0025",
+          "N01-V0026",
+          "N01-V0027"
+        ]
+      },
+      "resolucion": "CONTEXTO_TEMPORAL_SEPARADO_RESOLUCION_DESCONOCIDA"
+    },
+    {
+      "perfil": "HU01-M003",
+      "campo": "resolucion_temporal",
+      "antes": {
+        "campo": "resolucion_temporal",
+        "estado": "RESPALDADO",
+        "valor": "Último cambio que afecta identificar el lugar; revisión antigua distinta de aclaración reciente.",
+        "justificacion": "Se respalda la distinción temporal cualitativa de uso, sin imponer frecuencia, duración, registro continuo ni granularidad numérica ausentes.",
+        "evidencias": [
+          "N01-V0028",
+          "N01-V0029",
+          "N01-V0030",
+          "N01-V0031",
+          "N01-V0032",
+          "N01-V0033",
+          "N01-V0034",
+          "N01-V0035",
+          "N01-V0036",
+          "N01-V0037",
+          "N01-V0038",
+          "N01-V0039",
+          "N01-V0040",
+          "N01-V0041",
+          "N01-V0042",
+          "N01-V0043"
+        ]
+      },
+      "resolucion": "CONTEXTO_TEMPORAL_SEPARADO_RESOLUCION_DESCONOCIDA"
+    },
+    {
+      "perfil": "HU01-M004",
+      "campo": "escala_espacial",
+      "antes": {
+        "campo": "escala_espacial",
+        "estado": "RESPALDADO",
+        "valor": "Reconocimiento situado de espacios y relaciones entre lugares; sin escala cartográfica numérica declarada.",
+        "justificacion": "Se sitúan lugares y relaciones dentro de cada salida, no una ruta prescrita ni proximidad como causa.",
+        "evidencias": [
+          "N01-V0044",
+          "N01-V0045",
+          "N01-V0046",
+          "N01-V0047",
+          "N01-V0048",
+          "N01-V0049",
+          "N01-V0050",
+          "N01-V0051",
+          "N01-V0052",
+          "N01-V0053",
+          "N01-V0054",
+          "N01-V0055",
+          "N01-V0056",
+          "N01-V0057",
+          "N01-V0058"
+        ]
+      },
+      "resolucion": "CONTEXTO_ESPACIAL_SEPARADO_ESCALA_DESCONOCIDA"
+    },
+    {
+      "perfil": "HU01-M004",
+      "campo": "resolucion_temporal",
+      "antes": {
+        "campo": "resolucion_temporal",
+        "estado": "RESPALDADO",
+        "valor": "Ocasión acompañada frente a relato habitual; tiempos aproximados y orígenes distintos.",
+        "justificacion": "Se respalda la distinción temporal cualitativa de uso, sin imponer frecuencia, duración, registro continuo ni granularidad numérica ausentes.",
+        "evidencias": [
+          "N01-V0044",
+          "N01-V0045",
+          "N01-V0046",
+          "N01-V0047",
+          "N01-V0048",
+          "N01-V0049",
+          "N01-V0050",
+          "N01-V0051",
+          "N01-V0052",
+          "N01-V0053",
+          "N01-V0054",
+          "N01-V0055",
+          "N01-V0056",
+          "N01-V0057",
+          "N01-V0058"
+        ]
+      },
+      "resolucion": "CONTEXTO_TEMPORAL_SEPARADO_RESOLUCION_DESCONOCIDA"
+    },
+    {
+      "perfil": "HU01-M005",
+      "campo": "resolucion_temporal",
+      "antes": {
+        "campo": "resolucion_temporal",
+        "estado": "RESPALDADO",
+        "valor": "Momento de observación, relato posterior y versión de afirmación, distinguidos.",
+        "justificacion": "Se respalda la distinción temporal cualitativa de uso, sin imponer frecuencia, duración, registro continuo ni granularidad numérica ausentes.",
+        "evidencias": [
+          "N01-V0059",
+          "N01-V0060",
+          "N01-V0061",
+          "N01-V0062",
+          "N01-V0057",
+          "N01-V0063",
+          "N01-V0064",
+          "N01-V0065",
+          "N01-V0066",
+          "N01-V0067",
+          "N01-V0068",
+          "N01-V0069",
+          "N01-V0070",
+          "N01-V0071",
+          "N01-V0072",
+          "N01-V0073",
+          "N01-V0074",
+          "N01-V0075",
+          "N01-V0076",
+          "N01-V0077",
+          "N01-V0078",
+          "N01-V0079",
+          "N01-V0080",
+          "N01-V0081",
+          "N01-V0082",
+          "N01-V0056",
+          "N01-V0050"
+        ]
+      },
+      "resolucion": "CONTEXTO_TEMPORAL_SEPARADO_RESOLUCION_DESCONOCIDA"
+    },
+    {
+      "perfil": "HU01-M006",
+      "campo": "resolucion_temporal",
+      "antes": {
+        "campo": "resolucion_temporal",
+        "estado": "RESPALDADO",
+        "valor": "Primera y segunda ocasión; periodo pertinente acordado con persona, sin imponer semana fija.",
+        "justificacion": "Se respalda la distinción temporal cualitativa de uso, sin imponer frecuencia, duración, registro continuo ni granularidad numérica ausentes.",
+        "evidencias": [
+          "N01-V0083",
+          "N01-V0084",
+          "N01-V0080",
+          "N01-V0085",
+          "N01-V0086",
+          "N01-V0087",
+          "N01-V0088",
+          "N01-V0089",
+          "N01-V0090",
+          "N01-V0091",
+          "N01-V0092",
+          "N01-V0093",
+          "N01-V0094",
+          "N01-V0095",
+          "N01-V0096",
+          "N01-V0070",
+          "N01-V0097",
+          "N01-V0098",
+          "N01-V0074",
+          "N01-V0081",
+          "N01-V0071"
+        ]
+      },
+      "resolucion": "CONTEXTO_TEMPORAL_SEPARADO_RESOLUCION_DESCONOCIDA"
+    },
+    {
+      "perfil": "HU01-M007",
+      "campo": "resolucion_temporal",
+      "antes": {
+        "campo": "resolucion_temporal",
+        "estado": "RESPALDADO",
+        "valor": "Tres fechas confirmadas; visita en horario parecido no cubre por sí sola la serie.",
+        "justificacion": "Se respalda la distinción temporal cualitativa de uso, sin imponer frecuencia, duración, registro continuo ni granularidad numérica ausentes.",
+        "evidencias": [
+          "N01-V0099",
+          "N01-V0100",
+          "N01-V0101",
+          "N01-V0102",
+          "N01-V0103",
+          "N01-V0104",
+          "N01-V0105",
+          "N01-V0106",
+          "N01-V0107",
+          "N01-V0108",
+          "N01-V0109",
+          "N01-V0110",
+          "N01-V0111",
+          "N01-V0112",
+          "N01-V0113",
+          "N01-V0114",
+          "N01-V0115",
+          "N01-V0116",
+          "N01-V0117",
+          "N01-V0118",
+          "N01-V0119",
+          "N01-V0120",
+          "N01-V0121",
+          "N01-V0122",
+          "N01-V0123",
+          "N01-V0124",
+          "N01-V0125",
+          "N01-V0126",
+          "N01-V0127",
+          "N01-V0128",
+          "N01-V0129"
+        ]
+      },
+      "resolucion": "CONTEXTO_TEMPORAL_SEPARADO_RESOLUCION_DESCONOCIDA"
+    },
+    {
+      "perfil": "HU01-M008",
+      "campo": "resolucion_temporal",
+      "antes": {
+        "campo": "resolucion_temporal",
+        "estado": "RESPALDADO",
+        "valor": "Día y hora comunicables; alcance de cada sesión e indicación al recibir.",
+        "justificacion": "Se respalda la distinción temporal cualitativa de uso, sin imponer frecuencia, duración, registro continuo ni granularidad numérica ausentes.",
+        "evidencias": [
+          "N01-V0130",
+          "N01-V0131",
+          "N01-V0132",
+          "N01-V0133",
+          "N01-V0134",
+          "N01-V0135",
+          "N01-V0136",
+          "N01-V0137",
+          "N01-V0138",
+          "N01-V0139",
+          "N01-V0140",
+          "N01-V0141",
+          "N01-V0142",
+          "N01-V0143",
+          "N01-V0144",
+          "N01-V0145",
+          "N01-V0146",
+          "N01-V0147"
+        ]
+      },
+      "resolucion": "CONTEXTO_TEMPORAL_SEPARADO_RESOLUCION_DESCONOCIDA"
+    },
+    {
+      "perfil": "HU01-M009",
+      "campo": "resolucion_temporal",
+      "antes": {
+        "campo": "resolucion_temporal",
+        "estado": "RESPALDADO",
+        "valor": "Durante sesión frente a revisión entre encuentros; mediación y ajuste operativo separados.",
+        "justificacion": "Se respalda la distinción temporal cualitativa de uso, sin imponer frecuencia, duración, registro continuo ni granularidad numérica ausentes.",
+        "evidencias": [
+          "N01-V0148",
+          "N01-V0149",
+          "N01-V0150",
+          "N01-V0151",
+          "N01-V0152",
+          "N01-V0153",
+          "N01-V0137",
+          "N01-V0139",
+          "N01-V0138",
+          "N01-V0154",
+          "N01-V0155",
+          "N01-V0156"
+        ]
+      },
+      "resolucion": "CONTEXTO_TEMPORAL_SEPARADO_RESOLUCION_DESCONOCIDA"
+    },
+    {
+      "perfil": "HU01-M010",
+      "campo": "resolucion_temporal",
+      "antes": {
+        "campo": "resolucion_temporal",
+        "estado": "RESPALDADO",
+        "valor": "Fin de tercera sesión, conversación posterior y futuro sin fecha comprometida.",
+        "justificacion": "Se respalda la distinción temporal cualitativa de uso, sin imponer frecuencia, duración, registro continuo ni granularidad numérica ausentes.",
+        "evidencias": [
+          "N01-V0157",
+          "N01-V0158",
+          "N01-V0159",
+          "N01-V0160",
+          "N01-V0161",
+          "N01-V0162",
+          "N01-V0163",
+          "N01-V0156",
+          "N01-V0164",
+          "N01-V0147",
+          "N01-V0135"
+        ]
+      },
+      "resolucion": "CONTEXTO_TEMPORAL_SEPARADO_RESOLUCION_DESCONOCIDA"
+    },
+    {
+      "perfil": "HU01-M011",
+      "campo": "resolucion_temporal",
+      "antes": {
+        "campo": "resolucion_temporal",
+        "estado": "RESPALDADO",
+        "valor": "Ocasión de conversación anterior y nota propia posterior, con revalidación al retomar.",
+        "justificacion": "Se respalda la distinción temporal cualitativa de uso, sin imponer frecuencia, duración, registro continuo ni granularidad numérica ausentes.",
+        "evidencias": [
+          "N01-V0111",
+          "N01-V0112",
+          "N01-V0165",
+          "N01-V0166",
+          "N01-V0167",
+          "N01-V0168",
+          "N01-V0169",
+          "N01-V0170",
+          "N01-V0171",
+          "N01-V0172",
+          "N01-V0173",
+          "N01-V0174",
+          "N01-V0175",
+          "N01-V0176",
+          "N01-V0134",
+          "N01-V0154",
+          "N01-V0177"
+        ]
+      },
+      "resolucion": "CONTEXTO_TEMPORAL_SEPARADO_RESOLUCION_DESCONOCIDA"
+    },
+    {
+      "perfil": "HU01-M012",
+      "campo": "resolucion_temporal",
+      "antes": {
+        "campo": "resolucion_temporal",
+        "estado": "RESPALDADO",
+        "valor": "Franja de uso y ocasión en que se cuenta; no se asume permanencia.",
+        "justificacion": "Se respalda la distinción temporal cualitativa de uso, sin imponer frecuencia, duración, registro continuo ni granularidad numérica ausentes.",
+        "evidencias": [
+          "N01-V0178",
+          "N01-V0179",
+          "N01-V0180",
+          "N01-V0181",
+          "N01-V0182",
+          "N01-V0168",
+          "N01-V0170",
+          "N01-V0174",
+          "N01-V0154"
+        ]
+      },
+      "resolucion": "CONTEXTO_TEMPORAL_SEPARADO_RESOLUCION_DESCONOCIDA"
+    },
+    {
+      "perfil": "HU01-M013",
+      "campo": "resolucion_temporal",
+      "antes": {
+        "campo": "resolucion_temporal",
+        "estado": "RESPALDADO",
+        "valor": "Momento de revisar remanente y condiciones de esa compra; no frecuencia uniforme de ventas.",
+        "justificacion": "Se respalda la distinción temporal cualitativa de uso, sin imponer frecuencia, duración, registro continuo ni granularidad numérica ausentes.",
+        "evidencias": [
+          "N01-V0183",
+          "N01-V0184",
+          "N01-V0185",
+          "N01-V0186",
+          "N01-V0187",
+          "N01-V0188",
+          "N01-V0189",
+          "N01-V0190",
+          "N01-V0191",
+          "N01-V0192",
+          "N01-V0193",
+          "N01-V0194",
+          "N01-V0195",
+          "N01-V0196",
+          "N01-V0197",
+          "N01-V0198",
+          "N01-V0199",
+          "N01-V0200",
+          "N01-V0201",
+          "N01-V0202",
+          "N01-V0203",
+          "N01-V0204",
+          "N01-V0205",
+          "N01-V0206",
+          "N01-V0207",
+          "N01-V0208",
+          "N01-V0209"
+        ]
+      },
+      "resolucion": "CONTEXTO_TEMPORAL_SEPARADO_RESOLUCION_DESCONOCIDA"
+    },
+    {
+      "perfil": "HU01-M014",
+      "campo": "resolucion_temporal",
+      "antes": {
+        "campo": "resolucion_temporal",
+        "estado": "RESPALDADO",
+        "valor": "Oferta y consulta de esa vuelta; alternativa anotada no es disponibilidad actual.",
+        "justificacion": "Se respalda la distinción temporal cualitativa de uso, sin imponer frecuencia, duración, registro continuo ni granularidad numérica ausentes.",
+        "evidencias": [
+          "N01-V0210",
+          "N01-V0211",
+          "N01-V0212",
+          "N01-V0213",
+          "N01-V0214",
+          "N01-V0215",
+          "N01-V0216",
+          "N01-V0206",
+          "N01-V0208",
+          "N01-V0217",
+          "N01-V0218",
+          "N01-V0219",
+          "N01-V0220",
+          "N01-V0221",
+          "N01-V0209",
+          "N01-V0222",
+          "N01-V0223",
+          "N01-V0224",
+          "N01-V0225",
+          "N01-V0226",
+          "N01-V0227",
+          "N01-V0228",
+          "N01-V0229"
+        ]
+      },
+      "resolucion": "CONTEXTO_TEMPORAL_SEPARADO_RESOLUCION_DESCONOCIDA"
+    },
+    {
+      "perfil": "HU01-M015",
+      "campo": "resolucion_temporal",
+      "antes": {
+        "campo": "resolucion_temporal",
+        "estado": "RESPALDADO",
+        "valor": "Rollo abierto antes de nuevo, recorte separado y primer despacho como cierre.",
+        "justificacion": "Se respalda la distinción temporal cualitativa de uso, sin imponer frecuencia, duración, registro continuo ni granularidad numérica ausentes.",
+        "evidencias": [
+          "N01-V0223",
+          "N01-V0230",
+          "N01-V0231",
+          "N01-V0232",
+          "N01-V0233",
+          "N01-V0234",
+          "N01-V0235",
+          "N01-V0236",
+          "N01-V0204"
+        ]
+      },
+      "resolucion": "CONTEXTO_TEMPORAL_SEPARADO_RESOLUCION_DESCONOCIDA"
+    },
+    {
+      "perfil": "HU01-M016",
+      "campo": "resolucion_temporal",
+      "antes": {
+        "campo": "resolucion_temporal",
+        "estado": "RESPALDADO",
+        "valor": "Lista progresiva, salida y devolución al regreso; no secuencia rígida de una sola sentada.",
+        "justificacion": "Se respalda la distinción temporal cualitativa de uso, sin imponer frecuencia, duración, registro continuo ni granularidad numérica ausentes.",
+        "evidencias": [
+          "N01-V0256",
+          "N01-V0257",
+          "N01-V0258",
+          "N01-V0259",
+          "N01-V0260",
+          "N01-V0261",
+          "N01-V0222",
+          "N01-V0262",
+          "N01-V0263",
+          "N01-V0264",
+          "N01-V0265",
+          "N01-V0266",
+          "N01-V0267",
+          "N01-V0268",
+          "N01-V0269",
+          "N01-V0270"
+        ]
+      },
+      "resolucion": "CONTEXTO_TEMPORAL_SEPARADO_RESOLUCION_DESCONOCIDA"
+    },
+    {
+      "perfil": "HU01-M017",
+      "campo": "resolucion_temporal",
+      "antes": {
+        "campo": "resolucion_temporal",
+        "estado": "RESPALDADO",
+        "valor": "Tocado/estirado frente a cosido, usado o lavado cuando realmente se compruebe; momentos por documentar.",
+        "justificacion": "Se respalda la distinción temporal cualitativa de uso, sin imponer frecuencia, duración, registro continuo ni granularidad numérica ausentes.",
+        "evidencias": [
+          "N01-V0237",
+          "N01-V0238",
+          "N01-V0239",
+          "N01-V0240",
+          "N01-V0241",
+          "N01-V0242",
+          "N01-V0243",
+          "N01-V0244",
+          "N01-V0245",
+          "N01-V0246",
+          "N01-V0247",
+          "N01-V0248",
+          "N01-V0249",
+          "N01-V0250",
+          "N01-V0251",
+          "N01-V0252",
+          "N01-V0253",
+          "N01-V0254",
+          "N01-V0221",
+          "N01-V0255",
+          "N01-V0217",
+          "N01-V0209"
+        ]
+      },
+      "resolucion": "CONTEXTO_TEMPORAL_SEPARADO_RESOLUCION_DESCONOCIDA"
+    },
+    {
+      "perfil": "HU01-M018",
+      "campo": "resolucion_temporal",
+      "antes": {
+        "campo": "resolucion_temporal",
+        "estado": "RESPALDADO",
+        "valor": "Día y hora acordados, apertura consultada, reconfirmación y precisión al llegar; sin fecha exacta aportada.",
+        "justificacion": "Se respalda la distinción temporal cualitativa de uso, sin imponer frecuencia, duración, registro continuo ni granularidad numérica ausentes.",
+        "evidencias": [
+          "N01-V0271",
+          "N01-V0272",
+          "N01-V0273",
+          "N01-V0274",
+          "N01-V0275",
+          "N01-V0276",
+          "N01-V0277",
+          "N01-V0278",
+          "N01-V0279",
+          "N01-V0280",
+          "N01-V0281",
+          "N01-V0282",
+          "N01-V0283",
+          "N01-V0284",
+          "N01-V0285",
+          "N01-V0286",
+          "N01-V0287",
+          "N01-V0288",
+          "N01-V0289",
+          "N01-V0290",
+          "N01-V0291",
+          "N01-V0292",
+          "N01-V0293",
+          "N01-V0294",
+          "N01-V0295"
+        ]
+      },
+      "resolucion": "CONTEXTO_TEMPORAL_SEPARADO_RESOLUCION_DESCONOCIDA"
+    },
+    {
+      "perfil": "HU01-M019",
+      "campo": "resolucion_temporal",
+      "antes": {
+        "campo": "resolucion_temporal",
+        "estado": "RESPALDADO",
+        "valor": "Lectura y precio en librería; lectura posterior en casa es otra actividad.",
+        "justificacion": "Se respalda la distinción temporal cualitativa de uso, sin imponer frecuencia, duración, registro continuo ni granularidad numérica ausentes.",
+        "evidencias": [
+          "N01-V0296",
+          "N01-V0297",
+          "N01-V0298",
+          "N01-V0299",
+          "N01-V0300",
+          "N01-V0301",
+          "N01-V0302",
+          "N01-V0303",
+          "N01-V0304",
+          "N01-V0305",
+          "N01-V0306",
+          "N01-V0307",
+          "N01-V0308",
+          "N01-V0309",
+          "N01-V0310",
+          "N01-V0311",
+          "N01-V0312",
+          "N01-V0313",
+          "N01-V0314",
+          "N01-V0315",
+          "N01-V0293"
+        ]
+      },
+      "resolucion": "CONTEXTO_TEMPORAL_SEPARADO_RESOLUCION_DESCONOCIDA"
+    },
+    {
+      "perfil": "HU01-M020",
+      "campo": "resolucion_temporal",
+      "antes": {
+        "campo": "resolucion_temporal",
+        "estado": "RESPALDADO",
+        "valor": "Condiciones al decidir quedarse esa tarde; no umbral o disponibilidad futuros.",
+        "justificacion": "Se respalda la distinción temporal cualitativa de uso, sin imponer frecuencia, duración, registro continuo ni granularidad numérica ausentes.",
+        "evidencias": [
+          "N01-V0316",
+          "N01-V0317",
+          "N01-V0303",
+          "N01-V0318",
+          "N01-V0319",
+          "N01-V0320",
+          "N01-V0321",
+          "N01-V0322",
+          "N01-V0323",
+          "N01-V0304",
+          "N01-V0289",
+          "N01-V0290",
+          "N01-V0324",
+          "N01-V0325",
+          "N01-V0326",
+          "N01-V0327"
+        ]
+      },
+      "resolucion": "CONTEXTO_TEMPORAL_SEPARADO_RESOLUCION_DESCONOCIDA"
+    },
+    {
+      "perfil": "HU01-M021",
+      "campo": "resolucion_temporal",
+      "antes": {
+        "campo": "resolucion_temporal",
+        "estado": "RESPALDADO",
+        "valor": "Momento aunque sea general de la observación; mañana distinta de tarde y ayer no equivale a hoy.",
+        "justificacion": "Se respalda la distinción temporal cualitativa de uso, sin imponer frecuencia, duración, registro continuo ni granularidad numérica ausentes.",
+        "evidencias": [
+          "N01-V0328",
+          "N01-V0329",
+          "N01-V0330",
+          "N01-V0324",
+          "N01-V0331",
+          "N01-V0332",
+          "N01-V0333",
+          "N01-V0334",
+          "N01-V0335",
+          "N01-V0336",
+          "N01-V0337",
+          "N01-V0338",
+          "N01-V0339",
+          "N01-V0340",
+          "N01-V0341",
+          "N01-V0342",
+          "N01-V0343",
+          "N01-V0325",
+          "N01-V0307",
+          "N01-V0326",
+          "N01-V0315",
+          "N01-V0327",
+          "N01-V0308"
+        ]
+      },
+      "resolucion": "CONTEXTO_TEMPORAL_SEPARADO_RESOLUCION_DESCONOCIDA"
+    }
+  ],
+  "fuentes": [
+    {
+      "id": "HU01-RF001",
+      "url": "https://www.w3.org/TR/vocab-dcat-3/",
+      "emisor": "W3C",
+      "version": "DCAT 3 Recommendation 22 August 2024",
+      "localizador": "6.6.6–6.6.7 y distinción de 10.1",
+      "lectura": "Definiciones de cobertura y resolución temporal, y distinción de periodicidad. Consulta de coordinación 2026-11-25.",
+      "sintesis": "La resolución trata del mínimo intervalo distinguible del conjunto; ordenar ocasiones o describir vigencia no fija esa magnitud.",
+      "limite": "Referencia para precisar significado del campo local; no se declara serialización DCAT ni conformidad del perfil."
+    }
+  ],
+  "historias_criterios_prioridades": "SIN_CAMBIOS",
+  "revision_humana_independiente": "PENDIENTE",
+  "cotejo_canonico": "348 citas, 29 necesidades, 351 evidencias y 28 criterios cotejados con entradas preferidas",
+  "figuras": "DOS_PNG_INSPECCIONADOS_Y_REUTILIZADOS_SIN_CAMBIO"
+}

@@ -1,0 +1,110 @@
+{
+  "id": "HU01-H016",
+  "titulo": "Organizar una vuelta manteniendo el relevo autónomo",
+  "formulacion": "Como persona que comparte atención y compras de la mercería, quiero agrupar las compras pertinentes por proveedor y separar consultas mientras acordamos quién sale, para hacer una salida acotada y mantener la atención con devolución al regreso.",
+  "actores": [
+    "ACT01-A019"
+  ],
+  "perfil": "HU01-P004",
+  "necesidades": [
+    "N01-N024"
+  ],
+  "entrevistas": [
+    "E04"
+  ],
+  "tipo": "ACTUAL_A_PRESERVAR",
+  "contexto": "Las notas de ambas personas se reúnen progresivamente. La otra puede atender y medir con autonomía; no se visitó otro proveedor cercano al estar resuelta reposición.",
+  "objetivo": "agrupar las compras pertinentes por proveedor y separar consultas mientras acordamos quién sale",
+  "beneficio_o_decision": "hacer una salida acotada y mantener la atención con devolución al regreso",
+  "restricciones": [
+    "La lista se forma progresivamente, no toda compra se hace en una salida y quien queda no pide autorización para cada venta."
+  ],
+  "preservar": [
+    "Autonomía del mostrador",
+    "Devolución al regreso",
+    "No obligarse a toda consulta cercana"
+  ],
+  "evidencias": [
+    "N01-V0256",
+    "N01-V0257",
+    "N01-V0258",
+    "N01-V0259",
+    "N01-V0260",
+    "N01-V0261",
+    "N01-V0222",
+    "N01-V0262",
+    "N01-V0263",
+    "N01-V0264",
+    "N01-V0265",
+    "N01-V0266",
+    "N01-V0267",
+    "N01-V0268",
+    "N01-V0269",
+    "N01-V0270"
+  ],
+  "limites": "No se conocen horarios exactos ni tiempos de espera o permisos formales.. Las formulaciones son derivaciones analíticas, no citas ni compromisos de participantes. La pertinencia de un producto sigue por validar.",
+  "criterios": [
+    {
+      "id": "HU01-K022",
+      "dado": "hay notas de ambas personas y compras por proveedor",
+      "cuando": "se acuerda quién sale y qué llevará",
+      "entonces": "se separa compra de consulta, se mantiene atención autónoma y se transmite lo averiguado al regreso sin autorización por cada venta",
+      "origen": "ADAPTADO_DE_CRITERIO_N01",
+      "criterios_n01": [
+        "N01-K024"
+      ],
+      "estado": "PROPUESTO_NO_EJECUTADO",
+      "limites": "Adaptación analítica de N01-K024. Observable N01 de origen PROPUESTA_ANALITICA; Dado/Cuando/Entonces y el cotejo son propuestas del análisis, no aceptación recabada. La lista se forma progresivamente, no toda compra se hace en una salida y quien queda no pide autorización para cada venta. Soportes originales no aportados; no se ejecutó esta comprobación."
+    }
+  ],
+  "prioridad": {
+    "nivel": "MEDIA",
+    "ambito": "E04: actividad actual: Organizar una vuelta manteniendo el relevo autónomo",
+    "origen": "ANALISIS_CONDICIONAL",
+    "razon": "Media para preparar la salida y sostener atención. No obliga a todas las compras en una vuelta ni a optimizar trayectos. Importancia expresada: No hay priorización comparable explícita de esta pieza por la persona. El nivel asignado es del análisis.",
+    "limites": "Orden local parcial y condicional al momento señalado. No ranking urbano, cartera implementable, aceptación ADIP ni factibilidad comprobada."
+  },
+  "perfil_metadatos": "HU01-M016",
+  "metaalgoritmo": [
+    {
+      "id": "HU01-OP065",
+      "nombre": "Reunir lista progresiva",
+      "entrada": "Notas de ambas personas",
+      "operacion": "Propuesta: Agrupar por proveedor y distinguir compra de consulta y otros lugares.",
+      "salida": "Lista acotada",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP066",
+      "nombre": "Acordar relevo",
+      "entrada": "Lista y posibilidades del mostrador",
+      "operacion": "Propuesta: Conversar quién sale y qué comparación debe hablarse antes.",
+      "salida": "Salida posible con atención autónoma",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP067",
+      "nombre": "Resolver la vuelta",
+      "entrada": "Referencias y oferta encontrada",
+      "operacion": "Propuesta: Interpretar si reposición está resuelta y si vale otra parada, sin buscar todas las alternativas.",
+      "salida": "Decisión de regresar o preguntar según falta",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP068",
+      "nombre": "Devolver lo ocurrido",
+      "entrada": "Mercancía, lista y consulta",
+      "operacion": "Propuesta: Cotejar y conversar en ambos sentidos al regreso sin autorización para cada venta.",
+      "salida": "Continuidad del mostrador",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    }
+  ]
+}

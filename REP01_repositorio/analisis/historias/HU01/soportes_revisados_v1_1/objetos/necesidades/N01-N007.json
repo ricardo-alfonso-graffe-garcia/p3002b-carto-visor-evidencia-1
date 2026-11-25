@@ -1,0 +1,265 @@
+{
+  "id": "N01-N007",
+  "titulo": "Respaldo y alcance de las afirmaciones de investigación",
+  "enunciado": "La investigadora universitaria necesita conocer qué fue observado, qué fue contado en otro momento, qué se interpreta y qué detalles personales no son necesarios para comunicar, para escribir una descripción reconocible y acotada, revisando generalizaciones y valoraciones sin respaldo, en el contexto de investigación universitaria sobre salidas de compra de alimentos.",
+  "actores": [
+    "ACT01-A005"
+  ],
+  "entrevistas": [
+    "E02"
+  ],
+  "contexto": "Desde revisar conversaciones exploratorias y delimitar una pregunta con una colega hasta presentar una lectura de casos y ajustar el texto.",
+  "decision": "Escribir una descripción reconocible y acotada, revisando generalizaciones y valoraciones sin respaldo",
+  "objeto_informacion": "qué fue observado, qué fue contado en otro momento, qué se interpreta y qué detalles personales no son necesarios para comunicar",
+  "tipo": "NECESIDAD_ACTUAL",
+  "estado_actual": "ATENDIDA_EN_EPISODIO",
+  "informacion_actual": "Separaron visto, dicho y dudas; discutieron notas, acotaron conclusiones y retiraron complicada tras devolución parcial. Omitieron ubicaciones identificadoras innecesarias.",
+  "faltante_o_deseada": "No falta una herramienta nueva para el texto relatado. La devolución no fue uniforme con todas las personas ni aprobación de todo el análisis.",
+  "condiciones_y_limites": "Una narración posterior tiene valor propio. La responsabilidad académica es del equipo y la objeción externa no lo sustituye.",
+  "soportes_mencionados": [
+    "Notas",
+    "Relatos",
+    "Esquemas",
+    "Texto de trabajo",
+    "Presentación"
+  ],
+  "conservar": [
+    "Voces discordantes",
+    "Narración posterior",
+    "Discusión entre observadoras",
+    "Acotar afirmaciones suficientes"
+  ],
+  "evidencias": [
+    "N01-V0059",
+    "N01-V0060",
+    "N01-V0061",
+    "N01-V0062",
+    "N01-V0057",
+    "N01-V0063",
+    "N01-V0064",
+    "N01-V0065",
+    "N01-V0066",
+    "N01-V0067",
+    "N01-V0068",
+    "N01-V0069",
+    "N01-V0070",
+    "N01-V0071",
+    "N01-V0072",
+    "N01-V0073"
+  ],
+  "evidencia_que_limita": [
+    "N01-V0074",
+    "N01-V0075",
+    "N01-V0076",
+    "N01-V0077"
+  ],
+  "razon_sin_contraevidencia": null,
+  "contexto_elicitacion": "Reconstrucción retrospectiva del episodio y repreguntas sobre decisión y suficiencia. La atribución descansa en respuestas de participante; preguntas, metáforas y recapitulaciones no son corroboración. Los localizadores del contexto están en cada evidencia.",
+  "codigos_comunes": [
+    "C009",
+    "C008",
+    "C023",
+    "C027",
+    "C028",
+    "C026",
+    "C021"
+  ],
+  "hallazgos_s01": [
+    "S01-H001",
+    "S01-H004",
+    "S01-H005",
+    "S01-H017",
+    "S01-H020",
+    "S01-H021"
+  ],
+  "componentes_p01": [
+    "P01-E02-N006",
+    "P01-E02-N010",
+    "P01-E02-N011",
+    "P01-E02-N012",
+    "P01-E02-N013",
+    "P01-E02-N014",
+    "P01-E02-N015",
+    "P01-E02-N016"
+  ],
+  "preferencias_act01": [
+    "ACT01-PR006",
+    "ACT01-PR008"
+  ],
+  "variantes_por_caso": [],
+  "vinculo_territorial": {
+    "tipo": "RELACION_CONTEXTUAL",
+    "razon": "Puede explicar relaciones urbanas sin mostrar ubicaciones exactas identificadoras.",
+    "evidencias": [
+      "N01-V0059",
+      "N01-V0060"
+    ],
+    "limites": "La pertinencia del lugar no demuestra necesidad de coordenadas o de un mapa. Pocos casos por contactos, sin representatividad de zonas o ciudad; colegas y participantes internos son terceros relatados. No existe devolución completa acreditada."
+  },
+  "vinculos_sectoriales": [
+    {
+      "sector": "ACADEMICO",
+      "actividad": "Investigación universitaria sobre salidas de compra de alimentos",
+      "iniciativa": null,
+      "estatus_iniciativa": "ACTIVIDAD_RELATADA_SIN_NOMBRE_FORMAL",
+      "nexo": "RELEVANCIA_PUBLICA_POR_VALIDAR",
+      "razon": "La investigación trata relaciones urbanas de compras; su eventual aporte público requeriría definir destinatario y decisión, sin programa identificado.",
+      "evidencias": [
+        "N01-V0345",
+        "N01-V0059",
+        "N01-V0060"
+      ],
+      "limites": "No se identificó programa público que origine esta necesidad. Pocos casos por contactos, sin representatividad de zonas o ciudad; colegas y participantes internos son terceros relatados. No existe devolución completa acreditada."
+    }
+  ],
+  "verificacion": [
+    {
+      "id": "N01-K007",
+      "observable": "Cada afirmación puede vincularse con el tipo de evidencia que la sostiene; no se redacta hábito como observación repetida ni complicada como experiencia propia ajena.",
+      "metodo": "Revisar trazas entre fragmentos, afirmación y versión de texto si se aportan; comparar una afirmación amplia con su formulación acotada. La reconocibilidad futura no se presenta como validación ya obtenida.",
+      "origen": "PROPUESTA_ANALITICA",
+      "estado": "PROPUESTA_NO_EJECUTADA",
+      "evidencias": [
+        "N01-V0059",
+        "N01-V0060",
+        "N01-V0061",
+        "N01-V0062",
+        "N01-V0057",
+        "N01-V0063",
+        "N01-V0064",
+        "N01-V0065",
+        "N01-V0066",
+        "N01-V0067",
+        "N01-V0068",
+        "N01-V0069",
+        "N01-V0070",
+        "N01-V0071",
+        "N01-V0072",
+        "N01-V0073"
+      ],
+      "limites": "Comprobación futura; no se ejecutó ni acredita aceptación humana. No se fijan umbrales numéricos. Una narración posterior tiene valor propio. La responsabilidad académica es del equipo y la objeción externa no lo sustituye.",
+      "desglose_origen": {
+        "observable": "PROPUESTA_ANALITICA",
+        "operacionalizacion_metodo": "PROPUESTA_ANALITICA",
+        "aceptacion": "NO_RECABADA"
+      }
+    }
+  ],
+  "prioridad": {
+    "ambito": "E02",
+    "nivel": "ALTA",
+    "origen": "ANALISIS_CONDICIONAL",
+    "criterios": [
+      "N01-CP001",
+      "N01-CP002",
+      "N01-CP003",
+      "N01-CP004"
+    ],
+    "razon": "La consecuencia relatada fue corregir el alcance de conclusiones y una valoración; permite comunicar un resultado sin exigir resolver todo lo abierto.",
+    "comparables": [
+      "N01-N006",
+      "N01-N008"
+    ],
+    "limites": "Orden parcial dentro de esta actividad. No compara importancia urbana ni factibilidad técnica; evidencia más sólida no equivale a más impacto. Comparar distingue dependencias y momentos; las necesidades no son sustitutos y se admiten empates. En ideales frente a actuales, el nivel se lee dentro de su modalidad."
+  },
+  "importancia_expresada": "No hay priorización comparable explícita de esta pieza por la persona. El nivel asignado es del análisis.",
+  "pertinencia_diseno_posterior": "PENDIENTE: revisar con usuarios y encargo; la legitimidad de la necesidad no prescribe un soporte ni su incorporación a un visor.",
+  "factibilidad": "NO_DETERMINADA",
+  "incognitas": [
+    "No hay versiones de texto o devolución completa documentadas."
+  ],
+  "enlaces_codigos_asignados": [
+    {
+      "codigo": "C009",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R02-S032",
+        "R02-S080",
+        "R02-S122",
+        "R02-S137"
+      ],
+      "evidencias": [
+        "N01-V0059",
+        "N01-V0065",
+        "N01-V0070",
+        "N01-V0073"
+      ]
+    },
+    {
+      "codigo": "C008",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R02-S033",
+        "R02-S085",
+        "R02-S130",
+        "R02-S131"
+      ],
+      "evidencias": [
+        "N01-V0060",
+        "N01-V0069",
+        "N01-V0072"
+      ]
+    },
+    {
+      "codigo": "C023",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R02-S053",
+        "R02-S079"
+      ],
+      "evidencias": [
+        "N01-V0057",
+        "N01-V0064"
+      ]
+    },
+    {
+      "codigo": "C027",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R02-S078"
+      ],
+      "evidencias": [
+        "N01-V0063"
+      ]
+    },
+    {
+      "codigo": "C028",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R02-S081",
+        "R02-S082",
+        "R02-S083",
+        "R02-S084",
+        "R02-S136"
+      ],
+      "evidencias": [
+        "N01-V0066",
+        "N01-V0067",
+        "N01-V0068",
+        "N01-V0069",
+        "N01-V0073"
+      ]
+    },
+    {
+      "codigo": "C026",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R02-S039"
+      ],
+      "evidencias": [
+        "N01-V0062"
+      ]
+    },
+    {
+      "codigo": "C021",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R02-S037"
+      ],
+      "evidencias": [
+        "N01-V0061"
+      ]
+    }
+  ],
+  "codigos_contextuales": []
+}

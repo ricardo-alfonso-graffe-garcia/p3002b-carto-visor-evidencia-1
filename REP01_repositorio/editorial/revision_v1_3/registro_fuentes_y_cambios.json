@@ -1,0 +1,43 @@
+{
+  "version": "1.3",
+  "naturaleza": "Complemento editorial de presencia explícita",
+  "registros": [
+    {
+      "id": "REV13-SCHEMA",
+      "tipo": "FUENTE_Y_ADAPTACION_EDITORIAL",
+      "fuente": "Especificaciones_integrales_Carto_Visor(4).docx, sección 8, Figura 1; imagen adjunta por usuario",
+      "sha256_docx": "15b6afa9a26c49a04e53153a6342092e360d98d695c33fb5c1728c873887a7d7",
+      "sha256_imagen": "5dcd0adab3c1d14f6cf837c89654a9d9118ca7da415dec810c66068822babd1f",
+      "adaptacion": "Tres candidatos y pruebas futuras; relaciones analíticas sin imponer cronología ni validación realizada."
+    },
+    {
+      "id": "REV13-FDO",
+      "tipo": "FUENTE_PRIMARIA",
+      "autor": "FDO Forum",
+      "titulo": "FAIR Data What is an FDO?",
+      "url": "https://fairdo.org/about/what_is_an_fdo/",
+      "consulta": "2026-11-25",
+      "lectura": "Definición, identificación persistente y Core FDO; no lectura integral de todas las especificaciones de implementación.",
+      "uso": "Distinguir registros locales y un FDO plenamente implementado."
+    },
+    {
+      "id": "REV13-FAIR",
+      "tipo": "FUENTE_PRIMARIA",
+      "autor": "GO FAIR Foundation",
+      "titulo": "The FAIR Guiding Principles",
+      "url": "https://www.gofair.foundation/fair-principles",
+      "consulta": "2026-11-25",
+      "lectura": "Cuatro dimensiones y principios F1–R1.3; no una certificación de estos objetos."
+    },
+    {
+      "id": "REV13-JANUS",
+      "tipo": "FUENTE_PRIMARIA",
+      "autor": "Alejandro Feged Rivadeneira",
+      "titulo": "The JANUS Framework",
+      "doi": "https://doi.org/10.21203/rs.3.rs-7580516/v1",
+      "consulta": "2026-11-25",
+      "lectura": "Métodos secciones 1–9, páginas PDF 9–11 contando cubierta. Preparación, codificación, síntesis, revisión, redacción, artefactos, procedencia y puertas de calidad.",
+      "uso": "Explicación breve de la adaptación, sin atribuir implementación integral o revisión humana inexistente."
+    }
+  ]
+}

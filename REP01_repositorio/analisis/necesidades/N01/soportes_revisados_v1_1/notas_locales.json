@@ -1,0 +1,55 @@
+{
+  "E01": {
+    "actual": "La técnica recibe tres registros para visitas, coteja los dos directos y aclara el tercero. Convergencia de nombre, croquis, antecedente y respuesta permite conservar identidad/punto y ajustar acceso. Devuelve copia y responde pregunta; ese es su cierre.",
+    "ideal": "Explicación recuperable del último cambio que afecta identificar un lugar; revisión reconocible y duda relevante, antes de acumular materiales. Parte ya se hace con notas. P121 declara que algunas notas breves no permiten entender qué se revisó; no dice que todas lo sean.",
+    "suficiencia": "P109 y P157: suficiente para la tarea relatada. No saber otro acceso no fue carencia de ese encargo. La condición futura requiere una petición distinta.",
+    "omit": [
+      "No atribuir a la solicitante o al equipo necesidades como si fueran voces entrevistadas.",
+      "No convertir intención inicial de mover punto en cambio ejecutado y revertido.",
+      "No imponer precisión de puerta, propagación institucional o cancelación del acceso previo."
+    ]
+  },
+  "E02": {
+    "actual": "Desde conversaciones iniciales formula pregunta con colega, conversa, acompaña cuando posible y reconstruye; compara durante campo, discute, escribe y acota después de comentarios. Presentación y ajustes cierran un resultado reconocible.",
+    "ideal": "Una segunda ocasión contrastante del mismo caso antes de un periodo completo. Unidad por caso/ocasión, palabras y secuencia, con desconocidos y valor de narración posterior. No necesariamente programa nuevo.",
+    "suficiencia": "Secuencia reconocida y notas concordantes bastan para describir y corregir tiempos con orígenes diferentes. No bastan para hábito semanal o explicación exhaustiva de elección. La falta declarada de alternativas limita esa afirmación, no todo el trabajo.",
+    "omit": [
+      "No crear necesidades propias de hogares o comerciantes: sus perspectivas no se reconstruyeron.",
+      "La razón ambigua de le acomodaba más se conserva sin categoría forzada.",
+      "No abrir seguimiento de precios equivalentes o solicitar entrevistas nuevas para cerrar N01."
+    ]
+  },
+  "E03": {
+    "actual": "Desde invitación a volver construye con anfitriones, mediadora y programación una serie de tres encuentros. Confirma fechas, equipo y condiciones antes de invitar; consulta parcial respalda posibilidad de asistir, no preferencia de comunidad. Ajusta recepción y contenido en tiempos distintos; cierra comunicando interés sin otra fecha.",
+    "ideal": "Acuerdos e interlocutores recuperables para retomar entre compañeras, con qué volver a confirmar; ritmos de uso orientan otra propuesta, particularmente en lugar nuevo.",
+    "suficiencia": "Notas y conversación bastaron. Salón/equipo/fechas y recepción acordados permiten anunciar sin asistencia exacta ni lectura cerrada. Mejorar comunicación de autonomía no equivale a fallo del horario o salón.",
+    "omit": [
+      "No crear una necesidad de registrar recorridos individuales porque eran tema cultural.",
+      "Interés en volver se distingue de compatibilidad de tarde, conforme a PR016.",
+      "Idea de una participante no es preferencia de todas ni actividad futura aprobada.",
+      "No atribuir confusión general por pregunta individual o impacto transformador."
+    ]
+  },
+  "E04": {
+    "actual": "El remanente del conocido inicia reposición. Agrupa lista y separa consulta, hace relevo, compara referencia y muestra en proveedor, repone conocido y no compra alternativa por presentación/cantidad e incertidumbre de conveniencia. Guarda y comparte lo averiguado; ordena unidades y cierra en primer despacho nuevo.",
+    "ideal": "Comparar un par del mismo ancho con qué se probó tras coser y usar, contexto y fuente; tangibilidad para suavidad. Fuente de todas las pruebas no resuelta.",
+    "suficiencia": "Medida, experiencia de ventas, muestra, referencia y oferta bastaron. Información distribuida no fue déficit. Tacto no prueba uso posterior y más información no asegura compra si la cantidad sigue siendo excesiva para explorar.",
+    "omit": [
+      "No convertir petición individual de suavidad en pedido, demanda general o sustitución del surtido.",
+      "No trasladar saber llegar a proveedores a necesidad de navegación.",
+      "No dar por defectuosa la alternativa ni suponer satisfacción o abandono de la clienta.",
+      "Conservar variación de surtido poco vendido como criterio general, no otra compra del episodio."
+    ]
+  },
+  "E05": {
+    "actual": "Intención de mirar libros se hace plan por mensajes; revisa pendientes mientras acuerdan, consulta horario, pacta entrada y reconfirma. Aviso al entrar precisa encuentro. Lee y ve precio; consulta sección. Al salir deciden seguir, observan oferta/mesa/ambiente y preguntan. Cierra al despedirse, no al comprar.",
+    "ideal": "Nota breve de opciones próximas, observaciones y momento, para recordar por qué considerar un lugar de conversación. Lista ofrecida por el entrevistador basta para notas propias; mapa solo si no lo ubica.",
+    "suficiencia": "Sabía lo necesario para empezar; desconocer libro y segunda parada era parte del propósito y acuerdo. La tarde funcionó mirando y preguntando; el ideal se refiere más a otras ocasiones.",
+    "omit": [
+      "No anticipar catálogo completo: descubrir en librería es una finalidad.",
+      "No asumir pensamiento de quien atiende a partir de impresión de estorbar.",
+      "No imponer fichas diarias ni obligaciones de publicación a perfil personal no especializado.",
+      "No equiparar buena salida a compra; hubo compra, pero no era condición."
+    ]
+  }
+}

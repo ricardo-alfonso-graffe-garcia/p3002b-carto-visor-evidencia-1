@@ -1,0 +1,322 @@
+{
+  "version": "1.1",
+  "sha256_json": "6d0f93bd1a7568e4d698e752874925925fc609f168b1a564cdf73eea3b7397b0",
+  "origen": "Coordinación; cinco redes y ficha E03 regeneradas, otros doce visuales reutilizados sin cambios de contenido.",
+  "figuras": [
+    {
+      "figura": "red_E01",
+      "tipo": "RED_INTERACCIONES",
+      "accion": "REGENERADA_DOT",
+      "nodos": [
+        "ACT01-A001",
+        "ACT01-A002",
+        "ACT01-A003",
+        "ACT01-A004"
+      ],
+      "relaciones": [
+        "ACT01-R001",
+        "ACT01-R002",
+        "ACT01-R003",
+        "ACT01-R004",
+        "ACT01-R005"
+      ],
+      "ambitos": [
+        "ACT01-AMB001"
+      ],
+      "sha256_svg": "3c977a7696a01dbcee30f7efb9baa7839f3aeeee7db0f7e09699cff18494e776",
+      "sha256_png": "451d9d2fe82ac0212049846be9dde7e4864abea4179e23bce003885303552a46"
+    },
+    {
+      "figura": "red_E02",
+      "tipo": "RED_INTERACCIONES",
+      "accion": "REGENERADA_DOT",
+      "nodos": [
+        "ACT01-A005",
+        "ACT01-A006",
+        "ACT01-A007",
+        "ACT01-A008",
+        "ACT01-A009",
+        "ACT01-A010",
+        "ACT01-A011",
+        "ACT01-A028",
+        "ACT01-A032"
+      ],
+      "relaciones": [
+        "ACT01-R006",
+        "ACT01-R007",
+        "ACT01-R008",
+        "ACT01-R009",
+        "ACT01-R010",
+        "ACT01-R011"
+      ],
+      "ambitos": [
+        "ACT01-AMB002"
+      ],
+      "sha256_svg": "8d21d1dad30e809ba0e5c7bb5429a22f38f622dab0ecb951ff10816e1458d895",
+      "sha256_png": "86553e54778cb97baa394d3587530c5c502086c372809224cf563c25cbd9dbd3"
+    },
+    {
+      "figura": "red_E03",
+      "tipo": "RED_INTERACCIONES",
+      "accion": "REGENERADA_DOT",
+      "nodos": [
+        "ACT01-A012",
+        "ACT01-A013",
+        "ACT01-A014",
+        "ACT01-A015",
+        "ACT01-A016",
+        "ACT01-A017",
+        "ACT01-A018",
+        "ACT01-A029",
+        "ACT01-A030"
+      ],
+      "relaciones": [
+        "ACT01-R012",
+        "ACT01-R013",
+        "ACT01-R014",
+        "ACT01-R015",
+        "ACT01-R016",
+        "ACT01-R017",
+        "ACT01-R018",
+        "ACT01-R019",
+        "ACT01-R020",
+        "ACT01-R021",
+        "ACT01-R022"
+      ],
+      "ambitos": [
+        "ACT01-AMB003"
+      ],
+      "sha256_svg": "65377b96e7bc885790fac33284314f09d39544d50be434168ff52396db1a4bc5",
+      "sha256_png": "188be73469c95e9ea463810706b25ee5cc5d01510eeafefe2f512b498c306091"
+    },
+    {
+      "figura": "red_E04",
+      "tipo": "RED_INTERACCIONES",
+      "accion": "REGENERADA_DOT",
+      "nodos": [
+        "ACT01-A019",
+        "ACT01-A020",
+        "ACT01-A021",
+        "ACT01-A022",
+        "ACT01-A023"
+      ],
+      "relaciones": [
+        "ACT01-R023",
+        "ACT01-R024",
+        "ACT01-R025",
+        "ACT01-R026",
+        "ACT01-R027"
+      ],
+      "ambitos": [
+        "ACT01-AMB004"
+      ],
+      "sha256_svg": "44f844dba894a3d2c07e5301b7971734a836cae6eef4cc7f7481024d8651124e",
+      "sha256_png": "ea9a901c22c1861cebebffd773cf8a4506455edfc6ca05380f34993271664378"
+    },
+    {
+      "figura": "red_E05",
+      "tipo": "RED_INTERACCIONES",
+      "accion": "REGENERADA_DOT",
+      "nodos": [
+        "ACT01-A024",
+        "ACT01-A025",
+        "ACT01-A026",
+        "ACT01-A027",
+        "ACT01-A031"
+      ],
+      "relaciones": [
+        "ACT01-R028",
+        "ACT01-R029",
+        "ACT01-R030",
+        "ACT01-R031",
+        "ACT01-R032",
+        "ACT01-R033"
+      ],
+      "ambitos": [
+        "ACT01-AMB005"
+      ],
+      "sha256_svg": "487fbabb285c1a871c297850011eda72bed92f732d0499898ee304c048653e25",
+      "sha256_png": "a13d6066da14e1cc410d4dffb360e0c3377c09ab593f640c5fb370ee841c6fb9"
+    },
+    {
+      "figura": "red_documental_publicacion_consulta",
+      "tipo": "RED_INTERACCIONES",
+      "accion": "REUTILIZADA_SIN_CAMBIO",
+      "nodos": [
+        "ACT01-A033",
+        "ACT01-A037",
+        "ACT01-A041",
+        "ACT01-A042",
+        "ACT01-A043",
+        "ACT01-A044",
+        "ACT01-A045"
+      ],
+      "relaciones": [
+        "ACT01-R034",
+        "ACT01-R035",
+        "ACT01-R036",
+        "ACT01-R037",
+        "ACT01-R038"
+      ],
+      "ambitos": [
+        "ACT01-AMB006",
+        "ACT01-AMB010",
+        "ACT01-AMB011"
+      ],
+      "sha256_svg": "654904b2987dabecdb235d7a44529fe4d6a55daeab2bbd60c8c642a3e6459cb1",
+      "sha256_png": "75fbc5a60e4b671729c6112a63f91f32d4b47c9d2b8a4748e051f736762c0bcb"
+    },
+    {
+      "figura": "red_documental_PAOT",
+      "tipo": "RED_INTERACCIONES",
+      "accion": "REUTILIZADA_SIN_CAMBIO",
+      "nodos": [
+        "ACT01-A038",
+        "ACT01-A039",
+        "ACT01-A040",
+        "ACT01-A046"
+      ],
+      "relaciones": [
+        "ACT01-R039",
+        "ACT01-R040",
+        "ACT01-R041"
+      ],
+      "ambitos": [
+        "ACT01-AMB008",
+        "ACT01-AMB009"
+      ],
+      "sha256_svg": "80d49c6328d103e5883ec995ce314736d79a6932df32bb8148b0b1e0257f51e4",
+      "sha256_png": "df348d87b39cb1d0190bcacdd6f08f42f1b47126c32cf0d08ec8e6284969491e"
+    },
+    {
+      "figura": "red_documental_encargo",
+      "tipo": "RED_INTERACCIONES",
+      "accion": "REUTILIZADA_SIN_CAMBIO",
+      "nodos": [
+        "ACT01-A034",
+        "ACT01-A035",
+        "ACT01-A036",
+        "ACT01-A037"
+      ],
+      "relaciones": [
+        "ACT01-R042",
+        "ACT01-R043",
+        "ACT01-R044"
+      ],
+      "ambitos": [
+        "ACT01-AMB012"
+      ],
+      "sha256_svg": "d80fa1e5230d2777000a30edaf807349f9ffaf79afd7a333394fd1e54a26ea3f",
+      "sha256_png": "9756d712ba9a68fc57b04634f119f6d7da5efce412a315cde74607dd3771d7aa"
+    },
+    {
+      "figura": "hipotesis_condicionales",
+      "tipo": "HIPOTESIS",
+      "accion": "REUTILIZADA_SIN_CAMBIO",
+      "nodos": [
+        "ACT01-A001",
+        "ACT01-A004",
+        "ACT01-A005",
+        "ACT01-A008",
+        "ACT01-A012",
+        "ACT01-A013"
+      ],
+      "relaciones": [],
+      "ambitos": [
+        "ACT01-AMB007"
+      ],
+      "sha256_svg": "c91287f545d34beaac64dd5961d301146eda9e5cbd76310a6f9165f7cfbea6e0",
+      "sha256_png": "bf00d0e23d6bb6d53ee8e69e11a5d3cb68c6dfb891308396b8713f0903c2e77a"
+    },
+    {
+      "figura": "ficha_E01",
+      "tipo": "FICHA_FUNCIONAL",
+      "accion": "REUTILIZADA_SIN_CAMBIO",
+      "nodos": [],
+      "relaciones": [],
+      "ambitos": [],
+      "sha256_svg": "51e7a5e55addec548c771989e44beb0a4df7a06ec89c7855c5756cb958e102e1",
+      "sha256_png": "8197f8d80a3d4e605c2f0c7bc8f9f0d400368f5c057f5b01e74c7aae3afee7e3"
+    },
+    {
+      "figura": "ficha_E02",
+      "tipo": "FICHA_FUNCIONAL",
+      "accion": "REUTILIZADA_SIN_CAMBIO",
+      "nodos": [],
+      "relaciones": [],
+      "ambitos": [],
+      "sha256_svg": "cc5c4ffde7f1cf0be173a1c2ec523f6f2a01cc11956fb6be6ed04d70ee039916",
+      "sha256_png": "ab257c42fd39eae8aad975cc97b6092500ff3f0a89083b3839c46d30aca4a724"
+    },
+    {
+      "figura": "ficha_E03",
+      "tipo": "FICHA_FUNCIONAL",
+      "accion": "REMAQUETADA_SVG",
+      "nodos": [],
+      "relaciones": [],
+      "ambitos": [],
+      "sha256_svg": "32221507645bf40f6ed302a9bdfdb42d6479a99d6b2bd2f1374dcdc4040c69ac",
+      "sha256_png": "246c58323d85529ad5cacbfb8c5ccd2e4bef3eddfda5c33d3e46db0241727fe3"
+    },
+    {
+      "figura": "ficha_E04",
+      "tipo": "FICHA_FUNCIONAL",
+      "accion": "REUTILIZADA_SIN_CAMBIO",
+      "nodos": [],
+      "relaciones": [],
+      "ambitos": [],
+      "sha256_svg": "11070f0a3d9dc3a2d64eab09c7035b408012fd5231ece8042f355a92c0b7115b",
+      "sha256_png": "52cacccef890076f2e2d15dadff2cd0b5b42e2739c1b82094002572920589fca"
+    },
+    {
+      "figura": "ficha_E05",
+      "tipo": "FICHA_FUNCIONAL",
+      "accion": "REUTILIZADA_SIN_CAMBIO",
+      "nodos": [],
+      "relaciones": [],
+      "ambitos": [],
+      "sha256_svg": "d4c1ab1c43401c32b55818fbecdf98876b2ea8014aed42d17de66b7ca3ba696a",
+      "sha256_png": "ee68c82ddc8b34033dcb73e718365a451b3f864ec62faec3ca279af076e7b786"
+    },
+    {
+      "figura": "poder_interes_homologacion",
+      "tipo": "PODER_INTERES_SIN_PUNTOS_POR_FALTA_EVIDENCIA",
+      "accion": "REUTILIZADA_SIN_CAMBIO",
+      "nodos": [],
+      "relaciones": [],
+      "ambitos": [],
+      "sha256_svg": "167dd9dbe35f7fb51d56fd4c83fa418dd74e00516cc4c80be26be28fbb82eefd",
+      "sha256_png": "988b861ef5c395dbbca9e3874f5b1f47951e8cf8f4631e78e71aca2f990f0852"
+    },
+    {
+      "figura": "excluidos_homologacion_1",
+      "tipo": "EXCLUIDOS_PODER_INTERES",
+      "accion": "REUTILIZADA_SIN_CAMBIO",
+      "nodos": [],
+      "relaciones": [],
+      "ambitos": [],
+      "sha256_svg": "cfa28ef359a1c1b6d3d1ddca97e7fc164a6a8426ba8a0d047a576f78257dc210",
+      "sha256_png": "54969c15a879680ff55e45d0ac1486e8f180abb8e4ed9d5215fb8a5c3e51b05c"
+    },
+    {
+      "figura": "excluidos_homologacion_2",
+      "tipo": "EXCLUIDOS_PODER_INTERES",
+      "accion": "REUTILIZADA_SIN_CAMBIO",
+      "nodos": [],
+      "relaciones": [],
+      "ambitos": [],
+      "sha256_svg": "e74382665df57446d1071ac5b86bcfec0b87f42b31ad764e61e0407e29e009cc",
+      "sha256_png": "3bfe8d111ae2667077ce3b21c0c659f7230d431b8d39e5c499a3b932f30a635d"
+    },
+    {
+      "figura": "excluidos_homologacion_3",
+      "tipo": "EXCLUIDOS_PODER_INTERES",
+      "accion": "REUTILIZADA_SIN_CAMBIO",
+      "nodos": [],
+      "relaciones": [],
+      "ambitos": [],
+      "sha256_svg": "984d66bbc7611017612a630fde2cd11c215286f4880c3b8e49733823771417f1",
+      "sha256_png": "94a6d6b968f995b785eab5b497888209e242f9bb81cc5ca5989caa92bab6eca7"
+    }
+  ]
+}

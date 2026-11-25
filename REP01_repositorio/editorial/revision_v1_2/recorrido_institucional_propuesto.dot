@@ -1,0 +1,26 @@
+digraph G {
+graph [rankdir=TB, bgcolor="white",pad=.2,nodesep=.4,ranksep=.5];
+node [shape=box,fontname="Liberation Sans",fontsize=12,margin=".14,.10",color="#777777"];
+edge [fontname="Liberation Sans",fontsize=10,color="#666666",style=dashed];
+src [label="Producción o custodia SSC
+Unidad, captura y edición por acreditar"];
+coord [label="Coordinación ADIP
+Acordar significado y responsabilidades"];
+dev [label="Desarrollo propuesto
+Validar y preparar derivado versionado"];
+user [label="Función usuaria por confirmar
+Consultar, decidir o señalar incidencia"];
+auth [label="Revisión y autoridad de cambio
+Competencia y procedimiento por acreditar"];
+{rank=same;src;coord;}
+src -> dev [label="Original y metadatos
+con permiso"];
+coord -> dev [label="Contrato y criterio
+por acordar"];
+dev -> user [label="Vista, respaldo y límites"];
+user -> auth [label="Incidencia con evidencia"];
+auth -> src [label="Consulta o cambio autorizado
+con versión nueva",constraint=false];
+auth -> dev [label="Decisión e impacto
+en derivados",constraint=false];
+}

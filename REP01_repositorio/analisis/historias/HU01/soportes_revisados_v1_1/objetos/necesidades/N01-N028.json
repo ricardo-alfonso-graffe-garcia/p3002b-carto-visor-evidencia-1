@@ -1,0 +1,215 @@
+{
+  "id": "N01-N028",
+  "titulo": "Condiciones presentes para seguir conversando",
+  "enunciado": "La persona que propone la salida con su amistad necesita conocer si ambas personas quieren y pueden seguir, hay una opción cercana sin otro traslado, una mesa utilizable y ambiente donde se escuchen, para quedarse a tomar algo o continuar caminando o terminar la salida, en el contexto de organización personal de una tarde para mirar libros y convivir.",
+  "actores": [
+    "ACT01-A024"
+  ],
+  "entrevistas": [
+    "E05"
+  ],
+  "contexto": "Desde terminar el libro anterior y querer mirar otro, seguido del mensaje que convierte idea en plan, hasta despedirse después de tomar algo.",
+  "decision": "Quedarse a tomar algo o continuar caminando o terminar la salida",
+  "objeto_informacion": "si ambas personas quieren y pueden seguir, hay una opción cercana sin otro traslado, una mesa utilizable y ambiente donde se escuchen",
+  "tipo": "NECESIDAD_ACTUAL",
+  "estado_actual": "ATENDIDA_EN_EPISODIO",
+  "informacion_actual": "Al salir renovaron ganas de conversar, caminaron cerca, miraron oferta y mesa, preguntaron si podían usarla y escucharon el ambiente.",
+  "faltante_o_deseada": "No faltó anticipación del segundo lugar; esa tarde encontraron dónde conversar y no tuvieron que cambiarse.",
+  "condiciones_y_limites": "Cerca no tiene distancia exacta; escuchar se valoró ahí y no como umbral de ruido previo. Si no hubiera mesa no tenían compromiso de esperar.",
+  "soportes_mencionados": [
+    "Caminar y mirar",
+    "Oferta visible",
+    "Mesa observada y confirmada",
+    "Escucha del ambiente"
+  ],
+  "conservar": [
+    "Preguntar si siguen",
+    "Comprobar al llegar",
+    "Poder terminar sin cumplir plan completo"
+  ],
+  "evidencias": [
+    "N01-V0316",
+    "N01-V0317",
+    "N01-V0303",
+    "N01-V0318",
+    "N01-V0319",
+    "N01-V0320",
+    "N01-V0321",
+    "N01-V0322",
+    "N01-V0323",
+    "N01-V0304",
+    "N01-V0289",
+    "N01-V0290"
+  ],
+  "evidencia_que_limita": [
+    "N01-V0324",
+    "N01-V0325",
+    "N01-V0326",
+    "N01-V0327"
+  ],
+  "razon_sin_contraevidencia": null,
+  "contexto_elicitacion": "Reconstrucción retrospectiva del episodio y repreguntas sobre decisión y suficiencia. La atribución descansa en respuestas de participante; preguntas, metáforas y recapitulaciones no son corroboración. Los localizadores del contexto están en cada evidencia.",
+  "codigos_comunes": [
+    "C040",
+    "C019",
+    "C034",
+    "C059"
+  ],
+  "hallazgos_s01": [
+    "S01-H008",
+    "S01-H011",
+    "S01-H012",
+    "S01-H019"
+  ],
+  "componentes_p01": [
+    "P01-E05-N013",
+    "P01-E05-N014",
+    "P01-E05-N015",
+    "P01-E05-N016"
+  ],
+  "preferencias_act01": [
+    "ACT01-PR024"
+  ],
+  "variantes_por_caso": [],
+  "vinculo_territorial": {
+    "tipo": "REFERENCIA_DE_LUGAR",
+    "razon": "La cercanía y condiciones del sitio se juzgan para conversación de esa tarde, no en una clasificación universal.",
+    "evidencias": [
+      "N01-V0316",
+      "N01-V0317"
+    ],
+    "limites": "La pertinencia del lugar no demuestra necesidad de coordenadas o de un mapa. Salida personal concreta; amistad y personal son terceros relatados. No se certifica externamente horario histórico, mesa futura o preferencias estables."
+  },
+  "vinculos_sectoriales": [
+    {
+      "sector": "CIUDADANIA",
+      "actividad": "Organización personal de una tarde para mirar libros y convivir",
+      "iniciativa": null,
+      "estatus_iniciativa": "ACTIVIDAD_RELATADA_SIN_NOMBRE_FORMAL",
+      "nexo": "USO_PRIVADO",
+      "razon": "Se trata de organizar ocio y convivencia propios; no hay servicio público o representación de ciudadanía atribuidos.",
+      "evidencias": [
+        "N01-V0348",
+        "N01-V0316",
+        "N01-V0317"
+      ],
+      "limites": "No se identificó programa público que origine esta necesidad. Salida personal concreta; amistad y personal son terceros relatados. No se certifica externamente horario histórico, mesa futura o preferencias estables."
+    }
+  ],
+  "verificacion": [
+    {
+      "id": "N01-K028",
+      "observable": "La decisión se explica con voluntad renovada y condiciones presentes; mesa visible no se trata como autorización de uso hasta preguntar.",
+      "metodo": "Revisar la secuencia relatada y, si se estudia otra ocasión, contrastar observación y pregunta con la decisión de quedarse o seguir. No fijar decibelios o espera inventados.",
+      "origen": "PROPUESTA_ANALITICA",
+      "estado": "PROPUESTA_NO_EJECUTADA",
+      "evidencias": [
+        "N01-V0316",
+        "N01-V0317",
+        "N01-V0303",
+        "N01-V0318",
+        "N01-V0319",
+        "N01-V0320",
+        "N01-V0321",
+        "N01-V0322",
+        "N01-V0323",
+        "N01-V0304",
+        "N01-V0289",
+        "N01-V0290"
+      ],
+      "limites": "Comprobación futura; no se ejecutó ni acredita aceptación humana. No se fijan umbrales numéricos. Cerca no tiene distancia exacta; escuchar se valoró ahí y no como umbral de ruido previo. Si no hubiera mesa no tenían compromiso de esperar.",
+      "desglose_origen": {
+        "observable": "PROPUESTA_ANALITICA",
+        "operacionalizacion_metodo": "PROPUESTA_ANALITICA",
+        "aceptacion": "NO_RECABADA"
+      }
+    }
+  ],
+  "prioridad": {
+    "ambito": "E05",
+    "nivel": "ALTA",
+    "origen": "ANALISIS_CONDICIONAL",
+    "criterios": [
+      "N01-CP001",
+      "N01-CP002",
+      "N01-CP003",
+      "N01-CP004"
+    ],
+    "razon": "Solo se activa al decidir continuar, pero entonces mesa y posibilidad de escucharse determinan si cumple el propósito. No bloqueaba ir a librería.",
+    "comparables": [
+      "N01-N025",
+      "N01-N026"
+    ],
+    "limites": "Orden parcial dentro de esta actividad. No compara importancia urbana ni factibilidad técnica; evidencia más sólida no equivale a más impacto. Comparar distingue dependencias y momentos; las necesidades no son sustitutos y se admiten empates. En ideales frente a actuales, el nivel se lee dentro de su modalidad."
+  },
+  "importancia_expresada": "No hay priorización comparable explícita de esta pieza por la persona. El nivel asignado es del análisis.",
+  "pertinencia_diseno_posterior": "PENDIENTE: revisar con usuarios y encargo; la legitimidad de la necesidad no prescribe un soporte ni su incorporación a un visor.",
+  "factibilidad": "NO_DETERMINADA",
+  "incognitas": [
+    "No se conocen condiciones de ese lugar en otros momentos ni pensamiento del personal."
+  ],
+  "enlaces_codigos_asignados": [
+    {
+      "codigo": "C040",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R05-S028",
+        "R05-S074",
+        "R05-S075",
+        "R05-S076",
+        "R05-S077",
+        "R05-S111"
+      ],
+      "evidencias": [
+        "N01-V0317",
+        "N01-V0320",
+        "N01-V0321",
+        "N01-V0322",
+        "N01-V0323",
+        "N01-V0324"
+      ]
+    },
+    {
+      "codigo": "C019",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R05-S072",
+        "R05-S073"
+      ],
+      "evidencias": [
+        "N01-V0318",
+        "N01-V0319"
+      ]
+    },
+    {
+      "codigo": "C034",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R05-S071",
+        "R05-S072",
+        "R05-S150"
+      ],
+      "evidencias": [
+        "N01-V0303",
+        "N01-V0318",
+        "N01-V0290"
+      ]
+    },
+    {
+      "codigo": "C059",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R05-S095",
+        "R05-S138",
+        "R05-S140",
+        "R05-S141"
+      ],
+      "evidencias": [
+        "N01-V0289",
+        "N01-V0326",
+        "N01-V0327"
+      ]
+    }
+  ],
+  "codigos_contextuales": []
+}

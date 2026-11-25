@@ -1,0 +1,2175 @@
+{
+  "entrevista": "E04",
+  "version_transcripcion": "1",
+  "archivo_origen": "E04_transcripcion_v1.docx",
+  "library_file_id_origen": "libfile_fde3_f-caec3cf026f48191a08df272ed37858d_6c45573f28988191995a53873b532314",
+  "sha256_origen": "b68b9ebe2d7836fc99c3df86b718cde2a38137a8b179dccc6feaf5117f57cd20",
+  "perfil": "P04",
+  "usuario_final_no_especializado": true,
+  "paquete_preparacion_asociado": "E04 1.0; guion 1.0 con ajuste de aplicación 1.1",
+  "guion_declarado_en_encabezado": null,
+  "fecha_entrevista": null,
+  "fecha_revision": "2026-11-24",
+  "estado": "recibida y revisada editorialmente; versión de referencia para análisis; sin cambios de contenido",
+  "alcance_revision": "Lectura completa y revisión de cobertura. No acredita evaluación docente, comprobación administrativa independiente ni codificación temática.",
+  "parrafos": [
+    {
+      "id": "P001",
+      "texto": "Transcripción E04"
+    },
+    {
+      "id": "P002",
+      "texto": "Perfil funcional: Persona que atiende y organiza un pequeño negocio de barrio en la Ciudad de México, sin especialización en cartografía ni análisis de datos."
+    },
+    {
+      "id": "P004",
+      "texto": "Entrevistador: Gracias por conversar conmigo. Mi papel es hacerte preguntas y escuchar cómo realizas tu trabajo. Esta entrevista tiene un propósito académico: comprender actividades y decisiones cotidianas, y cómo interviene en ellas la información sobre lugares cuando resulta relevante. ",
+      "turno": "T001"
+    },
+    {
+      "id": "P005",
+      "texto": "Algo super importante de aclarar es que lo que conversemos se utilizará con fines académicos y tu participación es voluntaria. Quiero que sepas que puedes dejar alguna pregunta sin responder o terminar la conversación cuando quieras y siempre que te sientas cómodo. También, si no hay ningún problema, voy a grabar esta conversación para poder utilizar la transcripción de esta para el trabajo académico del que formo parte, no para algún otro propósito. ¿Te parece que comencemos y me das tu visto bueno de aceptar estos puntos previos que te he comentado?",
+      "turno": "T001"
+    },
+    {
+      "id": "P006",
+      "texto": "Participante: Sí, está bien. No hay ningún tipo de problema.",
+      "turno": "T002"
+    },
+    {
+      "id": "P007",
+      "texto": "Entrevistador: Para empezar, cuéntame a qué se dedica el negocio y qué haces tú.",
+      "turno": "T003"
+    },
+    {
+      "id": "P008",
+      "texto": "Participante: Es una mercería pequeña, de barrio. Vendemos hilos, botones, cierres, elásticos y otras cosas para coser o componer ropa. Yo atiendo, reviso lo que va quedando y hago buena parte de las compras. Hay otra persona que comparte conmigo la atención. Nos vamos acomodando para que una pueda salir y la otra se quede.",
+      "turno": "T004"
+    },
+    {
+      "id": "P009",
+      "texto": "No hacemos arreglos de ropa. Lo aclaro porque sí nos preguntan. Podemos ayudar a comparar un hilo con una tela, por ejemplo, pero ya el trabajo de coser lo hace quien compra o alguien a quien se lo lleva.",
+      "turno": "T004"
+    },
+    {
+      "id": "P010",
+      "texto": "Entrevistador: ¿Cómo suele transcurrir un día de trabajo para ti?",
+      "turno": "T005"
+    },
+    {
+      "id": "P011",
+      "texto": "Participante: Al abrir, pongo algunas cosas en el mostrador, reviso si quedó pendiente apartar algo y veo las notas del día anterior. No hago un inventario completo cada mañana. Voy mirando por secciones, también según lo que se haya movido.",
+      "turno": "T006"
+    },
+    {
+      "id": "P012",
+      "texto": "Después depende de quién llegue. Hay compras muy rápidas, de alguien que ya sabe qué hilo lleva, y otras en las que hay que sacar varios tonos, medir un cierre o buscar botones parecidos a una muestra. Entre una cosa y otra acomodo y anoto. Para las compras junto varias necesidades; no salgo por cada artículo que se termina.",
+      "turno": "T006"
+    },
+    {
+      "id": "P013",
+      "texto": "Entrevistador: ¿Recuerdas una ocasión reciente que nos permita seguir con detalle cómo organizas eso?",
+      "turno": "T007"
+    },
+    {
+      "id": "P014",
+      "texto": "Participante: Sí. La última vez que fui por elástico blanco me sirve para contarlo. Era uno de ancho mediano que vendemos por metro. Todavía había, pero el rollo ya estaba bastante reducido. Fui a reponer ese y aproveché para traer otras cosas que ya estaban apuntadas.",
+      "turno": "T008"
+    },
+    {
+      "id": "P015",
+      "texto": "Lo que tuve que elegir fue si traía el mismo o uno más suave que me habían preguntado unos días antes. No era que tuviera que cambiarlo a fuerza. El que tenemos se sigue vendiendo.",
+      "turno": "T008"
+    },
+    {
+      "id": "P016",
+      "texto": "Entrevistador: Me interesa esa elección. ¿Cómo apareció la pregunta por el otro?",
+      "turno": "T009"
+    },
+    {
+      "id": "P017",
+      "texto": "Participante: Una persona compró para cambiar el elástico de una prenda. Tocó el que le mostré y dijo que buscaba algo más suave. Se llevó un corte pequeño porque quería verlo en su casa. Yo anoté lo de la suavidad, pero no lo tomé como un pedido del otro. No habíamos acordado que yo lo fuera a conseguir ni que regresaría por él.",
+      "turno": "T010"
+    },
+    {
+      "id": "P018",
+      "texto": "Luego, al revisar el rollo, pensé: ya que voy a comprar, puedo preguntar qué otra opción hay.",
+      "turno": "T010"
+    },
+    {
+      "id": "P019",
+      "texto": "Entrevistador: Entonces había dos cosas distintas: reponer lo que ya vendías y averiguar por una alternativa.",
+      "turno": "T011"
+    },
+    {
+      "id": "P020",
+      "texto": "Participante: Exactamente. La reposición sí la tenía que decidir. Lo otro era una consulta que podía hacer en la misma vuelta.",
+      "turno": "T012"
+    },
+    {
+      "id": "P021",
+      "texto": "Entrevistador: Antes de recorrer lo que pasó, ¿quiénes tuvieron algo que ver con esa ocasión, aunque no estuvieran contigo al momento de comprar?",
+      "turno": "T013"
+    },
+    {
+      "id": "P022",
+      "texto": "Participante: La persona que preguntó por el elástico suave; la persona que atiende conmigo, porque también ve lo que se vende y se quedó en el negocio; quien me atendió donde compro la mercancía, y yo.",
+      "turno": "T014"
+    },
+    {
+      "id": "P023",
+      "texto": "También están las otras personas que habían comprado de ese rollo, aunque no podría contarte cada compra. Por eso sabía que se estaba acabando de manera normal.",
+      "turno": "T014"
+    },
+    {
+      "id": "P024",
+      "texto": "Entrevistador: Quisiera proponerte un ejercicio verbal con esas personas. Si pensaras en el papel que tuvo cada una mediante una imagen, un objeto o una comparación, ¿qué se te ocurriría? No hace falta dibujarlo. Me interesa cómo lo explicarías tú.",
+      "turno": "T015"
+    },
+    {
+      "id": "P025",
+      "texto": "Participante: ¿Una comparación con lo que hacen?",
+      "turno": "T016"
+    },
+    {
+      "id": "P026",
+      "texto": "Entrevistador: Sí, algo que para ti ayude a expresar su papel en esta situación.",
+      "turno": "T017"
+    },
+    {
+      "id": "P027",
+      "texto": "Participante: Quienes compran serían como un muestrario, pero uno que se va abriendo. Porque no llegan todas las peticiones al mismo tiempo. Una persona trae una prenda, otra sabe exactamente lo que quiere y otra nada más quiere ver qué hay. Me van mostrando usos que yo no tengo presentes todo el día.",
+      "turno": "T018"
+    },
+    {
+      "id": "P028",
+      "texto": "Entrevistador: ¿Qué parte de ese muestrario se abrió con la petición del elástico suave?",
+      "turno": "T019"
+    },
+    {
+      "id": "P029",
+      "texto": "Participante: Que no bastaba con que fuera blanco y del ancho que buscaba. Para esa persona también importaba mucho cómo se sentía. Eso me hizo fijarme en algo que, para esa compra, yo no había preguntado primero.",
+      "turno": "T020"
+    },
+    {
+      "id": "P030",
+      "texto": "Pero tampoco quiere decir que a todas las personas les haya parecido duro el que tenemos. Otras lo compran sin decirme eso. De algunas sé para qué lo quieren porque me lo cuentan; de otras, no.",
+      "turno": "T020"
+    },
+    {
+      "id": "P031",
+      "texto": "Entrevistador: ¿La petición te llevó a pensar que debías cambiar lo que vendías?",
+      "turno": "T021"
+    },
+    {
+      "id": "P032",
+      "texto": "Participante: A preguntar, más bien. Cambiarlo habría sido dar un salto. Si trajera otro en lugar del de siempre, alguien podría decirme después que ese nuevo no le sirve igual. No tengo cómo saberlo con una sola conversación.",
+      "turno": "T022"
+    },
+    {
+      "id": "P033",
+      "texto": "Entrevistador: ¿Y la persona que comparte contigo la atención?",
+      "turno": "T023"
+    },
+    {
+      "id": "P034",
+      "texto": "Participante: Un relevo. Como cuando alguien toma lo que sigue y tú puedes moverte.",
+      "turno": "T024"
+    },
+    {
+      "id": "P035",
+      "texto": "Entrevistador: ¿Ese relevo consiste en quedarse a atender o también interviene en lo que eliges comprar?",
+      "turno": "T025"
+    },
+    {
+      "id": "P036",
+      "texto": "Participante: En las dos cosas, aunque no siempre de la misma manera. Esa vez le dije que pensaba traer el elástico blanco y me comentó que también lo habían pedido para una cintura. Revisamos que habláramos del mismo ancho. Si yo digo nada más “el blanco”, hay varios.",
+      "turno": "T026"
+    },
+    {
+      "id": "P037",
+      "texto": "Además, cuando salgo no tengo que dejar decidido hasta el último detalle de lo que pase en el mostrador. La otra persona puede atender, medir, decir qué hay y qué no. Si necesita consultarme algo, lo hace, pero no es que espere mi respuesta para cada venta.",
+      "turno": "T026"
+    },
+    {
+      "id": "P038",
+      "texto": "Entrevistador: La comparación parece tener también esa idea de que ambas personas pueden continuar el trabajo.",
+      "turno": "T027"
+    },
+    {
+      "id": "P039",
+      "texto": "Participante: Sí. Y al regresar me toca a mí escuchar lo que pasó mientras no estaba. El relevo va para los dos lados.",
+      "turno": "T028"
+    },
+    {
+      "id": "P040",
+      "texto": "Entrevistador: ¿Qué comparación elegirías para quien te atendió al comprar?",
+      "turno": "T029"
+    },
+    {
+      "id": "P041",
+      "texto": "Participante: Una bisagra.",
+      "turno": "T030"
+    },
+    {
+      "id": "P042",
+      "texto": "Entrevistador: Cuéntame qué te hace pensar en ella.",
+      "turno": "T031"
+    },
+    {
+      "id": "P043",
+      "texto": "Participante: Yo llego con una lista, pero ahí se abre o se cierra lo que puedo traer en esa vuelta. Esa persona me muestra lo que tiene, busca la referencia o me dice si no está. No decide lo que necesito para la mercería, pero sí conecta mi lista con la mercancía que puedo revisar.",
+      "turno": "T032"
+    },
+    {
+      "id": "P044",
+      "texto": "Lo de bisagra también porque no es que me dé todo por hecho. Yo tengo que preguntar bien. Si pido “uno suave”, eso puede significar varias cosas.",
+      "turno": "T032"
+    },
+    {
+      "id": "P045",
+      "texto": "Entrevistador: ¿Y tú, dentro de esas relaciones?",
+      "turno": "T033"
+    },
+    {
+      "id": "P046",
+      "texto": "Participante: Pues… un colador, quizá.",
+      "turno": "T034"
+    },
+    {
+      "id": "P047",
+      "texto": "Entrevistador: ¿En qué sentido?",
+      "turno": "T035"
+    },
+    {
+      "id": "P048",
+      "texto": "Participante: Porque no todo lo que escucho se convierte en compra. Voy separando. Esto sí se está acabando; esto me lo preguntaron una vez; de esto ya tengo algo parecido. Y también tengo que ver qué cabe y cuánto puedo traer en esa compra.",
+      "turno": "T036"
+    },
+    {
+      "id": "P049",
+      "texto": "Aunque el colador se queda corto porque yo también atiendo y vendo. Pero para esa decisión sí me sirve la comparación.",
+      "turno": "T036"
+    },
+    {
+      "id": "P050",
+      "texto": "Entrevistador: Podemos dejarla ligada a esa decisión. Ahora sí, si reconstruimos el episodio, ¿dónde pondrías tú el comienzo?",
+      "turno": "T037"
+    },
+    {
+      "id": "P051",
+      "texto": "Participante: En la revisión del rollo. La pregunta por la suavidad había ocurrido antes y la tenía anotada, pero la salida se empezó a organizar cuando vi cuánto quedaba.",
+      "turno": "T038"
+    },
+    {
+      "id": "P052",
+      "texto": "Entrevistador: Adelante. Cuéntame desde ahí.",
+      "turno": "T039"
+    },
+    {
+      "id": "P053",
+      "texto": "Participante: Habíamos vendido otro corte y, antes de guardar el rollo, vi que ya era de los que tocaba reponer. Entonces lo puse en la lista. No anoté solamente “elástico”: puse el color y el ancho, y busqué la referencia que tenía guardada de la compra anterior.",
+      "turno": "T040"
+    },
+    {
+      "id": "P054",
+      "texto": "En esa misma revisión vi los otros elásticos. No estaban todos igual de bajos. Por eso no se trataba de ir a llenar toda esa sección.",
+      "turno": "T040"
+    },
+    {
+      "id": "P055",
+      "texto": "Después comenté la lista con la persona que atiende conmigo. Ella tenía anotadas otras cosas y juntamos lo que correspondía comprar en el mismo lugar. Lo que se consigue en otro lado quedó aparte. No necesariamente hago todas las compras en una salida.",
+      "turno": "T040"
+    },
+    {
+      "id": "P056",
+      "texto": "Entrevistador: Al decir que “tocaba reponer”, ¿cómo lo reconociste? ¿Tienes una cantidad establecida?",
+      "turno": "T041"
+    },
+    {
+      "id": "P057",
+      "texto": "Participante: No una cantidad igual para todo. En ese elástico me fijo en lo que queda y en cuánto se ha estado cortando. Un rollo puede verse pequeño y todavía alcanzar para varias compras, pero también depende de los metros que pidan.",
+      "turno": "T042"
+    },
+    {
+      "id": "P058",
+      "texto": "Tengo la costumbre de revisarlo antes de que quede el último pedazo. Esa vez, además de verlo, medí lo que quedaba porque lo tenía fuera. Me alcanzaba para seguir vendiendo mientras hacía la compra. No tuve que salir en ese momento.",
+      "turno": "T042"
+    },
+    {
+      "id": "P059",
+      "texto": "Entrevistador: ¿La medida confirmó lo que ya pensabas o cambió algo?",
+      "turno": "T043"
+    },
+    {
+      "id": "P060",
+      "texto": "Participante: Lo confirmó. Si hubiera quedado bastante más de lo que parecía, quizá lo dejaba para otra vuelta. Pero sí lo mantuve en la lista.",
+      "turno": "T044"
+    },
+    {
+      "id": "P061",
+      "texto": "Entrevistador: Continúa con lo que hiciste después.",
+      "turno": "T045"
+    },
+    {
+      "id": "P062",
+      "texto": "Participante: Revisé la referencia y dejé a un lado una muestra pequeña que conservamos. Para ese producto me sirve llevarla. A veces el ancho se ve parecido cuando te lo enseñan solo, y con la muestra puedo ponerlos juntos.",
+      "turno": "T046"
+    },
+    {
+      "id": "P063",
+      "texto": "Luego elegimos cuándo podía salir yo. Lo acomodamos con las cosas del negocio; no hubo algo especial. Antes de salir miré otra vez la lista y añadí la pregunta del elástico suave, pero separada de lo que iba a comprar.",
+      "turno": "T046"
+    },
+    {
+      "id": "P064",
+      "texto": "Entrevistador: ¿Cómo marcaste esa diferencia?",
+      "turno": "T047"
+    },
+    {
+      "id": "P065",
+      "texto": "Participante: Puse “preguntar por más suave” al lado. Lo que sí tenía que traer llevaba su descripción. Así, al estar allá, no confundía una consulta con algo que ya habíamos acordado comprar.",
+      "turno": "T048"
+    },
+    {
+      "id": "P066",
+      "texto": "Entrevistador: Hasta ese momento llevabas una lista, una referencia y una muestra. ¿Faltaba algo para decidir?",
+      "turno": "T049"
+    },
+    {
+      "id": "P067",
+      "texto": "Participante: Faltaba ver lo que me ofrecieran y el precio de esa compra. Lo demás lo llevaba bastante claro.",
+      "turno": "T050"
+    },
+    {
+      "id": "P068",
+      "texto": "Entrevistador: ¿Qué ocurrió al llegar?",
+      "turno": "T051"
+    },
+    {
+      "id": "P069",
+      "texto": "Participante: Pedí primero el que ya conocía. Buscaron la referencia y me mostraron el rollo. Comparé la muestra, el ancho y cómo se estiraba. Después pregunté por otro más suave del mismo ancho.",
+      "turno": "T052"
+    },
+    {
+      "id": "P070",
+      "texto": "Me enseñaron uno que al tocarlo sí se sentía diferente. Lo estiré junto al otro. Ahí me detuve un rato porque una cosa es que se sienta suave entre los dedos y otra que responda como lo que la persona quería para su prenda. Yo no llevaba esa prenda ni sabía exactamente cómo iba a coserlo.",
+      "turno": "T052"
+    },
+    {
+      "id": "P071",
+      "texto": "Entrevistador: ¿Qué te dijeron sobre esa alternativa?",
+      "turno": "T053"
+    },
+    {
+      "id": "P072",
+      "texto": "Participante: Que era otra opción que tenían y me dieron su precio. Pregunté por la presentación en que lo vendían. Para llevarlo tenía que comprar más de lo que yo quería traer solo para conocerlo. Entonces no lo compré.",
+      "turno": "T054"
+    },
+    {
+      "id": "P073",
+      "texto": "Sí anoté la referencia para no volver a empezar de cero si después me interesa. Y traje el que iba a reponer.",
+      "turno": "T054"
+    },
+    {
+      "id": "P074",
+      "texto": "Entrevistador: ¿El precio fue lo que te hizo descartar el otro?",
+      "turno": "T055"
+    },
+    {
+      "id": "P075",
+      "texto": "Participante: No por sí solo. Fue la cantidad que tenía que traer sin saber todavía si nos convenía tener los dos. El precio lo necesitaba conocer, claro, pero aunque hubiera sido parecido no quería añadir otro rollo completo únicamente por aquella pregunta.",
+      "turno": "T056"
+    },
+    {
+      "id": "P076",
+      "texto": "Entrevistador: Entiendo. Había interpretado que estabas comparando cuál de los dos resultaba mejor para sustituir al anterior.",
+      "turno": "T057"
+    },
+    {
+      "id": "P077",
+      "texto": "Participante: No. A esas alturas seguía pensando en reponer el mismo. El otro era para conocerlo. Ya si después lo traigo, tendría que ver si van a convivir los dos o para qué ofrecería cada uno. Eso no lo resolví esa vez.",
+      "turno": "T058"
+    },
+    {
+      "id": "P078",
+      "texto": "Entrevistador: ¿Qué te dio suficiente confianza para comprar el de siempre?",
+      "turno": "T059"
+    },
+    {
+      "id": "P079",
+      "texto": "Participante: Que coincidía con la referencia y con la muestra, y que al revisarlo no encontré algo distinto que me hiciera dudar. También ya conozco cómo se maneja en el mostrador: lo medimos, lo cortamos, vemos cómo queda el borde. No era un material nuevo para mí.",
+      "turno": "T060"
+    },
+    {
+      "id": "P080",
+      "texto": "No puedo decir que revisé todo el rollo. Revisé la parte que me mostraron. Con eso y la referencia me alcanzó para esa compra.",
+      "turno": "T060"
+    },
+    {
+      "id": "P081",
+      "texto": "Entrevistador: ¿Hubo algo del lugar donde compras que influyera en la decisión o en cómo organizaste la salida?",
+      "turno": "T061"
+    },
+    {
+      "id": "P082",
+      "texto": "Participante: En la salida, sí. Ahí consigo varias cosas de la lista. Hay otro lugar donde a veces compro, y no queda tan lejos de ese, pero no pasé en esta ocasión. Ya había encontrado lo que necesitaba.",
+      "turno": "T062"
+    },
+    {
+      "id": "P083",
+      "texto": "Desde el negocio tengo que apartar tiempo para ir, comprar y volver. Por eso junto artículos. No es solamente el rato del trayecto; a veces te atienden enseguida y a veces esperas. Pero esa vez fue una compra normal.",
+      "turno": "T062"
+    },
+    {
+      "id": "P084",
+      "texto": "Entrevistador: ¿El hecho de tener otro lugar relativamente cerca hacía más fácil buscar el elástico suave?",
+      "turno": "T063"
+    },
+    {
+      "id": "P085",
+      "texto": "Participante: Podía pasar a preguntar, sí. Pero que estuviera cerca no quería decir que tuviera que hacerlo. Yo llevaba pendiente regresar y ya había resuelto la reposición. No tenía un encargo confirmado del otro. Preferí dejar la consulta hasta ahí.",
+      "turno": "T064"
+    },
+    {
+      "id": "P086",
+      "texto": "Entrevistador: Así que no elegiste el recorrido para encontrar todas las alternativas posibles.",
+      "turno": "T065"
+    },
+    {
+      "id": "P087",
+      "texto": "Participante: No. Fui por lo que ya había revisado. Si hubiera faltado ese elástico, entonces sí habría tenido sentido pasar al otro lugar. Sé llegar a ambos; para esa vuelta no necesitaba buscar cómo moverme.",
+      "turno": "T066"
+    },
+    {
+      "id": "P088",
+      "texto": "Entrevistador: ¿Y el lugar del negocio, dentro del barrio, tuvo algún papel en esa elección?",
+      "turno": "T067"
+    },
+    {
+      "id": "P089",
+      "texto": "Participante: En esa elección concreta, no sabría decirte que tuvo uno directo. Quienes compran llegan porque les queda cerca, porque pasan o porque ya saben lo que vendemos; algunas personas me lo han dicho. Pero de ahí no puedo sacar qué elástico va a querer cada quien.",
+      "turno": "T068"
+    },
+    {
+      "id": "P090",
+      "texto": "Para decidir cuánto reponer me sirve más ver lo que sale del mostrador que pensar en toda la zona.",
+      "turno": "T068"
+    },
+    {
+      "id": "P091",
+      "texto": "Entrevistador: Me ayuda esa distinción. Volvamos al momento en que regresaste con la mercancía.",
+      "turno": "T069"
+    },
+    {
+      "id": "P092",
+      "texto": "Participante: Al regresar no guardé todo inmediatamente. Primero revisé lo que traía contra la lista y separé las cosas por sección. Con el elástico vimos el nuevo rollo y le conté a la otra persona que sí había preguntado por uno más suave, pero que no lo había comprado.",
+      "turno": "T070"
+    },
+    {
+      "id": "P093",
+      "texto": "También dejé la referencia de esa alternativa junto a la nota. Si alguien volvía a preguntar, no quería que se dijera que ya lo teníamos. Una cosa es haberlo visto y otra tenerlo para vender.",
+      "turno": "T070"
+    },
+    {
+      "id": "P094",
+      "texto": "Entrevistador: ¿Cómo quedó acomodado el rollo nuevo?",
+      "turno": "T071"
+    },
+    {
+      "id": "P095",
+      "texto": "Participante: Guardado con los de ese ancho, y el que ya estaba abierto siguió al frente para terminarlo primero. No mezclamos los dos pedazos en un mismo rollo. Parece un detalle, pero así sabemos qué estamos cortando.",
+      "turno": "T072"
+    },
+    {
+      "id": "P096",
+      "texto": "La muestra del que vendemos se quedó donde la tenemos. No cambié toda la sección ni hice un letrero nuevo porque era reposición del mismo artículo.",
+      "turno": "T072"
+    },
+    {
+      "id": "P097",
+      "texto": "Entrevistador: ¿Ahí terminó el episodio para ti?",
+      "turno": "T073"
+    },
+    {
+      "id": "P098",
+      "texto": "Participante: La compra, sí. Pero si estamos contando la reposición completa, yo lo llevaría hasta que empezamos a vender del nuevo rollo.",
+      "turno": "T074"
+    },
+    {
+      "id": "P099",
+      "texto": "Entrevistador: Podemos seguir hasta donde tú consideres que se completa.",
+      "turno": "T075"
+    },
+    {
+      "id": "P100",
+      "texto": "Participante: Primero se terminó el anterior. Quedó un pedazo corto que apartamos con los recortes; no lo contamos como si fuera un rollo disponible para cualquier medida. Después abrimos el nuevo para una venta.",
+      "turno": "T076"
+    },
+    {
+      "id": "P101",
+      "texto": "Al cortarlo pude comprobar otra vez cómo se manejaba. No noté una diferencia con el anterior. Ahí ya sentí que estaba incorporado a lo que vendemos. No esperé a que se vendiera entero para dar por terminada la reposición.",
+      "turno": "T076"
+    },
+    {
+      "id": "P102",
+      "texto": "Entrevistador: ¿La persona que había preguntado por uno más suave volvió durante ese recorrido?",
+      "turno": "T077"
+    },
+    {
+      "id": "P103",
+      "texto": "Participante: No, hasta ese momento no había vuelto. No sé si el corte que se llevó le sirvió o si consiguió otra cosa.",
+      "turno": "T078"
+    },
+    {
+      "id": "P104",
+      "texto": "Entrevistador: Entonces no hubo una comprobación con esa persona sobre la alternativa.",
+      "turno": "T079"
+    },
+    {
+      "id": "P105",
+      "texto": "Participante: No. Esa parte quedó abierta. Y tampoco tengo que suponer que sigue esperando que yo lo consiga.",
+      "turno": "T080"
+    },
+    {
+      "id": "P106",
+      "texto": "Entrevistador: Si quisieras contar este recorrido en partes, con nombres tuyos, ¿cómo lo separarías?",
+      "turno": "T081"
+    },
+    {
+      "id": "P107",
+      "texto": "Participante: Primero, “ver qué hace falta”. Ahí pondría revisar el rollo y hablar de lo que habíamos vendido.",
+      "turno": "T082"
+    },
+    {
+      "id": "P108",
+      "texto": "Luego, “armar la vuelta”: juntar la lista, llevar la muestra y decidir cuándo salir.",
+      "turno": "T082"
+    },
+    {
+      "id": "P109",
+      "texto": "Después, “escoger allá”. Porque aunque lleve la lista, tengo que revisar lo que me dan, preguntar y decidir qué sí traigo.",
+      "turno": "T082"
+    },
+    {
+      "id": "P110",
+      "texto": "Y al final, “dejarlo listo para vender”. Ahí entran revisar al regresar, acomodar y contarle a la otra persona.",
+      "turno": "T082"
+    },
+    {
+      "id": "P111",
+      "texto": "Entrevistador: Habías dicho que para ti la reposición se completa cuando empiezan a vender del rollo nuevo. ¿Eso queda dentro de “dejarlo listo para vender” o lo pondrías en otra parte?",
+      "turno": "T083"
+    },
+    {
+      "id": "P112",
+      "texto": "Participante: Tienes razón, con ese nombre parece que termina al guardarlo. Le pondría “acomodarlo y empezar a usarlo”. Usarlo nosotros, digo, para despachar. Así sí llega hasta el primer corte del nuevo.",
+      "turno": "T084"
+    },
+    {
+      "id": "P113",
+      "texto": "Entrevistador: Quedaría: “ver qué hace falta”, “armar la vuelta”, “escoger allá” y “acomodarlo y empezar a usarlo”.",
+      "turno": "T085"
+    },
+    {
+      "id": "P114",
+      "texto": "Participante: Sí. Aunque no todo espera a que termine una parte. Mientras reviso una cosa puedo estar anotando otra para una compra futura. La lista no se hace completa de una sentada.",
+      "turno": "T086"
+    },
+    {
+      "id": "P115",
+      "texto": "Entrevistador: ¿Dónde colocarías la petición inicial del elástico más suave?",
+      "turno": "T087"
+    },
+    {
+      "id": "P116",
+      "texto": "Participante: Como algo que ya venía de antes y que metí al armar la vuelta. No fue lo que inició la reposición. Si no me hubieran hecho esa pregunta, de todos modos habría comprado el rollo que se estaba terminando.",
+      "turno": "T088"
+    },
+    {
+      "id": "P117",
+      "texto": "Entrevistador: ¿Este recorrido suele hacerse igual?",
+      "turno": "T089"
+    },
+    {
+      "id": "P118",
+      "texto": "Participante: Se parece, pero no siempre llevo muestra. En algunos artículos la referencia me basta. Y hay cosas que no repongo de inmediato aunque se acaben, porque casi no se han pedido o porque ya tengo otra opción que cumple lo mismo.",
+      "turno": "T090"
+    },
+    {
+      "id": "P119",
+      "texto": "Tampoco siempre voy yo. Si va la otra persona, dejamos clara la lista y luego me cuenta qué encontró. Lo que necesita más comparación lo hablamos antes.",
+      "turno": "T090"
+    },
+    {
+      "id": "P120",
+      "texto": "Entrevistador: ¿Qué pasa si al estar comprando aparece una duda que no puedes resolver ahí?",
+      "turno": "T091"
+    },
+    {
+      "id": "P121",
+      "texto": "Participante: Depende de la duda. Si no estoy recordando bien el ancho, puedo consultar lo que quedó en el negocio. Si lo que me ofrecen se ve diferente y no sé si nos sirve, puedo dejarlo pendiente.",
+      "turno": "T092"
+    },
+    {
+      "id": "P122",
+      "texto": "No todo tiene que salir resuelto de esa compra. Pero si es algo que sí necesitamos reponer, busco primero si hay el mismo en el otro lugar. Ya después decido si vale la pena probar otro. Eso no ocurrió con el rollo que estamos contando.",
+      "turno": "T092"
+    },
+    {
+      "id": "P123",
+      "texto": "Entrevistador: Quisiera volver a la decisión de traer el mismo. ¿Qué necesitabas saber, concretamente, para tomarla?",
+      "turno": "T093"
+    },
+    {
+      "id": "P124",
+      "texto": "Participante: Cuánto nos quedaba, cuál era exactamente el que teníamos y si allá había el mismo. También cuánto costaba en esa ocasión y cuánto tenía que comprar. Con eso podía decidir.",
+      "turno": "T094"
+    },
+    {
+      "id": "P125",
+      "texto": "Lo de que se estuviera vendiendo no lo saqué de un cálculo especial. Lo habíamos estado despachando las dos personas y veíamos bajar el rollo. Cuando tuve que precisar lo que quedaba, lo medí.",
+      "turno": "T094"
+    },
+    {
+      "id": "P126",
+      "texto": "Entrevistador: ¿Dónde estaba cada una de esas cosas que necesitabas saber?",
+      "turno": "T095"
+    },
+    {
+      "id": "P127",
+      "texto": "Participante: La cantidad que quedaba, en el rollo; la descripción y la referencia, en la nota de compra anterior y en la muestra. Lo de las ventas, en lo que recordábamos y habíamos anotado cuando hacía falta. El precio y la disponibilidad de la nueva compra los supe allá.",
+      "turno": "T096"
+    },
+    {
+      "id": "P128",
+      "texto": "No tengo todo junto en una sola hoja. Para esa reposición tampoco me hizo falta.",
+      "turno": "T096"
+    },
+    {
+      "id": "P129",
+      "texto": "Entrevistador: ¿Cómo distingues lo que recuerdas con claridad de algo que conviene comprobar?",
+      "turno": "T097"
+    },
+    {
+      "id": "P130",
+      "texto": "Participante: Si lo voy a usar para pedir un artículo, prefiero mirar. Puedo acordarme de que era “el mediano”, pero esa palabra no le dice lo mismo a todo el mundo. Por eso reviso el ancho o la referencia.",
+      "turno": "T098"
+    },
+    {
+      "id": "P131",
+      "texto": "Para saber si vale la pena revisar el rollo, la memoria me ayuda. Para pedirlo, ya quiero algo más concreto.",
+      "turno": "T098"
+    },
+    {
+      "id": "P132",
+      "texto": "Entrevistador: ¿Y la información de quien te vende tiene el mismo peso en todo?",
+      "turno": "T099"
+    },
+    {
+      "id": "P133",
+      "texto": "Participante: No. Si me dice qué presentación tiene o cuánto cuesta, eso corresponde a lo que me está vendiendo. Si hablamos de cómo va a quedar en una prenda, yo también tengo que considerar lo que no estamos viendo.",
+      "turno": "T100"
+    },
+    {
+      "id": "P134",
+      "texto": "Esa vez pude tocar el otro elástico y notar que se sentía más suave. Eso sí lo vi. Que fuera el adecuado para la persona que me preguntó, eso no lo podía saber.",
+      "turno": "T100"
+    },
+    {
+      "id": "P135",
+      "texto": "Entrevistador: ¿Qué habría hecho que la información fuera insuficiente para reponer el de siempre?",
+      "turno": "T101"
+    },
+    {
+      "id": "P136",
+      "texto": "Participante: Que no coincidiera la referencia o que al compararlo encontrara una diferencia que no me supieran explicar. También que no estuviera claro qué cantidad me estaban ofreciendo. En ese caso no lo habría comprado como si fuera el mismo.",
+      "turno": "T102"
+    },
+    {
+      "id": "P137",
+      "texto": "Pero no pasó. Lo que tenía me alcanzó para seguir.",
+      "turno": "T102"
+    },
+    {
+      "id": "P138",
+      "texto": "Entrevistador: Hasta aquí hemos hablado de lo que usaste realmente. Ahora te propongo imaginar otra situación: si pudieras saber algo más para organizar una compra parecida, aunque no conozcas una fuente que lo ofrezca, ¿qué te gustaría saber? También puede ser que para alguna parte ya tengas suficiente.",
+      "turno": "T103"
+    },
+    {
+      "id": "P139",
+      "texto": "Participante: Para reponer ese rollo, tenía suficiente. Donde sí me gustaría saber más es con los materiales que todavía no conozco bien. Por ejemplo, cómo queda ese otro elástico después de coserlo y usarlo, no nada más cómo se siente cuando está nuevo.",
+      "turno": "T104"
+    },
+    {
+      "id": "P140",
+      "texto": "Me gustaría poder comparar eso antes de traer una cantidad grande.",
+      "turno": "T104"
+    },
+    {
+      "id": "P141",
+      "texto": "Entrevistador: Cuando dices “cómo queda”, ¿qué te gustaría poder ver?",
+      "turno": "T105"
+    },
+    {
+      "id": "P142",
+      "texto": "Participante: Si sigue recuperando su forma, si se enrolla dentro de la tela, si al estirarlo se pone tieso. Y en qué lo probaron, porque no es igual verlo suelto que dentro de una cintura.",
+      "turno": "T106"
+    },
+    {
+      "id": "P143",
+      "texto": "No te digo que al nuevo le pase algo de eso. No lo sé. Justamente, lo que vi en el mostrador de quien me vende no me permite contar cómo se comporta después.",
+      "turno": "T106"
+    },
+    {
+      "id": "P144",
+      "texto": "Entrevistador: ¿Qué decisión te permitiría tomar ese conocimiento?",
+      "turno": "T107"
+    },
+    {
+      "id": "P145",
+      "texto": "Participante: Decidir si vale la pena traerlo para probarlo en el negocio y cómo explicarlo cuando alguien compare los dos. Quizá descubro que para lo que nos piden no aporta tanto. O que sí conviene tener una pequeña cantidad.",
+      "turno": "T108"
+    },
+    {
+      "id": "P146",
+      "texto": "No me resolvería por sí solo cuánto se va a vender. Eso lo tendría que ir viendo.",
+      "turno": "T108"
+    },
+    {
+      "id": "P147",
+      "texto": "Entrevistador: Imagina que puedes tener esa información organizada como a ti te acomode. ¿Cómo sería ese espacio y qué harías primero al consultarlo?",
+      "turno": "T109"
+    },
+    {
+      "id": "P148",
+      "texto": "Participante: Yo lo imagino como un cuaderno de muestras. Que pueda tener el pedacito de elástico y, junto, lo que se sabe de ese mismo. No pondría todos los blancos en una página solo por ser blancos; juntaría primero los del mismo ancho para poder comparar.",
+      "turno": "T110"
+    },
+    {
+      "id": "P149",
+      "texto": "Al abrirlo buscaría el que ya vendemos. Lo pondría al lado del que estoy considerando y vería qué diferencia tiene y qué pruebas hay. Si tengo que ir pasando por muchas cosas que no vienen al caso, acabaría sacando mis muestras como siempre.",
+      "turno": "T110"
+    },
+    {
+      "id": "P150",
+      "texto": "Entrevistador: ¿Qué habría junto a cada muestra?",
+      "turno": "T111"
+    },
+    {
+      "id": "P151",
+      "texto": "Participante: La referencia para volver a pedirla, dónde la vi y una nota clara de lo que se hizo con ella. Por ejemplo, si solo se tocó y estiró o si alguien la cosió en una tela. Si hubo lavado, también tendría que decirlo. No me serviría una frase de “sale muy bueno” sin saber qué hicieron.",
+      "turno": "T112"
+    },
+    {
+      "id": "P152",
+      "texto": "Y si hay una foto, que permita ver algo. Pero para la suavidad preferiría tener el pedazo en la mano.",
+      "turno": "T112"
+    },
+    {
+      "id": "P153",
+      "texto": "Entrevistador: ¿Quién tendría que aportar lo que aparece ahí?",
+      "turno": "T113"
+    },
+    {
+      "id": "P154",
+      "texto": "Participante: No lo tengo resuelto. Algunas cosas las podría revisar yo con una muestra. Otras me las podría contar quien sí la haya usado. En ese caso pondría que esa fue su experiencia, porque yo no la vi.",
+      "turno": "T114"
+    },
+    {
+      "id": "P155",
+      "texto": "Lo ideal que estoy imaginando es tener esa comparación antes de comprar el rollo. Ahora no tengo ese cuaderno hecho para todos los materiales ni sé quién podría darme todas esas pruebas.",
+      "turno": "T114"
+    },
+    {
+      "id": "P156",
+      "texto": "Entrevistador: ¿Necesitarías que estuvieran todos los artículos de la mercería para que te sirviera?",
+      "turno": "T115"
+    },
+    {
+      "id": "P157",
+      "texto": "Participante: No. Empezaría con ese par de elásticos, si de verdad voy a decidir entre ellos. Si me pongo a juntar cosas de todo lo que vendo, ya sería otro trabajo.",
+      "turno": "T116"
+    },
+    {
+      "id": "P158",
+      "texto": "Entrevistador: Has mencionado “dónde la vi”. ¿Cómo querrías reconocer ese lugar dentro del cuaderno?",
+      "turno": "T117"
+    },
+    {
+      "id": "P159",
+      "texto": "Participante: Con el nombre o la referencia que yo uso para saber dónde comprarla. También pondría si es una muestra que traje de ahí o algo que alguien me enseñó. Para esos lugares no necesito un mapa; sé dónde están.",
+      "turno": "T118"
+    },
+    {
+      "id": "P160",
+      "texto": "Si fuera un lugar nuevo, entonces sí tendría que averiguar cómo llegar y en qué momento puedo ir. Pero eso lo consultaría cuando hiciera falta. Para comparar los elásticos, lo principal sería la muestra.",
+      "turno": "T118"
+    },
+    {
+      "id": "P161",
+      "texto": "Entrevistador: ¿Qué parte de ese cuaderno te serviría más al principio?",
+      "turno": "T119"
+    },
+    {
+      "id": "P162",
+      "texto": "Participante: Poder ver el material conocido junto al otro y saber qué se comprobó de cada uno. La referencia sola ya la anoté; lo que me falta de la alternativa es conocerla más allá de tocarla un momento.",
+      "turno": "T120"
+    },
+    {
+      "id": "P163",
+      "texto": "Entrevistador: ¿Y cómo te darías cuenta de que ese espacio sí te ayuda?",
+      "turno": "T121"
+    },
+    {
+      "id": "P164",
+      "texto": "Participante: Si cuando vuelva a considerar comprarlo puedo decir por qué quiero probarlo o por qué prefiero dejarlo. Algo concreto, como “este lo vi cosido y se comportó así”, en vez de acordarme nada más de que se sentía suave.",
+      "turno": "T122"
+    },
+    {
+      "id": "P165",
+      "texto": "Luego tendría que coincidir con lo que encuentre al usar la muestra o al empezar a venderlo. Si las notas no me ayudan a distinguir nada, no tendría sentido seguir llenándolas.",
+      "turno": "T122"
+    },
+    {
+      "id": "P166",
+      "texto": "Entrevistador: ¿Serviría también para recomendarlo a quien compra?",
+      "turno": "T123"
+    },
+    {
+      "id": "P167",
+      "texto": "Participante: Serviría para explicar mejor lo que sé. Recomendarlo dependería de lo que busque esa persona. No le diría que es el indicado para cualquier prenda solo porque tenga una página en el cuaderno.",
+      "turno": "T124"
+    },
+    {
+      "id": "P168",
+      "texto": "A veces lo más útil es poner las dos muestras y que la persona las toque. Hay quien ya tiene muy claro lo que necesita.",
+      "turno": "T124"
+    },
+    {
+      "id": "P169",
+      "texto": "Entrevistador: ¿Qué conservarías de tu manera actual de trabajar, aun si pudieras tener ese cuaderno ideal?",
+      "turno": "T125"
+    },
+    {
+      "id": "P170",
+      "texto": "Participante: Las muestras en la mano, hablar con la persona que comparte el mostrador y revisar físicamente lo que queda. También seguiría separando lo que sí voy a comprar de lo que solamente quiero preguntar.",
+      "turno": "T126"
+    },
+    {
+      "id": "P171",
+      "texto": "No dejaría de escuchar a quien llega con su prenda. Ahí aparece un detalle que no estaba en mi lista, como pasó con la suavidad.",
+      "turno": "T126"
+    },
+    {
+      "id": "P172",
+      "texto": "Entrevistador: ¿El cuaderno cambiaría la compra que reconstruimos?",
+      "turno": "T127"
+    },
+    {
+      "id": "P173",
+      "texto": "Participante: Tal vez me habría ayudado con la consulta del otro elástico, si hubiera tenido esa información. Pero no puedo decirte que lo habría comprado. La cantidad que tenía que traer seguía siendo parte de la decisión.",
+      "turno": "T128"
+    },
+    {
+      "id": "P174",
+      "texto": "El rollo de siempre lo habría repuesto igual.",
+      "turno": "T128"
+    },
+    {
+      "id": "P175",
+      "texto": "Entrevistador: Quiero comprobar algo de las comparaciones que elegiste antes. Cuando hablabas de ti como un colador, ¿dejar pasar la petición del elástico suave significaba descartarla?",
+      "turno": "T129"
+    },
+    {
+      "id": "P176",
+      "texto": "Participante: No, dejarla aparte. La conservé como pregunta, solo que no la puse al mismo nivel que reponer lo que ya estaba vendiendo.",
+      "turno": "T130"
+    },
+    {
+      "id": "P177",
+      "texto": "Quizá “colador” suena a que unas cosas se tiran y otras se quedan. No lo pensaba así. Hay cosas que esperan. Esa referencia del otro elástico la guardé.",
+      "turno": "T130"
+    },
+    {
+      "id": "P178",
+      "texto": "Entrevistador: Entonces la comparación te sirve para expresar que distingues qué hacer con cada cosa, aunque algunas queden pendientes.",
+      "turno": "T131"
+    },
+    {
+      "id": "P179",
+      "texto": "Participante: Sí, así está mejor.",
+      "turno": "T132"
+    },
+    {
+      "id": "P180",
+      "texto": "Entrevistador: ¿Y con la persona que atiende contigo, cómo se conserva ese pendiente? Me refiero a que no dependa únicamente de que tú lo recuerdes.",
+      "turno": "T133"
+    },
+    {
+      "id": "P181",
+      "texto": "Participante: Dejé la nota y se lo conté al regresar. Si vuelve a salir la pregunta, cualquiera de las dos personas puede ubicar qué fue lo que averigüé. Pero no quedamos en preguntarles a todos los clientes si quieren otro elástico. Tampoco hicimos de eso una tarea diaria.",
+      "turno": "T134"
+    },
+    {
+      "id": "P182",
+      "texto": "Entrevistador: Hay algo que quisiera ajustar de lo que he venido entendiendo. Al principio pensé que la petición de una persona había orientado toda la compra. Ahora veo que la compra se sostuvo principalmente en revisar y reponer una mercancía que ya conocías, y que esa petición abrió una consulta adicional.",
+      "turno": "T135"
+    },
+    {
+      "id": "P183",
+      "texto": "Participante: Sí. Porque si contamos todo desde la pregunta de lo suave, parece que yo salí a buscarle algo a esa persona. Y no fue así.",
+      "turno": "T136"
+    },
+    {
+      "id": "P184",
+      "texto": "Entrevistador: ¿Hay alguna otra parte que haya entendido mal o que te falte contar para explicar cómo trabajas?",
+      "turno": "T137"
+    },
+    {
+      "id": "P185",
+      "texto": "Participante: Quizá que estar pendiente de lo que se acaba no significa mirar solamente lo que más se vende. Hay cosas que se mueven poco y de todos modos conviene tener, porque quien las busca necesita esa pieza y no otra.",
+      "turno": "T138"
+    },
+    {
+      "id": "P186",
+      "texto": "Pero eso no lo decidí en esta compra del elástico. Ahí sí estaba reponiendo algo que sale con regularidad.",
+      "turno": "T138"
+    },
+    {
+      "id": "P187",
+      "texto": "Entrevistador: ¿Cómo reconoces esas otras cosas que conviene conservar aunque se muevan poco?",
+      "turno": "T139"
+    },
+    {
+      "id": "P188",
+      "texto": "Participante: Por las ocasiones en que las han pedido y por el lugar que ocupan entre lo que vendemos. Un botón especial puede tardar en salir y ocupar muy poco espacio. Otro artículo puede ocupar más y tener alternativas. Lo miro distinto.",
+      "turno": "T140"
+    },
+    {
+      "id": "P189",
+      "texto": "No tengo una sola regla para toda la mercería. Por eso, cuando me preguntaste por el día de trabajo, pensé en contarte una compra concreta. Si digo nada más “reviso y repongo”, se pierde todo eso.",
+      "turno": "T140"
+    },
+    {
+      "id": "P190",
+      "texto": "Entrevistador: El ejemplo permitió ver esas diferencias. Antes de terminar, te dejo espacio para un último matiz.",
+      "turno": "T141"
+    },
+    {
+      "id": "P191",
+      "texto": "Participante: Que preguntar por algo tampoco me obliga a cambiar de inmediato. Me sirve saber que existe, guardar la referencia y seguir trabajando. Esta vez regresé con lo que necesitábamos y con un dato más sobre otra opción. Para mí estuvo bien así.",
+      "turno": "T142"
+    },
+    {
+      "id": "P192",
+      "texto": "Entrevistador: Gracias por explicarlo y por corregir lo que fui interpretando. Con eso cerramos la conversación.",
+      "turno": "T143"
+    },
+    {
+      "id": "P193",
+      "texto": "Participante: Gracias a ti.",
+      "turno": "T144"
+    }
+  ],
+  "turnos": [
+    {
+      "id": "T001",
+      "parrafos": [
+        "P004",
+        "P005"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Gracias por conversar conmigo. Mi papel es hacerte preguntas y escuchar cómo realizas tu trabajo. Esta entrevista tiene un propósito académico: comprender actividades y decisiones cotidianas, y cómo interviene en ellas la información sobre lugares cuando resulta relevante. \n\nAlgo super importante de aclarar es que lo que conversemos se utilizará con fines académicos y tu participación es voluntaria. Quiero que sepas que puedes dejar alguna pregunta sin responder o terminar la conversación cuando quieras y siempre que te sientas cómodo. También, si no hay ningún problema, voy a grabar esta conversación para poder utilizar la transcripción de esta para el trabajo académico del que formo parte, no para algún otro propósito. ¿Te parece que comencemos y me das tu visto bueno de aceptar estos puntos previos que te he comentado?"
+    },
+    {
+      "id": "T002",
+      "parrafos": [
+        "P006"
+      ],
+      "voz": "Participante",
+      "texto": "Sí, está bien. No hay ningún tipo de problema."
+    },
+    {
+      "id": "T003",
+      "parrafos": [
+        "P007"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Para empezar, cuéntame a qué se dedica el negocio y qué haces tú."
+    },
+    {
+      "id": "T004",
+      "parrafos": [
+        "P008",
+        "P009"
+      ],
+      "voz": "Participante",
+      "texto": "Es una mercería pequeña, de barrio. Vendemos hilos, botones, cierres, elásticos y otras cosas para coser o componer ropa. Yo atiendo, reviso lo que va quedando y hago buena parte de las compras. Hay otra persona que comparte conmigo la atención. Nos vamos acomodando para que una pueda salir y la otra se quede.\n\nNo hacemos arreglos de ropa. Lo aclaro porque sí nos preguntan. Podemos ayudar a comparar un hilo con una tela, por ejemplo, pero ya el trabajo de coser lo hace quien compra o alguien a quien se lo lleva."
+    },
+    {
+      "id": "T005",
+      "parrafos": [
+        "P010"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Cómo suele transcurrir un día de trabajo para ti?"
+    },
+    {
+      "id": "T006",
+      "parrafos": [
+        "P011",
+        "P012"
+      ],
+      "voz": "Participante",
+      "texto": "Al abrir, pongo algunas cosas en el mostrador, reviso si quedó pendiente apartar algo y veo las notas del día anterior. No hago un inventario completo cada mañana. Voy mirando por secciones, también según lo que se haya movido.\n\nDespués depende de quién llegue. Hay compras muy rápidas, de alguien que ya sabe qué hilo lleva, y otras en las que hay que sacar varios tonos, medir un cierre o buscar botones parecidos a una muestra. Entre una cosa y otra acomodo y anoto. Para las compras junto varias necesidades; no salgo por cada artículo que se termina."
+    },
+    {
+      "id": "T007",
+      "parrafos": [
+        "P013"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Recuerdas una ocasión reciente que nos permita seguir con detalle cómo organizas eso?"
+    },
+    {
+      "id": "T008",
+      "parrafos": [
+        "P014",
+        "P015"
+      ],
+      "voz": "Participante",
+      "texto": "Sí. La última vez que fui por elástico blanco me sirve para contarlo. Era uno de ancho mediano que vendemos por metro. Todavía había, pero el rollo ya estaba bastante reducido. Fui a reponer ese y aproveché para traer otras cosas que ya estaban apuntadas.\n\nLo que tuve que elegir fue si traía el mismo o uno más suave que me habían preguntado unos días antes. No era que tuviera que cambiarlo a fuerza. El que tenemos se sigue vendiendo."
+    },
+    {
+      "id": "T009",
+      "parrafos": [
+        "P016"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Me interesa esa elección. ¿Cómo apareció la pregunta por el otro?"
+    },
+    {
+      "id": "T010",
+      "parrafos": [
+        "P017",
+        "P018"
+      ],
+      "voz": "Participante",
+      "texto": "Una persona compró para cambiar el elástico de una prenda. Tocó el que le mostré y dijo que buscaba algo más suave. Se llevó un corte pequeño porque quería verlo en su casa. Yo anoté lo de la suavidad, pero no lo tomé como un pedido del otro. No habíamos acordado que yo lo fuera a conseguir ni que regresaría por él.\n\nLuego, al revisar el rollo, pensé: ya que voy a comprar, puedo preguntar qué otra opción hay."
+    },
+    {
+      "id": "T011",
+      "parrafos": [
+        "P019"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Entonces había dos cosas distintas: reponer lo que ya vendías y averiguar por una alternativa."
+    },
+    {
+      "id": "T012",
+      "parrafos": [
+        "P020"
+      ],
+      "voz": "Participante",
+      "texto": "Exactamente. La reposición sí la tenía que decidir. Lo otro era una consulta que podía hacer en la misma vuelta."
+    },
+    {
+      "id": "T013",
+      "parrafos": [
+        "P021"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Antes de recorrer lo que pasó, ¿quiénes tuvieron algo que ver con esa ocasión, aunque no estuvieran contigo al momento de comprar?"
+    },
+    {
+      "id": "T014",
+      "parrafos": [
+        "P022",
+        "P023"
+      ],
+      "voz": "Participante",
+      "texto": "La persona que preguntó por el elástico suave; la persona que atiende conmigo, porque también ve lo que se vende y se quedó en el negocio; quien me atendió donde compro la mercancía, y yo.\n\nTambién están las otras personas que habían comprado de ese rollo, aunque no podría contarte cada compra. Por eso sabía que se estaba acabando de manera normal."
+    },
+    {
+      "id": "T015",
+      "parrafos": [
+        "P024"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Quisiera proponerte un ejercicio verbal con esas personas. Si pensaras en el papel que tuvo cada una mediante una imagen, un objeto o una comparación, ¿qué se te ocurriría? No hace falta dibujarlo. Me interesa cómo lo explicarías tú."
+    },
+    {
+      "id": "T016",
+      "parrafos": [
+        "P025"
+      ],
+      "voz": "Participante",
+      "texto": "¿Una comparación con lo que hacen?"
+    },
+    {
+      "id": "T017",
+      "parrafos": [
+        "P026"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Sí, algo que para ti ayude a expresar su papel en esta situación."
+    },
+    {
+      "id": "T018",
+      "parrafos": [
+        "P027"
+      ],
+      "voz": "Participante",
+      "texto": "Quienes compran serían como un muestrario, pero uno que se va abriendo. Porque no llegan todas las peticiones al mismo tiempo. Una persona trae una prenda, otra sabe exactamente lo que quiere y otra nada más quiere ver qué hay. Me van mostrando usos que yo no tengo presentes todo el día."
+    },
+    {
+      "id": "T019",
+      "parrafos": [
+        "P028"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Qué parte de ese muestrario se abrió con la petición del elástico suave?"
+    },
+    {
+      "id": "T020",
+      "parrafos": [
+        "P029",
+        "P030"
+      ],
+      "voz": "Participante",
+      "texto": "Que no bastaba con que fuera blanco y del ancho que buscaba. Para esa persona también importaba mucho cómo se sentía. Eso me hizo fijarme en algo que, para esa compra, yo no había preguntado primero.\n\nPero tampoco quiere decir que a todas las personas les haya parecido duro el que tenemos. Otras lo compran sin decirme eso. De algunas sé para qué lo quieren porque me lo cuentan; de otras, no."
+    },
+    {
+      "id": "T021",
+      "parrafos": [
+        "P031"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿La petición te llevó a pensar que debías cambiar lo que vendías?"
+    },
+    {
+      "id": "T022",
+      "parrafos": [
+        "P032"
+      ],
+      "voz": "Participante",
+      "texto": "A preguntar, más bien. Cambiarlo habría sido dar un salto. Si trajera otro en lugar del de siempre, alguien podría decirme después que ese nuevo no le sirve igual. No tengo cómo saberlo con una sola conversación."
+    },
+    {
+      "id": "T023",
+      "parrafos": [
+        "P033"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Y la persona que comparte contigo la atención?"
+    },
+    {
+      "id": "T024",
+      "parrafos": [
+        "P034"
+      ],
+      "voz": "Participante",
+      "texto": "Un relevo. Como cuando alguien toma lo que sigue y tú puedes moverte."
+    },
+    {
+      "id": "T025",
+      "parrafos": [
+        "P035"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Ese relevo consiste en quedarse a atender o también interviene en lo que eliges comprar?"
+    },
+    {
+      "id": "T026",
+      "parrafos": [
+        "P036",
+        "P037"
+      ],
+      "voz": "Participante",
+      "texto": "En las dos cosas, aunque no siempre de la misma manera. Esa vez le dije que pensaba traer el elástico blanco y me comentó que también lo habían pedido para una cintura. Revisamos que habláramos del mismo ancho. Si yo digo nada más “el blanco”, hay varios.\n\nAdemás, cuando salgo no tengo que dejar decidido hasta el último detalle de lo que pase en el mostrador. La otra persona puede atender, medir, decir qué hay y qué no. Si necesita consultarme algo, lo hace, pero no es que espere mi respuesta para cada venta."
+    },
+    {
+      "id": "T027",
+      "parrafos": [
+        "P038"
+      ],
+      "voz": "Entrevistador",
+      "texto": "La comparación parece tener también esa idea de que ambas personas pueden continuar el trabajo."
+    },
+    {
+      "id": "T028",
+      "parrafos": [
+        "P039"
+      ],
+      "voz": "Participante",
+      "texto": "Sí. Y al regresar me toca a mí escuchar lo que pasó mientras no estaba. El relevo va para los dos lados."
+    },
+    {
+      "id": "T029",
+      "parrafos": [
+        "P040"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Qué comparación elegirías para quien te atendió al comprar?"
+    },
+    {
+      "id": "T030",
+      "parrafos": [
+        "P041"
+      ],
+      "voz": "Participante",
+      "texto": "Una bisagra."
+    },
+    {
+      "id": "T031",
+      "parrafos": [
+        "P042"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Cuéntame qué te hace pensar en ella."
+    },
+    {
+      "id": "T032",
+      "parrafos": [
+        "P043",
+        "P044"
+      ],
+      "voz": "Participante",
+      "texto": "Yo llego con una lista, pero ahí se abre o se cierra lo que puedo traer en esa vuelta. Esa persona me muestra lo que tiene, busca la referencia o me dice si no está. No decide lo que necesito para la mercería, pero sí conecta mi lista con la mercancía que puedo revisar.\n\nLo de bisagra también porque no es que me dé todo por hecho. Yo tengo que preguntar bien. Si pido “uno suave”, eso puede significar varias cosas."
+    },
+    {
+      "id": "T033",
+      "parrafos": [
+        "P045"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Y tú, dentro de esas relaciones?"
+    },
+    {
+      "id": "T034",
+      "parrafos": [
+        "P046"
+      ],
+      "voz": "Participante",
+      "texto": "Pues… un colador, quizá."
+    },
+    {
+      "id": "T035",
+      "parrafos": [
+        "P047"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿En qué sentido?"
+    },
+    {
+      "id": "T036",
+      "parrafos": [
+        "P048",
+        "P049"
+      ],
+      "voz": "Participante",
+      "texto": "Porque no todo lo que escucho se convierte en compra. Voy separando. Esto sí se está acabando; esto me lo preguntaron una vez; de esto ya tengo algo parecido. Y también tengo que ver qué cabe y cuánto puedo traer en esa compra.\n\nAunque el colador se queda corto porque yo también atiendo y vendo. Pero para esa decisión sí me sirve la comparación."
+    },
+    {
+      "id": "T037",
+      "parrafos": [
+        "P050"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Podemos dejarla ligada a esa decisión. Ahora sí, si reconstruimos el episodio, ¿dónde pondrías tú el comienzo?"
+    },
+    {
+      "id": "T038",
+      "parrafos": [
+        "P051"
+      ],
+      "voz": "Participante",
+      "texto": "En la revisión del rollo. La pregunta por la suavidad había ocurrido antes y la tenía anotada, pero la salida se empezó a organizar cuando vi cuánto quedaba."
+    },
+    {
+      "id": "T039",
+      "parrafos": [
+        "P052"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Adelante. Cuéntame desde ahí."
+    },
+    {
+      "id": "T040",
+      "parrafos": [
+        "P053",
+        "P054",
+        "P055"
+      ],
+      "voz": "Participante",
+      "texto": "Habíamos vendido otro corte y, antes de guardar el rollo, vi que ya era de los que tocaba reponer. Entonces lo puse en la lista. No anoté solamente “elástico”: puse el color y el ancho, y busqué la referencia que tenía guardada de la compra anterior.\n\nEn esa misma revisión vi los otros elásticos. No estaban todos igual de bajos. Por eso no se trataba de ir a llenar toda esa sección.\n\nDespués comenté la lista con la persona que atiende conmigo. Ella tenía anotadas otras cosas y juntamos lo que correspondía comprar en el mismo lugar. Lo que se consigue en otro lado quedó aparte. No necesariamente hago todas las compras en una salida."
+    },
+    {
+      "id": "T041",
+      "parrafos": [
+        "P056"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Al decir que “tocaba reponer”, ¿cómo lo reconociste? ¿Tienes una cantidad establecida?"
+    },
+    {
+      "id": "T042",
+      "parrafos": [
+        "P057",
+        "P058"
+      ],
+      "voz": "Participante",
+      "texto": "No una cantidad igual para todo. En ese elástico me fijo en lo que queda y en cuánto se ha estado cortando. Un rollo puede verse pequeño y todavía alcanzar para varias compras, pero también depende de los metros que pidan.\n\nTengo la costumbre de revisarlo antes de que quede el último pedazo. Esa vez, además de verlo, medí lo que quedaba porque lo tenía fuera. Me alcanzaba para seguir vendiendo mientras hacía la compra. No tuve que salir en ese momento."
+    },
+    {
+      "id": "T043",
+      "parrafos": [
+        "P059"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿La medida confirmó lo que ya pensabas o cambió algo?"
+    },
+    {
+      "id": "T044",
+      "parrafos": [
+        "P060"
+      ],
+      "voz": "Participante",
+      "texto": "Lo confirmó. Si hubiera quedado bastante más de lo que parecía, quizá lo dejaba para otra vuelta. Pero sí lo mantuve en la lista."
+    },
+    {
+      "id": "T045",
+      "parrafos": [
+        "P061"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Continúa con lo que hiciste después."
+    },
+    {
+      "id": "T046",
+      "parrafos": [
+        "P062",
+        "P063"
+      ],
+      "voz": "Participante",
+      "texto": "Revisé la referencia y dejé a un lado una muestra pequeña que conservamos. Para ese producto me sirve llevarla. A veces el ancho se ve parecido cuando te lo enseñan solo, y con la muestra puedo ponerlos juntos.\n\nLuego elegimos cuándo podía salir yo. Lo acomodamos con las cosas del negocio; no hubo algo especial. Antes de salir miré otra vez la lista y añadí la pregunta del elástico suave, pero separada de lo que iba a comprar."
+    },
+    {
+      "id": "T047",
+      "parrafos": [
+        "P064"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Cómo marcaste esa diferencia?"
+    },
+    {
+      "id": "T048",
+      "parrafos": [
+        "P065"
+      ],
+      "voz": "Participante",
+      "texto": "Puse “preguntar por más suave” al lado. Lo que sí tenía que traer llevaba su descripción. Así, al estar allá, no confundía una consulta con algo que ya habíamos acordado comprar."
+    },
+    {
+      "id": "T049",
+      "parrafos": [
+        "P066"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Hasta ese momento llevabas una lista, una referencia y una muestra. ¿Faltaba algo para decidir?"
+    },
+    {
+      "id": "T050",
+      "parrafos": [
+        "P067"
+      ],
+      "voz": "Participante",
+      "texto": "Faltaba ver lo que me ofrecieran y el precio de esa compra. Lo demás lo llevaba bastante claro."
+    },
+    {
+      "id": "T051",
+      "parrafos": [
+        "P068"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Qué ocurrió al llegar?"
+    },
+    {
+      "id": "T052",
+      "parrafos": [
+        "P069",
+        "P070"
+      ],
+      "voz": "Participante",
+      "texto": "Pedí primero el que ya conocía. Buscaron la referencia y me mostraron el rollo. Comparé la muestra, el ancho y cómo se estiraba. Después pregunté por otro más suave del mismo ancho.\n\nMe enseñaron uno que al tocarlo sí se sentía diferente. Lo estiré junto al otro. Ahí me detuve un rato porque una cosa es que se sienta suave entre los dedos y otra que responda como lo que la persona quería para su prenda. Yo no llevaba esa prenda ni sabía exactamente cómo iba a coserlo."
+    },
+    {
+      "id": "T053",
+      "parrafos": [
+        "P071"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Qué te dijeron sobre esa alternativa?"
+    },
+    {
+      "id": "T054",
+      "parrafos": [
+        "P072",
+        "P073"
+      ],
+      "voz": "Participante",
+      "texto": "Que era otra opción que tenían y me dieron su precio. Pregunté por la presentación en que lo vendían. Para llevarlo tenía que comprar más de lo que yo quería traer solo para conocerlo. Entonces no lo compré.\n\nSí anoté la referencia para no volver a empezar de cero si después me interesa. Y traje el que iba a reponer."
+    },
+    {
+      "id": "T055",
+      "parrafos": [
+        "P074"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿El precio fue lo que te hizo descartar el otro?"
+    },
+    {
+      "id": "T056",
+      "parrafos": [
+        "P075"
+      ],
+      "voz": "Participante",
+      "texto": "No por sí solo. Fue la cantidad que tenía que traer sin saber todavía si nos convenía tener los dos. El precio lo necesitaba conocer, claro, pero aunque hubiera sido parecido no quería añadir otro rollo completo únicamente por aquella pregunta."
+    },
+    {
+      "id": "T057",
+      "parrafos": [
+        "P076"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Entiendo. Había interpretado que estabas comparando cuál de los dos resultaba mejor para sustituir al anterior."
+    },
+    {
+      "id": "T058",
+      "parrafos": [
+        "P077"
+      ],
+      "voz": "Participante",
+      "texto": "No. A esas alturas seguía pensando en reponer el mismo. El otro era para conocerlo. Ya si después lo traigo, tendría que ver si van a convivir los dos o para qué ofrecería cada uno. Eso no lo resolví esa vez."
+    },
+    {
+      "id": "T059",
+      "parrafos": [
+        "P078"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Qué te dio suficiente confianza para comprar el de siempre?"
+    },
+    {
+      "id": "T060",
+      "parrafos": [
+        "P079",
+        "P080"
+      ],
+      "voz": "Participante",
+      "texto": "Que coincidía con la referencia y con la muestra, y que al revisarlo no encontré algo distinto que me hiciera dudar. También ya conozco cómo se maneja en el mostrador: lo medimos, lo cortamos, vemos cómo queda el borde. No era un material nuevo para mí.\n\nNo puedo decir que revisé todo el rollo. Revisé la parte que me mostraron. Con eso y la referencia me alcanzó para esa compra."
+    },
+    {
+      "id": "T061",
+      "parrafos": [
+        "P081"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Hubo algo del lugar donde compras que influyera en la decisión o en cómo organizaste la salida?"
+    },
+    {
+      "id": "T062",
+      "parrafos": [
+        "P082",
+        "P083"
+      ],
+      "voz": "Participante",
+      "texto": "En la salida, sí. Ahí consigo varias cosas de la lista. Hay otro lugar donde a veces compro, y no queda tan lejos de ese, pero no pasé en esta ocasión. Ya había encontrado lo que necesitaba.\n\nDesde el negocio tengo que apartar tiempo para ir, comprar y volver. Por eso junto artículos. No es solamente el rato del trayecto; a veces te atienden enseguida y a veces esperas. Pero esa vez fue una compra normal."
+    },
+    {
+      "id": "T063",
+      "parrafos": [
+        "P084"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿El hecho de tener otro lugar relativamente cerca hacía más fácil buscar el elástico suave?"
+    },
+    {
+      "id": "T064",
+      "parrafos": [
+        "P085"
+      ],
+      "voz": "Participante",
+      "texto": "Podía pasar a preguntar, sí. Pero que estuviera cerca no quería decir que tuviera que hacerlo. Yo llevaba pendiente regresar y ya había resuelto la reposición. No tenía un encargo confirmado del otro. Preferí dejar la consulta hasta ahí."
+    },
+    {
+      "id": "T065",
+      "parrafos": [
+        "P086"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Así que no elegiste el recorrido para encontrar todas las alternativas posibles."
+    },
+    {
+      "id": "T066",
+      "parrafos": [
+        "P087"
+      ],
+      "voz": "Participante",
+      "texto": "No. Fui por lo que ya había revisado. Si hubiera faltado ese elástico, entonces sí habría tenido sentido pasar al otro lugar. Sé llegar a ambos; para esa vuelta no necesitaba buscar cómo moverme."
+    },
+    {
+      "id": "T067",
+      "parrafos": [
+        "P088"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Y el lugar del negocio, dentro del barrio, tuvo algún papel en esa elección?"
+    },
+    {
+      "id": "T068",
+      "parrafos": [
+        "P089",
+        "P090"
+      ],
+      "voz": "Participante",
+      "texto": "En esa elección concreta, no sabría decirte que tuvo uno directo. Quienes compran llegan porque les queda cerca, porque pasan o porque ya saben lo que vendemos; algunas personas me lo han dicho. Pero de ahí no puedo sacar qué elástico va a querer cada quien.\n\nPara decidir cuánto reponer me sirve más ver lo que sale del mostrador que pensar en toda la zona."
+    },
+    {
+      "id": "T069",
+      "parrafos": [
+        "P091"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Me ayuda esa distinción. Volvamos al momento en que regresaste con la mercancía."
+    },
+    {
+      "id": "T070",
+      "parrafos": [
+        "P092",
+        "P093"
+      ],
+      "voz": "Participante",
+      "texto": "Al regresar no guardé todo inmediatamente. Primero revisé lo que traía contra la lista y separé las cosas por sección. Con el elástico vimos el nuevo rollo y le conté a la otra persona que sí había preguntado por uno más suave, pero que no lo había comprado.\n\nTambién dejé la referencia de esa alternativa junto a la nota. Si alguien volvía a preguntar, no quería que se dijera que ya lo teníamos. Una cosa es haberlo visto y otra tenerlo para vender."
+    },
+    {
+      "id": "T071",
+      "parrafos": [
+        "P094"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Cómo quedó acomodado el rollo nuevo?"
+    },
+    {
+      "id": "T072",
+      "parrafos": [
+        "P095",
+        "P096"
+      ],
+      "voz": "Participante",
+      "texto": "Guardado con los de ese ancho, y el que ya estaba abierto siguió al frente para terminarlo primero. No mezclamos los dos pedazos en un mismo rollo. Parece un detalle, pero así sabemos qué estamos cortando.\n\nLa muestra del que vendemos se quedó donde la tenemos. No cambié toda la sección ni hice un letrero nuevo porque era reposición del mismo artículo."
+    },
+    {
+      "id": "T073",
+      "parrafos": [
+        "P097"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Ahí terminó el episodio para ti?"
+    },
+    {
+      "id": "T074",
+      "parrafos": [
+        "P098"
+      ],
+      "voz": "Participante",
+      "texto": "La compra, sí. Pero si estamos contando la reposición completa, yo lo llevaría hasta que empezamos a vender del nuevo rollo."
+    },
+    {
+      "id": "T075",
+      "parrafos": [
+        "P099"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Podemos seguir hasta donde tú consideres que se completa."
+    },
+    {
+      "id": "T076",
+      "parrafos": [
+        "P100",
+        "P101"
+      ],
+      "voz": "Participante",
+      "texto": "Primero se terminó el anterior. Quedó un pedazo corto que apartamos con los recortes; no lo contamos como si fuera un rollo disponible para cualquier medida. Después abrimos el nuevo para una venta.\n\nAl cortarlo pude comprobar otra vez cómo se manejaba. No noté una diferencia con el anterior. Ahí ya sentí que estaba incorporado a lo que vendemos. No esperé a que se vendiera entero para dar por terminada la reposición."
+    },
+    {
+      "id": "T077",
+      "parrafos": [
+        "P102"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿La persona que había preguntado por uno más suave volvió durante ese recorrido?"
+    },
+    {
+      "id": "T078",
+      "parrafos": [
+        "P103"
+      ],
+      "voz": "Participante",
+      "texto": "No, hasta ese momento no había vuelto. No sé si el corte que se llevó le sirvió o si consiguió otra cosa."
+    },
+    {
+      "id": "T079",
+      "parrafos": [
+        "P104"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Entonces no hubo una comprobación con esa persona sobre la alternativa."
+    },
+    {
+      "id": "T080",
+      "parrafos": [
+        "P105"
+      ],
+      "voz": "Participante",
+      "texto": "No. Esa parte quedó abierta. Y tampoco tengo que suponer que sigue esperando que yo lo consiga."
+    },
+    {
+      "id": "T081",
+      "parrafos": [
+        "P106"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Si quisieras contar este recorrido en partes, con nombres tuyos, ¿cómo lo separarías?"
+    },
+    {
+      "id": "T082",
+      "parrafos": [
+        "P107",
+        "P108",
+        "P109",
+        "P110"
+      ],
+      "voz": "Participante",
+      "texto": "Primero, “ver qué hace falta”. Ahí pondría revisar el rollo y hablar de lo que habíamos vendido.\n\nLuego, “armar la vuelta”: juntar la lista, llevar la muestra y decidir cuándo salir.\n\nDespués, “escoger allá”. Porque aunque lleve la lista, tengo que revisar lo que me dan, preguntar y decidir qué sí traigo.\n\nY al final, “dejarlo listo para vender”. Ahí entran revisar al regresar, acomodar y contarle a la otra persona."
+    },
+    {
+      "id": "T083",
+      "parrafos": [
+        "P111"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Habías dicho que para ti la reposición se completa cuando empiezan a vender del rollo nuevo. ¿Eso queda dentro de “dejarlo listo para vender” o lo pondrías en otra parte?"
+    },
+    {
+      "id": "T084",
+      "parrafos": [
+        "P112"
+      ],
+      "voz": "Participante",
+      "texto": "Tienes razón, con ese nombre parece que termina al guardarlo. Le pondría “acomodarlo y empezar a usarlo”. Usarlo nosotros, digo, para despachar. Así sí llega hasta el primer corte del nuevo."
+    },
+    {
+      "id": "T085",
+      "parrafos": [
+        "P113"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Quedaría: “ver qué hace falta”, “armar la vuelta”, “escoger allá” y “acomodarlo y empezar a usarlo”."
+    },
+    {
+      "id": "T086",
+      "parrafos": [
+        "P114"
+      ],
+      "voz": "Participante",
+      "texto": "Sí. Aunque no todo espera a que termine una parte. Mientras reviso una cosa puedo estar anotando otra para una compra futura. La lista no se hace completa de una sentada."
+    },
+    {
+      "id": "T087",
+      "parrafos": [
+        "P115"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Dónde colocarías la petición inicial del elástico más suave?"
+    },
+    {
+      "id": "T088",
+      "parrafos": [
+        "P116"
+      ],
+      "voz": "Participante",
+      "texto": "Como algo que ya venía de antes y que metí al armar la vuelta. No fue lo que inició la reposición. Si no me hubieran hecho esa pregunta, de todos modos habría comprado el rollo que se estaba terminando."
+    },
+    {
+      "id": "T089",
+      "parrafos": [
+        "P117"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Este recorrido suele hacerse igual?"
+    },
+    {
+      "id": "T090",
+      "parrafos": [
+        "P118",
+        "P119"
+      ],
+      "voz": "Participante",
+      "texto": "Se parece, pero no siempre llevo muestra. En algunos artículos la referencia me basta. Y hay cosas que no repongo de inmediato aunque se acaben, porque casi no se han pedido o porque ya tengo otra opción que cumple lo mismo.\n\nTampoco siempre voy yo. Si va la otra persona, dejamos clara la lista y luego me cuenta qué encontró. Lo que necesita más comparación lo hablamos antes."
+    },
+    {
+      "id": "T091",
+      "parrafos": [
+        "P120"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Qué pasa si al estar comprando aparece una duda que no puedes resolver ahí?"
+    },
+    {
+      "id": "T092",
+      "parrafos": [
+        "P121",
+        "P122"
+      ],
+      "voz": "Participante",
+      "texto": "Depende de la duda. Si no estoy recordando bien el ancho, puedo consultar lo que quedó en el negocio. Si lo que me ofrecen se ve diferente y no sé si nos sirve, puedo dejarlo pendiente.\n\nNo todo tiene que salir resuelto de esa compra. Pero si es algo que sí necesitamos reponer, busco primero si hay el mismo en el otro lugar. Ya después decido si vale la pena probar otro. Eso no ocurrió con el rollo que estamos contando."
+    },
+    {
+      "id": "T093",
+      "parrafos": [
+        "P123"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Quisiera volver a la decisión de traer el mismo. ¿Qué necesitabas saber, concretamente, para tomarla?"
+    },
+    {
+      "id": "T094",
+      "parrafos": [
+        "P124",
+        "P125"
+      ],
+      "voz": "Participante",
+      "texto": "Cuánto nos quedaba, cuál era exactamente el que teníamos y si allá había el mismo. También cuánto costaba en esa ocasión y cuánto tenía que comprar. Con eso podía decidir.\n\nLo de que se estuviera vendiendo no lo saqué de un cálculo especial. Lo habíamos estado despachando las dos personas y veíamos bajar el rollo. Cuando tuve que precisar lo que quedaba, lo medí."
+    },
+    {
+      "id": "T095",
+      "parrafos": [
+        "P126"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Dónde estaba cada una de esas cosas que necesitabas saber?"
+    },
+    {
+      "id": "T096",
+      "parrafos": [
+        "P127",
+        "P128"
+      ],
+      "voz": "Participante",
+      "texto": "La cantidad que quedaba, en el rollo; la descripción y la referencia, en la nota de compra anterior y en la muestra. Lo de las ventas, en lo que recordábamos y habíamos anotado cuando hacía falta. El precio y la disponibilidad de la nueva compra los supe allá.\n\nNo tengo todo junto en una sola hoja. Para esa reposición tampoco me hizo falta."
+    },
+    {
+      "id": "T097",
+      "parrafos": [
+        "P129"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Cómo distingues lo que recuerdas con claridad de algo que conviene comprobar?"
+    },
+    {
+      "id": "T098",
+      "parrafos": [
+        "P130",
+        "P131"
+      ],
+      "voz": "Participante",
+      "texto": "Si lo voy a usar para pedir un artículo, prefiero mirar. Puedo acordarme de que era “el mediano”, pero esa palabra no le dice lo mismo a todo el mundo. Por eso reviso el ancho o la referencia.\n\nPara saber si vale la pena revisar el rollo, la memoria me ayuda. Para pedirlo, ya quiero algo más concreto."
+    },
+    {
+      "id": "T099",
+      "parrafos": [
+        "P132"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Y la información de quien te vende tiene el mismo peso en todo?"
+    },
+    {
+      "id": "T100",
+      "parrafos": [
+        "P133",
+        "P134"
+      ],
+      "voz": "Participante",
+      "texto": "No. Si me dice qué presentación tiene o cuánto cuesta, eso corresponde a lo que me está vendiendo. Si hablamos de cómo va a quedar en una prenda, yo también tengo que considerar lo que no estamos viendo.\n\nEsa vez pude tocar el otro elástico y notar que se sentía más suave. Eso sí lo vi. Que fuera el adecuado para la persona que me preguntó, eso no lo podía saber."
+    },
+    {
+      "id": "T101",
+      "parrafos": [
+        "P135"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Qué habría hecho que la información fuera insuficiente para reponer el de siempre?"
+    },
+    {
+      "id": "T102",
+      "parrafos": [
+        "P136",
+        "P137"
+      ],
+      "voz": "Participante",
+      "texto": "Que no coincidiera la referencia o que al compararlo encontrara una diferencia que no me supieran explicar. También que no estuviera claro qué cantidad me estaban ofreciendo. En ese caso no lo habría comprado como si fuera el mismo.\n\nPero no pasó. Lo que tenía me alcanzó para seguir."
+    },
+    {
+      "id": "T103",
+      "parrafos": [
+        "P138"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Hasta aquí hemos hablado de lo que usaste realmente. Ahora te propongo imaginar otra situación: si pudieras saber algo más para organizar una compra parecida, aunque no conozcas una fuente que lo ofrezca, ¿qué te gustaría saber? También puede ser que para alguna parte ya tengas suficiente."
+    },
+    {
+      "id": "T104",
+      "parrafos": [
+        "P139",
+        "P140"
+      ],
+      "voz": "Participante",
+      "texto": "Para reponer ese rollo, tenía suficiente. Donde sí me gustaría saber más es con los materiales que todavía no conozco bien. Por ejemplo, cómo queda ese otro elástico después de coserlo y usarlo, no nada más cómo se siente cuando está nuevo.\n\nMe gustaría poder comparar eso antes de traer una cantidad grande."
+    },
+    {
+      "id": "T105",
+      "parrafos": [
+        "P141"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Cuando dices “cómo queda”, ¿qué te gustaría poder ver?"
+    },
+    {
+      "id": "T106",
+      "parrafos": [
+        "P142",
+        "P143"
+      ],
+      "voz": "Participante",
+      "texto": "Si sigue recuperando su forma, si se enrolla dentro de la tela, si al estirarlo se pone tieso. Y en qué lo probaron, porque no es igual verlo suelto que dentro de una cintura.\n\nNo te digo que al nuevo le pase algo de eso. No lo sé. Justamente, lo que vi en el mostrador de quien me vende no me permite contar cómo se comporta después."
+    },
+    {
+      "id": "T107",
+      "parrafos": [
+        "P144"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Qué decisión te permitiría tomar ese conocimiento?"
+    },
+    {
+      "id": "T108",
+      "parrafos": [
+        "P145",
+        "P146"
+      ],
+      "voz": "Participante",
+      "texto": "Decidir si vale la pena traerlo para probarlo en el negocio y cómo explicarlo cuando alguien compare los dos. Quizá descubro que para lo que nos piden no aporta tanto. O que sí conviene tener una pequeña cantidad.\n\nNo me resolvería por sí solo cuánto se va a vender. Eso lo tendría que ir viendo."
+    },
+    {
+      "id": "T109",
+      "parrafos": [
+        "P147"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Imagina que puedes tener esa información organizada como a ti te acomode. ¿Cómo sería ese espacio y qué harías primero al consultarlo?"
+    },
+    {
+      "id": "T110",
+      "parrafos": [
+        "P148",
+        "P149"
+      ],
+      "voz": "Participante",
+      "texto": "Yo lo imagino como un cuaderno de muestras. Que pueda tener el pedacito de elástico y, junto, lo que se sabe de ese mismo. No pondría todos los blancos en una página solo por ser blancos; juntaría primero los del mismo ancho para poder comparar.\n\nAl abrirlo buscaría el que ya vendemos. Lo pondría al lado del que estoy considerando y vería qué diferencia tiene y qué pruebas hay. Si tengo que ir pasando por muchas cosas que no vienen al caso, acabaría sacando mis muestras como siempre."
+    },
+    {
+      "id": "T111",
+      "parrafos": [
+        "P150"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Qué habría junto a cada muestra?"
+    },
+    {
+      "id": "T112",
+      "parrafos": [
+        "P151",
+        "P152"
+      ],
+      "voz": "Participante",
+      "texto": "La referencia para volver a pedirla, dónde la vi y una nota clara de lo que se hizo con ella. Por ejemplo, si solo se tocó y estiró o si alguien la cosió en una tela. Si hubo lavado, también tendría que decirlo. No me serviría una frase de “sale muy bueno” sin saber qué hicieron.\n\nY si hay una foto, que permita ver algo. Pero para la suavidad preferiría tener el pedazo en la mano."
+    },
+    {
+      "id": "T113",
+      "parrafos": [
+        "P153"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Quién tendría que aportar lo que aparece ahí?"
+    },
+    {
+      "id": "T114",
+      "parrafos": [
+        "P154",
+        "P155"
+      ],
+      "voz": "Participante",
+      "texto": "No lo tengo resuelto. Algunas cosas las podría revisar yo con una muestra. Otras me las podría contar quien sí la haya usado. En ese caso pondría que esa fue su experiencia, porque yo no la vi.\n\nLo ideal que estoy imaginando es tener esa comparación antes de comprar el rollo. Ahora no tengo ese cuaderno hecho para todos los materiales ni sé quién podría darme todas esas pruebas."
+    },
+    {
+      "id": "T115",
+      "parrafos": [
+        "P156"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Necesitarías que estuvieran todos los artículos de la mercería para que te sirviera?"
+    },
+    {
+      "id": "T116",
+      "parrafos": [
+        "P157"
+      ],
+      "voz": "Participante",
+      "texto": "No. Empezaría con ese par de elásticos, si de verdad voy a decidir entre ellos. Si me pongo a juntar cosas de todo lo que vendo, ya sería otro trabajo."
+    },
+    {
+      "id": "T117",
+      "parrafos": [
+        "P158"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Has mencionado “dónde la vi”. ¿Cómo querrías reconocer ese lugar dentro del cuaderno?"
+    },
+    {
+      "id": "T118",
+      "parrafos": [
+        "P159",
+        "P160"
+      ],
+      "voz": "Participante",
+      "texto": "Con el nombre o la referencia que yo uso para saber dónde comprarla. También pondría si es una muestra que traje de ahí o algo que alguien me enseñó. Para esos lugares no necesito un mapa; sé dónde están.\n\nSi fuera un lugar nuevo, entonces sí tendría que averiguar cómo llegar y en qué momento puedo ir. Pero eso lo consultaría cuando hiciera falta. Para comparar los elásticos, lo principal sería la muestra."
+    },
+    {
+      "id": "T119",
+      "parrafos": [
+        "P161"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Qué parte de ese cuaderno te serviría más al principio?"
+    },
+    {
+      "id": "T120",
+      "parrafos": [
+        "P162"
+      ],
+      "voz": "Participante",
+      "texto": "Poder ver el material conocido junto al otro y saber qué se comprobó de cada uno. La referencia sola ya la anoté; lo que me falta de la alternativa es conocerla más allá de tocarla un momento."
+    },
+    {
+      "id": "T121",
+      "parrafos": [
+        "P163"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Y cómo te darías cuenta de que ese espacio sí te ayuda?"
+    },
+    {
+      "id": "T122",
+      "parrafos": [
+        "P164",
+        "P165"
+      ],
+      "voz": "Participante",
+      "texto": "Si cuando vuelva a considerar comprarlo puedo decir por qué quiero probarlo o por qué prefiero dejarlo. Algo concreto, como “este lo vi cosido y se comportó así”, en vez de acordarme nada más de que se sentía suave.\n\nLuego tendría que coincidir con lo que encuentre al usar la muestra o al empezar a venderlo. Si las notas no me ayudan a distinguir nada, no tendría sentido seguir llenándolas."
+    },
+    {
+      "id": "T123",
+      "parrafos": [
+        "P166"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Serviría también para recomendarlo a quien compra?"
+    },
+    {
+      "id": "T124",
+      "parrafos": [
+        "P167",
+        "P168"
+      ],
+      "voz": "Participante",
+      "texto": "Serviría para explicar mejor lo que sé. Recomendarlo dependería de lo que busque esa persona. No le diría que es el indicado para cualquier prenda solo porque tenga una página en el cuaderno.\n\nA veces lo más útil es poner las dos muestras y que la persona las toque. Hay quien ya tiene muy claro lo que necesita."
+    },
+    {
+      "id": "T125",
+      "parrafos": [
+        "P169"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Qué conservarías de tu manera actual de trabajar, aun si pudieras tener ese cuaderno ideal?"
+    },
+    {
+      "id": "T126",
+      "parrafos": [
+        "P170",
+        "P171"
+      ],
+      "voz": "Participante",
+      "texto": "Las muestras en la mano, hablar con la persona que comparte el mostrador y revisar físicamente lo que queda. También seguiría separando lo que sí voy a comprar de lo que solamente quiero preguntar.\n\nNo dejaría de escuchar a quien llega con su prenda. Ahí aparece un detalle que no estaba en mi lista, como pasó con la suavidad."
+    },
+    {
+      "id": "T127",
+      "parrafos": [
+        "P172"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿El cuaderno cambiaría la compra que reconstruimos?"
+    },
+    {
+      "id": "T128",
+      "parrafos": [
+        "P173",
+        "P174"
+      ],
+      "voz": "Participante",
+      "texto": "Tal vez me habría ayudado con la consulta del otro elástico, si hubiera tenido esa información. Pero no puedo decirte que lo habría comprado. La cantidad que tenía que traer seguía siendo parte de la decisión.\n\nEl rollo de siempre lo habría repuesto igual."
+    },
+    {
+      "id": "T129",
+      "parrafos": [
+        "P175"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Quiero comprobar algo de las comparaciones que elegiste antes. Cuando hablabas de ti como un colador, ¿dejar pasar la petición del elástico suave significaba descartarla?"
+    },
+    {
+      "id": "T130",
+      "parrafos": [
+        "P176",
+        "P177"
+      ],
+      "voz": "Participante",
+      "texto": "No, dejarla aparte. La conservé como pregunta, solo que no la puse al mismo nivel que reponer lo que ya estaba vendiendo.\n\nQuizá “colador” suena a que unas cosas se tiran y otras se quedan. No lo pensaba así. Hay cosas que esperan. Esa referencia del otro elástico la guardé."
+    },
+    {
+      "id": "T131",
+      "parrafos": [
+        "P178"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Entonces la comparación te sirve para expresar que distingues qué hacer con cada cosa, aunque algunas queden pendientes."
+    },
+    {
+      "id": "T132",
+      "parrafos": [
+        "P179"
+      ],
+      "voz": "Participante",
+      "texto": "Sí, así está mejor."
+    },
+    {
+      "id": "T133",
+      "parrafos": [
+        "P180"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Y con la persona que atiende contigo, cómo se conserva ese pendiente? Me refiero a que no dependa únicamente de que tú lo recuerdes."
+    },
+    {
+      "id": "T134",
+      "parrafos": [
+        "P181"
+      ],
+      "voz": "Participante",
+      "texto": "Dejé la nota y se lo conté al regresar. Si vuelve a salir la pregunta, cualquiera de las dos personas puede ubicar qué fue lo que averigüé. Pero no quedamos en preguntarles a todos los clientes si quieren otro elástico. Tampoco hicimos de eso una tarea diaria."
+    },
+    {
+      "id": "T135",
+      "parrafos": [
+        "P182"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Hay algo que quisiera ajustar de lo que he venido entendiendo. Al principio pensé que la petición de una persona había orientado toda la compra. Ahora veo que la compra se sostuvo principalmente en revisar y reponer una mercancía que ya conocías, y que esa petición abrió una consulta adicional."
+    },
+    {
+      "id": "T136",
+      "parrafos": [
+        "P183"
+      ],
+      "voz": "Participante",
+      "texto": "Sí. Porque si contamos todo desde la pregunta de lo suave, parece que yo salí a buscarle algo a esa persona. Y no fue así."
+    },
+    {
+      "id": "T137",
+      "parrafos": [
+        "P184"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Hay alguna otra parte que haya entendido mal o que te falte contar para explicar cómo trabajas?"
+    },
+    {
+      "id": "T138",
+      "parrafos": [
+        "P185",
+        "P186"
+      ],
+      "voz": "Participante",
+      "texto": "Quizá que estar pendiente de lo que se acaba no significa mirar solamente lo que más se vende. Hay cosas que se mueven poco y de todos modos conviene tener, porque quien las busca necesita esa pieza y no otra.\n\nPero eso no lo decidí en esta compra del elástico. Ahí sí estaba reponiendo algo que sale con regularidad."
+    },
+    {
+      "id": "T139",
+      "parrafos": [
+        "P187"
+      ],
+      "voz": "Entrevistador",
+      "texto": "¿Cómo reconoces esas otras cosas que conviene conservar aunque se muevan poco?"
+    },
+    {
+      "id": "T140",
+      "parrafos": [
+        "P188",
+        "P189"
+      ],
+      "voz": "Participante",
+      "texto": "Por las ocasiones en que las han pedido y por el lugar que ocupan entre lo que vendemos. Un botón especial puede tardar en salir y ocupar muy poco espacio. Otro artículo puede ocupar más y tener alternativas. Lo miro distinto.\n\nNo tengo una sola regla para toda la mercería. Por eso, cuando me preguntaste por el día de trabajo, pensé en contarte una compra concreta. Si digo nada más “reviso y repongo”, se pierde todo eso."
+    },
+    {
+      "id": "T141",
+      "parrafos": [
+        "P190"
+      ],
+      "voz": "Entrevistador",
+      "texto": "El ejemplo permitió ver esas diferencias. Antes de terminar, te dejo espacio para un último matiz."
+    },
+    {
+      "id": "T142",
+      "parrafos": [
+        "P191"
+      ],
+      "voz": "Participante",
+      "texto": "Que preguntar por algo tampoco me obliga a cambiar de inmediato. Me sirve saber que existe, guardar la referencia y seguir trabajando. Esta vez regresé con lo que necesitábamos y con un dato más sobre otra opción. Para mí estuvo bien así."
+    },
+    {
+      "id": "T143",
+      "parrafos": [
+        "P192"
+      ],
+      "voz": "Entrevistador",
+      "texto": "Gracias por explicarlo y por corregir lo que fui interpretando. Con eso cerramos la conversación."
+    },
+    {
+      "id": "T144",
+      "parrafos": [
+        "P193"
+      ],
+      "voz": "Participante",
+      "texto": "Gracias a ti."
+    }
+  ]
+}

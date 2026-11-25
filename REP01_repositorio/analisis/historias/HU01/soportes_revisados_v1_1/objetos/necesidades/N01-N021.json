@@ -1,0 +1,212 @@
+{
+  "id": "N01-N021",
+  "titulo": "Consulta recuperable y estado real de la alternativa",
+  "enunciado": "La persona que atiende y compra para la mercería necesita conocer qué se averiguó, cuál es su referencia y que se vio pero no se compró ni quedó encargada, para permitir que cualquiera de las dos personas del mostrador retome la pregunta sin anunciar una existencia falsa, en el contexto de reposición y atención de una mercería de barrio.",
+  "actores": [
+    "ACT01-A019"
+  ],
+  "entrevistas": [
+    "E04"
+  ],
+  "contexto": "Desde revisar el rollo reducido hasta el primer despacho del nuevo; petición de suavidad es antecedente.",
+  "decision": "Permitir que cualquiera de las dos personas del mostrador retome la pregunta sin anunciar una existencia falsa",
+  "objeto_informacion": "qué se averiguó, cuál es su referencia y que se vio pero no se compró ni quedó encargada",
+  "tipo": "NECESIDAD_ACTUAL",
+  "estado_actual": "ATENDIDA_EN_EPISODIO",
+  "informacion_actual": "Dejó referencia junto a la nota y lo contó al regresar; cualquiera puede ubicar lo averiguado si vuelve a surgir.",
+  "faltante_o_deseada": "No hay una falta de registro declarada ni tarea diaria de consultar a toda clientela; la posibilidad espera.",
+  "condiciones_y_limites": "No retorno de quien preguntó no significa abandono, satisfacción ni que siga esperando un encargo.",
+  "soportes_mencionados": [
+    "Nota",
+    "Referencia guardada",
+    "Conversación al regresar"
+  ],
+  "conservar": [
+    "Relevo recíproco",
+    "No confundir visto y disponible",
+    "Consulta que puede esperar"
+  ],
+  "evidencias": [
+    "N01-V0210",
+    "N01-V0222",
+    "N01-V0214",
+    "N01-V0223",
+    "N01-V0224",
+    "N01-V0225",
+    "N01-V0226",
+    "N01-V0227",
+    "N01-V0228"
+  ],
+  "evidencia_que_limita": [
+    "N01-V0219",
+    "N01-V0220",
+    "N01-V0229"
+  ],
+  "razon_sin_contraevidencia": null,
+  "contexto_elicitacion": "La separación aparece en el relato de P17 y P63-P65. P180 sugiere que el pendiente no dependa solo de memoria: P181 responde con la práctica de nota y conversación, y acota que no es tarea diaria.",
+  "codigos_comunes": [
+    "C054",
+    "C045",
+    "C047",
+    "C050"
+  ],
+  "hallazgos_s01": [
+    "S01-H007",
+    "S01-H014"
+  ],
+  "componentes_p01": [
+    "P01-E04-N004",
+    "P01-E04-N008",
+    "P01-E04-N011",
+    "P01-E04-N015"
+  ],
+  "preferencias_act01": [
+    "ACT01-PR018"
+  ],
+  "variantes_por_caso": [],
+  "vinculo_territorial": {
+    "tipo": "NO_CARTOGRAFICO_DIRECTO",
+    "razon": "El contenido es estado comercial y pendiente compartido, sin localización directa.",
+    "evidencias": [
+      "N01-V0210",
+      "N01-V0222"
+    ],
+    "limites": "La pertinencia del lugar no demuestra necesidad de coordenadas o de un mapa. Negocio y proveedores no identificados; el perfil no es especialista cartográfico ni productor público. No hay prueba de costura o lavado ni resultado de la clienta conocidos."
+  },
+  "vinculos_sectoriales": [
+    {
+      "sector": "PRIVADO",
+      "actividad": "Reposición y atención de una mercería de barrio",
+      "iniciativa": null,
+      "estatus_iniciativa": "ACTIVIDAD_RELATADA_SIN_NOMBRE_FORMAL",
+      "nexo": "USO_PRIVADO",
+      "razon": "La decisión corresponde al surtido y atención de un comercio; cercanía barrial no demuestra iniciativa pública.",
+      "evidencias": [
+        "N01-V0347",
+        "N01-V0210",
+        "N01-V0222"
+      ],
+      "limites": "No se identificó programa público que origine esta necesidad. Negocio y proveedores no identificados; el perfil no es especialista cartográfico ni productor público. No hay prueba de costura o lavado ni resultado de la clienta conocidos."
+    }
+  ],
+  "verificacion": [
+    {
+      "id": "N01-K021",
+      "observable": "Al retomar la nota se distingue lo conocido de la alternativa, su ausencia en existencias y la falta de un pedido confirmado.",
+      "metodo": "Cotejar nota y comunicación del regreso si se aportan; revisar la explicación que ambas podrían recuperar en una comprobación futura sin generar una nueva entrevista aquí.",
+      "origen": "PROPUESTA_ANALITICA",
+      "estado": "PROPUESTA_NO_EJECUTADA",
+      "evidencias": [
+        "N01-V0210",
+        "N01-V0222",
+        "N01-V0214",
+        "N01-V0223",
+        "N01-V0224",
+        "N01-V0225",
+        "N01-V0226",
+        "N01-V0227",
+        "N01-V0228"
+      ],
+      "limites": "Comprobación futura; no se ejecutó ni acredita aceptación humana. No se fijan umbrales numéricos. No retorno de quien preguntó no significa abandono, satisfacción ni que siga esperando un encargo.",
+      "desglose_origen": {
+        "observable": "PROPUESTA_ANALITICA",
+        "operacionalizacion_metodo": "PROPUESTA_ANALITICA",
+        "aceptacion": "NO_RECABADA"
+      }
+    }
+  ],
+  "prioridad": {
+    "ambito": "E04",
+    "nivel": "MEDIA",
+    "origen": "ANALISIS_CONDICIONAL",
+    "criterios": [
+      "N01-CP001",
+      "N01-CP002",
+      "N01-CP003",
+      "N01-CP004"
+    ],
+    "razon": "Conserva una opción útil sin prometer compra ni seguimiento; depende de la consulta previa y apoya la continuidad del mostrador.",
+    "comparables": [
+      "N01-N024"
+    ],
+    "limites": "Orden parcial dentro de esta actividad. No compara importancia urbana ni factibilidad técnica; evidencia más sólida no equivale a más impacto. Comparar distingue dependencias y momentos; las necesidades no son sustitutos y se admiten empates. En ideales frente a actuales, el nivel se lee dentro de su modalidad."
+  },
+  "importancia_expresada": "No hay priorización comparable explícita de esta pieza por la persona. El nivel asignado es del análisis.",
+  "pertinencia_diseno_posterior": "PENDIENTE: revisar con usuarios y encargo; la legitimidad de la necesidad no prescribe un soporte ni su incorporación a un visor.",
+  "factibilidad": "NO_DETERMINADA",
+  "incognitas": [
+    "No consta retorno de cliente ni uso posterior de la nota."
+  ],
+  "enlaces_codigos_asignados": [
+    {
+      "codigo": "C054",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R04-S010",
+        "R04-S054",
+        "R04-S071",
+        "R04-S072",
+        "R04-S141",
+        "R04-S142",
+        "R04-S143",
+        "R04-S144",
+        "R04-S150"
+      ],
+      "evidencias": [
+        "N01-V0210",
+        "N01-V0214",
+        "N01-V0223",
+        "N01-V0224",
+        "N01-V0225",
+        "N01-V0226",
+        "N01-V0227",
+        "N01-V0228"
+      ]
+    },
+    {
+      "codigo": "C045",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R04-S010",
+        "R04-S046",
+        "R04-S080",
+        "R04-S141",
+        "R04-S144",
+        "R04-S145",
+        "R04-S150"
+      ],
+      "evidencias": [
+        "N01-V0210",
+        "N01-V0222",
+        "N01-V0225",
+        "N01-V0227",
+        "N01-V0228",
+        "N01-V0220",
+        "N01-V0229"
+      ]
+    },
+    {
+      "codigo": "C047",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R04-S071",
+        "R04-S143"
+      ],
+      "evidencias": [
+        "N01-V0223",
+        "N01-V0227"
+      ]
+    },
+    {
+      "codigo": "C050",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R04-S009"
+      ],
+      "evidencias": [
+        "N01-V0210"
+      ]
+    }
+  ],
+  "codigos_contextuales": []
+}

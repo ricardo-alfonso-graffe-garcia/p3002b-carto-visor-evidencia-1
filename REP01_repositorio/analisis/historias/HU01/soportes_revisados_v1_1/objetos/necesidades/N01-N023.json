@@ -1,0 +1,272 @@
+{
+  "id": "N01-N023",
+  "titulo": "Desempeño comparado tras coser y usar el material",
+  "enunciado": "La persona que atiende y compra para la mercería necesita conocer cómo se comportan el conocido y la alternativa tras coser y usar, qué se probó en qué contexto y de dónde viene ese conocimiento, para decidir si vale la pena probar una cantidad y explicar lo que sabe al comparar las opciones, en el contexto de reposición y atención de una mercería de barrio.",
+  "actores": [
+    "ACT01-A019"
+  ],
+  "entrevistas": [
+    "E04"
+  ],
+  "contexto": "Desde revisar el rollo reducido hasta el primer despacho del nuevo; petición de suavidad es antecedente.",
+  "decision": "Decidir si vale la pena probar una cantidad y explicar lo que sabe al comparar las opciones",
+  "objeto_informacion": "cómo se comportan el conocido y la alternativa tras coser y usar, qué se probó en qué contexto y de dónde viene ese conocimiento",
+  "tipo": "DESEO_IDEAL",
+  "estado_actual": "NO_APLICA_AL_IDEAL",
+  "informacion_actual": "Conoce el manejo del actual y observó tacto y estiramiento del otro; tiene referencia de alternativa pero no pruebas posteriores disponibles.",
+  "faltante_o_deseada": "Desea ver recuperación, enrollamiento o rigidez según contexto; comparar el par del mismo ancho antes de comprar gran cantidad. Son preguntas, no defectos constatados.",
+  "condiciones_y_limites": "Fuente de todas las pruebas no resuelta. No predice ventas ni recomienda para cualquier prenda. Cantidad adquirible sigue limitando incluso si conoce más.",
+  "soportes_mencionados": [
+    "Cuaderno tangible de muestras imaginado",
+    "Par del mismo ancho",
+    "Notas de qué se hizo",
+    "Foto solo si permite ver algo"
+  ],
+  "conservar": [
+    "Muestras en mano para suavidad",
+    "Escuchar a quien llega con prenda",
+    "Distinguir experiencia relatada de prueba propia"
+  ],
+  "evidencias": [
+    "N01-V0237",
+    "N01-V0238",
+    "N01-V0239",
+    "N01-V0240",
+    "N01-V0241",
+    "N01-V0242",
+    "N01-V0243",
+    "N01-V0244",
+    "N01-V0245",
+    "N01-V0246",
+    "N01-V0247",
+    "N01-V0248",
+    "N01-V0249",
+    "N01-V0250",
+    "N01-V0251",
+    "N01-V0252",
+    "N01-V0253",
+    "N01-V0254"
+  ],
+  "evidencia_que_limita": [
+    "N01-V0221",
+    "N01-V0255",
+    "N01-V0217",
+    "N01-V0209"
+  ],
+  "razon_sin_contraevidencia": null,
+  "contexto_elicitacion": "P138 abre ideal y admite suficiencia. P147 solicita organización sin sugerir cuaderno; P156 propone todos los artículos y P157 lo limita al par. P161 pide lo más útil y P163 señal de utilidad. P158 pregunta por lugar: P159-P160 conserva nombre y mapa solo si nuevo.",
+  "codigos_comunes": [
+    "C055",
+    "C009",
+    "C017",
+    "C030",
+    "C031",
+    "C053"
+  ],
+  "hallazgos_s01": [
+    "S01-H015",
+    "S01-H016",
+    "S01-H017",
+    "S01-H018",
+    "S01-H019"
+  ],
+  "componentes_p01": [],
+  "preferencias_act01": [
+    "ACT01-PR018",
+    "ACT01-PR019",
+    "ACT01-PR020"
+  ],
+  "variantes_por_caso": [],
+  "vinculo_territorial": {
+    "tipo": "NO_CARTOGRAFICO_DIRECTO",
+    "razon": "El desempeño es material y comercial; el nombre del proveedor permite recuperar procedencia y no exige mapa.",
+    "evidencias": [
+      "N01-V0237",
+      "N01-V0238"
+    ],
+    "limites": "La pertinencia del lugar no demuestra necesidad de coordenadas o de un mapa. Negocio y proveedores no identificados; el perfil no es especialista cartográfico ni productor público. No hay prueba de costura o lavado ni resultado de la clienta conocidos."
+  },
+  "vinculos_sectoriales": [
+    {
+      "sector": "PRIVADO",
+      "actividad": "Reposición y atención de una mercería de barrio",
+      "iniciativa": null,
+      "estatus_iniciativa": "ACTIVIDAD_RELATADA_SIN_NOMBRE_FORMAL",
+      "nexo": "USO_PRIVADO",
+      "razon": "La decisión corresponde al surtido y atención de un comercio; cercanía barrial no demuestra iniciativa pública.",
+      "evidencias": [
+        "N01-V0347",
+        "N01-V0237",
+        "N01-V0238"
+      ],
+      "limites": "No se identificó programa público que origine esta necesidad. Negocio y proveedores no identificados; el perfil no es especialista cartográfico ni productor público. No hay prueba de costura o lavado ni resultado de la clienta conocidos."
+    }
+  ],
+  "verificacion": [
+    {
+      "id": "N01-K023",
+      "observable": "Puede justificar probar o dejar la alternativa con un comportamiento conocido y contexto de prueba, y contrastarlo luego con lo que encuentre al usar o vender.",
+      "metodo": "Revisión futura de un par pertinente y evidencias de uso que realmente se obtengan; distinguir tocado/estirado, cosido, usado o lavado sin atribuir una prueba no hecha. La comparación posterior sigue pendiente.",
+      "origen": "DECLARADO",
+      "estado": "PROPUESTA_NO_EJECUTADA",
+      "evidencias": [
+        "N01-V0237",
+        "N01-V0238",
+        "N01-V0239",
+        "N01-V0240",
+        "N01-V0241",
+        "N01-V0242",
+        "N01-V0243",
+        "N01-V0244",
+        "N01-V0245",
+        "N01-V0246",
+        "N01-V0247",
+        "N01-V0248",
+        "N01-V0249",
+        "N01-V0250",
+        "N01-V0251",
+        "N01-V0252",
+        "N01-V0253",
+        "N01-V0254"
+      ],
+      "limites": "Comprobación futura; no se ejecutó ni acredita aceptación humana. No se fijan umbrales numéricos. Fuente de todas las pruebas no resuelta. No predice ventas ni recomienda para cualquier prenda. Cantidad adquirible sigue limitando incluso si conoce más.",
+      "desglose_origen": {
+        "observable": "DECLARADO",
+        "operacionalizacion_metodo": "PROPUESTA_ANALITICA",
+        "aceptacion": "NO_RECABADA"
+      }
+    }
+  ],
+  "prioridad": {
+    "ambito": "E04",
+    "nivel": "ALTA",
+    "origen": "ANALISIS_CONDICIONAL",
+    "criterios": [
+      "N01-CP001",
+      "N01-CP002",
+      "N01-CP003",
+      "N01-CP004"
+    ],
+    "razon": "En el ideal elige ver material conocido junto al otro y qué se comprobó; el análisis lo prioriza dentro de la exploración material, sin desplazar reponer lo actual ni eliminar restricción de cantidad.",
+    "comparables": [],
+    "limites": "Orden parcial dentro de E04. Esta consulta actual y el ideal de desempeño tienen modalidades distintas; no hay otra necesidad con la misma subdecisión y modalidad para compararlas homogéneamente. El nivel no constituye prioridad urbana ni factibilidad técnica."
+  },
+  "importancia_expresada": "P162 escoge al inicio comparar conocido y alternativa con qué se comprobó; la referencia sola ya la tiene. No prioriza catálogo total ni sustitución.",
+  "pertinencia_diseno_posterior": "PENDIENTE: revisar con usuarios y encargo; la legitimidad de la necesidad no prescribe un soporte ni su incorporación a un visor.",
+  "factibilidad": "NO_DETERMINADA",
+  "incognitas": [
+    "No hay ensayos de costura, uso o lavado aportados.",
+    "Quién aportaría pruebas, con qué tela y presentación pequeña disponible.",
+    "Ventas e idoneidad para prenda particular no determinadas."
+  ],
+  "enlaces_codigos_asignados": [
+    {
+      "codigo": "C055",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R04-S107",
+        "R04-S108",
+        "R04-S109",
+        "R04-S115",
+        "R04-S122",
+        "R04-S130"
+      ],
+      "evidencias": [
+        "N01-V0237",
+        "N01-V0238",
+        "N01-V0239",
+        "N01-V0243",
+        "N01-V0247",
+        "N01-V0250"
+      ]
+    },
+    {
+      "codigo": "C009",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R04-S109",
+        "R04-S117",
+        "R04-S120",
+        "R04-S121",
+        "R04-S125",
+        "R04-S129",
+        "R04-S154"
+      ],
+      "evidencias": [
+        "N01-V0239",
+        "N01-V0244",
+        "N01-V0246",
+        "N01-V0249",
+        "N01-V0250",
+        "N01-V0251"
+      ]
+    },
+    {
+      "codigo": "C017",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R04-S114",
+        "R04-S115",
+        "R04-S116",
+        "R04-S118",
+        "R04-S124",
+        "R04-S125",
+        "R04-S128",
+        "R04-S129"
+      ],
+      "evidencias": [
+        "N01-V0242",
+        "N01-V0243",
+        "N01-V0245",
+        "N01-V0248",
+        "N01-V0249",
+        "N01-V0250",
+        "N01-V0255"
+      ]
+    },
+    {
+      "codigo": "C030",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R04-S111",
+        "R04-S112",
+        "R04-S131",
+        "R04-S132",
+        "R04-S139"
+      ],
+      "evidencias": [
+        "N01-V0241",
+        "N01-V0251",
+        "N01-V0252",
+        "N01-V0217"
+      ]
+    },
+    {
+      "codigo": "C031",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R04-S124",
+        "R04-S133"
+      ],
+      "evidencias": [
+        "N01-V0248",
+        "N01-V0252"
+      ]
+    },
+    {
+      "codigo": "C053",
+      "tipo": "ASIGNADO_EN_SEGMENTOS_CITADOS",
+      "segmentos_revisados": [
+        "R04-S108",
+        "R04-S112",
+        "R04-S155"
+      ],
+      "evidencias": [
+        "N01-V0238",
+        "N01-V0241",
+        "N01-V0217"
+      ]
+    }
+  ],
+  "codigos_contextuales": []
+}

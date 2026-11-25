@@ -1,0 +1,106 @@
+{
+  "id": "HU01-H009",
+  "titulo": "Ajustar recepción y mediación en su momento",
+  "formulacion": "Como persona que coordina con la mediadora, quiero distinguir lo que requiere ajuste durante la sesión de lo que conviene revisar entre encuentros, para mantener posibilidad de entrar, escucharse y dar lugar a la conversación.",
+  "actores": [
+    "ACT01-A012"
+  ],
+  "perfil": "HU01-P003",
+  "necesidades": [
+    "N01-N014"
+  ],
+  "entrevistas": [
+    "E03"
+  ],
+  "tipo": "ACTUAL_A_PRESERVAR",
+  "contexto": "Entreabrir puerta y mover sillas fue ajuste en curso. Otra conversación dio entrada a escritura; una pregunta individual informó aclaración posterior. Son momentos y operaciones distintos.",
+  "objetivo": "distinguir lo que requiere ajuste durante la sesión de lo que conviene revisar entre encuentros",
+  "beneficio_o_decision": "mantener posibilidad de entrar, escucharse y dar lugar a la conversación",
+  "restricciones": [
+    "Ajuste de puerta durante sesión, mediación de contenido y aprendizaje entre sesiones no son un solo evento ni un fallo general. No debe fijarse por anticipado toda conversación."
+  ],
+  "preservar": [
+    "Margen de mediación",
+    "Revisión breve después del encuentro",
+    "Resolver dentro del alcance de quienes están presentes"
+  ],
+  "evidencias": [
+    "N01-V0148",
+    "N01-V0149",
+    "N01-V0150",
+    "N01-V0151",
+    "N01-V0152",
+    "N01-V0153",
+    "N01-V0137",
+    "N01-V0139",
+    "N01-V0138",
+    "N01-V0154",
+    "N01-V0155",
+    "N01-V0156"
+  ],
+  "limites": "No están aportadas notas de sesión ni las voces de quienes dieron comentarios.. Las formulaciones son derivaciones analíticas, no citas ni compromisos de participantes. La pertinencia de un producto sigue por validar.",
+  "criterios": [
+    {
+      "id": "HU01-K013",
+      "dado": "hay una observación de puerta, participación o contenido",
+      "cuando": "se reconstruye qué ajuste corresponde y cuándo",
+      "entonces": "se distingue ajuste operativo en curso, mediación cultural y aprendizaje entre sesiones sin afirmar abandono de la propuesta",
+      "origen": "ADAPTADO_DE_CRITERIO_N01",
+      "criterios_n01": [
+        "N01-K014"
+      ],
+      "estado": "PROPUESTO_NO_EJECUTADO",
+      "limites": "Adaptación analítica de N01-K014. Observable N01 de origen PROPUESTA_ANALITICA; Dado/Cuando/Entonces y el cotejo son propuestas del análisis, no aceptación recabada. Ajuste de puerta durante sesión, mediación de contenido y aprendizaje entre sesiones no son un solo evento ni un fallo general. No debe fijarse por anticipado toda conversación. Soportes originales no aportados; no se ejecutó esta comprobación."
+    }
+  ],
+  "prioridad": {
+    "nivel": "MEDIA",
+    "ambito": "E03: actividad actual: Ajustar recepción y mediación en su momento",
+    "origen": "ANALISIS_CONDICIONAL",
+    "razon": "Media dentro de la serie ya iniciada. No requiere aprobar cada ajuste en programación ni registrar toda experiencia. Importancia expresada: No hay priorización comparable explícita de esta pieza por la persona. El nivel asignado es del análisis.",
+    "limites": "Orden local parcial y condicional al momento señalado. No ranking urbano, cartera implementable, aceptación ADIP ni factibilidad comprobada."
+  },
+  "perfil_metadatos": "HU01-M009",
+  "metaalgoritmo": [
+    {
+      "id": "HU01-OP035",
+      "nombre": "Reconocer momento y alcance",
+      "entrada": "Comentario u observación durante o después",
+      "operacion": "Propuesta: Separar recepción, mediación de contenido y revisión entre sesiones.",
+      "salida": "Ajuste situado",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP036",
+      "nombre": "Valorar con mediadora",
+      "entrada": "Observación y propuesta cultural",
+      "operacion": "Propuesta: Interpretar cómo mantener escucha, llegada y diversidad sin fijar conversación.",
+      "salida": "Opciones pertinentes",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP037",
+      "nombre": "Aplicar y comprobar si se acuerda",
+      "entrada": "Opción dentro de función de presentes",
+      "operacion": "Propuesta: Proponer ajuste operativo en pausa o aprendizaje para siguiente encuentro; comprobar situación.",
+      "salida": "Ajuste por confirmar en contexto",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP038",
+      "nombre": "Recuperar y decidir continuidad",
+      "entrada": "Lo ocurrido y conversación breve posterior",
+      "operacion": "Propuesta: Presentar lo necesario al equipo y decidir qué mantener o revisar después.",
+      "salida": "Aprendizaje acotado",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    }
+  ]
+}

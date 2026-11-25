@@ -1,0 +1,19 @@
+{
+  "version": "1.1",
+  "sha256_json": "f94ffa4bd1986d26bd2142cd7184c411fb7688d1c036c591e4397e76f62982fc",
+  "figuras": "CINCO_REUTILIZADAS_1.0_COMPATIBLES_1.1",
+  "inspeccion_coordinacion": "CINCO_PNG_INSPECCIONADOS",
+  "cambios_visuales": false,
+  "revision_humana_independiente": "PENDIENTE",
+  "cotejos": {
+    "33_huellas_recibidas": "PASS",
+    "copias_internas": "IDENTICAS_3_DE_3",
+    "112_entradas": "HUELLAS_COINCIDENTES",
+    "necesidades_criterios_prioridades": 29,
+    "trazas": 410,
+    "evidencias": 351,
+    "figuras": 5,
+    "ids_y_campos_figuras": "COINCIDEN"
+  },
+  "limites": "Las figuras son selección; JSON/CSV conservan inventario completo. No valida verdad externa, prioridad, utilidad o conformidad FAIR."
+}

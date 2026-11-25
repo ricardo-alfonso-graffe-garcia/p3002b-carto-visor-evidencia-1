@@ -1,0 +1,812 @@
+{
+  "estado": "ESTRUCTURA_Y_CITAS_OK",
+  "alcance": "No evalúa validez interpretativa, verdad externa, pertinencia del código ni revisión humana.",
+  "errores": [],
+  "advertencias": [],
+  "conteos": {
+    "parrafos_participante": 117,
+    "codigos": 22,
+    "segmentos": 111,
+    "cobertura": 117
+  },
+  "posiciones_citas": [
+    {
+      "objeto": "E04-C001.ejemplos[0]",
+      "parrafo_id": "E04-P037",
+      "inicio_unicode": 105,
+      "fin_unicode_exclusivo": 166
+    },
+    {
+      "objeto": "E04-C002.ejemplos[0]",
+      "parrafo_id": "E04-P009",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 28
+    },
+    {
+      "objeto": "E04-C003.ejemplos[0]",
+      "parrafo_id": "E04-P057",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 121
+    },
+    {
+      "objeto": "E04-C004.ejemplos[0]",
+      "parrafo_id": "E04-P055",
+      "inicio_unicode": 151,
+      "fin_unicode_exclusivo": 252
+    },
+    {
+      "objeto": "E04-C005.ejemplos[0]",
+      "parrafo_id": "E04-P020",
+      "inicio_unicode": 27,
+      "fin_unicode_exclusivo": 126
+    },
+    {
+      "objeto": "E04-C006.ejemplos[0]",
+      "parrafo_id": "E04-P030",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 89
+    },
+    {
+      "objeto": "E04-C007.ejemplos[0]",
+      "parrafo_id": "E04-P053",
+      "inicio_unicode": 143,
+      "fin_unicode_exclusivo": 264
+    },
+    {
+      "objeto": "E04-C008.ejemplos[0]",
+      "parrafo_id": "E04-P043",
+      "inicio_unicode": 180,
+      "fin_unicode_exclusivo": 284
+    },
+    {
+      "objeto": "E04-C009.ejemplos[0]",
+      "parrafo_id": "E04-P069",
+      "inicio_unicode": 94,
+      "fin_unicode_exclusivo": 142
+    },
+    {
+      "objeto": "E04-C010.ejemplos[0]",
+      "parrafo_id": "E04-P075",
+      "inicio_unicode": 30,
+      "fin_unicode_exclusivo": 114
+    },
+    {
+      "objeto": "E04-C011.ejemplos[0]",
+      "parrafo_id": "E04-P080",
+      "inicio_unicode": 41,
+      "fin_unicode_exclusivo": 126
+    },
+    {
+      "objeto": "E04-C012.ejemplos[0]",
+      "parrafo_id": "E04-P134",
+      "inicio_unicode": 83,
+      "fin_unicode_exclusivo": 160
+    },
+    {
+      "objeto": "E04-C013.ejemplos[0]",
+      "parrafo_id": "E04-P093",
+      "inicio_unicode": 138,
+      "fin_unicode_exclusivo": 191
+    },
+    {
+      "objeto": "E04-C014.ejemplos[0]",
+      "parrafo_id": "E04-P087",
+      "inicio_unicode": 140,
+      "fin_unicode_exclusivo": 209
+    },
+    {
+      "objeto": "E04-C015.ejemplos[0]",
+      "parrafo_id": "E04-P098",
+      "inicio_unicode": 29,
+      "fin_unicode_exclusivo": 138
+    },
+    {
+      "objeto": "E04-C016.ejemplos[0]",
+      "parrafo_id": "E04-P112",
+      "inicio_unicode": 76,
+      "fin_unicode_exclusivo": 119
+    },
+    {
+      "objeto": "E04-C017.ejemplos[0]",
+      "parrafo_id": "E04-P122",
+      "inicio_unicode": 48,
+      "fin_unicode_exclusivo": 236
+    },
+    {
+      "objeto": "E04-C018.ejemplos[0]",
+      "parrafo_id": "E04-P139",
+      "inicio_unicode": 151,
+      "fin_unicode_exclusivo": 254
+    },
+    {
+      "objeto": "E04-C019.ejemplos[0]",
+      "parrafo_id": "E04-P157",
+      "inicio_unicode": 18,
+      "fin_unicode_exclusivo": 93
+    },
+    {
+      "objeto": "E04-C020.ejemplos[0]",
+      "parrafo_id": "E04-P154",
+      "inicio_unicode": 140,
+      "fin_unicode_exclusivo": 207
+    },
+    {
+      "objeto": "E04-C021.ejemplos[0]",
+      "parrafo_id": "E04-P165",
+      "inicio_unicode": 93,
+      "fin_unicode_exclusivo": 176
+    },
+    {
+      "objeto": "E04-C022.ejemplos[0]",
+      "parrafo_id": "E04-P170",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 122
+    },
+    {
+      "objeto": "E04-S001",
+      "parrafo_id": "E04-P008",
+      "inicio_unicode": 136,
+      "fin_unicode_exclusivo": 325
+    },
+    {
+      "objeto": "E04-S002",
+      "parrafo_id": "E04-P009",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 204
+    },
+    {
+      "objeto": "E04-S003",
+      "parrafo_id": "E04-P011",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 241
+    },
+    {
+      "objeto": "E04-S004",
+      "parrafo_id": "E04-P012",
+      "inicio_unicode": 33,
+      "fin_unicode_exclusivo": 326
+    },
+    {
+      "objeto": "E04-S005",
+      "parrafo_id": "E04-P014",
+      "inicio_unicode": 133,
+      "fin_unicode_exclusivo": 269
+    },
+    {
+      "objeto": "E04-S006",
+      "parrafo_id": "E04-P015",
+      "inicio_unicode": 103,
+      "fin_unicode_exclusivo": 180
+    },
+    {
+      "objeto": "E04-S007",
+      "parrafo_id": "E04-P017",
+      "inicio_unicode": 73,
+      "fin_unicode_exclusivo": 331
+    },
+    {
+      "objeto": "E04-S008",
+      "parrafo_id": "E04-P018",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 93
+    },
+    {
+      "objeto": "E04-S009",
+      "parrafo_id": "E04-P020",
+      "inicio_unicode": 27,
+      "fin_unicode_exclusivo": 126
+    },
+    {
+      "objeto": "E04-S010",
+      "parrafo_id": "E04-P022",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 202
+    },
+    {
+      "objeto": "E04-S011",
+      "parrafo_id": "E04-P023",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 160
+    },
+    {
+      "objeto": "E04-S012",
+      "parrafo_id": "E04-P027",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 140
+    },
+    {
+      "objeto": "E04-S013",
+      "parrafo_id": "E04-P029",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 131
+    },
+    {
+      "objeto": "E04-S014",
+      "parrafo_id": "E04-P030",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 193
+    },
+    {
+      "objeto": "E04-S015",
+      "parrafo_id": "E04-P032",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 226
+    },
+    {
+      "objeto": "E04-S016",
+      "parrafo_id": "E04-P034",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 83
+    },
+    {
+      "objeto": "E04-S017",
+      "parrafo_id": "E04-P036",
+      "inicio_unicode": 70,
+      "fin_unicode_exclusivo": 269
+    },
+    {
+      "objeto": "E04-S018",
+      "parrafo_id": "E04-P037",
+      "inicio_unicode": 105,
+      "fin_unicode_exclusivo": 257
+    },
+    {
+      "objeto": "E04-S019",
+      "parrafo_id": "E04-P039",
+      "inicio_unicode": 18,
+      "fin_unicode_exclusivo": 118
+    },
+    {
+      "objeto": "E04-S020",
+      "parrafo_id": "E04-P043",
+      "inicio_unicode": 101,
+      "fin_unicode_exclusivo": 284
+    },
+    {
+      "objeto": "E04-S021",
+      "parrafo_id": "E04-P044",
+      "inicio_unicode": 61,
+      "fin_unicode_exclusivo": 145
+    },
+    {
+      "objeto": "E04-S022",
+      "parrafo_id": "E04-P048",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 241
+    },
+    {
+      "objeto": "E04-S023",
+      "parrafo_id": "E04-P049",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 118
+    },
+    {
+      "objeto": "E04-S024",
+      "parrafo_id": "E04-P051",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 171
+    },
+    {
+      "objeto": "E04-S025",
+      "parrafo_id": "E04-P053",
+      "inicio_unicode": 113,
+      "fin_unicode_exclusivo": 264
+    },
+    {
+      "objeto": "E04-S026",
+      "parrafo_id": "E04-P054",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 133
+    },
+    {
+      "objeto": "E04-S027",
+      "parrafo_id": "E04-P055",
+      "inicio_unicode": 61,
+      "fin_unicode_exclusivo": 252
+    },
+    {
+      "objeto": "E04-S028",
+      "parrafo_id": "E04-P057",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 121
+    },
+    {
+      "objeto": "E04-S029",
+      "parrafo_id": "E04-P058",
+      "inicio_unicode": 69,
+      "fin_unicode_exclusivo": 232
+    },
+    {
+      "objeto": "E04-S030",
+      "parrafo_id": "E04-P060",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 143
+    },
+    {
+      "objeto": "E04-S031",
+      "parrafo_id": "E04-P062",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 224
+    },
+    {
+      "objeto": "E04-S032",
+      "parrafo_id": "E04-P063",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 218
+    },
+    {
+      "objeto": "E04-S033",
+      "parrafo_id": "E04-P065",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 192
+    },
+    {
+      "objeto": "E04-S034",
+      "parrafo_id": "E04-P067",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 109
+    },
+    {
+      "objeto": "E04-S035",
+      "parrafo_id": "E04-P069",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 195
+    },
+    {
+      "objeto": "E04-S036",
+      "parrafo_id": "E04-P070",
+      "inicio_unicode": 81,
+      "fin_unicode_exclusivo": 289
+    },
+    {
+      "objeto": "E04-S037",
+      "parrafo_id": "E04-P072",
+      "inicio_unicode": 68,
+      "fin_unicode_exclusivo": 221
+    },
+    {
+      "objeto": "E04-S038",
+      "parrafo_id": "E04-P073",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 109
+    },
+    {
+      "objeto": "E04-S039",
+      "parrafo_id": "E04-P075",
+      "inicio_unicode": 30,
+      "fin_unicode_exclusivo": 258
+    },
+    {
+      "objeto": "E04-S040",
+      "parrafo_id": "E04-P077",
+      "inicio_unicode": 18,
+      "fin_unicode_exclusivo": 222
+    },
+    {
+      "objeto": "E04-S041",
+      "parrafo_id": "E04-P079",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 233
+    },
+    {
+      "objeto": "E04-S042",
+      "parrafo_id": "E04-P080",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 126
+    },
+    {
+      "objeto": "E04-S043",
+      "parrafo_id": "E04-P082",
+      "inicio_unicode": 32,
+      "fin_unicode_exclusivo": 204
+    },
+    {
+      "objeto": "E04-S044",
+      "parrafo_id": "E04-P083",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 216
+    },
+    {
+      "objeto": "E04-S045",
+      "parrafo_id": "E04-P085",
+      "inicio_unicode": 43,
+      "fin_unicode_exclusivo": 251
+    },
+    {
+      "objeto": "E04-S046",
+      "parrafo_id": "E04-P087",
+      "inicio_unicode": 52,
+      "fin_unicode_exclusivo": 209
+    },
+    {
+      "objeto": "E04-S047",
+      "parrafo_id": "E04-P089",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 272
+    },
+    {
+      "objeto": "E04-S048",
+      "parrafo_id": "E04-P090",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 98
+    },
+    {
+      "objeto": "E04-S049",
+      "parrafo_id": "E04-P092",
+      "inicio_unicode": 57,
+      "fin_unicode_exclusivo": 272
+    },
+    {
+      "objeto": "E04-S050",
+      "parrafo_id": "E04-P093",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 191
+    },
+    {
+      "objeto": "E04-S051",
+      "parrafo_id": "E04-P095",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 161
+    },
+    {
+      "objeto": "E04-S052",
+      "parrafo_id": "E04-P096",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 147
+    },
+    {
+      "objeto": "E04-S053",
+      "parrafo_id": "E04-P098",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 138
+    },
+    {
+      "objeto": "E04-S054",
+      "parrafo_id": "E04-P100",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 212
+    },
+    {
+      "objeto": "E04-S055",
+      "parrafo_id": "E04-P101",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 221
+    },
+    {
+      "objeto": "E04-S056",
+      "parrafo_id": "E04-P103",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 119
+    },
+    {
+      "objeto": "E04-S057",
+      "parrafo_id": "E04-P105",
+      "inicio_unicode": 18,
+      "fin_unicode_exclusivo": 109
+    },
+    {
+      "objeto": "E04-S058",
+      "parrafo_id": "E04-P107",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 110
+    },
+    {
+      "objeto": "E04-S059",
+      "parrafo_id": "E04-P108",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 84
+    },
+    {
+      "objeto": "E04-S060",
+      "parrafo_id": "E04-P109",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 122
+    },
+    {
+      "objeto": "E04-S061",
+      "parrafo_id": "E04-P110",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 111
+    },
+    {
+      "objeto": "E04-S062",
+      "parrafo_id": "E04-P112",
+      "inicio_unicode": 76,
+      "fin_unicode_exclusivo": 204
+    },
+    {
+      "objeto": "E04-S063",
+      "parrafo_id": "E04-P114",
+      "inicio_unicode": 18,
+      "fin_unicode_exclusivo": 184
+    },
+    {
+      "objeto": "E04-S064",
+      "parrafo_id": "E04-P116",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 216
+    },
+    {
+      "objeto": "E04-S065",
+      "parrafo_id": "E04-P118",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 238
+    },
+    {
+      "objeto": "E04-S066",
+      "parrafo_id": "E04-P119",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 152
+    },
+    {
+      "objeto": "E04-S067",
+      "parrafo_id": "E04-P121",
+      "inicio_unicode": 34,
+      "fin_unicode_exclusivo": 199
+    },
+    {
+      "objeto": "E04-S068",
+      "parrafo_id": "E04-P122",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 236
+    },
+    {
+      "objeto": "E04-S069",
+      "parrafo_id": "E04-P124",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 185
+    },
+    {
+      "objeto": "E04-S070",
+      "parrafo_id": "E04-P125",
+      "inicio_unicode": 69,
+      "fin_unicode_exclusivo": 192
+    },
+    {
+      "objeto": "E04-S071",
+      "parrafo_id": "E04-P127",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 274
+    },
+    {
+      "objeto": "E04-S072",
+      "parrafo_id": "E04-P128",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 80
+    },
+    {
+      "objeto": "E04-S073",
+      "parrafo_id": "E04-P130",
+      "inicio_unicode": 71,
+      "fin_unicode_exclusivo": 206
+    },
+    {
+      "objeto": "E04-S074",
+      "parrafo_id": "E04-P131",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 108
+    },
+    {
+      "objeto": "E04-S075",
+      "parrafo_id": "E04-P133",
+      "inicio_unicode": 18,
+      "fin_unicode_exclusivo": 217
+    },
+    {
+      "objeto": "E04-S076",
+      "parrafo_id": "E04-P134",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 160
+    },
+    {
+      "objeto": "E04-S077",
+      "parrafo_id": "E04-P136",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 246
+    },
+    {
+      "objeto": "E04-S078",
+      "parrafo_id": "E04-P137",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 50
+    },
+    {
+      "objeto": "E04-S079",
+      "parrafo_id": "E04-P139",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 254
+    },
+    {
+      "objeto": "E04-S080",
+      "parrafo_id": "E04-P140",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 66
+    },
+    {
+      "objeto": "E04-S081",
+      "parrafo_id": "E04-P142",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 189
+    },
+    {
+      "objeto": "E04-S082",
+      "parrafo_id": "E04-P143",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 157
+    },
+    {
+      "objeto": "E04-S083",
+      "parrafo_id": "E04-P145",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 227
+    },
+    {
+      "objeto": "E04-S084",
+      "parrafo_id": "E04-P146",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 81
+    },
+    {
+      "objeto": "E04-S085",
+      "parrafo_id": "E04-P148",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 259
+    },
+    {
+      "objeto": "E04-S086",
+      "parrafo_id": "E04-P149",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 241
+    },
+    {
+      "objeto": "E04-S087",
+      "parrafo_id": "E04-P151",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 225
+    },
+    {
+      "objeto": "E04-S088",
+      "parrafo_id": "E04-P152",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 101
+    },
+    {
+      "objeto": "E04-S089",
+      "parrafo_id": "E04-P154",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 207
+    },
+    {
+      "objeto": "E04-S090",
+      "parrafo_id": "E04-P155",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 186
+    },
+    {
+      "objeto": "E04-S091",
+      "parrafo_id": "E04-P157",
+      "inicio_unicode": 18,
+      "fin_unicode_exclusivo": 165
+    },
+    {
+      "objeto": "E04-S092",
+      "parrafo_id": "E04-P159",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 218
+    },
+    {
+      "objeto": "E04-S093",
+      "parrafo_id": "E04-P160",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 203
+    },
+    {
+      "objeto": "E04-S094",
+      "parrafo_id": "E04-P162",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 206
+    },
+    {
+      "objeto": "E04-S095",
+      "parrafo_id": "E04-P164",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 229
+    },
+    {
+      "objeto": "E04-S096",
+      "parrafo_id": "E04-P165",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 176
+    },
+    {
+      "objeto": "E04-S097",
+      "parrafo_id": "E04-P167",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 205
+    },
+    {
+      "objeto": "E04-S098",
+      "parrafo_id": "E04-P168",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 119
+    },
+    {
+      "objeto": "E04-S099",
+      "parrafo_id": "E04-P170",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 211
+    },
+    {
+      "objeto": "E04-S100",
+      "parrafo_id": "E04-P171",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 128
+    },
+    {
+      "objeto": "E04-S101",
+      "parrafo_id": "E04-P173",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 223
+    },
+    {
+      "objeto": "E04-S102",
+      "parrafo_id": "E04-P174",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 45
+    },
+    {
+      "objeto": "E04-S103",
+      "parrafo_id": "E04-P176",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 135
+    },
+    {
+      "objeto": "E04-S104",
+      "parrafo_id": "E04-P177",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 152
+    },
+    {
+      "objeto": "E04-S105",
+      "parrafo_id": "E04-P181",
+      "inicio_unicode": 14,
+      "fin_unicode_exclusivo": 274
+    },
+    {
+      "objeto": "E04-S106",
+      "parrafo_id": "E04-P183",
+      "inicio_unicode": 18,
+      "fin_unicode_exclusivo": 136
+    },
+    {
+      "objeto": "E04-S107",
+      "parrafo_id": "E04-P185",
+      "inicio_unicode": 24,
+      "fin_unicode_exclusivo": 223
+    },
+    {
+      "objeto": "E04-S108",
+      "parrafo_id": "E04-P186",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 106
+    },
+    {
+      "objeto": "E04-S109",
+      "parrafo_id": "E04-P188",
+      "inicio_unicode": 103,
+      "fin_unicode_exclusivo": 240
+    },
+    {
+      "objeto": "E04-S110",
+      "parrafo_id": "E04-P189",
+      "inicio_unicode": 0,
+      "fin_unicode_exclusivo": 46
+    },
+    {
+      "objeto": "E04-S111",
+      "parrafo_id": "E04-P191",
+      "inicio_unicode": 79,
+      "fin_unicode_exclusivo": 252
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "tipo": "REVISION_EDITORIAL_ASISTIDA",
+  "alcance_realizado": [
+    "Relectura del argumento integrado y contraste con cinco entrevistas completas y registros preferidos.",
+    "Siete citas seleccionadas y contextos, incluidas correcciones y marco ideal.",
+    "Diferencia entre fuentes documentales, relatos, interpretación y propuestas en 29 afirmaciones centrales.",
+    "Comparación de metadatos preferidos y rótulos históricos sin reescribir las fuentes.",
+    "Revisión de nombres/funciones en manuscrito y tres figuras: no nombres personales de participantes, contactos o localizaciones identificadoras; autor de portada autorizado conservado.",
+    "Contraste de ocho alternativas de agregación, seis módulos y ramas/retornos de arquitectura; simplificaciones de figura F003 registradas.",
+    "Verificación de bibliografía seleccionada: primaria dirigida o registro interno declarado; no referencias fallidas como leídas."
+  ],
+  "observaciones": [
+    "El catálogo tiene 446 registros, mientras base_repositorio contiene 482 archivos. Se corrigió la guía para no confundir unidades del inventario.",
+    "Se reformuló la consulta de Harley como resumen y retórica pp. 10–11; se acotó JANUS a cubierta y métodos, sin atribuir nueva lectura completa.",
+    "Figura F002 cambió de disposición muy ancha a dos cadenas verticales para mejorar legibilidad.",
+    "El índice inverso se comprobó por contenido; enlaza 343 párrafos a las 29 necesidades."
+  ],
+  "limites": [
+    "No revisión humana independiente ni auditoría integral de privacidad del corpus histórico.",
+    "No se certifican calidad académica por puntuación, veracidad externa, consentimiento firmado ni realización empírica de entrevistas.",
+    "La legibilidad y el máximo de diez páginas efectivos permanecen PENDIENTE_MAQUETACION."
+  ],
+  "estado": "REALIZADA_EN_ALCANCE_DECLARADO"
+}

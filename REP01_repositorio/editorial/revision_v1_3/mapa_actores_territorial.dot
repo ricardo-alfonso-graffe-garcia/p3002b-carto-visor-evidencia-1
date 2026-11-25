@@ -1,0 +1,12 @@
+digraph G {
+graph[rankdir=LR,bgcolor="white",pad=.12,nodesep=.22,ranksep=.60];
+node[shape=box,style="rounded,filled",fillcolor="#f3f6f8",color="#607587",fontname="Liberation Sans",fontsize=12,margin=".11,.08"];
+edge[color="#52697b",fontname="Liberation Sans",fontsize=10,arrowsize=.65];
+t[label="Técnica de registros\nDecide su copia"];
+s[label="Solicitante\nDelimita y media"];
+r[label="Equipo del recorrido\nAporta aclaración"];
+c[label="Compañera\nContrasta antecedentes"];
+{rank=same;t;c;}
+s->t[label="Petición",style=dashed];t->s[label="Pregunta y devolución"];
+s->r[label="Consulta",style=dashed];r->s[label="Aclaración",style=dashed];c->t[label="Otra lectura",style=dashed];
+}

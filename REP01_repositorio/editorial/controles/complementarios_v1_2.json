@@ -1,0 +1,1450 @@
+{
+  "control": "REP01 complementario 1.0",
+  "estado": "SIN_ERRORES_EN_ALCANCE_COMPROBADO",
+  "errores": [],
+  "resultados": {
+    "recodificacion": {
+      "parrafos_participantes": 545,
+      "fragmentos": 713,
+      "asignaciones": 971,
+      "detalle": [
+        {
+          "archivo": "analisis/recodificacion/R01/R01_resultado_revisado_v1_3.json",
+          "version": "1.3",
+          "fragmentos": 124,
+          "parrafos_cobertura": 81
+        },
+        {
+          "archivo": "analisis/recodificacion/R02/R02_resultado_revisado_v1_3.json",
+          "version": "1.3",
+          "fragmentos": 140,
+          "parrafos_cobertura": 114
+        },
+        {
+          "archivo": "analisis/recodificacion/R03/R03_resultado_revisado_v1_2.json",
+          "version": "1.2",
+          "fragmentos": 143,
+          "parrafos_cobertura": 124
+        },
+        {
+          "archivo": "analisis/recodificacion/R04/R04_resultado_revisado_v1_1.json",
+          "version": "1.1",
+          "fragmentos": 155,
+          "parrafos_cobertura": 117
+        },
+        {
+          "archivo": "analisis/recodificacion/R05/R05_resultado_revisado_v1_1.json",
+          "version": "1.1",
+          "fragmentos": 151,
+          "parrafos_cobertura": 109
+        }
+      ],
+      "alcance": "Literalidad/offsets/códigos definidos; no nueva recodificación semántica ni medición de concordancia."
+    },
+    "libro": {
+      "codigos": 64,
+      "ejemplos_cotejados": 123,
+      "alcance": "Cotejo textual, no pilotaje humano."
+    },
+    "evidencias_N01": {
+      "cotejos_literales": 348,
+      "total": 351,
+      "alcance": "No evaluación automática de interpretación."
+    },
+    "objetos_HU01": {
+      "registros": 76,
+      "payloads_cotejados": 76,
+      "base_resolucion": "analisis/historias/HU01/soportes_revisados_v1_1",
+      "alcance": "Relaciones/archivos locales y huellas; no conformidad FDO/FAIR ni registro externo."
+    },
+    "navegacion_editorial": {
+      "enlaces_comprobados": 266,
+      "detalle": [
+        {
+          "origen": "REP01_reporte_v1_2.md",
+          "destino": "REP01_repositorio/corpus/E01/E01_texto_con_localizadores.txt",
+          "existe": true
+        },
+        {
+          "origen": "REP01_reporte_v1_2.md",
+          "destino": "REP01_repositorio/55_libro_comun_v1_3.md",
+          "existe": true
+        },
+        {
+          "origen": "REP01_reporte_v1_2.md",
+          "destino": "REP01_repositorio/analisis/recodificacion/LEEME.md",
+          "existe": true
+        },
+        {
+          "origen": "REP01_reporte_v1_2.md",
+          "destino": "REP01_repositorio/24_registro_corpus.json",
+          "existe": true
+        },
+        {
+          "origen": "REP01_reporte_v1_2.md",
+          "destino": "REP01_repositorio/editorial/revision_v1_2/perfiles_y_sintesis.md",
+          "existe": true
+        },
+        {
+          "origen": "REP01_reporte_v1_2.md",
+          "destino": "REP01_repositorio/editorial/figuras/REP01-F001.png",
+          "existe": true
+        },
+        {
+          "origen": "REP01_reporte_v1_2.md",
+          "destino": "REP01_repositorio/67_procesos_descritos_v1_1.md",
+          "existe": true
+        },
+        {
+          "origen": "REP01_reporte_v1_2.md",
+          "destino": "REP01_repositorio/72_contraste_documental_v1_1.md",
+          "existe": true
+        },
+        {
+          "origen": "REP01_reporte_v1_2.md",
+          "destino": "REP01_repositorio/editorial/revision_v1_2/procesos_y_gobernanza.md",
+          "existe": true
+        },
+        {
+          "origen": "REP01_reporte_v1_2.md",
+          "destino": "REP01_repositorio/corpus/E03/E03_texto_con_localizadores.txt",
+          "existe": true
+        },
+        {
+          "origen": "REP01_reporte_v1_2.md",
+          "destino": "REP01_repositorio/76_actores_y_preferencias_v1_1.md",
+          "existe": true
+        },
+        {
+          "origen": "REP01_reporte_v1_2.md",
+          "destino": "REP01_repositorio/corpus/E02/E02_texto_con_localizadores.txt",
+          "existe": true
+        },
+        {
+          "origen": "REP01_reporte_v1_2.md",
+          "destino": "REP01_repositorio/corpus/E01/E01_texto_con_localizadores.txt",
+          "existe": true
+        },
+        {
+          "origen": "REP01_reporte_v1_2.md",
+          "destino": "REP01_repositorio/corpus/E02/E02_texto_con_localizadores.txt",
+          "existe": true
+        },
+        {
+          "origen": "REP01_reporte_v1_2.md",
+          "destino": "REP01_repositorio/editorial/revision_v1_2/contratos_y_metadatos.md",
+          "existe": true
+        },
+        {
+          "origen": "REP01_reporte_v1_2.md",
+          "destino": "REP01_repositorio/corpus/E04/E04_texto_con_localizadores.txt",
+          "existe": true
+        },
+        {
+          "origen": "REP01_reporte_v1_2.md",
+          "destino": "REP01_repositorio/corpus/E05/E05_texto_con_localizadores.txt",
+          "existe": true
+        },
+        {
+          "origen": "REP01_reporte_v1_2.md",
+          "destino": "REP01_repositorio/82_necesidades_v1_1.md",
+          "existe": true
+        },
+        {
+          "origen": "REP01_reporte_v1_2.md",
+          "destino": "REP01_repositorio/88_historias_y_objetos_v1_1.md",
+          "existe": true
+        },
+        {
+          "origen": "REP01_reporte_v1_2.md",
+          "destino": "REP01_repositorio/editorial/registros/agenda_pendientes.md",
+          "existe": true
+        },
+        {
+          "origen": "REP01_reporte_v1_2.md",
+          "destino": "REP01_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/alternativas_agregacion.md",
+          "existe": true
+        },
+        {
+          "origen": "REP01_reporte_v1_2.md",
+          "destino": "REP01_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/lentes.md",
+          "existe": true
+        },
+        {
+          "origen": "REP01_reporte_v1_2.md",
+          "destino": "REP01_repositorio/editorial/revision_v1_2/protocolo_espacial_futuro.md",
+          "existe": true
+        },
+        {
+          "origen": "REP01_reporte_v1_2.md",
+          "destino": "REP01_repositorio/editorial/revision_v1_2/lentes_y_antecedentes.md",
+          "existe": true
+        },
+        {
+          "origen": "REP01_reporte_v1_2.md",
+          "destino": "REP01_repositorio/editorial/figuras/REP01-F003.png",
+          "existe": true
+        },
+        {
+          "origen": "REP01_reporte_v1_2.md",
+          "destino": "REP01_repositorio/editorial/revision_v1_2/portafolio_y_validacion.md",
+          "existe": true
+        },
+        {
+          "origen": "REP01_reporte_v1_2.md",
+          "destino": "REP01_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/productos.md",
+          "existe": true
+        },
+        {
+          "origen": "REP01_reporte_v1_2.md",
+          "destino": "REP01_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/arquitectura.md",
+          "existe": true
+        },
+        {
+          "origen": "REP01_reporte_v1_2.md",
+          "destino": "REP01_repositorio/editorial/revision_v1_2/fair_janus_y_controles.md",
+          "existe": true
+        },
+        {
+          "origen": "REP01_reporte_v1_2.md",
+          "destino": "REP01_repositorio/72_contraste_documental_v1_1.md",
+          "existe": true
+        },
+        {
+          "origen": "REP01_reporte_v1_2.md",
+          "destino": "REP01_repositorio/analisis/referencias/GeoInsights/README.md",
+          "existe": true
+        },
+        {
+          "origen": "REP01_reporte_v1_2.md",
+          "destino": "REP01_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/lentes.md",
+          "existe": true
+        },
+        {
+          "origen": "REP01_reporte_v1_2.md",
+          "destino": "REP01_repositorio/editorial/registros/incidencias_metodologicas.md",
+          "existe": true
+        },
+        {
+          "origen": "REP01_reporte_v1_2.md",
+          "destino": "REP01_repositorio/editorial/revision_v1_2/LEEME.md",
+          "existe": true
+        },
+        {
+          "origen": "LEEME.md",
+          "destino": "editorial/revision_v1_2/LEEME.md",
+          "existe": true
+        },
+        {
+          "origen": "LEEME.md",
+          "destino": "../P3002B_Evidencia1_Ricardo_Graffe.pdf",
+          "existe": true
+        },
+        {
+          "origen": "LEEME.md",
+          "destino": "indice.html",
+          "existe": true
+        },
+        {
+          "origen": "LEEME.md",
+          "destino": "editorial/registros/revision_coordinacion_v1_1.md",
+          "existe": true
+        },
+        {
+          "origen": "LEEME.md",
+          "destino": "editorial/registros/guia_por_seccion.md",
+          "existe": true
+        },
+        {
+          "origen": "LEEME.md",
+          "destino": "editorial/registros/indice_inverso.json",
+          "existe": true
+        },
+        {
+          "origen": "LEEME.md",
+          "destino": "editorial/registros/incidencias_metodologicas.md",
+          "existe": true
+        },
+        {
+          "origen": "LEEME.md",
+          "destino": "editorial/registros/agenda_pendientes.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/procesos_y_gobernanza.md",
+          "destino": "../../67_procesos_descritos_v1_1.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/procesos_y_gobernanza.md",
+          "destino": "../../72_contraste_documental_v1_1.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/procesos_y_gobernanza.md",
+          "destino": "../../76_actores_y_preferencias_v1_1.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/procesos_y_gobernanza.md",
+          "destino": "recorrido_institucional_propuesto.png",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/procesos_y_gobernanza.md",
+          "destino": "recorrido_institucional_propuesto.svg",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "LEEME.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "LEEME.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "portafolio_y_validacion.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "portafolio_y_validacion.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "perfiles_y_sintesis.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "portafolio_y_validacion.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "contratos_y_metadatos.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "portafolio_y_validacion.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "LEEME.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "LEEME.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "LEEME.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "LEEME.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "LEEME.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "perfiles_y_sintesis.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "lentes_y_antecedentes.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "fair_janus_y_controles.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "LEEME.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "perfiles_y_sintesis.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "fair_janus_y_controles.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "perfiles_y_sintesis.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "perfiles_y_sintesis.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "fair_janus_y_controles.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "fair_janus_y_controles.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "LEEME.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "fair_janus_y_controles.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "fair_janus_y_controles.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "fair_janus_y_controles.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "fair_janus_y_controles.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "fair_janus_y_controles.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "fair_janus_y_controles.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "fair_janus_y_controles.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "LEEME.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "fair_janus_y_controles.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "fair_janus_y_controles.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "perfiles_y_sintesis.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "perfiles_y_sintesis.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "fair_janus_y_controles.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "fair_janus_y_controles.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "fair_janus_y_controles.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "LEEME.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "fair_janus_y_controles.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "lentes_y_antecedentes.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "fair_janus_y_controles.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "fair_janus_y_controles.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "fair_janus_y_controles.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "fair_janus_y_controles.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "perfiles_y_sintesis.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "perfiles_y_sintesis.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "perfiles_y_sintesis.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "perfiles_y_sintesis.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "perfiles_y_sintesis.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "perfiles_y_sintesis.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "perfiles_y_sintesis.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "perfiles_y_sintesis.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "perfiles_y_sintesis.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "perfiles_y_sintesis.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "perfiles_y_sintesis.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "contratos_y_metadatos.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "perfiles_y_sintesis.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "portafolio_y_validacion.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "perfiles_y_sintesis.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "perfiles_y_sintesis.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "perfiles_y_sintesis.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "portafolio_y_validacion.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "perfiles_y_sintesis.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "perfiles_y_sintesis.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "contratos_y_metadatos.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "portafolio_y_validacion.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "contratos_y_metadatos.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "perfiles_y_sintesis.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "LEEME.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "contratos_y_metadatos.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "contratos_y_metadatos.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "contratos_y_metadatos.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "contratos_y_metadatos.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "contratos_y_metadatos.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "contratos_y_metadatos.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "contratos_y_metadatos.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "fair_janus_y_controles.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "fair_janus_y_controles.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "protocolo_espacial_futuro.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "protocolo_espacial_futuro.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "protocolo_espacial_futuro.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "protocolo_espacial_futuro.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "protocolo_espacial_futuro.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "protocolo_espacial_futuro.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "protocolo_espacial_futuro.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "protocolo_espacial_futuro.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "protocolo_espacial_futuro.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "protocolo_espacial_futuro.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "lentes_y_antecedentes.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "lentes_y_antecedentes.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "lentes_y_antecedentes.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "lentes_y_antecedentes.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "lentes_y_antecedentes.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "lentes_y_antecedentes.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "lentes_y_antecedentes.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "lentes_y_antecedentes.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "lentes_y_antecedentes.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "lentes_y_antecedentes.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "lentes_y_antecedentes.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "lentes_y_antecedentes.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "lentes_y_antecedentes.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "contratos_y_metadatos.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "lentes_y_antecedentes.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "protocolo_espacial_futuro.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "contratos_y_metadatos.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "lentes_y_antecedentes.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "contratos_y_metadatos.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "contratos_y_metadatos.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "contratos_y_metadatos.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "protocolo_espacial_futuro.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "contratos_y_metadatos.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "contratos_y_metadatos.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "contratos_y_metadatos.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "contratos_y_metadatos.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "contratos_y_metadatos.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "contratos_y_metadatos.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "fair_janus_y_controles.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "contratos_y_metadatos.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "contratos_y_metadatos.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "contratos_y_metadatos.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "fair_janus_y_controles.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "fair_janus_y_controles.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "fair_janus_y_controles.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "fair_janus_y_controles.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "fair_janus_y_controles.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "fair_janus_y_controles.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "fair_janus_y_controles.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "fair_janus_y_controles.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "fair_janus_y_controles.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "LEEME.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "LEEME.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "fair_janus_y_controles.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "LEEME.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "portafolio_y_validacion.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "perfiles_y_sintesis.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "perfiles_y_sintesis.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "LEEME.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "LEEME.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "fair_janus_y_controles.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "fair_janus_y_controles.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "perfiles_y_sintesis.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "perfiles_y_sintesis.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "LEEME.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "LEEME.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "perfiles_y_sintesis.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "LEEME.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "portafolio_y_validacion.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "fair_janus_y_controles.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "fair_janus_y_controles.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "fair_janus_y_controles.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "fair_janus_y_controles.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "lentes_y_antecedentes.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "protocolo_espacial_futuro.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "protocolo_espacial_futuro.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "lentes_y_antecedentes.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "portafolio_y_validacion.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "protocolo_espacial_futuro.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "portafolio_y_validacion.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "portafolio_y_validacion.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "portafolio_y_validacion.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "protocolo_espacial_futuro.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "portafolio_y_validacion.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "portafolio_y_validacion.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "LEEME.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "LEEME.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "LEEME.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "LEEME.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "LEEME.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "LEEME.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "LEEME.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "LEEME.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "LEEME.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/resolucion_175.md",
+          "destino": "portafolio_y_validacion.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/LEEME.md",
+          "destino": "perfiles_y_sintesis.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/LEEME.md",
+          "destino": "fichas_historias.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/LEEME.md",
+          "destino": "procesos_y_gobernanza.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/LEEME.md",
+          "destino": "contratos_y_metadatos.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/LEEME.md",
+          "destino": "portafolio_y_validacion.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/LEEME.md",
+          "destino": "protocolo_espacial_futuro.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/LEEME.md",
+          "destino": "lentes_y_antecedentes.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/LEEME.md",
+          "destino": "fair_janus_y_controles.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/LEEME.md",
+          "destino": "resolucion_175.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/LEEME.md",
+          "destino": "resolucion_175.csv",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/LEEME.md",
+          "destino": "../fuentes/06_canvas_rubrica_y_feedback.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/lentes_y_antecedentes.md",
+          "destino": "../../analisis/referencias/GeoInsights/guia_lectura.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/fichas_historias.md",
+          "destino": "../../analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H001.json",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/fichas_historias.md",
+          "destino": "../../analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H002.json",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/fichas_historias.md",
+          "destino": "../../analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H003.json",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/fichas_historias.md",
+          "destino": "../../analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H004.json",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/fichas_historias.md",
+          "destino": "../../analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H005.json",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/fichas_historias.md",
+          "destino": "../../analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H006.json",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/fichas_historias.md",
+          "destino": "../../analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H007.json",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/fichas_historias.md",
+          "destino": "../../analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H008.json",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/fichas_historias.md",
+          "destino": "../../analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H009.json",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/fichas_historias.md",
+          "destino": "../../analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H010.json",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/fichas_historias.md",
+          "destino": "../../analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H011.json",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/fichas_historias.md",
+          "destino": "../../analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H012.json",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/fichas_historias.md",
+          "destino": "../../analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H013.json",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/fichas_historias.md",
+          "destino": "../../analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H014.json",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/fichas_historias.md",
+          "destino": "../../analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H015.json",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/fichas_historias.md",
+          "destino": "../../analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H016.json",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/fichas_historias.md",
+          "destino": "../../analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H017.json",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/fichas_historias.md",
+          "destino": "../../analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H018.json",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/fichas_historias.md",
+          "destino": "../../analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H019.json",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/fichas_historias.md",
+          "destino": "../../analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H020.json",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/fichas_historias.md",
+          "destino": "../../analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H021.json",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/fair_janus_y_controles.md",
+          "destino": "fichas_historias.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/fair_janus_y_controles.md",
+          "destino": "../../analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H003.json",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/fair_janus_y_controles.md",
+          "destino": "../controles/LEEME.md",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/fair_janus_y_controles.md",
+          "destino": "../registros/bibliografia_consultada.json",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/perfiles_y_sintesis.md",
+          "destino": "../../analisis/historias/HU01/soportes_revisados_v1_1/objetos/perfiles/HU01-P001.json",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/perfiles_y_sintesis.md",
+          "destino": "../../analisis/historias/HU01/soportes_revisados_v1_1/objetos/perfiles/HU01-P002.json",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/perfiles_y_sintesis.md",
+          "destino": "../../analisis/historias/HU01/soportes_revisados_v1_1/objetos/perfiles/HU01-P003.json",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/perfiles_y_sintesis.md",
+          "destino": "../../analisis/historias/HU01/soportes_revisados_v1_1/objetos/perfiles/HU01-P004.json",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/perfiles_y_sintesis.md",
+          "destino": "../../analisis/historias/HU01/soportes_revisados_v1_1/objetos/perfiles/HU01-P005.json",
+          "existe": true
+        },
+        {
+          "origen": "editorial/revision_v1_2/perfiles_y_sintesis.md",
+          "destino": "Anexo_visual_perfiles_y_recorrido_v1_2.pdf",
+          "existe": true
+        },
+        {
+          "origen": "editorial/registros/guia_por_seccion.md",
+          "destino": "../../../REP01_reporte_v1_2.md",
+          "existe": true
+        }
+      ],
+      "enlaces_externos_distintos": 10,
+      "alcance": "Existencia de archivos y anclas editoriales. No se comprueban en masa URLs ni rutas históricas de prompts como interfaz actual."
+    },
+    "indice_inverso": {
+      "parrafos": 916,
+      "parrafos_con_necesidades": 343,
+      "necesidades_distintas": 29
+    },
+    "originales": {
+      "archivos_base": 482,
+      "faltantes": [],
+      "modificados": [
+        "LEEME.md"
+      ],
+      "excepcion": "LEEME.md raíz sustituido por guía final, sin tocar fuentes canónicas."
+    },
+    "figuras": {
+      "archivos_decodificados": [
+        {
+          "id": "REP01-F001",
+          "pixeles": [
+            2373,
+            545
+          ],
+          "sha256": "9441757d80bbc684cbaaed0f18f85b2968e22755890d3e4ee1fe0e93451cf57c"
+        },
+        {
+          "id": "REP01-F003",
+          "pixeles": [
+            2075,
+            1757
+          ],
+          "sha256": "aab3b8394a020541351c59dda90554b885078dba7ee2c1015444e2a594c77ed5"
+        }
+      ],
+      "inspeccion_visual": "Registrada aparte en revision_figuras.json; efectuada por asistente, no inferida de decodificación.",
+      "maquetacion": "PENDIENTE_MAQUETACION"
+    },
+    "cobertura_requisitos": {
+      "ATENDIDO_EN_MANUSCRITO": 94,
+      "ATENDIDO_EN_SOPORTE": 77,
+      "PARCIAL": 35,
+      "NO_APLICA_JUSTIFICADO": 1,
+      "PENDIENTE": 1
+    }
+  },
+  "limites": [
+    "No verifica verdad externa, calidad narrativa integral, acuerdos humanos, ejecución de productos o diez páginas.",
+    "No reejecuta todos los controles históricos; examina los artefactos indicados."
+  ],
+  "ejecucion": {
+    "fecha_utc": "2026-11-25T19:08:50.520010+00:00",
+    "sha256_script": "132969508d9e5f7ffbcfdeceb2d9c5552d89a532801f2e4556db55b03e38abd0",
+    "sha256_manuscrito": "9e33be959ce9b9c69ce3be63695caba1c6ccf7d68019dfba0093b4b3f8b7bd69",
+    "nota": "No se incluye huella del JSON externo en control interno para evitar ciclos al completar inventario."
+  }
+}

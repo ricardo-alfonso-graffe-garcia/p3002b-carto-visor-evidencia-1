@@ -1,0 +1,15 @@
+digraph G {
+graph [rankdir=LR, bgcolor="white", pad="0.4", nodesep="0.45", ranksep="1.0", fontname="DejaVu Sans", fontsize=22, labelloc=t, label="Reposición comercial de elástico\nACT01-AMB004\nVerde continuo: acción propia declarada · Azul continuo: tercero relatado\nVioleta discontinuo: atribución documental\nÁmbar punteado: hipótesis (solo en figura separada)"];
+node [shape=box, style="rounded,filled", fillcolor="#edf5f8", color="#467187", fontname="DejaVu Sans", fontsize=17, margin="0.18,0.12"];
+edge [fontname="DejaVu Sans", fontsize=13, arrowsize=0.8];
+"ACT01-A019" [label="Persona que atiende y compra\n(ACT01-A019)", fillcolor="#e3f4ee"];
+"ACT01-A020" [label="Otra persona del mostrador\n(ACT01-A020)", fillcolor="#edf5f8"];
+"ACT01-A021" [label="Persona que pidió suavidad\n(ACT01-A021)", fillcolor="#edf5f8"];
+"ACT01-A022" [label="Persona del proveedor\n(ACT01-A022)", fillcolor="#edf5f8"];
+"ACT01-A023" [label="Otras personas compradoras\n(ACT01-A023)", fillcolor="#edf5f8"];
+"ACT01-A020" -> "ACT01-A019" [id="ACT01-R023", label="Comparte notas y sostiene\nrelevo\nACT01-R023", color="#176d9b", fontcolor="#175578", style="solid", tooltip="RELATADA_POR_TERCERO: voz entrevistada; contraparte sin voz independiente"];
+"ACT01-A019" -> "ACT01-A020" [id="ACT01-R024", label="Devuelve compra y consulta\nconservada\nACT01-R024", color="#16785b", fontcolor="#146449", style="solid", tooltip="DECLARADA: voz entrevistada; contraparte sin voz independiente"];
+"ACT01-A021" -> "ACT01-A019" [id="ACT01-R025", label="Pide cualidad sin encargar\nalternativa\nACT01-R025", color="#176d9b", fontcolor="#175578", style="solid", tooltip="RELATADA_POR_TERCERO: voz entrevistada; contraparte sin voz independiente"];
+"ACT01-A022" -> "ACT01-A019" [id="ACT01-R026", label="Conecta lista con oferta y\ncondiciones\nACT01-R026", color="#176d9b", fontcolor="#175578", style="solid", tooltip="RELATADA_POR_TERCERO: voz entrevistada; contraparte sin voz independiente"];
+"ACT01-A023" -> "ACT01-A019" [id="ACT01-R027", label="Compras acumuladas\ninforman remanente\nACT01-R027", color="#176d9b", fontcolor="#175578", style="solid", tooltip="RELATADA_POR_TERCERO: voz entrevistada; contraparte sin voz independiente"];
+}

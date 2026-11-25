@@ -1,0 +1,1057 @@
+{
+  "version": "1.3",
+  "base": "editorial/revision_v1_2/resolucion_175.json",
+  "alcance": "Preservación de 175 IDs con precisiones de visibilidad; no prueba de conformidad integral.",
+  "filas": [
+    {
+      "id": "R001",
+      "titulo": "Alcance documental y cumplimiento oficial",
+      "tratamiento_previo": "CONTEXTO_RECONCILIADO",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R002",
+      "titulo": "Trazabilidad de las decisiones",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R003",
+      "titulo": "Problema formulado desde la actividad afectada",
+      "tratamiento_previo": "CONSERVADO",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R004",
+      "titulo": "Propósito de innovación pública",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R005",
+      "titulo": "Núcleo de la entrega",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R006",
+      "titulo": "Dos o tres productos delimitados",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R007",
+      "titulo": "Fundamento técnico breve y suficiente",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R008",
+      "titulo": "Diferencia entre alcance inicial y capacidad futura",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R009",
+      "titulo": "Relato del proceso",
+      "tratamiento_previo": "CONSERVADO",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R010",
+      "titulo": "Voz humana y reflexión",
+      "tratamiento_previo": "CONSERVADO",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R011",
+      "titulo": "Referencias a soportes en el lugar pertinente",
+      "tratamiento_previo": "SOPORTE_PREEXISTENTE_Y_MEJORA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R012",
+      "titulo": "Citas y ejemplos concretos",
+      "tratamiento_previo": "CONTROL_LITERAL",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R013",
+      "titulo": "Lenguaje y nomenclatura comprensibles",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R014",
+      "titulo": "Material visual con función analítica",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se incorpora esquema de construcción y mapa de actores al cuerpo."
+    },
+    {
+      "id": "R015",
+      "titulo": "Calidad académica y control de afirmaciones",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R016",
+      "titulo": "Entrevistas como insumo principal",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R017",
+      "titulo": "Inventario del corpus",
+      "tratamiento_previo": "SOPORTE_PREEXISTENTE_Y_MEJORA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R018",
+      "titulo": "Diversidad y límites del muestreo",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R019",
+      "titulo": "Entrevista abierta al problema del usuario",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R020",
+      "titulo": "Reconstrucción de episodios",
+      "tratamiento_previo": "SOPORTE_PREEXISTENTE_Y_MEJORA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R021",
+      "titulo": "Ejercicio del dashboard ideal",
+      "tratamiento_previo": "SOPORTE_PREEXISTENTE_Y_MEJORA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R022",
+      "titulo": "Consentimiento y tratamiento diferenciado",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R023",
+      "titulo": "Seudonimización y revisión de identificadores",
+      "tratamiento_previo": "PARCIAL_CON_PENDIENTE_REAL",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R024",
+      "titulo": "Transcripción canónica y declaración de IA",
+      "tratamiento_previo": "SOPORTE_PREEXISTENTE_Y_MEJORA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R025",
+      "titulo": "Frontera entre prompts de entrevistas y de análisis",
+      "tratamiento_previo": "PARCIAL_CON_PENDIENTE_REAL",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R026",
+      "titulo": "Contexto analítico explícito",
+      "tratamiento_previo": "PARCIAL_CON_PENDIENTE_REAL",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R027",
+      "titulo": "División de responsabilidades",
+      "tratamiento_previo": "PROPUESTA_NO_EJECUTADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R028",
+      "titulo": "Control de privacidad previo",
+      "tratamiento_previo": "PARCIAL_CON_PENDIENTE_REAL",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R029",
+      "titulo": "Estrategia de codificación justificada",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R030",
+      "titulo": "Libro de códigos legible y versionado",
+      "tratamiento_previo": "SOPORTE_PREEXISTENTE_Y_MEJORA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R031",
+      "titulo": "Esquema mínimo de segmentos",
+      "tratamiento_previo": "PARCIAL_CON_PENDIENTE_REAL",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R032",
+      "titulo": "Fidelidad textual y localizadores",
+      "tratamiento_previo": "CONTROL_LITERAL",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R033",
+      "titulo": "Reglas para no fabricar hallazgos",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R034",
+      "titulo": "Validación y cobertura humana",
+      "tratamiento_previo": "PARCIAL_CON_PENDIENTE_REAL",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R035",
+      "titulo": "Temas con evidencia identificable",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R036",
+      "titulo": "Arquetipos y metáforas responsables",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R037",
+      "titulo": "Memos reflexivos",
+      "tratamiento_previo": "SOPORTE_PREEXISTENTE_Y_MEJORA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R038",
+      "titulo": "Revisión adversarial",
+      "tratamiento_previo": "PARCIAL_CON_PENDIENTE_REAL",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R039",
+      "titulo": "Confiabilidad entre codificadores",
+      "tratamiento_previo": "NO_APLICA_CALCULO_NO_REALIZADO",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R040",
+      "titulo": "Contrato entre afirmación y evidencia",
+      "tratamiento_previo": "SOPORTE_PREEXISTENTE_Y_MEJORA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R041",
+      "titulo": "Registros de prompts y respuestas",
+      "tratamiento_previo": "PARCIAL_CON_PENDIENTE_REAL",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R042",
+      "titulo": "Verificación de referencias y declaración de IA",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R043",
+      "titulo": "Controles de salida verificables",
+      "tratamiento_previo": "CONTROL_EJECUTADO",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R044",
+      "titulo": "Recuperación y procedencia de revisiones",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R045",
+      "titulo": "Reproducibilidad correctamente delimitada",
+      "tratamiento_previo": "CONSERVADO",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R046",
+      "titulo": "Métricas y límites del método",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R047",
+      "titulo": "Mapa amplio y específico",
+      "tratamiento_previo": "PARCIAL_CON_PENDIENTE_REAL",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R048",
+      "titulo": "Desagregación institucional",
+      "tratamiento_previo": "PROPUESTA_NO_EJECUTADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R049",
+      "titulo": "Poder interés preferencias y cargas",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R050",
+      "titulo": "Relaciones y ausencias",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "La red E01 ahora se muestra como figura 3; resto de redes en soportes."
+    },
+    {
+      "id": "R051",
+      "titulo": "Fichas de perfiles funcionales",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R052",
+      "titulo": "Diferenciar persona perfil y organización",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R053",
+      "titulo": "Recorrido completo de la información",
+      "tratamiento_previo": "PROPUESTA_NO_EJECUTADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R054",
+      "titulo": "Cobertura de todos los perfiles analizados",
+      "tratamiento_previo": "SOPORTE_PREEXISTENTE_Y_MEJORA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R055",
+      "titulo": "Separar procesos actuales relatados y propuestos",
+      "tratamiento_previo": "CONSERVADO",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R056",
+      "titulo": "Contenido mínimo de un paso",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R057",
+      "titulo": "Después de la descarga",
+      "tratamiento_previo": "CONSERVADO",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R058",
+      "titulo": "Correcciones y autoridad de la fuente",
+      "tratamiento_previo": "PROPUESTA_NO_EJECUTADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R059",
+      "titulo": "Necesidades actuales y proceso deseado",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R060",
+      "titulo": "Hipótesis de mecanismo e impacto",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R061",
+      "titulo": "Enunciados verificables de necesidad",
+      "tratamiento_previo": "SOPORTE_PREEXISTENTE_Y_MEJORA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R062",
+      "titulo": "Necesidad observada aspiración y oportunidad",
+      "tratamiento_previo": "CONSERVADO",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R063",
+      "titulo": "Síntesis transversal con diversidad",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R064",
+      "titulo": "Priorización razonada",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R065",
+      "titulo": "Definición de user story",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R066",
+      "titulo": "Agrupación por necesidades compartidas",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R067",
+      "titulo": "Ficha completa de historia",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R068",
+      "titulo": "Criterios de aceptación observables",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R069",
+      "titulo": "Aspiraciones del ejercicio ideal en las historias",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R070",
+      "titulo": "De historia a insight y producto",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R071",
+      "titulo": "Doble lectura de la trazabilidad",
+      "tratamiento_previo": "CONTROL_Y_MEJORA",
+      "precision_1_3": "La cadena se conserva explícita y el esquema general la sitúa en el proceso."
+    },
+    {
+      "id": "R072",
+      "titulo": "Inventario de información por historia",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R073",
+      "titulo": "Semántica y unidades",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R074",
+      "titulo": "Referencia geográfica y cobertura",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R075",
+      "titulo": "Resolución temporal y alineación",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R076",
+      "titulo": "Procedencia y transformaciones",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R077",
+      "titulo": "Calidad incertidumbre y exclusiones",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R078",
+      "titulo": "Operaciones y metaalgoritmo",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R079",
+      "titulo": "Metadatos destinados a personas y a máquinas",
+      "tratamiento_previo": "CONTROL_Y_MEJORA",
+      "precision_1_3": "El registro HU01-OD037 queda explicado y enlazado desde el cuerpo."
+    },
+    {
+      "id": "R080",
+      "titulo": "Versionar dato metadato y método",
+      "tratamiento_previo": "PROPUESTA_NO_EJECUTADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R081",
+      "titulo": "Espacio y datos como construcciones",
+      "tratamiento_previo": "CONSERVADO",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R082",
+      "titulo": "Retórica visual verbal y procedimental",
+      "tratamiento_previo": "ESPECIFICACION_FUTURA_NO_EJECUTADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R083",
+      "titulo": "MAUP con sus dos componentes",
+      "tratamiento_previo": "ESPECIFICACION_FUTURA_NO_EJECUTADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R084",
+      "titulo": "Unidades funcionales y administrativas",
+      "tratamiento_previo": "ESPECIFICACION_FUTURA_NO_EJECUTADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R085",
+      "titulo": "Ocho preguntas sobre toda agregación relevante",
+      "tratamiento_previo": "ESPECIFICACION_FUTURA_NO_EJECUTADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R086",
+      "titulo": "Denominadores y población expuesta",
+      "tratamiento_previo": "ESPECIFICACION_FUTURA_NO_EJECUTADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R087",
+      "titulo": "Incertidumbre visible y propagada",
+      "tratamiento_previo": "ESPECIFICACION_FUTURA_NO_EJECUTADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R088",
+      "titulo": "Cambio de unidad y sensibilidad",
+      "tratamiento_previo": "ESPECIFICACION_FUTURA_NO_EJECUTADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R089",
+      "titulo": "Simulaciones y estadísticas de exclusión",
+      "tratamiento_previo": "ESPECIFICACION_FUTURA_NO_EJECUTADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R090",
+      "titulo": "Comparación de capas mediante resultados",
+      "tratamiento_previo": "PROPUESTA_NO_EJECUTADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R091",
+      "titulo": "Pregunta y fundamento del escaneo",
+      "tratamiento_previo": "ESPECIFICACION_FUTURA_NO_EJECUTADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R092",
+      "titulo": "Especificación mínima del escaneo",
+      "tratamiento_previo": "ESPECIFICACION_FUTURA_NO_EJECUTADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R093",
+      "titulo": "Salidas y límites del escaneo",
+      "tratamiento_previo": "ESPECIFICACION_FUTURA_NO_EJECUTADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R094",
+      "titulo": "Distinguir dos preguntas de escala",
+      "tratamiento_previo": "CONSERVADO",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R095",
+      "titulo": "Ajuste y comparación rigurosos",
+      "tratamiento_previo": "ESPECIFICACION_FUTURA_NO_EJECUTADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R096",
+      "titulo": "Salida para decisiones y sensibilidad",
+      "tratamiento_previo": "ESPECIFICACION_FUTURA_NO_EJECUTADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R097",
+      "titulo": "Pregunta y representación",
+      "tratamiento_previo": "ESPECIFICACION_FUTURA_NO_EJECUTADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R098",
+      "titulo": "Mapper con parámetros identificables",
+      "tratamiento_previo": "ESPECIFICACION_FUTURA_NO_EJECUTADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R099",
+      "titulo": "Distinguir Mapper de homología persistente",
+      "tratamiento_previo": "ESPECIFICACION_FUTURA_NO_EJECUTADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R100",
+      "titulo": "Interpretación territorial y de intervención",
+      "tratamiento_previo": "ESPECIFICACION_FUTURA_NO_EJECUTADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R101",
+      "titulo": "Pregunta de escenarios y reglas",
+      "tratamiento_previo": "ESPECIFICACION_FUTURA_NO_EJECUTADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R102",
+      "titulo": "Calibración repeticiones y validación",
+      "tratamiento_previo": "ESPECIFICACION_FUTURA_NO_EJECUTADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R103",
+      "titulo": "Alcance de un gemelo digital",
+      "tratamiento_previo": "NO_APLICA_TERMINO_NO_UTILIZADO",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R104",
+      "titulo": "Contrato común para los cuatro lentes",
+      "tratamiento_previo": "SOPORTE_PREEXISTENTE_Y_MEJORA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R105",
+      "titulo": "Selección justificada por pregunta y datos",
+      "tratamiento_previo": "ESPECIFICACION_FUTURA_NO_EJECUTADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R106",
+      "titulo": "Cruce analítico más allá de mostrar capas",
+      "tratamiento_previo": "PROPUESTA_NO_EJECUTADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R107",
+      "titulo": "Resiliencia y preguntas no anticipadas",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R108",
+      "titulo": "Referencia formal y alcance de la revisión",
+      "tratamiento_previo": "SOPORTE_PREEXISTENTE_Y_MEJORA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R109",
+      "titulo": "Explicar ejecución y etapas de datos",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R110",
+      "titulo": "Configuración como parte del contrato",
+      "tratamiento_previo": "SOPORTE_PREEXISTENTE_Y_MEJORA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R111",
+      "titulo": "Adaptadores y esquema común",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R112",
+      "titulo": "Agregación intercambiable con límites",
+      "tratamiento_previo": "ESPECIFICACION_FUTURA_NO_EJECUTADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R113",
+      "titulo": "Reglas de agregación por atributo",
+      "tratamiento_previo": "SOPORTE_PREEXISTENTE_Y_MEJORA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R114",
+      "titulo": "Productos intermedios y comunicación",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R115",
+      "titulo": "Flujo propuesto explícito",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R116",
+      "titulo": "Diversidad de representaciones",
+      "tratamiento_previo": "SOPORTE_PREEXISTENTE_Y_MEJORA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R117",
+      "titulo": "Alineación espacial y semántica",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R118",
+      "titulo": "Integración con Earth Engine",
+      "tratamiento_previo": "SOPORTE_PREEXISTENTE_Y_MEJORA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R119",
+      "titulo": "Resultados versionados y salidas separadas",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R120",
+      "titulo": "Incertidumbre fallas y abstención",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R121",
+      "titulo": "Interfaz interpretable y capacidades diferenciadas",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R122",
+      "titulo": "Arquitectura extensible y prueba proporcional",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R123",
+      "titulo": "Definición correcta y ámbito",
+      "tratamiento_previo": "SOPORTE_PREEXISTENTE_Y_MEJORA",
+      "precision_1_3": "El cuerpo explica las cuatro dimensiones y sus límites."
+    },
+    {
+      "id": "R124",
+      "titulo": "Identidad individual y persistencia",
+      "tratamiento_previo": "PARCIAL_CON_PENDIENTE_REAL",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R125",
+      "titulo": "Accesibilidad con condiciones",
+      "tratamiento_previo": "PARCIAL_CON_PENDIENTE_REAL",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R126",
+      "titulo": "Interoperabilidad con significado",
+      "tratamiento_previo": "SOPORTE_PREEXISTENTE_Y_MEJORA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R127",
+      "titulo": "Reutilización y licencias diferenciadas",
+      "tratamiento_previo": "PARCIAL_CON_PENDIENTE_REAL",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R128",
+      "titulo": "Necesidades e historias en formato FDO",
+      "tratamiento_previo": "SOPORTE_PREEXISTENTE_Y_MEJORA",
+      "precision_1_3": "La sigla y la preparación hacia FDO son explícitas con un objeto existente; no registro pleno."
+    },
+    {
+      "id": "R129",
+      "titulo": "Procedencia y empaquetado de JANUS",
+      "tratamiento_previo": "PARCIAL_CON_PENDIENTE_REAL",
+      "precision_1_3": "Método JANUS explicado y tecnologías no implementadas nombradas como pendientes."
+    },
+    {
+      "id": "R130",
+      "titulo": "Registro de objetos y coherencia",
+      "tratamiento_previo": "SOPORTE_PREEXISTENTE_Y_MEJORA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R131",
+      "titulo": "CARE cuando corresponda",
+      "tratamiento_previo": "NO_APLICA_CONDICIONAL",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R132",
+      "titulo": "Archivos humanos en cada subcarpeta",
+      "tratamiento_previo": "SOPORTE_PREEXISTENTE_Y_MEJORA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R133",
+      "titulo": "Reporte y repo con enlaces recíprocos",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R134",
+      "titulo": "Reproducción y transferencia",
+      "tratamiento_previo": "SOPORTE_PREEXISTENTE_Y_MEJORA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R135",
+      "titulo": "Diagnóstico fiel de la versión de referencia",
+      "tratamiento_previo": "CONSERVADO",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R136",
+      "titulo": "Profundización y vacíos como trabajo concreto",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R137",
+      "titulo": "Flujo completo como prueba de articulación",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R138",
+      "titulo": "Material visual con voz de usuarios",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R139",
+      "titulo": "Formato de los soportes y legibilidad técnica",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R140",
+      "titulo": "Modalidad individual y relación con el equipo",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R141",
+      "titulo": "Mínimo de entrevistas y tipos de actor",
+      "tratamiento_previo": "ADAPTACION_DECLARADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R142",
+      "titulo": "Transcripción y citas verificadas",
+      "tratamiento_previo": "CONTROL_LITERAL_CON_ADAPTACION",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R143",
+      "titulo": "Contraste de tres planos",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R144",
+      "titulo": "Actores necesidades y juicio crítico",
+      "tratamiento_previo": "PARCIAL_CON_PENDIENTE_REAL",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R145",
+      "titulo": "Máximo de diez páginas del reporte",
+      "tratamiento_previo": "CONTEXTO_CORREGIDO",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R146",
+      "titulo": "Formato medio y peso de la evidencia",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R147",
+      "titulo": "Elección pública aplicada",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R148",
+      "titulo": "Niveles de logro y rúbrica pendiente",
+      "tratamiento_previo": "CONTEXTO_CORREGIDO",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R149",
+      "titulo": "Retroalimentación y mejora posterior",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R150",
+      "titulo": "Modalidad y procedencia verdaderas del corpus",
+      "tratamiento_previo": "CONSERVADO",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R151",
+      "titulo": "Audio y consentimiento en la modalidad adaptada",
+      "tratamiento_previo": "ADAPTACION_DECLARADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R152",
+      "titulo": "Declaración de IA y límites de inferencia",
+      "tratamiento_previo": "CONSERVADO",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R153",
+      "titulo": "Diagnóstico con dos columnas de cumplimiento",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R154",
+      "titulo": "Uso metodológico del ejemplo Capybara",
+      "tratamiento_previo": "PARCIAL_ANTECEDENTE_COMPLEMENTARIO",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R155",
+      "titulo": "Separación de cuatro tipos de afirmación",
+      "tratamiento_previo": "ESPECIFICACION_FUTURA_NO_EJECUTADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R156",
+      "titulo": "Configuración comparabilidad y defectos conocidos",
+      "tratamiento_previo": "ESPECIFICACION_FUTURA_NO_EJECUTADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R157",
+      "titulo": "Estado del arte breve y trazable",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R158",
+      "titulo": "Ejemplos de clase 4 como apertura de posibilidades",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R159",
+      "titulo": "Traducción crítica de simplificaciones",
+      "tratamiento_previo": "CONSERVADO",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R160",
+      "titulo": "Ficha de cada producto",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R161",
+      "titulo": "Pruebas de utilidad de interpretación y de contenido",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R162",
+      "titulo": "Métricas proporcionales y línea de base",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R163",
+      "titulo": "Robustez del caso analítico",
+      "tratamiento_previo": "ESPECIFICACION_FUTURA_NO_EJECUTADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R164",
+      "titulo": "Plan de trabajo posterior",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R165",
+      "titulo": "Control de continuidad institucional",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R166",
+      "titulo": "Inventario previo a la auditoría",
+      "tratamiento_previo": "PROCEDIMIENTO_DE_AUDITORIA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R167",
+      "titulo": "Auditoría requisito por requisito",
+      "tratamiento_previo": "PROCEDIMIENTO_DE_AUDITORIA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R168",
+      "titulo": "Evidencia exacta y explicaciones sustantivas",
+      "tratamiento_previo": "PROCEDIMIENTO_DE_AUDITORIA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R169",
+      "titulo": "Prioridad de correcciones",
+      "tratamiento_previo": "PROCEDIMIENTO_DE_AUDITORIA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R170",
+      "titulo": "Criterios que requieren comprobar soporte real",
+      "tratamiento_previo": "CONTROL_Y_MEJORA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R171",
+      "titulo": "Diagnóstico de integración y lectura humana",
+      "tratamiento_previo": "CONTROL_Y_MEJORA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R172",
+      "titulo": "Propuestas de corrección sin fabricar contenido",
+      "tratamiento_previo": "CONSERVADO",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R173",
+      "titulo": "Evaluación de la calificación con prudencia",
+      "tratamiento_previo": "CONTEXTO_CORREGIDO",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R174",
+      "titulo": "Comprobaciones finales cruzadas",
+      "tratamiento_previo": "CONTROL_EJECUTADO",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    },
+    {
+      "id": "R175",
+      "titulo": "Cierre mediante nueva evidencia",
+      "tratamiento_previo": "MEJORA_DOCUMENTAL_APLICADA",
+      "precision_1_3": "Se conserva el tratamiento previo y sus límites; véase contraste de brechas materiales."
+    }
+  ]
+}

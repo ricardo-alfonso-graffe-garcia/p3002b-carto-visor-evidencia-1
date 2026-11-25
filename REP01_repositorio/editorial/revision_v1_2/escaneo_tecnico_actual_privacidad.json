@@ -1,0 +1,47 @@
+{
+  "momento": "Revision editorial 1.2 posterior al análisis",
+  "alcance": "Búsqueda de tres patrones, sin revisión humana de nombres, direcciones o inferencias de identidad. No prueba desidentificación ni control previo.",
+  "resultados": [
+    {
+      "archivo": "corpus/E01/E01_texto_con_localizadores.txt",
+      "coincidencias_regex": {
+        "correo_electronico": 0,
+        "telefono_10_digitos": 0,
+        "coordenada_decimal_pareada": 0
+      }
+    },
+    {
+      "archivo": "corpus/E02/E02_texto_con_localizadores.txt",
+      "coincidencias_regex": {
+        "correo_electronico": 0,
+        "telefono_10_digitos": 0,
+        "coordenada_decimal_pareada": 0
+      }
+    },
+    {
+      "archivo": "corpus/E03/E03_texto_con_localizadores.txt",
+      "coincidencias_regex": {
+        "correo_electronico": 0,
+        "telefono_10_digitos": 0,
+        "coordenada_decimal_pareada": 0
+      }
+    },
+    {
+      "archivo": "corpus/E04/E04_texto_con_localizadores.txt",
+      "coincidencias_regex": {
+        "correo_electronico": 0,
+        "telefono_10_digitos": 0,
+        "coordenada_decimal_pareada": 0
+      }
+    },
+    {
+      "archivo": "corpus/E05/E05_texto_con_localizadores.txt",
+      "coincidencias_regex": {
+        "correo_electronico": 0,
+        "telefono_10_digitos": 0,
+        "coordenada_decimal_pareada": 0
+      }
+    }
+  ],
+  "revision_humana_privacidad": "PENDIENTE"
+}

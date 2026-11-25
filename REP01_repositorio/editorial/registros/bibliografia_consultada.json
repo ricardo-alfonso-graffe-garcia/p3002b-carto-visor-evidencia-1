@@ -1,0 +1,101 @@
+[
+  {
+    "id": "REP01-B001",
+    "cita_en_texto": "D01 (documento interno)",
+    "referencia_completa": "D01: Contraste documental y revisión del encargo. (s. f.). Versión revisada 1.1. Documento interno de coordinación asistida, autor personal no consignado.",
+    "url": null,
+    "fuente_registro": "D01-F001/F002/F004/F009/F010 (fuentes subyacentes)",
+    "localizador_consultado": "72_contraste_documental_v1_1.md; modelos, contrastes y registros de fuentes",
+    "estado": "VERIFICADA",
+    "limites": "Consulta del documento de contraste, no nueva lectura de todos sus originales. No se asume autoría personal ni año desde el nombre.",
+    "ruta_consulta": "DOCUMENTO_INTERNO_CONSULTADO"
+  },
+  {
+    "id": "REP01-B002",
+    "cita_en_texto": "DataLama Team, 2020–2021",
+    "referencia_completa": "DataLama Team. (2020–2021). COVID-19 GeoInsights Mobility Pipeline. Código/documentación, commit ab60b86a6a87bca0dd370c7c4af3ada4185d187e. Licencia MIT.",
+    "url": "https://github.com/data-lama/covid_geoinsights_pipeline/tree/ab60b86a6a87bca0dd370c7c4af3ada4185d187e",
+    "fuente_registro": "T01-F020/T01-F033",
+    "localizador_consultado": "README completo: Architecture/Configuration/External data/Credits; LICENSE; procedencia_snapshot.json",
+    "estado": "VERIFICADA",
+    "limites": "Referencia estática; el periodo es el atribuido al equipo, no año de un artículo; no ejecución.",
+    "ruta_consulta": "COPIA_LOCAL_PRIMARIA"
+  },
+  {
+    "id": "REP01-B003",
+    "cita_en_texto": "Feged Rivadeneira, 2025",
+    "referencia_completa": "Feged Rivadeneira, A. (2025). The JANUS Framework: Leveraging Large Language Models for Qualitative Analysis and Manuscript Writing. Preprint v1, Research Square. DOI 10.21203/rs.3.rs-7580516/v1.",
+    "url": "https://doi.org/10.21203/rs.3.rs-7580516/v1",
+    "fuente_registro": "MET-JANUS",
+    "localizador_consultado": "Cubierta; Methods, pp. PDF 9–10, preparación/codificación, revisión y producción. PDF primario recuperado tras fallo del DOI.",
+    "estado": "VERIFICADA",
+    "limites": "No apéndices completos ni revisión por pares afirmada; no valida este corpus. Nombre de cubierta abreviado.",
+    "ruta_consulta": "CONSULTA_PRIMARIA_DIRIGIDA"
+  },
+  {
+    "id": "REP01-B004",
+    "cita_en_texto": "GO FAIR Foundation, s. f.",
+    "referencia_completa": "GO FAIR Foundation. (s. f.). The FAIR Guiding Principles. Consulta: 25 de noviembre de 2026.",
+    "url": "https://www.gofair.foundation/fair-principles",
+    "fuente_registro": "T01-F017",
+    "localizador_consultado": "Findable/Accessible/Interoperable/Reusable, A1.2; página consultada en REP01.",
+    "estado": "VERIFICADA",
+    "limites": "Principios y autorización, sin evaluación FAIR integral; no artículo Nature declarado leído.",
+    "ruta_consulta": "CONSULTA_PRIMARIA_DIRIGIDA"
+  },
+  {
+    "id": "REP01-B005",
+    "cita_en_texto": "Grimm et al., 2020",
+    "referencia_completa": "Grimm, V., Railsback, S. F., Vincenot, C. E., Berger, U., Gallagher, C., DeAngelis, D. L., Edmonds, B., Ge, J., Giske, J., Groeneveld, J., Johnston, A. S. A., Milles, A., Nabe-Nielsen, J., Polhill, J. G., Radchuk, V., Rohwäder, M.-S., Stillman, R. A., Thiele, J. C., y Ayllón, D. (2020). The ODD Protocol for Describing Agent-Based and Other Simulation Models: A Second Update to Improve Clarity, Replication, and Structural Realism. JASSS, 23(2), 7.",
+    "url": "https://www.jasss.org/23/2/7.html",
+    "fuente_registro": "T01-F012",
+    "localizador_consultado": "Título/autores, resumen y pasajes de propósito/patrones, entidades, escalas y scheduling.",
+    "estado": "VERIFICADA",
+    "limites": "Consulta dirigida; no modelos calibrados ni aplicaciones completas leídas.",
+    "ruta_consulta": "CONSULTA_PRIMARIA_DIRIGIDA"
+  },
+  {
+    "id": "REP01-B006",
+    "cita_en_texto": "Harley, 1989",
+    "referencia_completa": "Harley, J. B. (1989). Deconstructing the Map. Cartographica, 26(2), 1–20.",
+    "url": "https://disp.web.uniroma1.it/sites/default/files/Harley%20-%20deconstructing%20the%20map.pdf",
+    "fuente_registro": "T01-F002",
+    "localizador_consultado": "Resumen; retórica pp. 10–11.",
+    "estado": "VERIFICADA",
+    "limites": "No lectura de bibliografía ni identificación de Andrea con Harley.",
+    "ruta_consulta": "CONSULTA_PRIMARIA_DIRIGIDA"
+  },
+  {
+    "id": "REP01-B007",
+    "cita_en_texto": "INEGI, 2021",
+    "referencia_completa": "Instituto Nacional de Estadística y Geografía. (2021). Características de las localidades 2020: Síntesis metodológica y conceptual.",
+    "url": "https://www.inegi.org.mx/contenidos/inegi/spc/doc/bibliografia/CL_SMC_2020.pdf",
+    "fuente_registro": "T01-F041",
+    "localizador_consultado": "Portada/datos editoriales y §6.2 p. impresa 7, PDF índice cero 15 (página 16 contando desde 1).",
+    "estado": "VERIFICADA",
+    "limites": "Alcance metodológico histórico del Censo 2020; no edición vectorial ni aplicación jurídica acreditada.",
+    "ruta_consulta": "CONSULTA_PRIMARIA_DIRIGIDA"
+  },
+  {
+    "id": "REP01-B008",
+    "cita_en_texto": "Openshaw, s. f.",
+    "referencia_completa": "Openshaw, S. (s. f.). The Modifiable Areal Unit Problem. CATMOG 38. Geo Books.",
+    "url": "https://www.uio.no/studier/emner/sv/iss/SGO9010/openshaw1983.pdf",
+    "fuente_registro": "T01-F001",
+    "localizador_consultado": "Introducción pp. 3–4 y III(i) definiciones pp. 8–10; páginas enfrentadas.",
+    "estado": "VERIFICADA",
+    "limites": "Año no comprobado en ejemplar; no se infiere 1983/1984 del nombre. No monografía completa ni resultados locales.",
+    "ruta_consulta": "CONSULTA_PRIMARIA_DIRIGIDA"
+  },
+  {
+    "id": "REP01-B009",
+    "cita_en_texto": "van Veen et al., s. f.",
+    "referencia_completa": "van Veen, H. J., Saul, N., Eargle, D., y Mangham, S. W. (s. f.). KeplerMapper: Background. Documentación 2.1.0.",
+    "url": "https://kepler-mapper.scikit-tda.org/en/latest/theory.html",
+    "fuente_registro": "T01-F009",
+    "localizador_consultado": "Background/Mapper: proyección, cobertura, agrupamiento y miembros compartidos; cabecera 2.1.0.",
+    "estado": "VERIFICADA",
+    "limites": "No adopta garantías promocionales de robustez ni compatibilidad probada; no artículo original Mapper declarado leído.",
+    "ruta_consulta": "CONSULTA_PRIMARIA_DIRIGIDA"
+  }
+]

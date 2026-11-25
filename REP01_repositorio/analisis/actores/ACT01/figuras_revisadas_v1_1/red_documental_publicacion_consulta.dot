@@ -1,0 +1,17 @@
+digraph G {
+graph [rankdir=LR, bgcolor="white", pad="0.4", nodesep="0.45", ranksep="1.0", fontname="DejaVu Sans", fontsize=22, labelloc=t, label="Funciones documentales de publicación, consulta y norma\nÁmbitos distintos; los nodos aislados no implican vínculo\nACT01-AMB006 | ACT01-AMB010 | ACT01-AMB011\nAzul continuo: relación relatada · Violeta discontinuo: atribución documental\nÁmbar punteado: hipótesis (solo en figura separada)"];
+node [shape=box, style="rounded,filled", fillcolor="#edf5f8", color="#467187", fontname="DejaVu Sans", fontsize=17, margin="0.18,0.12"];
+edge [fontname="DejaVu Sans", fontsize=13, arrowsize=0.8];
+"ACT01-A033" [label="Agencia Digital de Innovación\nPública: gestión y publicación\nde datos\n(ACT01-A033)", fillcolor="#f0eafb"];
+"ACT01-A037" [label="Secretaría de Seguridad\nCiudadana: fuente de Cuadrantes\n(ACT01-A037)", fillcolor="#f0eafb"];
+"ACT01-A041" [label="Instituto de Planeación\nDemocrática y Prospectiva: SIEG\n(ACT01-A041)", fillcolor="#f0eafb"];
+"ACT01-A042" [label="INEGI: Junta de Gobierno, norma\nde metadatos geográficos\n(ACT01-A042)", fillcolor="#f0eafb"];
+"ACT01-A043" [label="Secretaría de Administración y\nFinanzas: fuente catastral\ndescrita en SIGCDMX\n(ACT01-A043)", fillcolor="#f0eafb"];
+"ACT01-A044" [label="SEDUVI: información normativa de\npredios en la documentación\nSIGCDMX\n(ACT01-A044)", fillcolor="#f0eafb"];
+"ACT01-A045" [label="Entes públicos comprendidos por\nla política de datos CDMX\n(ACT01-A045)", fillcolor="#f0eafb"];
+"ACT01-A033" -> "ACT01-A045" [id="ACT01-R034", label="Solicitud ante retraso\nprevista por política 2020\nACT01-R034", color="#7852a5", fontcolor="#64408d", style="dashed"];
+"ACT01-A045" -> "ACT01-A033" [id="ACT01-R035", label="Vía de solicitud de\npublicación/actualización\nACT01-R035", color="#7852a5", fontcolor="#64408d", style="dashed"];
+"ACT01-A037" -> "ACT01-A033" [id="ACT01-R036", label="Fuente/mantenedor en\ncatálogo administrado por\nADIP\nACT01-R036", color="#7852a5", fontcolor="#64408d", style="dashed"];
+"ACT01-A043" -> "ACT01-A033" [id="ACT01-R037", label="Fuente de catastro\nidentificada en\ndocumentación SIGCDMX\nACT01-R037", color="#7852a5", fontcolor="#64408d", style="dashed"];
+"ACT01-A044" -> "ACT01-A033" [id="ACT01-R038", label="Fuente normativa\nidentificada en\ndocumentación SIGCDMX\nACT01-R038", color="#7852a5", fontcolor="#64408d", style="dashed"];
+}

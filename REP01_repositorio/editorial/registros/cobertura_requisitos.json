@@ -1,0 +1,3592 @@
+[
+  {
+    "requisito": "ALC01",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S001",
+      "REP01-S002",
+      "REP01-S006",
+      "REP01-S008"
+    ],
+    "soportes": [
+      "24_registro_corpus.json",
+      "72_contraste_documental_v1_1.json",
+      "editorial/fuentes/06_canvas_rubrica_y_feedback.md"
+    ],
+    "evidencia_cumplimiento": "Portada individual y S001/S008 delimitan Descubre/Define y propuestas sin implementación.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "La evidencia será individual y cerrará Descubre y Define.",
+    "prueba_original": "El documento presenta análisis individual y bases para el diseño."
+  },
+  {
+    "requisito": "ALC02",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S001",
+      "REP01-S002",
+      "REP01-S006",
+      "REP01-S008"
+    ],
+    "soportes": [
+      "24_registro_corpus.json",
+      "72_contraste_documental_v1_1.json",
+      "editorial/fuentes/06_canvas_rubrica_y_feedback.md",
+      "editorial/registros/procedencia_REP01.json"
+    ],
+    "evidencia_cumplimiento": "Cinco transcripciones completas E01–E05 y análisis conservados bajo la excepción docente comunicada. No se cambia su procedencia.",
+    "limite": "Estado referido al enunciado concreto; no certifica revisión humana independiente, conformidad FAIR/JANUS integral, configuración histórica ausente o implementación.",
+    "enunciado_original": "Se desarrollarán exactamente cinco entrevistas.",
+    "prueba_original": "El registro del corpus contiene cinco entrevistas completas."
+  },
+  {
+    "requisito": "ALC03",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S001",
+      "REP01-S002",
+      "REP01-S006",
+      "REP01-S008"
+    ],
+    "soportes": [
+      "24_registro_corpus.json",
+      "72_contraste_documental_v1_1.json",
+      "editorial/fuentes/06_canvas_rubrica_y_feedback.md"
+    ],
+    "evidencia_cumplimiento": "S001 distingue mantenimiento/actualización pública, análisis universitario, coordinación civil y consumo comercial/personal.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "La muestra cubrirá al menos dos tipos entre producción, actualización y consumo.",
+    "prueba_original": "Una tabla de cobertura relaciona funciones con perfiles."
+  },
+  {
+    "requisito": "ALC04",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S001",
+      "REP01-S002",
+      "REP01-S006",
+      "REP01-S008"
+    ],
+    "soportes": [
+      "24_registro_corpus.json",
+      "72_contraste_documental_v1_1.json",
+      "editorial/fuentes/06_canvas_rubrica_y_feedback.md"
+    ],
+    "evidencia_cumplimiento": "Los cinco perfiles de 24_registro_corpus carecen de voz ADIP; S001 conserva la exclusión.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "No se incluirá ningún entrevistado de ADIP.",
+    "prueba_original": "Las cinco fichas cumplen la exclusión sin eliminar el análisis institucional."
+  },
+  {
+    "requisito": "ALC05",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S001",
+      "REP01-S002",
+      "REP01-S006",
+      "REP01-S008"
+    ],
+    "soportes": [
+      "24_registro_corpus.json",
+      "72_contraste_documental_v1_1.json",
+      "editorial/fuentes/06_canvas_rubrica_y_feedback.md",
+      "editorial/controles/maquetacion_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "Word y PDF producidos; PDF de doce páginas totales con nueve de cuerpo. Tres figuras y cinco tablas inspeccionadas en página; fuentes completas preservadas en repositorio.",
+    "limite": "Cumplimiento de formato/legibilidad y extensión del archivo final; no acredita divergencias documentales, revisión humana independiente o pruebas de producto.",
+    "enunciado_original": "El cuerpo del reporte tendrá como máximo diez páginas.",
+    "prueba_original": "Se cuenta el cuerpo en la versión final renderizada."
+  },
+  {
+    "requisito": "ALC06",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S001",
+      "REP01-S002",
+      "REP01-S006",
+      "REP01-S008"
+    ],
+    "soportes": [
+      "24_registro_corpus.json",
+      "72_contraste_documental_v1_1.json",
+      "editorial/fuentes/06_canvas_rubrica_y_feedback.md"
+    ],
+    "evidencia_cumplimiento": "Delimitadores separan portada, cuerpo y referencias; anexos en ZIP y declaración ampliada fuera del cuerpo.",
+    "limite": "Separación implementada en Markdown; recuento de páginas reales pendiente.",
+    "enunciado_original": "Portada, referencias y anexos quedan fuera del conteo.",
+    "prueba_original": "La separación de secciones permite comprobar el cómputo."
+  },
+  {
+    "requisito": "ALC07",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S001",
+      "REP01-S002",
+      "REP01-S006",
+      "REP01-S008"
+    ],
+    "soportes": [
+      "24_registro_corpus.json",
+      "72_contraste_documental_v1_1.json",
+      "editorial/fuentes/06_canvas_rubrica_y_feedback.md"
+    ],
+    "evidencia_cumplimiento": "Portada no fija entrega; fechas de revisión no se presentan como entrevista ni plazo.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "No se presupone una fecha de entrega.",
+    "prueba_original": "El plan no convierte fechas históricas de Canvas en plazos actuales."
+  },
+  {
+    "requisito": "ALC08",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S001",
+      "REP01-S002",
+      "REP01-S006",
+      "REP01-S008"
+    ],
+    "soportes": [
+      "24_registro_corpus.json",
+      "72_contraste_documental_v1_1.json",
+      "editorial/fuentes/06_canvas_rubrica_y_feedback.md"
+    ],
+    "evidencia_cumplimiento": "S008 presenta candidatos y ensayos futuros; se entregan documentos, no producto implementado.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "La implementación del producto corresponde a la siguiente etapa.",
+    "prueba_original": "Las funciones y modelos futuros se distinguen de trabajos ya ejecutados."
+  },
+  {
+    "requisito": "ALC09",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S001",
+      "REP01-S002",
+      "REP01-S006",
+      "REP01-S008"
+    ],
+    "soportes": [
+      "24_registro_corpus.json",
+      "72_contraste_documental_v1_1.json",
+      "editorial/fuentes/06_canvas_rubrica_y_feedback.md"
+    ],
+    "evidencia_cumplimiento": "29 necesidades de cinco ámbitos en N01; no se limita el análisis a capas SSC ausentes.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Las dos capas SSC no limitarán la exploración de necesidades.",
+    "prueba_original": "Las entrevistas no restringen de antemano las preguntas a esas dos capas."
+  },
+  {
+    "requisito": "ALC10",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S001",
+      "REP01-S002",
+      "REP01-S006",
+      "REP01-S008"
+    ],
+    "soportes": [
+      "24_registro_corpus.json",
+      "72_contraste_documental_v1_1.json",
+      "editorial/fuentes/06_canvas_rubrica_y_feedback.md"
+    ],
+    "evidencia_cumplimiento": "S007 evalúa métodos por pregunta; no se convierten árboles/crimen o crisis en escenarios del corpus.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "El cruce de árboles y crimen y las crisis son ejemplos.",
+    "prueba_original": "No aparecen como escenarios obligatorios de las cinco entrevistas."
+  },
+  {
+    "requisito": "ALC11",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S001",
+      "REP01-S002",
+      "REP01-S006",
+      "REP01-S008"
+    ],
+    "soportes": [
+      "24_registro_corpus.json",
+      "72_contraste_documental_v1_1.json",
+      "editorial/fuentes/06_canvas_rubrica_y_feedback.md"
+    ],
+    "evidencia_cumplimiento": "S001/S006 contrastan el planteamiento institucional; D01-A001–A022 diferencia evidencia, objetivos y supuestos.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "La ficha ADIP se tratará como encargo por contrastar.",
+    "prueba_original": "Las afirmaciones del cliente no se reutilizan automáticamente como hallazgos."
+  },
+  {
+    "requisito": "ALC12",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S001",
+      "REP01-S002",
+      "REP01-S006",
+      "REP01-S008"
+    ],
+    "soportes": [
+      "24_registro_corpus.json",
+      "72_contraste_documental_v1_1.json",
+      "editorial/fuentes/06_canvas_rubrica_y_feedback.md"
+    ],
+    "evidencia_cumplimiento": "S002 y guion identifican diseño/editorial asistido, sin afirmar otro instrumento validado.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "No existe otro guion validado que deba recuperarse.",
+    "prueba_original": "El protocolo identifica el instrumento diseñado y el estado real de su revisión."
+  },
+  {
+    "requisito": "ALC13",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S001",
+      "REP01-S002",
+      "REP01-S006",
+      "REP01-S008"
+    ],
+    "soportes": [
+      "24_registro_corpus.json",
+      "72_contraste_documental_v1_1.json",
+      "editorial/fuentes/06_canvas_rubrica_y_feedback.md"
+    ],
+    "evidencia_cumplimiento": "S001 y registro corpus identifican E04/E05 como dos usos no especializados diferentes.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Incluir dos usuarios finales no especializados con contextos de uso diferentes.",
+    "prueba_original": "P04 y P05 están definidos como no especializados y conservan los tres instrumentos y el ejercicio ideal."
+  },
+  {
+    "requisito": "APE01",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S002"
+    ],
+    "soportes": [
+      "11_guion_base_y_adaptaciones.md",
+      "55_libro_comun_v1_3.json",
+      "63_sintesis_transversal_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "Guion B03–B06 y aperturas E01-P006, E04-P007 y E05-P006 parten de actividad/propósito.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Partir de actividades y decisiones del perfil.",
+    "prueba_original": "Las preguntas de apertura no comienzan con la solución del cliente."
+  },
+  {
+    "requisito": "APE02",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S002"
+    ],
+    "soportes": [
+      "11_guion_base_y_adaptaciones.md",
+      "55_libro_comun_v1_3.json",
+      "63_sintesis_transversal_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "S001/S006 no concluyen base única; guion B25–B31 permite soportes y prácticas suficientes.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "No presuponer que la necesidad es una base única o un visor.",
+    "prueba_original": "Se revisan y reformulan preguntas que contienen esa premisa."
+  },
+  {
+    "requisito": "APE03",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S002"
+    ],
+    "soportes": [
+      "11_guion_base_y_adaptaciones.md",
+      "55_libro_comun_v1_3.json",
+      "63_sintesis_transversal_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "Listas y asociaciones parten de lo introducido por participantes; P01 conserva roles por episodio.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Permitir que la persona construya sus propios actores y procesos.",
+    "prueba_original": "Los instrumentos no exigen completar una lista institucional cerrada."
+  },
+  {
+    "requisito": "APE04",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S002"
+    ],
+    "soportes": [
+      "11_guion_base_y_adaptaciones.md",
+      "55_libro_comun_v1_3.json",
+      "63_sintesis_transversal_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "Guion contiene cinco adaptaciones; las entrevistas no especializadas explican mercería y salida sin imponer jerga.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Adaptar lenguaje y profundidad a cada perfil.",
+    "prueba_original": "Hay adaptaciones justificadas para participantes no especializados."
+  },
+  {
+    "requisito": "APE05",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S002"
+    ],
+    "soportes": [
+      "11_guion_base_y_adaptaciones.md",
+      "55_libro_comun_v1_3.json",
+      "63_sintesis_transversal_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "S002 comenta repreguntas y correcciones concretas; libro R006–R009 separa forma, función y sugerencia.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Usar repreguntas vinculadas a lo que la persona menciona.",
+    "prueba_original": "Se comprueba su correspondencia con la intervención anterior."
+  },
+  {
+    "requisito": "APE06",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S002"
+    ],
+    "soportes": [
+      "11_guion_base_y_adaptaciones.md",
+      "55_libro_comun_v1_3.json",
+      "63_sintesis_transversal_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "Cada entrevista desarrolla un episodio en P01, desde inicio hasta cierre reconocido.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Pedir episodios y ejemplos concretos.",
+    "prueba_original": "Cada entrevista aporta al menos un recorrido de decisión sustantivo."
+  },
+  {
+    "requisito": "APE07",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S002"
+    ],
+    "soportes": [
+      "11_guion_base_y_adaptaciones.md",
+      "55_libro_comun_v1_3.json",
+      "63_sintesis_transversal_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "S003/S005 conservan puertas, alternativas y perspectivas desconocidas; no se completan.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Permitir desconocimiento, desacuerdo y límites de conocimiento.",
+    "prueba_original": "La caracterización no atribuye acceso o experiencia omniscientes."
+  },
+  {
+    "requisito": "APE08",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S002"
+    ],
+    "soportes": [
+      "11_guion_base_y_adaptaciones.md",
+      "55_libro_comun_v1_3.json",
+      "63_sintesis_transversal_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "ACT01 distingue VOZ_ENTREVISTADA, TERCERO_RELATADO y ACTOR_DOCUMENTAL; S004 explica alcance.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Distinguir percepciones sobre otros actores de hechos comprobados.",
+    "prueba_original": "Las atribuciones se conservan con emisor y alcance."
+  },
+  {
+    "requisito": "APE09",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S002"
+    ],
+    "soportes": [
+      "11_guion_base_y_adaptaciones.md",
+      "55_libro_comun_v1_3.json",
+      "63_sintesis_transversal_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "E01-P120, E02-P128, E03-P149, E04-P138 y E05-P136 introducen ideal después de prácticas.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Separar exploración actual y ejercicio de información deseada.",
+    "prueba_original": "Ambos momentos se pueden localizar en cada conversación."
+  },
+  {
+    "requisito": "APE10",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S002"
+    ],
+    "soportes": [
+      "11_guion_base_y_adaptaciones.md",
+      "55_libro_comun_v1_3.json",
+      "63_sintesis_transversal_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "Guiones y entrevistas no requieren que la persona proponga SCAN, potencia, TDA o ABM; S007 los evalúa después.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Evitar inducir los cuatro métodos dentro de las respuestas.",
+    "prueba_original": "Los guiones no exigen que el participante proponga esos métodos."
+  },
+  {
+    "requisito": "APE11",
+    "estado": "PARCIAL",
+    "secciones": [
+      "REP01-S002"
+    ],
+    "soportes": [
+      "11_guion_base_y_adaptaciones.md",
+      "55_libro_comun_v1_3.json",
+      "63_sintesis_transversal_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "El paquete final no contiene corpus del compañero; no se dispone aquí de todos los paquetes originales de desarrollo para certificar aislamiento histórico.",
+    "limite": "Exclusión observable en la entrega; no auditoría de todo el contexto histórico de generación.",
+    "enunciado_original": "No suministrar conclusiones del compañero a los espacios de entrevista.",
+    "prueba_original": "Los paquetes de transferencia excluyen su corpus y resultados."
+  },
+  {
+    "requisito": "APE12",
+    "estado": "PARCIAL",
+    "secciones": [
+      "REP01-S002"
+    ],
+    "soportes": [
+      "11_guion_base_y_adaptaciones.md",
+      "55_libro_comun_v1_3.json",
+      "63_sintesis_transversal_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "Se conservan análisis locales A01–A05 y sus entradas; no se certifica retrospectivamente la configuración o contexto de generación de cada entrevista.",
+    "limite": "Exclusión observable en la entrega; no auditoría de todo el contexto histórico de generación.",
+    "enunciado_original": "No transferir respuestas de otras entrevistas.",
+    "prueba_original": "Cada paquete incluye solo el contexto permitido para su perfil."
+  },
+  {
+    "requisito": "APE13",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S002"
+    ],
+    "soportes": [
+      "11_guion_base_y_adaptaciones.md",
+      "55_libro_comun_v1_3.json",
+      "63_sintesis_transversal_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "S005/S008 distinguen deseos, historias analíticas y candidatos sin aceptación o impacto medido.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Distinguir oportunidades propuestas por el equipo de necesidades expresadas.",
+    "prueba_original": "La síntesis identifica procedencia y validación pendiente de cada propuesta."
+  },
+  {
+    "requisito": "APE14",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S002"
+    ],
+    "soportes": [
+      "11_guion_base_y_adaptaciones.md",
+      "55_libro_comun_v1_3.json",
+      "63_sintesis_transversal_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "S001/S002 explican muestra funcional y elicitación; no saturación, neutralidad completa o representatividad.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "No prometer ausencia absoluta de sesgo o representatividad.",
+    "prueba_original": "El método describe medidas de reducción y límites de cobertura."
+  },
+  {
+    "requisito": "NAT01",
+    "estado": "PARCIAL",
+    "secciones": [
+      "REP01-S002"
+    ],
+    "soportes": [
+      "corpus/LEEME.md",
+      "55_libro_comun_v1_3.json",
+      "editorial/registros/incidencias_metodologicas.md"
+    ],
+    "evidencia_cumplimiento": "Las cinco fuentes conservan preguntas breves y extensas; no se reescriben para homogeneizar estilo.",
+    "limite": "Se conserva material generado con IA; revisión asistida de adecuación no certifica naturalidad de conversación real. No se altera para aparentar cumplimiento.",
+    "enunciado_original": "Variar la extensión de preguntas según su propósito.",
+    "prueba_original": "La conversación no repite preguntas de estructura y longitud mecánicas."
+  },
+  {
+    "requisito": "NAT02",
+    "estado": "PARCIAL",
+    "secciones": [
+      "REP01-S002"
+    ],
+    "soportes": [
+      "corpus/LEEME.md",
+      "55_libro_comun_v1_3.json",
+      "editorial/registros/incidencias_metodologicas.md"
+    ],
+    "evidencia_cumplimiento": "Párrafos y turnos de longitudes distintas se preservan íntegros; no se usa longitud como calidad.",
+    "limite": "Se conserva material generado con IA; revisión asistida de adecuación no certifica naturalidad de conversación real. No se altera para aparentar cumplimiento.",
+    "enunciado_original": "Variar extensión y profundidad de respuestas.",
+    "prueba_original": "Se conserva diversidad de intervenciones breves y extensas."
+  },
+  {
+    "requisito": "NAT03",
+    "estado": "PARCIAL",
+    "secciones": [
+      "REP01-S002"
+    ],
+    "soportes": [
+      "corpus/LEEME.md",
+      "55_libro_comun_v1_3.json",
+      "editorial/registros/incidencias_metodologicas.md"
+    ],
+    "evidencia_cumplimiento": "Se conservan muletillas tal como aparecen; no nueva intervención ni prueba objetiva de naturalidad.",
+    "limite": "Se conserva material generado con IA; revisión asistida de adecuación no certifica naturalidad de conversación real. No se altera para aparentar cumplimiento.",
+    "enunciado_original": "Usar muletillas con moderación y sin distribución mecánica.",
+    "prueba_original": "La revisión distingue naturalidad de repetición ornamental."
+  },
+  {
+    "requisito": "NAT04",
+    "estado": "PARCIAL",
+    "secciones": [
+      "REP01-S002"
+    ],
+    "soportes": [
+      "corpus/LEEME.md",
+      "55_libro_comun_v1_3.json",
+      "editorial/registros/incidencias_metodologicas.md"
+    ],
+    "evidencia_cumplimiento": "E05-P069 autocorrige cronología y E04-P112 cambia nombre del cierre; sin editar fuentes.",
+    "limite": "Se conserva material generado con IA; revisión asistida de adecuación no certifica naturalidad de conversación real. No se altera para aparentar cumplimiento.",
+    "enunciado_original": "Permitir dudas y autocorrecciones ocasionales.",
+    "prueba_original": "Son coherentes con la respuesta y el perfil."
+  },
+  {
+    "requisito": "NAT05",
+    "estado": "PARCIAL",
+    "secciones": [
+      "REP01-S002"
+    ],
+    "soportes": [
+      "corpus/LEEME.md",
+      "55_libro_comun_v1_3.json",
+      "editorial/registros/incidencias_metodologicas.md"
+    ],
+    "evidencia_cumplimiento": "S002 documenta aclaraciones y recapitulaciones más allá de un listado; corpus completo las permite revisar.",
+    "limite": "Se conserva material generado con IA; revisión asistida de adecuación no certifica naturalidad de conversación real. No se altera para aparentar cumplimiento.",
+    "enunciado_original": "Mantener interacción del entrevistador más allá del listado de preguntas.",
+    "prueba_original": "Hay aclaraciones, reformulaciones y seguimiento pertinentes."
+  },
+  {
+    "requisito": "NAT06",
+    "estado": "PARCIAL",
+    "secciones": [
+      "REP01-S002"
+    ],
+    "soportes": [
+      "corpus/LEEME.md",
+      "55_libro_comun_v1_3.json",
+      "editorial/registros/incidencias_metodologicas.md"
+    ],
+    "evidencia_cumplimiento": "E01-P071, E03-P189 y E05-P173 corrigen entendimientos; el manuscrito conserva esas rectificaciones.",
+    "limite": "Se conserva material generado con IA; revisión asistida de adecuación no certifica naturalidad de conversación real. No se altera para aparentar cumplimiento.",
+    "enunciado_original": "Discrepar o contrastar con respeto sin dirigir la experiencia.",
+    "prueba_original": "Las intervenciones no buscan imponer una conclusión."
+  },
+  {
+    "requisito": "NAT07",
+    "estado": "PARCIAL",
+    "secciones": [
+      "REP01-S002"
+    ],
+    "soportes": [
+      "corpus/LEEME.md",
+      "55_libro_comun_v1_3.json",
+      "editorial/registros/incidencias_metodologicas.md"
+    ],
+    "evidencia_cumplimiento": "Encabezados y primeras respuestas explican cinco funciones y actividades, sin identidades inventadas.",
+    "limite": "Se conserva material generado con IA; revisión asistida de adecuación no certifica naturalidad de conversación real. No se altera para aparentar cumplimiento.",
+    "enunciado_original": "Incluir apertura con contexto ocupacional comprensible.",
+    "prueba_original": "El lector entiende quién participa y por qué su posición es pertinente."
+  },
+  {
+    "requisito": "NAT08",
+    "estado": "PARCIAL",
+    "secciones": [
+      "REP01-S002"
+    ],
+    "soportes": [
+      "corpus/LEEME.md",
+      "55_libro_comun_v1_3.json",
+      "editorial/registros/incidencias_metodologicas.md"
+    ],
+    "evidencia_cumplimiento": "Se usan funciones sin nombres personales de participantes; no certificación de anonimato irreversible.",
+    "limite": "Se conserva material generado con IA; revisión asistida de adecuación no certifica naturalidad de conversación real. No se altera para aparentar cumplimiento.",
+    "enunciado_original": "Anonimizar nombres sin borrar el contexto funcional.",
+    "prueba_original": "La ficha y el diálogo conservan comprensión sin nombres personales."
+  },
+  {
+    "requisito": "NAT09",
+    "estado": "PARCIAL",
+    "secciones": [
+      "REP01-S002"
+    ],
+    "soportes": [
+      "corpus/LEEME.md",
+      "55_libro_comun_v1_3.json",
+      "editorial/registros/incidencias_metodologicas.md"
+    ],
+    "evidencia_cumplimiento": "E01-P164–P165, E02-P179–P180, E03-P196–P197, E04-P192–P193, E05-P185–P186 conservan cierre.",
+    "limite": "Se conserva material generado con IA; revisión asistida de adecuación no certifica naturalidad de conversación real. No se altera para aparentar cumplimiento.",
+    "enunciado_original": "Incluir cierre y agradecimiento naturales.",
+    "prueba_original": "El cierre permite matices finales y no corta mecánicamente el diálogo."
+  },
+  {
+    "requisito": "NAT10",
+    "estado": "PARCIAL",
+    "secciones": [
+      "REP01-S002"
+    ],
+    "soportes": [
+      "corpus/LEEME.md",
+      "55_libro_comun_v1_3.json",
+      "editorial/registros/incidencias_metodologicas.md"
+    ],
+    "evidencia_cumplimiento": "P01 registra solapamientos y cambios de nombres; las fuentes conservan tres instrumentos sin ordenar artificialmente su discurso.",
+    "limite": "Se conserva material generado con IA; revisión asistida de adecuación no certifica naturalidad de conversación real. No se altera para aparentar cumplimiento.",
+    "enunciado_original": "Permitir desorden discursivo sin perder completitud.",
+    "prueba_original": "La entrevista conserva los tres instrumentos y el recorrido sustantivo."
+  },
+  {
+    "requisito": "NAT11",
+    "estado": "PARCIAL",
+    "secciones": [
+      "REP01-S002"
+    ],
+    "soportes": [
+      "corpus/LEEME.md",
+      "55_libro_comun_v1_3.json",
+      "editorial/registros/incidencias_metodologicas.md"
+    ],
+    "evidencia_cumplimiento": "Las respuestas no especializadas describen materiales y convivencia; se conserva la voz generada sin certificar naturalidad empírica.",
+    "limite": "Se conserva material generado con IA; revisión asistida de adecuación no certifica naturalidad de conversación real. No se altera para aparentar cumplimiento.",
+    "enunciado_original": "Evitar que todas las respuestas parezcan ensayos técnicos.",
+    "prueba_original": "Se revisa adecuación de voz, conocimiento y situación."
+  },
+  {
+    "requisito": "NAT12",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S002"
+    ],
+    "soportes": [
+      "corpus/LEEME.md",
+      "55_libro_comun_v1_3.json",
+      "editorial/registros/incidencias_metodologicas.md",
+      "editorial/controles/conteos_y_fuentes_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "Comparación binaria de fuentes canónicas y conservación de contraejemplos; no se cambiaron testimonios para sostener la tesis.",
+    "limite": "Estado referido al enunciado concreto; no certifica revisión humana independiente, conformidad FAIR/JANUS integral, configuración histórica ausente o implementación.",
+    "enunciado_original": "No modificar testimonios para producir una conclusión conveniente.",
+    "prueba_original": "Las revisiones posteriores se documentan y no cambian el sentido del corpus."
+  },
+  {
+    "requisito": "INS01",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S003",
+      "REP01-S005"
+    ],
+    "soportes": [
+      "11_guion_base_y_adaptaciones.md",
+      "24_registro_corpus.json",
+      "67_procesos_descritos_v1_1.json",
+      "82_necesidades_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "Registro de cobertura localiza actores/asociaciones, proceso/fases y necesidades/ideal en E01–E05.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Incluir los tres instrumentos en las cinco entrevistas.",
+    "prueba_original": "Un control por entrevista localiza los tres ejercicios."
+  },
+  {
+    "requisito": "INS02",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S003",
+      "REP01-S005"
+    ],
+    "soportes": [
+      "11_guion_base_y_adaptaciones.md",
+      "24_registro_corpus.json",
+      "67_procesos_descritos_v1_1.json",
+      "82_necesidades_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "P01/ACT01 preservan identificación situada de roles y límites de conocimiento.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Identificar actores desde la perspectiva del participante.",
+    "prueba_original": "Se registra la lista construida y los actores añadidos durante la conversación."
+  },
+  {
+    "requisito": "INS03",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S003",
+      "REP01-S005"
+    ],
+    "soportes": [
+      "11_guion_base_y_adaptaciones.md",
+      "24_registro_corpus.json",
+      "67_procesos_descritos_v1_1.json",
+      "82_necesidades_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "Las asociaciones se explican en E01-P041/P047, E02-P025/P033, E03-P026/P031, E04-P043/P048 y E05-P023/P038.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Obtener asociaciones y explicaciones sobre cada actor pertinente.",
+    "prueba_original": "El análisis dispone de verbalización y no solo del nombre de una tarjeta."
+  },
+  {
+    "requisito": "INS04",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S003",
+      "REP01-S005"
+    ],
+    "soportes": [
+      "11_guion_base_y_adaptaciones.md",
+      "24_registro_corpus.json",
+      "67_procesos_descritos_v1_1.json",
+      "82_necesidades_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "Guion B09/B10 y adaptaciones usan comparación verbal elegida y explicación; no se inventan tarjetas empleadas.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Conservar la lógica proyectiva con recursos adaptables.",
+    "prueba_original": "El protocolo explica estímulo, introducción y función del ejercicio."
+  },
+  {
+    "requisito": "INS05",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S003",
+      "REP01-S005"
+    ],
+    "soportes": [
+      "11_guion_base_y_adaptaciones.md",
+      "24_registro_corpus.json",
+      "67_procesos_descritos_v1_1.json",
+      "82_necesidades_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "Libro R005 y S002 analizan función de la metáfora, no significados externos.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "No interpretar las cartas con significados externos impuestos.",
+    "prueba_original": "Las asociaciones se atribuyen a la persona que las explica."
+  },
+  {
+    "requisito": "INS06",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S003",
+      "REP01-S005"
+    ],
+    "soportes": [
+      "11_guion_base_y_adaptaciones.md",
+      "24_registro_corpus.json",
+      "67_procesos_descritos_v1_1.json",
+      "82_necesidades_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "Guion acepta imágenes/analogías; las fuentes usan ejercicio verbal, sin tarot obligatorio.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "El tarot no será una obligación instrumental.",
+    "prueba_original": "El guion puede conservar el ejercicio mediante imágenes o analogías."
+  },
+  {
+    "requisito": "INS07",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S003",
+      "REP01-S005"
+    ],
+    "soportes": [
+      "11_guion_base_y_adaptaciones.md",
+      "24_registro_corpus.json",
+      "67_procesos_descritos_v1_1.json",
+      "82_necesidades_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "P01 contiene inicio y cierre por entrevista; S003 no impone hito común.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Permitir elegir inicio, final e hitos del proceso.",
+    "prueba_original": "La transcripción registra cómo se delimitó el recorrido."
+  },
+  {
+    "requisito": "INS08",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S003",
+      "REP01-S005"
+    ],
+    "soportes": [
+      "11_guion_base_y_adaptaciones.md",
+      "24_registro_corpus.json",
+      "67_procesos_descritos_v1_1.json",
+      "82_necesidades_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "P01.agrupaciones_participante y correcciones_y_solapamientos conservan nombres revisados.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Permitir revisar secuencia y agrupar momentos en fases.",
+    "prueba_original": "Los nombres y ajustes de fases pueden volver a la entrevista."
+  },
+  {
+    "requisito": "INS09",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S003",
+      "REP01-S005"
+    ],
+    "soportes": [
+      "11_guion_base_y_adaptaciones.md",
+      "24_registro_corpus.json",
+      "67_procesos_descritos_v1_1.json",
+      "82_necesidades_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "S003 y mapas completos identifican roles, tabla/croquis/notas/muestras, canales conocidos y vacíos.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Explorar entradas, salidas, responsables y canales.",
+    "prueba_original": "El relato permite identificar esos componentes o sus vacíos."
+  },
+  {
+    "requisito": "INS10",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S003",
+      "REP01-S005"
+    ],
+    "soportes": [
+      "11_guion_base_y_adaptaciones.md",
+      "24_registro_corpus.json",
+      "67_procesos_descritos_v1_1.json",
+      "82_necesidades_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "P01 distingue retornos ocurridos y contingencias declaradas; S003 conserva pregunta posterior y revisión entre encuentros.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Explorar esperas, devoluciones, excepciones y correcciones.",
+    "prueba_original": "Los mapas no reducen el proceso a una secuencia ideal sin retornos."
+  },
+  {
+    "requisito": "INS11",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S003",
+      "REP01-S005"
+    ],
+    "soportes": [
+      "11_guion_base_y_adaptaciones.md",
+      "24_registro_corpus.json",
+      "67_procesos_descritos_v1_1.json",
+      "82_necesidades_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "S003 sigue de consulta a copia explicada, interpretación, anuncio, despacho y convivencia.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Explorar qué ocurre después de consultar, obtener o descargar información.",
+    "prueba_original": "Se identifica la decisión y el uso posterior."
+  },
+  {
+    "requisito": "INS12",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S003",
+      "REP01-S005"
+    ],
+    "soportes": [
+      "11_guion_base_y_adaptaciones.md",
+      "24_registro_corpus.json",
+      "67_procesos_descritos_v1_1.json",
+      "82_necesidades_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "S005 y N01.necesidades vinculan objeto de información a decisión, contexto y suficiencia.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Vincular necesidades de información con decisiones.",
+    "prueba_original": "Cada necesidad analítica dispone de una tarea o decisión de referencia."
+  },
+  {
+    "requisito": "INS13",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S003",
+      "REP01-S005"
+    ],
+    "soportes": [
+      "11_guion_base_y_adaptaciones.md",
+      "24_registro_corpus.json",
+      "67_procesos_descritos_v1_1.json",
+      "82_necesidades_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "S005 distingue atendida, parcial, carencia declarada, ideal y condicional; N008/N013 son ejemplos.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Explorar información disponible, ausente e insuficiente.",
+    "prueba_original": "Se distingue estado actual y brecha."
+  },
+  {
+    "requisito": "INS14",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S003",
+      "REP01-S005"
+    ],
+    "soportes": [
+      "11_guion_base_y_adaptaciones.md",
+      "24_registro_corpus.json",
+      "67_procesos_descritos_v1_1.json",
+      "82_necesidades_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "N004/N009/N016/N017/N023/N029 conservan seis deseos; sus ejercicios y barreras son localizables.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Realizar el ejercicio de tablero o información ideal.",
+    "prueba_original": "Se conserva una descripción de lo deseado, sus barreras y prioridades."
+  },
+  {
+    "requisito": "INS15",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S003",
+      "REP01-S005"
+    ],
+    "soportes": [
+      "11_guion_base_y_adaptaciones.md",
+      "24_registro_corpus.json",
+      "67_procesos_descritos_v1_1.json",
+      "82_necesidades_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "Guion B27 y E05-P153 permiten formas diferentes; S002 reconoce influencia de opciones ofrecidas.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Explorar representaciones sin imponer un mapa o gráfico.",
+    "prueba_original": "La persona explica qué le permitiría hacer la representación elegida."
+  },
+  {
+    "requisito": "INS16",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S003",
+      "REP01-S005"
+    ],
+    "soportes": [
+      "11_guion_base_y_adaptaciones.md",
+      "24_registro_corpus.json",
+      "67_procesos_descritos_v1_1.json",
+      "82_necesidades_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "HU01 separa contexto temporal/espacial de resolución/escala desconocidas; S005/S007 lo explican.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Indagar temporalidad, detalle y suficiencia de información.",
+    "prueba_original": "La entrevista aporta insumos para perfiles preliminares de metadatos."
+  },
+  {
+    "requisito": "INS17",
+    "estado": "PARCIAL",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S003",
+      "REP01-S005"
+    ],
+    "soportes": [
+      "11_guion_base_y_adaptaciones.md",
+      "24_registro_corpus.json",
+      "67_procesos_descritos_v1_1.json",
+      "82_necesidades_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "24_registro_corpus y guion existen; fechas y algunos encabezados de versión no consignados se mantienen.",
+    "limite": "Cumplimiento parcial con soporte y alcance en evidencia_cumplimiento; datos administrativos, aplicabilidad, ejecución o revisión humana/maquetación señalados no se acreditan.",
+    "enunciado_original": "Registrar guion y metadatos pertinentes por entrevista.",
+    "prueba_original": "Los registros remiten a la versión de instrumento y datos disponibles."
+  },
+  {
+    "requisito": "INS18",
+    "estado": "PARCIAL",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S003",
+      "REP01-S005"
+    ],
+    "soportes": [
+      "11_guion_base_y_adaptaciones.md",
+      "24_registro_corpus.json",
+      "67_procesos_descritos_v1_1.json",
+      "82_necesidades_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "Aperturas contienen aceptación textual; no audio/fecha/firma adicionales ni consentimiento documental independiente.",
+    "limite": "Cumplimiento parcial con soporte y alcance en evidencia_cumplimiento; datos administrativos, aplicabilidad, ejecución o revisión humana/maquetación señalados no se acreditan.",
+    "enunciado_original": "Tratar el consentimiento conforme a los registros del ejercicio.",
+    "prueba_original": "El estado y soporte se identifican sin inventar firmas o aprobaciones."
+  },
+  {
+    "requisito": "COD01",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S002"
+    ],
+    "soportes": [
+      "55_libro_comun_v1_3.json",
+      "analisis/recodificacion/LEEME.md",
+      "63_sintesis_transversal_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "Cinco DOCX 1.0 y JSON canónicos con hashes se preservan sin cambio.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Cerrar una versión identificable de cada transcripción.",
+    "prueba_original": "Se conserva el archivo fuente que usa la segmentación."
+  },
+  {
+    "requisito": "COD02",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S002"
+    ],
+    "soportes": [
+      "55_libro_comun_v1_3.json",
+      "analisis/recodificacion/LEEME.md",
+      "63_sintesis_transversal_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "E0x-Pnnn, R0x-Snnn y códigos comunes se mantienen; citas editoriales agregan REP01-Qnnn.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Asignar identificadores estables a documentos y segmentos.",
+    "prueba_original": "Cada referencia resuelve al objeto correspondiente."
+  },
+  {
+    "requisito": "COD03",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S002"
+    ],
+    "soportes": [
+      "55_libro_comun_v1_3.json",
+      "analisis/recodificacion/LEEME.md",
+      "63_sintesis_transversal_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "Segmentos tienen párrafo, turno y offsets; controles complementarios cotejan continuidad.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Conservar posiciones o localizadores recuperables de segmentos.",
+    "prueba_original": "El segmento puede encontrarse en su versión de transcripción."
+  },
+  {
+    "requisito": "COD04",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S002"
+    ],
+    "soportes": [
+      "55_libro_comun_v1_3.json",
+      "analisis/recodificacion/LEEME.md",
+      "63_sintesis_transversal_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "Siete citas REP01 cotejadas contra participante y contexto; validador y control complementario ejecutados.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Verificar la literalidad de cada cita utilizada.",
+    "prueba_original": "Una comprobación contrasta cita y texto fuente."
+  },
+  {
+    "requisito": "COD05",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S002"
+    ],
+    "soportes": [
+      "55_libro_comun_v1_3.json",
+      "analisis/recodificacion/LEEME.md",
+      "63_sintesis_transversal_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "Libro R009/R011 y trace citas exigen voz Participante; preguntas solo aportan contexto.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Separar intervenciones del entrevistador de evidencia del participante.",
+    "prueba_original": "Los códigos de necesidades no se sustentan solo en preguntas."
+  },
+  {
+    "requisito": "COD06",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S002"
+    ],
+    "soportes": [
+      "55_libro_comun_v1_3.json",
+      "analisis/recodificacion/LEEME.md",
+      "63_sintesis_transversal_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "registro/salidas_iniciales/primeras_lecturas conserva A01–A05 antes de libro y síntesis.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Realizar lectura inicial por entrevista antes de síntesis transversal.",
+    "prueba_original": "Se conservan notas y candidatos locales."
+  },
+  {
+    "requisito": "COD07",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S002"
+    ],
+    "soportes": [
+      "55_libro_comun_v1_3.json",
+      "analisis/recodificacion/LEEME.md",
+      "63_sintesis_transversal_v1_1.json",
+      "editorial/controles/conteos_y_fuentes_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "Libro común 1.3 y cinco recodificaciones preferidas conservados; control repetido de 545 párrafos, 713 fragmentos y 971 asignaciones. Pilotaje humano separado y pendiente.",
+    "limite": "Estado referido al enunciado concreto; no certifica revisión humana independiente, conformidad FAIR/JANUS integral, configuración histórica ausente o implementación.",
+    "enunciado_original": "Consolidar un libro común y revisar el corpus con él.",
+    "prueba_original": "La codificación final identifica la versión común aplicada."
+  },
+  {
+    "requisito": "COD08",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S002"
+    ],
+    "soportes": [
+      "55_libro_comun_v1_3.json",
+      "analisis/recodificacion/LEEME.md",
+      "63_sintesis_transversal_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "Los 64 códigos incluyen nombre, definición, inclusión y exclusión en JSON/Markdown.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Definir códigos con nombre, definición e inclusión y exclusión.",
+    "prueba_original": "El libro tiene esos campos por código."
+  },
+  {
+    "requisito": "COD09",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S002"
+    ],
+    "soportes": [
+      "55_libro_comun_v1_3.json",
+      "analisis/recodificacion/LEEME.md",
+      "63_sintesis_transversal_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "123 ejemplos tienen cita/párrafo y nota de alcance; cotejo programático contra corpus.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Añadir ejemplos y localizadores a los códigos.",
+    "prueba_original": "Los ejemplos son localizables y no inventados."
+  },
+  {
+    "requisito": "COD10",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S002"
+    ],
+    "soportes": [
+      "55_libro_comun_v1_3.json",
+      "analisis/recodificacion/LEEME.md",
+      "63_sintesis_transversal_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "S002 incluye tabla con conceptos y fronteras; libro conserva explicación completa sin exigir memorizar ids.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Mantener nomenclatura comprensible sin perder riqueza.",
+    "prueba_original": "Una persona puede entender definiciones y distinciones sin memorizar IDs."
+  },
+  {
+    "requisito": "COD11",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S002"
+    ],
+    "soportes": [
+      "55_libro_comun_v1_3.json",
+      "analisis/recodificacion/LEEME.md",
+      "63_sintesis_transversal_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "Fuentes preferidas y objetos HU01 conservan identificadores canónicos; índice inverso los enlaza sin recodificar.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Usar identificadores canónicos en relaciones entre objetos.",
+    "prueba_original": "No se mezclan etiquetas con IDs sin un mapeo explícito."
+  },
+  {
+    "requisito": "COD12",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S002"
+    ],
+    "soportes": [
+      "55_libro_comun_v1_3.json",
+      "analisis/recodificacion/LEEME.md",
+      "63_sintesis_transversal_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "Afirmaciones REP01 distinguen RELATO/DOCUMENTAL/INTERPRETACION/PROPUESTA; fuentes conservan modalidades más finas.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Distinguir relato, preferencia, inferencia, hipótesis y propuesta.",
+    "prueba_original": "El análisis conserva la naturaleza de las afirmaciones."
+  },
+  {
+    "requisito": "COD13",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S002"
+    ],
+    "soportes": [
+      "55_libro_comun_v1_3.json",
+      "analisis/recodificacion/LEEME.md",
+      "63_sintesis_transversal_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "S003/S005 conservan recursos suficientes, compra no obligatoria y limitaciones de interpretación.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Preservar casos discrepantes y excepciones.",
+    "prueba_original": "La síntesis incluye condiciones y límites de los patrones."
+  },
+  {
+    "requisito": "COD14",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S002"
+    ],
+    "soportes": [
+      "55_libro_comun_v1_3.json",
+      "analisis/recodificacion/LEEME.md",
+      "63_sintesis_transversal_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "S002 explica unidades de 545/713/971; prioridad local no deriva de frecuencias.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "No equiparar frecuencias con importancia o número de personas.",
+    "prueba_original": "Se explica unidad de conteo y fundamento de priorización."
+  },
+  {
+    "requisito": "COD15",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S002"
+    ],
+    "soportes": [
+      "55_libro_comun_v1_3.json",
+      "analisis/recodificacion/LEEME.md",
+      "63_sintesis_transversal_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "Metadatos, linajes y decisiones del libro/recodificaciones preservados; rótulos históricos señalados.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Versionar el libro de códigos y justificar cambios.",
+    "prueba_original": "Hay historial de decisiones y recodificaciones afectadas."
+  },
+  {
+    "requisito": "COD16",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S002"
+    ],
+    "soportes": [
+      "55_libro_comun_v1_3.json",
+      "analisis/recodificacion/LEEME.md",
+      "63_sintesis_transversal_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "S002 muestra ejemplo cita→C004→interpretación y esquema; libro completo queda localizable.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Presentar el esquema de códigos con ejemplos en el reporte.",
+    "prueba_original": "El cuerpo o sus soportes permiten comprender cómo se codificó."
+  },
+  {
+    "requisito": "PRO01",
+    "estado": "PARCIAL",
+    "secciones": [
+      "REP01-S003"
+    ],
+    "soportes": [
+      "67_procesos_descritos_v1_1.json",
+      "72_contraste_documental_v1_1.json",
+      "analisis/procesos/P01/figuras_revisadas_v1_1/LEEME.md"
+    ],
+    "evidencia_cumplimiento": "Cinco mapas relatados y cuatro modelos documentales parciales se preservan, sin correspondencia documental directa por episodio.",
+    "limite": "Cumplimiento parcial con soporte y alcance en evidencia_cumplimiento; datos administrativos, aplicabilidad, ejecución o revisión humana/maquetación señalados no se acreditan.",
+    "enunciado_original": "Representar el proceso documentado y el relatado.",
+    "prueba_original": "Ambos tienen fuentes identificadas y diferenciación visible."
+  },
+  {
+    "requisito": "PRO02",
+    "estado": "PARCIAL",
+    "secciones": [
+      "REP01-S003"
+    ],
+    "soportes": [
+      "67_procesos_descritos_v1_1.json",
+      "72_contraste_documental_v1_1.json",
+      "analisis/procesos/P01/figuras_revisadas_v1_1/LEEME.md"
+    ],
+    "evidencia_cumplimiento": "D01 identifica fuentes y alcance por modelo; falta documento directamente aplicable a cada episodio anónimo.",
+    "limite": "Cumplimiento parcial con soporte y alcance en evidencia_cumplimiento; datos administrativos, aplicabilidad, ejecución o revisión humana/maquetación señalados no se acreditan.",
+    "enunciado_original": "Fundamentar el proceso documentado con documentos pertinentes.",
+    "prueba_original": "Se indica documento, alcance y tramo que sustenta."
+  },
+  {
+    "requisito": "PRO03",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S003"
+    ],
+    "soportes": [
+      "67_procesos_descritos_v1_1.json",
+      "72_contraste_documental_v1_1.json",
+      "analisis/procesos/P01/figuras_revisadas_v1_1/LEEME.md"
+    ],
+    "evidencia_cumplimiento": "S003/S006 separan modelo publicado, encargo y operación relatada; no manual PAOT atribuido a E01.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Distinguir diseño esperado de operación vigente.",
+    "prueba_original": "La ficha del reto no se trata como manual de funcionamiento actual."
+  },
+  {
+    "requisito": "PRO04",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S003"
+    ],
+    "soportes": [
+      "67_procesos_descritos_v1_1.json",
+      "72_contraste_documental_v1_1.json",
+      "analisis/procesos/P01/figuras_revisadas_v1_1/LEEME.md"
+    ],
+    "evidencia_cumplimiento": "P01 contiene cinco reconstrucciones completas; S003 sintetiza inicio/decisión/cierre de cada una.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Reconstruir recorridos de los cinco perfiles.",
+    "prueba_original": "Cada perfil tiene mapa o reconstrucción vinculada a sus segmentos."
+  },
+  {
+    "requisito": "PRO05",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S003"
+    ],
+    "soportes": [
+      "67_procesos_descritos_v1_1.json",
+      "72_contraste_documental_v1_1.json",
+      "analisis/procesos/P01/figuras_revisadas_v1_1/LEEME.md"
+    ],
+    "evidencia_cumplimiento": "S003 sigue origen, entrega, uso/decisión y retorno propios; tramos posteriores no observados siguen desconocidos.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Integrar una perspectiva de extremo a extremo sustentada.",
+    "prueba_original": "Se conectan origen, entrega, uso, decisión y retorno cuando hay evidencia."
+  },
+  {
+    "requisito": "PRO06",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S003"
+    ],
+    "soportes": [
+      "67_procesos_descritos_v1_1.json",
+      "72_contraste_documental_v1_1.json",
+      "analisis/procesos/P01/figuras_revisadas_v1_1/LEEME.md"
+    ],
+    "evidencia_cumplimiento": "S003 y figura F001 no conectan sectores distintos; cada proceso conserva su perspectiva.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Evitar unir procesos de sectores distintos como si fueran uno observado.",
+    "prueba_original": "La integración distingue contexto, puentes y vacíos."
+  },
+  {
+    "requisito": "PRO07",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S003"
+    ],
+    "soportes": [
+      "67_procesos_descritos_v1_1.json",
+      "72_contraste_documental_v1_1.json",
+      "analisis/procesos/P01/figuras_revisadas_v1_1/LEEME.md"
+    ],
+    "evidencia_cumplimiento": "Mapas P01 enlazan roles, objetos, entradas/salidas y criterios; tabla S003 explica ejemplos legibles.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Identificar actores, datos, verificaciones y decisiones.",
+    "prueba_original": "Los diagramas y explicaciones permiten seguir responsabilidades y transformaciones."
+  },
+  {
+    "requisito": "PRO08",
+    "estado": "PARCIAL",
+    "secciones": [
+      "REP01-S003"
+    ],
+    "soportes": [
+      "67_procesos_descritos_v1_1.json",
+      "72_contraste_documental_v1_1.json",
+      "analisis/procesos/P01/figuras_revisadas_v1_1/LEEME.md"
+    ],
+    "evidencia_cumplimiento": "Cero divergencias formalmente demostradas; D01 conserva contraste de ámbitos e hipótesis, sin inventar mecanismos de incumplimiento.",
+    "limite": "Cumplimiento parcial con soporte y alcance en evidencia_cumplimiento; datos administrativos, aplicabilidad, ejecución o revisión humana/maquetación señalados no se acreditan.",
+    "enunciado_original": "Mostrar divergencias y explicar sus mecanismos.",
+    "prueba_original": "Cada divergencia tiene evidencia y explicación contrastable."
+  },
+  {
+    "requisito": "PRO09",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S003"
+    ],
+    "soportes": [
+      "67_procesos_descritos_v1_1.json",
+      "72_contraste_documental_v1_1.json",
+      "analisis/procesos/P01/figuras_revisadas_v1_1/LEEME.md"
+    ],
+    "evidencia_cumplimiento": "D01 distingue fuentes normativas, históricas y autodescripciones; S003 no llama vigente a flujo del episodio.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Distinguir norma, práctica temporal y aspiración futura.",
+    "prueba_original": "Las diferencias de momento o alcance no se etiquetan automáticamente como contradicciones."
+  },
+  {
+    "requisito": "PRO10",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S003"
+    ],
+    "soportes": [
+      "67_procesos_descritos_v1_1.json",
+      "72_contraste_documental_v1_1.json",
+      "analisis/procesos/P01/figuras_revisadas_v1_1/LEEME.md"
+    ],
+    "evidencia_cumplimiento": "Agenda documental conserva diez pendientes y soportes requeridos; S003 señala otra puerta y uso posterior.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Señalar tramos desconocidos y documentación faltante.",
+    "prueba_original": "Los vacíos no aparecen completados sin sustento."
+  },
+  {
+    "requisito": "PRO11",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S003"
+    ],
+    "soportes": [
+      "67_procesos_descritos_v1_1.json",
+      "72_contraste_documental_v1_1.json",
+      "analisis/procesos/P01/figuras_revisadas_v1_1/LEEME.md"
+    ],
+    "evidencia_cumplimiento": "S003/S004 distinguen revisión técnica, consulta y decisiones de otros; no aprobación jerárquica supuesta.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Examinar retornos y autorización de cambios.",
+    "prueba_original": "Se identifica quién puede corregir, confirmar y propagar una modificación."
+  },
+  {
+    "requisito": "PRO12",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S003"
+    ],
+    "soportes": [
+      "67_procesos_descritos_v1_1.json",
+      "72_contraste_documental_v1_1.json",
+      "analisis/procesos/P01/figuras_revisadas_v1_1/LEEME.md",
+      "editorial/controles/maquetacion_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "Word y PDF producidos; PDF de doce páginas totales con nueve de cuerpo. Tres figuras y cinco tablas inspeccionadas en página; fuentes completas preservadas en repositorio.",
+    "limite": "Cumplimiento de formato/legibilidad y extensión del archivo final; no acredita divergencias documentales, revisión humana independiente o pruebas de producto.",
+    "enunciado_original": "Elaborar figuras legibles y explicadas.",
+    "prueba_original": "La leyenda, el tamaño y el texto permiten interpretar cada mapa."
+  },
+  {
+    "requisito": "ACT01",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S004"
+    ],
+    "soportes": [
+      "76_actores_y_preferencias_v1_1.json",
+      "76_actores_y_preferencias_v1_1.md"
+    ],
+    "evidencia_cumplimiento": "S004 y ACT01 contienen 46 actores, más amplios que las cinco voces.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Ampliar el mapa más allá de los cinco entrevistados.",
+    "prueba_original": "La cobertura institucional y social excede la muestra sin fingir entrevistas adicionales."
+  },
+  {
+    "requisito": "ACT02",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S004"
+    ],
+    "soportes": [
+      "76_actores_y_preferencias_v1_1.json",
+      "76_actores_y_preferencias_v1_1.md"
+    ],
+    "evidencia_cumplimiento": "ACT01 incluye nombre funcional, institución/unidad cuando constan y estados no identificados; S004 nombra unidades PAOT específicas.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Identificar actores con precisión funcional y organizacional.",
+    "prueba_original": "Las áreas relevantes están especificadas o marcadas por verificar."
+  },
+  {
+    "requisito": "ACT03",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S004"
+    ],
+    "soportes": [
+      "76_actores_y_preferencias_v1_1.json",
+      "76_actores_y_preferencias_v1_1.md"
+    ],
+    "evidencia_cumplimiento": "S004 define poder/interés/posición y explica su relatividad al ámbito; homologación NO_RECABADA.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Distinguir poder, interés y posición.",
+    "prueba_original": "Las definiciones y evidencia permiten evaluar cada atributo."
+  },
+  {
+    "requisito": "ACT04",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S004"
+    ],
+    "soportes": [
+      "76_actores_y_preferencias_v1_1.json",
+      "76_actores_y_preferencias_v1_1.md"
+    ],
+    "evidencia_cumplimiento": "ACT01.ganancias_y_perdidas y S004 relacionan continuidad y carga condicional sin ahorro medido.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Explicar ganancias, pérdidas y cargas.",
+    "prueba_original": "Las preferencias se relacionan con cambios concretos."
+  },
+  {
+    "requisito": "ACT05",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S004"
+    ],
+    "soportes": [
+      "76_actores_y_preferencias_v1_1.json",
+      "76_actores_y_preferencias_v1_1.md"
+    ],
+    "evidencia_cumplimiento": "Tres hipótesis ACT01-H001–H003 explicitan mecanismo, condición y contraargumento; S004 no las trata como posturas recabadas.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Analizar alianzas y resistencias previsibles.",
+    "prueba_original": "Se justifica el mecanismo y se distingue inferencia de posición expresada."
+  },
+  {
+    "requisito": "ACT06",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S004"
+    ],
+    "soportes": [
+      "76_actores_y_preferencias_v1_1.json",
+      "76_actores_y_preferencias_v1_1.md"
+    ],
+    "evidencia_cumplimiento": "S004 distingue decisión de técnica y aportación de compañera/proveedor sin jerarquía inventada.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Distinguir conocimiento técnico de autoridad institucional.",
+    "prueba_original": "La capacidad de analizar no se confunde con autorización sobre la fuente."
+  },
+  {
+    "requisito": "ACT07",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S004"
+    ],
+    "soportes": [
+      "76_actores_y_preferencias_v1_1.json",
+      "76_actores_y_preferencias_v1_1.md"
+    ],
+    "evidencia_cumplimiento": "Origen por actor y fuente se preserva; S004 separa voces, terceros y actores documentales.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Distinguir actores entrevistados, mencionados y documentales.",
+    "prueba_original": "La procedencia de la caracterización es visible."
+  },
+  {
+    "requisito": "ACT08",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S004"
+    ],
+    "soportes": [
+      "76_actores_y_preferencias_v1_1.json",
+      "76_actores_y_preferencias_v1_1.md"
+    ],
+    "evidencia_cumplimiento": "Cinco fichas funcionales con decisiones/restricciones están en ACT01/HU01 y sus figuras originales; no arquetipos representativos.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Construir perfiles visuales con decisiones y restricciones.",
+    "prueba_original": "Las fichas ayudan a entender las historias sin convertirse en biografías."
+  },
+  {
+    "requisito": "ACT09",
+    "estado": "PARCIAL",
+    "secciones": [
+      "REP01-S004"
+    ],
+    "soportes": [
+      "76_actores_y_preferencias_v1_1.json",
+      "76_actores_y_preferencias_v1_1.md"
+    ],
+    "evidencia_cumplimiento": "Unidades identificables se conservan con fuente; no se verifican instituciones anónimas ni nombres de departamentos faltantes.",
+    "limite": "Cumplimiento parcial con soporte y alcance en evidencia_cumplimiento; datos administrativos, aplicabilidad, ejecución o revisión humana/maquetación señalados no se acreditan.",
+    "enunciado_original": "Verificar atribuciones y nombres institucionales necesarios.",
+    "prueba_original": "La caracterización utiliza fuentes y no inventa departamentos."
+  },
+  {
+    "requisito": "NEC01",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S005"
+    ],
+    "soportes": [
+      "82_necesidades_v1_1.json",
+      "88_historias_y_objetos_v1_1.json",
+      "88_historias_y_objetos_v1_1.md"
+    ],
+    "evidencia_cumplimiento": "29 enunciados con decisión/objeto/contexto y verificaciones futuras en N01; S005 ejemplifica su uso.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Redactar necesidades de información verificables.",
+    "prueba_original": "Cada enunciado permite plantear una comprobación de suficiencia."
+  },
+  {
+    "requisito": "NEC02",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S005"
+    ],
+    "soportes": [
+      "82_necesidades_v1_1.json",
+      "88_historias_y_objetos_v1_1.json",
+      "88_historias_y_objetos_v1_1.md"
+    ],
+    "evidencia_cumplimiento": "Cada necesidad vincula actores, entrevista, contexto y decisión; dos cadenas desarrolladas en S005.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Relacionar necesidad con persona, situación y decisión.",
+    "prueba_original": "Los campos explican quién necesita saber qué y para qué."
+  },
+  {
+    "requisito": "NEC03",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S005"
+    ],
+    "soportes": [
+      "82_necesidades_v1_1.json",
+      "88_historias_y_objetos_v1_1.json",
+      "88_historias_y_objetos_v1_1.md"
+    ],
+    "evidencia_cumplimiento": "N01 diferencia información actual y faltante/deseada; S005 no convierte ideales en déficits.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Describir información actual y brecha.",
+    "prueba_original": "Se distingue lo disponible de lo que falta."
+  },
+  {
+    "requisito": "NEC04",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S005"
+    ],
+    "soportes": [
+      "82_necesidades_v1_1.json",
+      "88_historias_y_objetos_v1_1.json",
+      "88_historias_y_objetos_v1_1.md"
+    ],
+    "evidencia_cumplimiento": "Cinco criterios de prioridad local y límites explícitos; S005 admite orden parcial y empates.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Priorizar necesidades con criterios explícitos.",
+    "prueba_original": "La prioridad tiene fundamento y no deriva solo de frecuencia."
+  },
+  {
+    "requisito": "NEC05",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S005"
+    ],
+    "soportes": [
+      "82_necesidades_v1_1.json",
+      "88_historias_y_objetos_v1_1.json",
+      "88_historias_y_objetos_v1_1.md"
+    ],
+    "evidencia_cumplimiento": "N01.vinculos_sectoriales distingue actividad pública/civil/privada/personal y programas no identificados.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Vincular necesidades con sectores e iniciativas o servicios públicos.",
+    "prueba_original": "Se explica el origen y alcance sectorial."
+  },
+  {
+    "requisito": "NEC06",
+    "estado": "PARCIAL",
+    "secciones": [
+      "REP01-S005"
+    ],
+    "soportes": [
+      "82_necesidades_v1_1.json",
+      "88_historias_y_objetos_v1_1.json",
+      "88_historias_y_objetos_v1_1.md"
+    ],
+    "evidencia_cumplimiento": "Cinco perfiles analíticos funcionales de HU01 se derivan con límites; no se acreditan cinco arquetipos representativos.",
+    "limite": "Se derivaron perfiles funcionales con trazabilidad, sin afirmar arquetipos representativos o validación poblacional.",
+    "enunciado_original": "Derivar arquetipos desde patrones y diferencias del corpus.",
+    "prueba_original": "Las características tienen soporte y límites."
+  },
+  {
+    "requisito": "NEC07",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S005"
+    ],
+    "soportes": [
+      "82_necesidades_v1_1.json",
+      "88_historias_y_objetos_v1_1.json",
+      "88_historias_y_objetos_v1_1.md"
+    ],
+    "evidencia_cumplimiento": "21 historias con relaciones múltiples a 29 necesidades; no una historia por entrevistado.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "No fijar una historia por entrevistado.",
+    "prueba_original": "Las relaciones entre personas, arquetipos e historias pueden ser múltiples."
+  },
+  {
+    "requisito": "NEC08",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S005"
+    ],
+    "soportes": [
+      "82_necesidades_v1_1.json",
+      "88_historias_y_objetos_v1_1.json",
+      "88_historias_y_objetos_v1_1.md"
+    ],
+    "evidencia_cumplimiento": "S005 explica objetivo/decisión de H003/H006 y naturaleza analítica, sin copiar códigos como historias.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Distinguir historias de usuario de transcripciones codificadas.",
+    "prueba_original": "Las historias expresan objetivo y decisión en lugar de copiar etiquetas."
+  },
+  {
+    "requisito": "NEC09",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S005"
+    ],
+    "soportes": [
+      "82_necesidades_v1_1.json",
+      "88_historias_y_objetos_v1_1.json",
+      "88_historias_y_objetos_v1_1.md"
+    ],
+    "evidencia_cumplimiento": "S005 y figura F002 enlazan párrafo, necesidad, historia, metadatos y criterio.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Fundamentar historias con testimonios, códigos y mapas.",
+    "prueba_original": "Los vínculos permiten recorrer la cadena de derivación."
+  },
+  {
+    "requisito": "NEC10",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S005"
+    ],
+    "soportes": [
+      "82_necesidades_v1_1.json",
+      "88_historias_y_objetos_v1_1.json",
+      "88_historias_y_objetos_v1_1.md"
+    ],
+    "evidencia_cumplimiento": "28 criterios Dado/Cuando/Entonces propuestos, no ejecutados ni aceptados, con origen y límites.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Definir criterios de aceptación cuando haya sustento.",
+    "prueba_original": "Se plantea cómo reconocer la utilidad de la capacidad propuesta."
+  },
+  {
+    "requisito": "NEC11",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S005"
+    ],
+    "soportes": [
+      "82_necesidades_v1_1.json",
+      "88_historias_y_objetos_v1_1.json",
+      "88_historias_y_objetos_v1_1.md"
+    ],
+    "evidencia_cumplimiento": "HU01.perfiles_analiticos y restricciones de historias preservan autoridad, materialidad, autonomía y carga.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Explicar capacidades y restricciones del perfil.",
+    "prueba_original": "Las historias son realizables para ese tipo de usuario."
+  },
+  {
+    "requisito": "NEC12",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S005"
+    ],
+    "soportes": [
+      "82_necesidades_v1_1.json",
+      "88_historias_y_objetos_v1_1.json",
+      "88_historias_y_objetos_v1_1.md"
+    ],
+    "evidencia_cumplimiento": "76 objetos locales con payload, versión, metadatos y relaciones; control de resolución/huellas ejecutado.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Representar necesidades e historias como objetos digitales legibles y estructurados.",
+    "prueba_original": "Existen IDs, metadatos y relaciones verificables."
+  },
+  {
+    "requisito": "NEC13",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S005"
+    ],
+    "soportes": [
+      "82_necesidades_v1_1.json",
+      "88_historias_y_objetos_v1_1.json",
+      "88_historias_y_objetos_v1_1.md"
+    ],
+    "evidencia_cumplimiento": "21 perfiles preliminares de metadatos; dos cadenas S005 explican campos y desconocidos.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Asociar perfiles preliminares de metadatos a las historias.",
+    "prueba_original": "Se explicitan fuente, variables, escalas, tiempo y demás campos pertinentes."
+  },
+  {
+    "requisito": "NEC14",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S005"
+    ],
+    "soportes": [
+      "82_necesidades_v1_1.json",
+      "88_historias_y_objetos_v1_1.json",
+      "88_historias_y_objetos_v1_1.md"
+    ],
+    "evidencia_cumplimiento": "N005 y resoluciones/escala/acceso no aportados permanecen desconocidos/condicionales; no se inventan insumos.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Identificar insumos desconocidos sin inventarlos.",
+    "prueba_original": "Cada campo pendiente tiene un estado o acción de verificación."
+  },
+  {
+    "requisito": "NEC15",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S005"
+    ],
+    "soportes": [
+      "82_necesidades_v1_1.json",
+      "88_historias_y_objetos_v1_1.json",
+      "88_historias_y_objetos_v1_1.md"
+    ],
+    "evidencia_cumplimiento": "90 operaciones con entrada/operación/salida e intervención humana; se explican dos recorridos en S005.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Explicar la secuencia de operaciones para atender la historia.",
+    "prueba_original": "El metaalgoritmo enlaza datos, transformación, interpretación y decisión."
+  },
+  {
+    "requisito": "GCR01",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S007"
+    ],
+    "soportes": [
+      "93_diseno_y_fundamentos_v1_1.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/fundamentos_criticos.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/practicas_diseno.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/alternativas_agregacion.md"
+    ],
+    "evidencia_cumplimiento": "S007 y T01-G002/G007 discuten propósito, autoría y límites cuestionables.",
+    "limite": "Fundamento o especificación de diseño, no aplicación territorial ni utilidad probada. Herramientas candidatas; sin compatibilidad ejecutada.",
+    "enunciado_original": "Tratar los límites territoriales y registros como decisiones contextualizadas.",
+    "prueba_original": "Se examina propósito, autoría y consecuencias de las delimitaciones."
+  },
+  {
+    "requisito": "GCR02",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S007"
+    ],
+    "soportes": [
+      "93_diseno_y_fundamentos_v1_1.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/fundamentos_criticos.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/practicas_diseno.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/alternativas_agregacion.md"
+    ],
+    "evidencia_cumplimiento": "S007 distingue retórica visual/verbal/metodológica con ejemplo de acceso no comprobado; T01-G001.",
+    "limite": "Fundamento o especificación de diseño, no aplicación territorial ni utilidad probada. Herramientas candidatas; sin compatibilidad ejecutada.",
+    "enunciado_original": "Analizar la retórica visual, verbal y metodológica del mapa.",
+    "prueba_original": "Se consideran títulos, leyendas, colores, operaciones y supuestos."
+  },
+  {
+    "requisito": "GCR03",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S007"
+    ],
+    "soportes": [
+      "93_diseno_y_fundamentos_v1_1.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/fundamentos_criticos.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/practicas_diseno.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/alternativas_agregacion.md"
+    ],
+    "evidencia_cumplimiento": "S007 y T01-G003 relacionan selección, disponibilidad, registro y ausencia sin tasa de subregistro inventada.",
+    "limite": "Fundamento o especificación de diseño, no aplicación territorial ni utilidad probada. Herramientas candidatas; sin compatibilidad ejecutada.",
+    "enunciado_original": "Examinar el proceso que genera y registra el dato.",
+    "prueba_original": "La interpretación considera cobertura, observación y subregistro."
+  },
+  {
+    "requisito": "GCR04",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S007"
+    ],
+    "soportes": [
+      "93_diseno_y_fundamentos_v1_1.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/fundamentos_criticos.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/practicas_diseno.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/alternativas_agregacion.md"
+    ],
+    "evidencia_cumplimiento": "S007 define escala y zonificación; T01-G005 propone sensibilidad sin ejecutarla.",
+    "limite": "Fundamento o especificación de diseño, no aplicación territorial ni utilidad probada. Herramientas candidatas; sin compatibilidad ejecutada.",
+    "enunciado_original": "Distinguir efectos de escala y zonificación del MAUP.",
+    "prueba_original": "Se explican ambos con relación al diseño pertinente."
+  },
+  {
+    "requisito": "GCR05",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S007"
+    ],
+    "soportes": [
+      "93_diseno_y_fundamentos_v1_1.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/fundamentos_criticos.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/practicas_diseno.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/alternativas_agregacion.md"
+    ],
+    "evidencia_cumplimiento": "S003/S007 no asumen diferencia de entrada/geometría como error; T01-G007 conserva pluralidad legítima.",
+    "limite": "Fundamento o especificación de diseño, no aplicación territorial ni utilidad probada. Herramientas candidatas; sin compatibilidad ejecutada.",
+    "enunciado_original": "No equiparar diferencias geométricas con errores.",
+    "prueba_original": "Se considera que distintas unidades pueden tener propósitos legítimos."
+  },
+  {
+    "requisito": "GCR06",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S007"
+    ],
+    "soportes": [
+      "93_diseno_y_fundamentos_v1_1.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/fundamentos_criticos.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/practicas_diseno.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/alternativas_agregacion.md"
+    ],
+    "evidencia_cumplimiento": "S007 requiere población elegible y denominador; T01-V001 impide tasa con base desconocida/cero.",
+    "limite": "Fundamento o especificación de diseño, no aplicación territorial ni utilidad probada. Herramientas candidatas; sin compatibilidad ejecutada.",
+    "enunciado_original": "Examinar denominadores y poblaciones pertinentes.",
+    "prueba_original": "Los conteos no se presentan como tasas sin base justificada."
+  },
+  {
+    "requisito": "GCR07",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S007"
+    ],
+    "soportes": [
+      "93_diseno_y_fundamentos_v1_1.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/fundamentos_criticos.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/practicas_diseno.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/alternativas_agregacion.md"
+    ],
+    "evidencia_cumplimiento": "S007 compara jurisdicción y pregunta analítica; T01-G007 no adjudica competencias locales no documentadas.",
+    "limite": "Fundamento o especificación de diseño, no aplicación territorial ni utilidad probada. Herramientas candidatas; sin compatibilidad ejecutada.",
+    "enunciado_original": "Evaluar capacidad de intervención y jurisdicción.",
+    "prueba_original": "La unidad analítica se relaciona con quién puede actuar."
+  },
+  {
+    "requisito": "GCR08",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S007"
+    ],
+    "soportes": [
+      "93_diseno_y_fundamentos_v1_1.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/fundamentos_criticos.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/practicas_diseno.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/alternativas_agregacion.md"
+    ],
+    "evidencia_cumplimiento": "T01.alternativas_agregacion y arquitectura versionan partición/parámetros/tiempo de manera propuesta.",
+    "limite": "Fundamento o especificación de diseño, no aplicación territorial ni utilidad probada. Herramientas candidatas; sin compatibilidad ejecutada.",
+    "enunciado_original": "Documentar parámetros, estabilidad temporal y comparabilidad.",
+    "prueba_original": "Los cambios de unidades y métodos se hacen visibles."
+  },
+  {
+    "requisito": "GCR09",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S007"
+    ],
+    "soportes": [
+      "93_diseno_y_fundamentos_v1_1.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/fundamentos_criticos.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/practicas_diseno.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/alternativas_agregacion.md"
+    ],
+    "evidencia_cumplimiento": "T01-G002/G003/V004 permiten objeción y describen exclusiones; S007 conserva voces no observadas.",
+    "limite": "Fundamento o especificación de diseño, no aplicación territorial ni utilidad probada. Herramientas candidatas; sin compatibilidad ejecutada.",
+    "enunciado_original": "Examinar qué queda excluido y quién puede cuestionar límites.",
+    "prueba_original": "Se describen vacíos, población afectada y posibilidades de revisión de límites."
+  },
+  {
+    "requisito": "GCR10",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S007"
+    ],
+    "soportes": [
+      "93_diseno_y_fundamentos_v1_1.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/fundamentos_criticos.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/practicas_diseno.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/alternativas_agregacion.md"
+    ],
+    "evidencia_cumplimiento": "Ocho familias de agregación evaluadas en soporte con pertinencia por pregunta; S007 selecciona comparación condicional.",
+    "limite": "Fundamento o especificación de diseño, no aplicación territorial ni utilidad probada. Herramientas candidatas; sin compatibilidad ejecutada.",
+    "enunciado_original": "Considerar alternativas administrativas, naturales, funcionales y comunitarias.",
+    "prueba_original": "Se justifica selección de agregaciones según pregunta."
+  },
+  {
+    "requisito": "GCR11",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S007"
+    ],
+    "soportes": [
+      "93_diseno_y_fundamentos_v1_1.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/fundamentos_criticos.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/practicas_diseno.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/alternativas_agregacion.md"
+    ],
+    "evidencia_cumplimiento": "S007 y T01-G008 separan incertidumbre, error, desconocimiento y desacuerdo, sin probabilidades fabricadas.",
+    "limite": "Fundamento o especificación de diseño, no aplicación territorial ni utilidad probada. Herramientas candidatas; sin compatibilidad ejecutada.",
+    "enunciado_original": "Conservar y comunicar incertidumbre.",
+    "prueba_original": "El diseño evita convertir estimaciones o huecos en certezas."
+  },
+  {
+    "requisito": "GCR12",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S007"
+    ],
+    "soportes": [
+      "93_diseno_y_fundamentos_v1_1.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/fundamentos_criticos.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/practicas_diseno.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/alternativas_agregacion.md"
+    ],
+    "evidencia_cumplimiento": "T01-V002 propone comparar unidades sobre registros/periodo comunes; sin prueba local ejecutada.",
+    "limite": "Fundamento o especificación de diseño, no aplicación territorial ni utilidad probada. Herramientas candidatas; sin compatibilidad ejecutada.",
+    "enunciado_original": "Permitir comparar unidades o agregaciones cuando sea pertinente.",
+    "prueba_original": "La propuesta incluye una comprobación de sensibilidad."
+  },
+  {
+    "requisito": "GCR13",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S007"
+    ],
+    "soportes": [
+      "93_diseno_y_fundamentos_v1_1.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/fundamentos_criticos.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/practicas_diseno.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/alternativas_agregacion.md"
+    ],
+    "evidencia_cumplimiento": "T01-V003 propone escenarios con configuración versionada; S007 declara no ejecución.",
+    "limite": "Fundamento o especificación de diseño, no aplicación territorial ni utilidad probada. Herramientas candidatas; sin compatibilidad ejecutada.",
+    "enunciado_original": "Considerar escenarios controlados para exponer efectos del método.",
+    "prueba_original": "Se distingue el escenario de evidencia observada."
+  },
+  {
+    "requisito": "GCR14",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S007"
+    ],
+    "soportes": [
+      "93_diseno_y_fundamentos_v1_1.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/fundamentos_criticos.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/practicas_diseno.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/alternativas_agregacion.md"
+    ],
+    "evidencia_cumplimiento": "T01-V004 propone conteos solo con marco conocido; S007 conserva descripción cualitativa sin universo.",
+    "limite": "Fundamento o especificación de diseño, no aplicación territorial ni utilidad probada. Herramientas candidatas; sin compatibilidad ejecutada.",
+    "enunciado_original": "Proponer estadísticas o descripciones de observaciones excluidas.",
+    "prueba_original": "La cobertura y las exclusiones pueden examinarse."
+  },
+  {
+    "requisito": "GCR15",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S007"
+    ],
+    "soportes": [
+      "93_diseno_y_fundamentos_v1_1.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/fundamentos_criticos.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/practicas_diseno.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/alternativas_agregacion.md"
+    ],
+    "evidencia_cumplimiento": "S007 y T01-V002 distinguen igualdad de conteos de identidad geométrica/semántica o jurisdicción.",
+    "limite": "Fundamento o especificación de diseño, no aplicación territorial ni utilidad probada. Herramientas candidatas; sin compatibilidad ejecutada.",
+    "enunciado_original": "No inferir identidad de capas por igualdad de una salida.",
+    "prueba_original": "La comparación se presenta con alcance de sensibilidad."
+  },
+  {
+    "requisito": "LEN01",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S007"
+    ],
+    "soportes": [
+      "93_diseno_y_fundamentos_v1_1.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/lentes.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/herramientas.md"
+    ],
+    "evidencia_cumplimiento": "T01-L001 define pregunta, evento/control, nula, ventanas y sensibilidad; S007 lo descarta en básicos.",
+    "limite": "Fundamento o especificación de diseño, no aplicación territorial ni utilidad probada. Herramientas candidatas; sin compatibilidad ejecutada.",
+    "enunciado_original": "Considerar estadística de escaneo espacial.",
+    "prueba_original": "Se relaciona con una pregunta posible, insumos y supuestos."
+  },
+  {
+    "requisito": "LEN02",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S007"
+    ],
+    "soportes": [
+      "93_diseno_y_fundamentos_v1_1.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/lentes.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/herramientas.md"
+    ],
+    "evidencia_cumplimiento": "T01-L002 diferencia Y=aN^beta de distribución de duraciones, estimación y alternativas; S007 sintetiza.",
+    "limite": "Fundamento o especificación de diseño, no aplicación territorial ni utilidad probada. Herramientas candidatas; sin compatibilidad ejecutada.",
+    "enunciado_original": "Considerar leyes de potencia y escalamiento.",
+    "prueba_original": "Se distingue escala de distribución y se explican requisitos de análisis."
+  },
+  {
+    "requisito": "LEN03",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S007"
+    ],
+    "soportes": [
+      "93_diseno_y_fundamentos_v1_1.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/lentes.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/herramientas.md"
+    ],
+    "evidencia_cumplimiento": "T01-L003 define unidad, matriz, métrica, filtro/cobertura/agrupamiento y lectura de aristas.",
+    "limite": "Fundamento o especificación de diseño, no aplicación territorial ni utilidad probada. Herramientas candidatas; sin compatibilidad ejecutada.",
+    "enunciado_original": "Considerar análisis topológico de datos.",
+    "prueba_original": "Se explican variables, similitud, filtros y lectura del resultado."
+  },
+  {
+    "requisito": "LEN04",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S007"
+    ],
+    "soportes": [
+      "93_diseno_y_fundamentos_v1_1.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/lentes.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/herramientas.md"
+    ],
+    "evidencia_cumplimiento": "T01-L004 define agentes/entorno/reglas, calibración y evaluación futura sin simular.",
+    "limite": "Fundamento o especificación de diseño, no aplicación territorial ni utilidad probada. Herramientas candidatas; sin compatibilidad ejecutada.",
+    "enunciado_original": "Considerar modelos basados en agentes.",
+    "prueba_original": "Se declaran posibles agentes, reglas, calibración y escenarios."
+  },
+  {
+    "requisito": "LEN05",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S007"
+    ],
+    "soportes": [
+      "93_diseno_y_fundamentos_v1_1.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/lentes.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/herramientas.md"
+    ],
+    "evidencia_cumplimiento": "S007 explica ausencia de datos/pregunta que justifiquen tres lentes y condición adicional para TDA.",
+    "limite": "Fundamento o especificación de diseño, no aplicación territorial ni utilidad probada. Herramientas candidatas; sin compatibilidad ejecutada.",
+    "enunciado_original": "Justificar pertinencia y límites de cada lente.",
+    "prueba_original": "No se asignan métodos a necesidades sin una razón explícita."
+  },
+  {
+    "requisito": "LEN06",
+    "estado": "PARCIAL",
+    "secciones": [
+      "REP01-S007"
+    ],
+    "soportes": [
+      "93_diseno_y_fundamentos_v1_1.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/lentes.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/herramientas.md"
+    ],
+    "evidencia_cumplimiento": "T01 fuentes primarias y herramientas identifican documentación y compatibilidad NO_PROBADA; no se recomienda despliegue actual.",
+    "limite": "Documentación primaria registrada por T01 y reconsulta dirigida de Mapper/ODD; compatibilidad de herramientas no probada ni recomendación actual de despliegue.",
+    "enunciado_original": "Investigar librerías en documentación primaria antes de recomendarlas.",
+    "prueba_original": "Cada recomendación tiene fuente y compatibilidad revisadas."
+  },
+  {
+    "requisito": "LEN07",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S007"
+    ],
+    "soportes": [
+      "93_diseno_y_fundamentos_v1_1.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/lentes.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/herramientas.md"
+    ],
+    "evidencia_cumplimiento": "S007 y metadatos T01 no declaran ejecución de ninguno de los cuatro lentes.",
+    "limite": "Fundamento o especificación de diseño, no aplicación territorial ni utilidad probada. Herramientas candidatas; sin compatibilidad ejecutada.",
+    "enunciado_original": "No presentar los cuatro métodos como ya implementados.",
+    "prueba_original": "Los estados de diseño y ejecución se distinguen."
+  },
+  {
+    "requisito": "LEN08",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S007"
+    ],
+    "soportes": [
+      "93_diseno_y_fundamentos_v1_1.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/lentes.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/herramientas.md"
+    ],
+    "evidencia_cumplimiento": "S007 y T01-L001 conservan sensibilidad a unidades y parámetros; escaneo no elimina MAUP.",
+    "limite": "Fundamento o especificación de diseño, no aplicación territorial ni utilidad probada. Herramientas candidatas; sin compatibilidad ejecutada.",
+    "enunciado_original": "No afirmar que el escaneo elimina automáticamente el MAUP.",
+    "prueba_original": "La explicación reconoce supuestos y sensibilidad."
+  },
+  {
+    "requisito": "LEN09",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S007"
+    ],
+    "soportes": [
+      "93_diseno_y_fundamentos_v1_1.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/lentes.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/herramientas.md"
+    ],
+    "evidencia_cumplimiento": "T01.afirmaciones_tecnicas coteja abreviaturas docentes con fuentes primarias; REP01 usa F041 en vez del texto indexado F014.",
+    "limite": "Fundamento o especificación de diseño, no aplicación territorial ni utilidad probada. Herramientas candidatas; sin compatibilidad ejecutada.",
+    "enunciado_original": "Verificar las simplificaciones técnicas de los apuntes.",
+    "prueba_original": "Las afirmaciones técnicas se contrastan con fuentes primarias."
+  },
+  {
+    "requisito": "LEN10",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S007"
+    ],
+    "soportes": [
+      "93_diseno_y_fundamentos_v1_1.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/lentes.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/herramientas.md"
+    ],
+    "evidencia_cumplimiento": "S007/S008 no trasladan datos/experimentos epidemiológicos o británicos a CDMX.",
+    "limite": "Fundamento o especificación de diseño, no aplicación territorial ni utilidad probada. Herramientas candidatas; sin compatibilidad ejecutada.",
+    "enunciado_original": "No convertir ejemplos docentes en hallazgos locales.",
+    "prueba_original": "La procedencia de resultados ajenos permanece clara."
+  },
+  {
+    "requisito": "DAT01",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S008"
+    ],
+    "soportes": [
+      "93_diseno_y_fundamentos_v1_1.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/arquitectura.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/esquemas/contratos_propuestos.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/productos.md"
+    ],
+    "evidencia_cumplimiento": "S008 atribuye DataLama Team 2020–2021, commit y MIT; README/procedencia/licencia conservados.",
+    "limite": "Fundamento o especificación de diseño, no aplicación territorial ni utilidad probada. Herramientas candidatas; sin compatibilidad ejecutada.",
+    "enunciado_original": "Incorporar explícitamente la referencia a GeoInsights con atribución correcta.",
+    "prueba_original": "Se identifica proyecto, equipo, periodo, licencia y archivos pertinentes."
+  },
+  {
+    "requisito": "DAT02",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S008"
+    ],
+    "soportes": [
+      "93_diseno_y_fundamentos_v1_1.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/arquitectura.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/esquemas/contratos_propuestos.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/productos.md"
+    ],
+    "evidencia_cumplimiento": "S008 y figura F003 distinguen seis etapas, rama directa y retorno; arquitectura desarrolla responsabilidades.",
+    "limite": "Fundamento o especificación de diseño, no aplicación territorial ni utilidad probada. Herramientas candidatas; sin compatibilidad ejecutada.",
+    "enunciado_original": "Explicar extracción, unificación, agregación, construcción, análisis y productos.",
+    "prueba_original": "La propuesta distingue responsabilidades y objetos por etapa."
+  },
+  {
+    "requisito": "DAT03",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S008"
+    ],
+    "soportes": [
+      "93_diseno_y_fundamentos_v1_1.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/arquitectura.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/esquemas/contratos_propuestos.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/productos.md"
+    ],
+    "evidencia_cumplimiento": "Once contratos propuestos con 119 campos en esquemas/contratos_propuestos; no controles de sistema implementado.",
+    "limite": "Fundamento o especificación de diseño, no aplicación territorial ni utilidad probada. Herramientas candidatas; sin compatibilidad ejecutada.",
+    "enunciado_original": "Definir contratos de entrada y salida entre módulos.",
+    "prueba_original": "Cada transformación puede verificarse por su esquema y significado."
+  },
+  {
+    "requisito": "DAT04",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S008"
+    ],
+    "soportes": [
+      "93_diseno_y_fundamentos_v1_1.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/arquitectura.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/esquemas/contratos_propuestos.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/productos.md"
+    ],
+    "evidencia_cumplimiento": "S008 separa originales y derivados; contratos conservan fuente, revisión y límites sin sobreescritura.",
+    "limite": "Fundamento o especificación de diseño, no aplicación territorial ni utilidad probada. Herramientas candidatas; sin compatibilidad ejecutada.",
+    "enunciado_original": "Conservar procedencia y separar originales de derivados.",
+    "prueba_original": "Se pueden identificar fuente y transformaciones de un resultado."
+  },
+  {
+    "requisito": "DAT05",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S008"
+    ],
+    "soportes": [
+      "93_diseno_y_fundamentos_v1_1.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/arquitectura.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/esquemas/contratos_propuestos.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/productos.md"
+    ],
+    "evidencia_cumplimiento": "T01 evalúa ocho alternativas con pertenencias y resultados comparables propuestos; no cálculo territorial.",
+    "limite": "Fundamento o especificación de diseño, no aplicación territorial ni utilidad probada. Herramientas candidatas; sin compatibilidad ejecutada.",
+    "enunciado_original": "Evaluar agregaciones intercambiables.",
+    "prueba_original": "Se conservan métodos, parámetros y resultados comparables."
+  },
+  {
+    "requisito": "DAT06",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S008"
+    ],
+    "soportes": [
+      "93_diseno_y_fundamentos_v1_1.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/arquitectura.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/esquemas/contratos_propuestos.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/productos.md"
+    ],
+    "evidencia_cumplimiento": "Arquitectura.representaciones contempla puntos/líneas/polígonos/ráster/red y límites de adaptadores.",
+    "limite": "Fundamento o especificación de diseño, no aplicación territorial ni utilidad probada. Herramientas candidatas; sin compatibilidad ejecutada.",
+    "enunciado_original": "Contemplar datos de puntos, líneas, polígonos, rásteres y redes.",
+    "prueba_original": "Los adaptadores y restricciones se relacionan con historias pertinentes."
+  },
+  {
+    "requisito": "DAT07",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S008"
+    ],
+    "soportes": [
+      "93_diseno_y_fundamentos_v1_1.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/arquitectura.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/esquemas/contratos_propuestos.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/productos.md"
+    ],
+    "evidencia_cumplimiento": "Representaciones T01 evalúan 3D condicional y exclusión sin necesidad actual acreditada.",
+    "limite": "Fundamento o especificación de diseño, no aplicación territorial ni utilidad probada. Herramientas candidatas; sin compatibilidad ejecutada.",
+    "enunciado_original": "Considerar 3D cuando una necesidad lo justifique.",
+    "prueba_original": "Su inclusión o exclusión tiene justificación."
+  },
+  {
+    "requisito": "DAT08",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S008"
+    ],
+    "soportes": [
+      "93_diseno_y_fundamentos_v1_1.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/arquitectura.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/esquemas/contratos_propuestos.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/productos.md"
+    ],
+    "evidencia_cumplimiento": "Arquitectura y contratos distinguen CRS, resolución, unidades y tiempo; null real separado de granularidad requerida propuesta.",
+    "limite": "Fundamento o especificación de diseño, no aplicación territorial ni utilidad probada. Herramientas candidatas; sin compatibilidad ejecutada.",
+    "enunciado_original": "Armonizar resolución espacial, referencia, unidades y tiempo.",
+    "prueba_original": "El diseño explica incompatibilidades y decisiones de transformación."
+  },
+  {
+    "requisito": "DAT09",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S008"
+    ],
+    "soportes": [
+      "93_diseno_y_fundamentos_v1_1.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/arquitectura.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/esquemas/contratos_propuestos.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/productos.md"
+    ],
+    "evidencia_cumplimiento": "Módulos/adaptadores de arquitectura exigen semántica, fuente y validación para incorporar insumo.",
+    "limite": "Fundamento o especificación de diseño, no aplicación territorial ni utilidad probada. Herramientas candidatas; sin compatibilidad ejecutada.",
+    "enunciado_original": "Diseñar incorporación de nuevas fuentes mediante adaptadores.",
+    "prueba_original": "Se describe qué debe aportar y validar una fuente nueva."
+  },
+  {
+    "requisito": "DAT10",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S008"
+    ],
+    "soportes": [
+      "93_diseno_y_fundamentos_v1_1.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/arquitectura.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/esquemas/contratos_propuestos.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/productos.md"
+    ],
+    "evidencia_cumplimiento": "Arquitectura.google_earth_engine identifica pertinencia y dependencias; sin integración o ejecución.",
+    "limite": "Fundamento o especificación de diseño, no aplicación territorial ni utilidad probada. Herramientas candidatas; sin compatibilidad ejecutada.",
+    "enunciado_original": "Considerar integración con Google Earth Engine cuando sea pertinente.",
+    "prueba_original": "Se identifican finalidad, entradas, salidas y condiciones."
+  },
+  {
+    "requisito": "DAT11",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S008"
+    ],
+    "soportes": [
+      "93_diseno_y_fundamentos_v1_1.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/arquitectura.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/esquemas/contratos_propuestos.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/productos.md"
+    ],
+    "evidencia_cumplimiento": "S008 distingue preparación y análisis de producto/interfaz; contrato no se sustituye por dashboard.",
+    "limite": "Fundamento o especificación de diseño, no aplicación territorial ni utilidad probada. Herramientas candidatas; sin compatibilidad ejecutada.",
+    "enunciado_original": "Distinguir pipeline y dashboard.",
+    "prueba_original": "La interfaz no sustituye las responsabilidades de preparación y análisis."
+  },
+  {
+    "requisito": "DAT12",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S008"
+    ],
+    "soportes": [
+      "93_diseno_y_fundamentos_v1_1.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/arquitectura.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/esquemas/contratos_propuestos.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/productos.md"
+    ],
+    "evidencia_cumplimiento": "S008/README GeoInsights indican datos/configuración externos y lectura estática, sin prueba para Carto-Visor.",
+    "limite": "Fundamento o especificación de diseño, no aplicación territorial ni utilidad probada. Herramientas candidatas; sin compatibilidad ejecutada.",
+    "enunciado_original": "Documentar límites del ZIP de referencia y adaptación necesaria.",
+    "prueba_original": "No se presenta como ejecución probada para Carto-Visor."
+  },
+  {
+    "requisito": "DAT13",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S008"
+    ],
+    "soportes": [
+      "93_diseno_y_fundamentos_v1_1.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/arquitectura.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/esquemas/contratos_propuestos.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/productos.md"
+    ],
+    "evidencia_cumplimiento": "S008 fundamenta expediente/cuaderno/memoria con datos, decisión, comprobación futura y descarte.",
+    "limite": "Fundamento o especificación de diseño, no aplicación territorial ni utilidad probada. Herramientas candidatas; sin compatibilidad ejecutada.",
+    "enunciado_original": "Fundamentar dos o tres productos concretos para la etapa siguiente.",
+    "prueba_original": "Cada producto tiene necesidad, historia, datos, operación y verificación."
+  },
+  {
+    "requisito": "DAT14",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S008"
+    ],
+    "soportes": [
+      "93_diseno_y_fundamentos_v1_1.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/arquitectura.md",
+      "analisis/diseno/T01/soportes_revisados_v1_1/esquemas/contratos_propuestos.json",
+      "analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/productos.md"
+    ],
+    "evidencia_cumplimiento": "S005/S008 separan necesidad expresada e innovación del análisis; no aprobación institucional.",
+    "limite": "Fundamento o especificación de diseño, no aplicación territorial ni utilidad probada. Herramientas candidatas; sin compatibilidad ejecutada.",
+    "enunciado_original": "Separar demanda expresada y oportunidad de innovación del equipo.",
+    "prueba_original": "Cada propuesta conserva su origen y validación pendiente."
+  },
+  {
+    "requisito": "FDO01",
+    "estado": "PARCIAL",
+    "secciones": [
+      "REP01-S009"
+    ],
+    "soportes": [
+      "88_historias_y_objetos_v1_1.json",
+      "analisis/historias/HU01/LEEME.md"
+    ],
+    "evidencia_cumplimiento": "S009 y estado_fair de HU01 mapean principios a controles/pendientes; no certificación integral.",
+    "limite": "Medidas locales presentes; registros externos, permisos y evaluación integral faltan según estado_fair. No conformidad por JSON o hash.",
+    "enunciado_original": "Aplicar localización, acceso, interoperabilidad y reutilización a objetos.",
+    "prueba_original": "Se presenta un mapeo de principios a controles concretos."
+  },
+  {
+    "requisito": "FDO02",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S009"
+    ],
+    "soportes": [
+      "88_historias_y_objetos_v1_1.json",
+      "analisis/historias/HU01/LEEME.md"
+    ],
+    "evidencia_cumplimiento": "Los 76 objetos locales conservan ids, versiones, metadatos y procedencia; el cotejo de payloads y relaciones fue repetido.",
+    "limite": "Estado referido al enunciado concreto; no certifica revisión humana independiente, conformidad FAIR/JANUS integral, configuración histórica ausente o implementación.",
+    "enunciado_original": "Mantener IDs, versiones, metadatos y procedencia.",
+    "prueba_original": "Los objetos y sus revisiones son identificables."
+  },
+  {
+    "requisito": "FDO03",
+    "estado": "PARCIAL",
+    "secciones": [
+      "REP01-S009"
+    ],
+    "soportes": [
+      "88_historias_y_objetos_v1_1.json",
+      "analisis/historias/HU01/LEEME.md"
+    ],
+    "evidencia_cumplimiento": "Registro de objetos especifica consulta académica y licencia desconocida; publicación NO_CONSTA, permisos por resolver.",
+    "limite": "Medidas locales presentes; registros externos, permisos y evaluación integral faltan según estado_fair. No conformidad por JSON o hash.",
+    "enunciado_original": "Declarar acceso, licencia y condiciones de reutilización.",
+    "prueba_original": "Los permisos se distinguen de disponibilidad técnica."
+  },
+  {
+    "requisito": "FDO04",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S009"
+    ],
+    "soportes": [
+      "88_historias_y_objetos_v1_1.json",
+      "analisis/historias/HU01/LEEME.md"
+    ],
+    "evidencia_cumplimiento": "La sección 9 distingue acceso con permisos de apertura del contenido; no exige abrir el corpus para satisfacer la distinción.",
+    "limite": "Estado referido al enunciado concreto; no certifica revisión humana independiente, conformidad FAIR/JANUS integral, configuración histórica ausente o implementación.",
+    "enunciado_original": "No equiparar FAIR con publicación abierta de contenido.",
+    "prueba_original": "Los objetos pueden tener acceso autorizado documentado."
+  },
+  {
+    "requisito": "FDO05",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S009"
+    ],
+    "soportes": [
+      "88_historias_y_objetos_v1_1.json",
+      "analisis/historias/HU01/LEEME.md"
+    ],
+    "evidencia_cumplimiento": "Los PID externos permanecen nulos y no se inventan depósitos ni DOI del proyecto.",
+    "limite": "Estado referido al enunciado concreto; no certifica revisión humana independiente, conformidad FAIR/JANUS integral, configuración histórica ausente o implementación.",
+    "enunciado_original": "No inventar DOI, depósitos ni identificadores persistentes externos.",
+    "prueba_original": "Los enlaces externos declarados resuelven a objetos reales."
+  },
+  {
+    "requisito": "FDO06",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S009"
+    ],
+    "soportes": [
+      "88_historias_y_objetos_v1_1.json",
+      "analisis/historias/HU01/LEEME.md",
+      "editorial/registros/indice_inverso.json"
+    ],
+    "evidencia_cumplimiento": "El índice inverso y las relaciones de objetos conservan vínculos desde párrafos a necesidades, historias y propuestas.",
+    "limite": "Estado referido al enunciado concreto; no certifica revisión humana independiente, conformidad FAIR/JANUS integral, configuración histórica ausente o implementación.",
+    "enunciado_original": "Conservar relaciones entre fuentes, análisis y propuestas.",
+    "prueba_original": "Las derivaciones son trazables en los objetos."
+  },
+  {
+    "requisito": "FDO07",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S009"
+    ],
+    "soportes": [
+      "88_historias_y_objetos_v1_1.json",
+      "analisis/historias/HU01/LEEME.md"
+    ],
+    "evidencia_cumplimiento": "La sección 9 limita los hashes a integridad y distingue ese control de la verdad del contenido.",
+    "limite": "Estado referido al enunciado concreto; no certifica revisión humana independiente, conformidad FAIR/JANUS integral, configuración histórica ausente o implementación.",
+    "enunciado_original": "Usar hashes como control de integridad y no de verdad.",
+    "prueba_original": "La documentación explica el alcance de la comprobación."
+  },
+  {
+    "requisito": "FDO08",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S009"
+    ],
+    "soportes": [
+      "88_historias_y_objetos_v1_1.json",
+      "analisis/historias/HU01/LEEME.md"
+    ],
+    "evidencia_cumplimiento": "HU01 evalúa empaquetado y T01 evalúa extensión FAIR/JANUS; la evaluación no requiere implementar RO-Crate para este enunciado.",
+    "limite": "Estado referido al enunciado concreto; no certifica revisión humana independiente, conformidad FAIR/JANUS integral, configuración histórica ausente o implementación.",
+    "enunciado_original": "Evaluar empaquetado RO-Crate y procedencia según alcance.",
+    "prueba_original": "El grado de implementación se verifica y no solo se afirma."
+  },
+  {
+    "requisito": "FDO09",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S009"
+    ],
+    "soportes": [
+      "88_historias_y_objetos_v1_1.json",
+      "analisis/historias/HU01/LEEME.md"
+    ],
+    "evidencia_cumplimiento": "Versiones de corpus, libro, recodificaciones, dato/metadato y representaciones se conservan diferenciadas.",
+    "limite": "Estado referido al enunciado concreto; no certifica revisión humana independiente, conformidad FAIR/JANUS integral, configuración histórica ausente o implementación.",
+    "enunciado_original": "Versionar dato, metadato, métodos y representaciones relevantes.",
+    "prueba_original": "Las salidas permiten recuperar la configuración que las produjo."
+  },
+  {
+    "requisito": "JAN01",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S009"
+    ],
+    "soportes": [
+      "24_protocolo_analisis.md",
+      "editorial/registros/memo_integracion.md",
+      "editorial/registros/incidencias_metodologicas.md",
+      "editorial/registros/bibliografia_consultada.json"
+    ],
+    "evidencia_cumplimiento": "29 afirmaciones centrales tipadas enlazan objetos canónicos y localizadores; sin reemplazar evidencia por prosa.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Aplicar un contrato de afirmación y evidencia.",
+    "prueba_original": "Las afirmaciones relevantes resuelven a segmentos o referencias verificadas."
+  },
+  {
+    "requisito": "JAN02",
+    "estado": "PARCIAL",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S009"
+    ],
+    "soportes": [
+      "24_protocolo_analisis.md",
+      "editorial/registros/memo_integracion.md",
+      "editorial/registros/incidencias_metodologicas.md",
+      "editorial/registros/bibliografia_consultada.json"
+    ],
+    "evidencia_cumplimiento": "Relectura asistida de cinco entrevistas, siete citas y límites frente a las afirmaciones; revisión humana independiente pendiente.",
+    "limite": "Cumplimiento parcial con soporte y alcance en evidencia_cumplimiento; datos administrativos, aplicabilidad, ejecución o revisión humana/maquetación señalados no se acreditan.",
+    "enunciado_original": "Comprobar que la evidencia respalda el significado de la afirmación.",
+    "prueba_original": "La revisión semántica complementa la validación de enlaces."
+  },
+  {
+    "requisito": "JAN03",
+    "estado": "PARCIAL",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S009"
+    ],
+    "soportes": [
+      "24_protocolo_analisis.md",
+      "editorial/registros/memo_integracion.md",
+      "editorial/registros/incidencias_metodologicas.md",
+      "editorial/registros/bibliografia_consultada.json"
+    ],
+    "evidencia_cumplimiento": "Examen asistido acotado del manuscrito/figuras usa funciones y datos de autor autorizados; no auditoría integral de privacidad histórica.",
+    "limite": "Cumplimiento parcial con soporte y alcance en evidencia_cumplimiento; datos administrativos, aplicabilidad, ejecución o revisión humana/maquetación señalados no se acreditan.",
+    "enunciado_original": "Revisar privacidad y registrar acciones.",
+    "prueba_original": "Hay estado y soporte del control aplicado."
+  },
+  {
+    "requisito": "JAN04",
+    "estado": "PARCIAL",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S009"
+    ],
+    "soportes": [
+      "24_protocolo_analisis.md",
+      "editorial/registros/memo_integracion.md",
+      "editorial/registros/incidencias_metodologicas.md",
+      "editorial/registros/bibliografia_consultada.json"
+    ],
+    "evidencia_cumplimiento": "Prompts y salidas recibidas se preservan más memo de integración; no constan exportaciones completas de todos los chats/contextos.",
+    "limite": "Cumplimiento parcial con soporte y alcance en evidencia_cumplimiento; datos administrativos, aplicabilidad, ejecución o revisión humana/maquetación señalados no se acreditan.",
+    "enunciado_original": "Conservar prompts, contexto, entradas y salidas del análisis.",
+    "prueba_original": "Los registros identifican qué produjo cada resultado."
+  },
+  {
+    "requisito": "JAN05",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S009"
+    ],
+    "soportes": [
+      "24_protocolo_analisis.md",
+      "editorial/registros/memo_integracion.md",
+      "editorial/registros/incidencias_metodologicas.md",
+      "editorial/registros/bibliografia_consultada.json"
+    ],
+    "evidencia_cumplimiento": "Metadatos registran descripción Codex/GPT-6 y modelo/parametros null, sin extrapolar identificador.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Registrar solo parámetros y versiones accesibles.",
+    "prueba_original": "Los campos desconocidos no se rellenan por conjetura."
+  },
+  {
+    "requisito": "JAN06",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S009"
+    ],
+    "soportes": [
+      "24_protocolo_analisis.md",
+      "editorial/registros/memo_integracion.md",
+      "editorial/registros/incidencias_metodologicas.md",
+      "editorial/registros/bibliografia_consultada.json"
+    ],
+    "evidencia_cumplimiento": "Memos recibidos y memo REP01 explican conservación de contraejemplos, tesis y decisiones editoriales.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Mantener memos reflexivos y decisiones interpretativas.",
+    "prueba_original": "Se puede explicar por qué se fusionó, separó o priorizó un concepto."
+  },
+  {
+    "requisito": "JAN07",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S009"
+    ],
+    "soportes": [
+      "24_protocolo_analisis.md",
+      "editorial/registros/memo_integracion.md",
+      "editorial/registros/incidencias_metodologicas.md",
+      "editorial/registros/bibliografia_consultada.json"
+    ],
+    "evidencia_cumplimiento": "Incidencias metodológicas registran alcance, resolución o pendiente; S006 contrasta generalizaciones sin corregir fuentes.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Realizar revisión crítica de contradicciones y generalizaciones.",
+    "prueba_original": "Las incidencias tienen gravedad, resolución o pendiente."
+  },
+  {
+    "requisito": "JAN08",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S009"
+    ],
+    "soportes": [
+      "24_protocolo_analisis.md",
+      "editorial/registros/memo_integracion.md",
+      "editorial/registros/incidencias_metodologicas.md",
+      "editorial/registros/bibliografia_consultada.json"
+    ],
+    "evidencia_cumplimiento": "Bibliografía seleccionada registra consulta primaria dirigida o registro interno/segunda fuente, con año desconocido explícito.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Verificar referencias externas utilizadas.",
+    "prueba_original": "La referencia existe y corresponde a la afirmación."
+  },
+  {
+    "requisito": "JAN09",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S009"
+    ],
+    "soportes": [
+      "24_protocolo_analisis.md",
+      "editorial/registros/memo_integracion.md",
+      "editorial/registros/incidencias_metodologicas.md",
+      "editorial/registros/bibliografia_consultada.json",
+      "editorial/registros/revision_coordinacion_v1_1.md"
+    ],
+    "evidencia_cumplimiento": "La nota metodológica y la conclusión distinguen revisión asistida de revisión humana independiente pendiente; distinguirlas no exige haber completado ambas.",
+    "limite": "Estado referido al enunciado concreto; no certifica revisión humana independiente, conformidad FAIR/JANUS integral, configuración histórica ausente o implementación.",
+    "enunciado_original": "Distinguir revisiones humanas y asistidas.",
+    "prueba_original": "No se atribuye independencia humana a una salida de modelo."
+  },
+  {
+    "requisito": "JAN10",
+    "estado": "NO_APLICA_JUSTIFICADO",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S009"
+    ],
+    "soportes": [
+      "24_protocolo_analisis.md",
+      "editorial/registros/memo_integracion.md",
+      "editorial/registros/incidencias_metodologicas.md",
+      "editorial/registros/bibliografia_consultada.json"
+    ],
+    "evidencia_cumplimiento": "No se calcula concordancia: faltan codificaciones humanas independientes de las mismas unidades.",
+    "limite": "No existen codificaciones humanas independientes de las mismas unidades; calcular concordancia sería improcedente. Se mantiene revisión humana pendiente.",
+    "enunciado_original": "Reportar concordancia solo con codificaciones que la permitan.",
+    "prueba_original": "Métrica, unidades y procedimiento pueden reconstruirse."
+  },
+  {
+    "requisito": "JAN11",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S009"
+    ],
+    "soportes": [
+      "24_protocolo_analisis.md",
+      "editorial/registros/memo_integracion.md",
+      "editorial/registros/incidencias_metodologicas.md",
+      "editorial/registros/bibliografia_consultada.json"
+    ],
+    "evidencia_cumplimiento": "S002/S009 no trasladan métricas de JANUS ni tratan 971 asignaciones como calidad.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "No trasladar métricas de JANUS al corpus del proyecto.",
+    "prueba_original": "Toda cifra de calidad del proyecto proviene de sus propios registros."
+  },
+  {
+    "requisito": "JAN12",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S009"
+    ],
+    "soportes": [
+      "24_protocolo_analisis.md",
+      "editorial/registros/memo_integracion.md",
+      "editorial/registros/incidencias_metodologicas.md",
+      "editorial/registros/bibliografia_consultada.json"
+    ],
+    "evidencia_cumplimiento": "Memo y LEEME distinguen auditabilidad y regeneración idéntica; entradas/modelo/rutas históricas limitan reproducción.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Distinguir auditabilidad de reproducción idéntica del modelo.",
+    "prueba_original": "El protocolo conserva variabilidad y resultados originales."
+  },
+  {
+    "requisito": "JAN13",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S009"
+    ],
+    "soportes": [
+      "24_protocolo_analisis.md",
+      "editorial/registros/memo_integracion.md",
+      "editorial/registros/incidencias_metodologicas.md",
+      "editorial/registros/bibliografia_consultada.json"
+    ],
+    "evidencia_cumplimiento": "Controles principal/complementarios registran hechos ejecutados; pendientes no se rotulan PASS humano.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Registrar la aplicación efectiva de controles.",
+    "prueba_original": "Pendientes o adaptaciones no se presentan como cumplimiento integral."
+  },
+  {
+    "requisito": "JAN14",
+    "estado": "PARCIAL",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S009"
+    ],
+    "soportes": [
+      "24_protocolo_analisis.md",
+      "editorial/registros/memo_integracion.md",
+      "editorial/registros/incidencias_metodologicas.md",
+      "editorial/registros/bibliografia_consultada.json"
+    ],
+    "evidencia_cumplimiento": "Linajes de R01–R05 y libro se conservan; REP01 no cambia códigos ni fuentes y no activa nueva recodificación.",
+    "limite": "Cumplimiento parcial con soporte y alcance en evidencia_cumplimiento; datos administrativos, aplicabilidad, ejecución o revisión humana/maquetación señalados no se acreditan.",
+    "enunciado_original": "Reejecutar etapas afectadas y conservar linaje de revisiones.",
+    "prueba_original": "Los cambios de fuentes o códigos tienen consecuencias registradas."
+  },
+  {
+    "requisito": "RED01",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S001",
+      "REP01-S002",
+      "REP01-S003",
+      "REP01-S004",
+      "REP01-S005",
+      "REP01-S006",
+      "REP01-S007",
+      "REP01-S008",
+      "REP01-S009"
+    ],
+    "soportes": [
+      "editorial/registros/guia_por_seccion.md",
+      "editorial/controles/revision_figuras.json"
+    ],
+    "evidencia_cumplimiento": "S001–S009 desarrollan conceptos antes de localizadores; tesis formulada en lenguaje sustantivo.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Explicar conceptos completos en la prosa.",
+    "prueba_original": "El párrafo se entiende sin descifrar identificadores."
+  },
+  {
+    "requisito": "RED02",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S001",
+      "REP01-S002",
+      "REP01-S003",
+      "REP01-S004",
+      "REP01-S005",
+      "REP01-S006",
+      "REP01-S007",
+      "REP01-S008",
+      "REP01-S009"
+    ],
+    "soportes": [
+      "editorial/registros/guia_por_seccion.md",
+      "editorial/controles/revision_figuras.json"
+    ],
+    "evidencia_cumplimiento": "Identificadores se añaden entre paréntesis/enlaces; tabla de códigos define conceptos completos.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Usar IDs como localizadores complementarios.",
+    "prueba_original": "Los paréntesis permiten rastrear sin reemplazar la explicación."
+  },
+  {
+    "requisito": "RED03",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S001",
+      "REP01-S002",
+      "REP01-S003",
+      "REP01-S004",
+      "REP01-S005",
+      "REP01-S006",
+      "REP01-S007",
+      "REP01-S008",
+      "REP01-S009"
+    ],
+    "soportes": [
+      "editorial/registros/guia_por_seccion.md",
+      "editorial/controles/revision_figuras.json"
+    ],
+    "evidencia_cumplimiento": "Siete citas de cinco voces se introducen con función y uso analítico; enlaces al corpus y contexto en trazabilidad.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Introducir citas literales con contexto y sentido analítico.",
+    "prueba_original": "Se comprende qué ilustra la voz del participante."
+  },
+  {
+    "requisito": "RED04",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S001",
+      "REP01-S002",
+      "REP01-S003",
+      "REP01-S004",
+      "REP01-S005",
+      "REP01-S006",
+      "REP01-S007",
+      "REP01-S008",
+      "REP01-S009"
+    ],
+    "soportes": [
+      "editorial/registros/guia_por_seccion.md",
+      "editorial/controles/revision_figuras.json"
+    ],
+    "evidencia_cumplimiento": "S002/S005 y afirmaciones distinguen literal, paráfrasis e interpretación/propuesta.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Distinguir cita, paráfrasis e interpretación.",
+    "prueba_original": "El texto no presenta una elaboración del autor como palabras del entrevistado."
+  },
+  {
+    "requisito": "RED05",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S001",
+      "REP01-S002",
+      "REP01-S003",
+      "REP01-S004",
+      "REP01-S005",
+      "REP01-S006",
+      "REP01-S007",
+      "REP01-S008",
+      "REP01-S009"
+    ],
+    "soportes": [
+      "editorial/registros/guia_por_seccion.md",
+      "editorial/controles/revision_figuras.json"
+    ],
+    "evidencia_cumplimiento": "Argumento avanza de suficiencia al método, procesos, autoridad, necesidad, crítica y diseño.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Construir narrativa conectada entre secciones.",
+    "prueba_original": "El argumento muestra cómo el análisis sostiene decisiones."
+  },
+  {
+    "requisito": "RED06",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S001",
+      "REP01-S002",
+      "REP01-S003",
+      "REP01-S004",
+      "REP01-S005",
+      "REP01-S006",
+      "REP01-S007",
+      "REP01-S008",
+      "REP01-S009"
+    ],
+    "soportes": [
+      "editorial/registros/guia_por_seccion.md",
+      "editorial/controles/revision_figuras.json"
+    ],
+    "evidencia_cumplimiento": "Se reserva desarrollo completo a soportes; el cuerpo explica decisiones con ejemplos y contraejemplos.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Evitar que el cuerpo parezca un manual de códigos.",
+    "prueba_original": "Las definiciones y soportes técnicos se sitúan donde ayudan a la lectura."
+  },
+  {
+    "requisito": "RED07",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S001",
+      "REP01-S002",
+      "REP01-S003",
+      "REP01-S004",
+      "REP01-S005",
+      "REP01-S006",
+      "REP01-S007",
+      "REP01-S008",
+      "REP01-S009"
+    ],
+    "soportes": [
+      "editorial/registros/guia_por_seccion.md",
+      "editorial/controles/revision_figuras.json"
+    ],
+    "evidencia_cumplimiento": "Enlaces locales del manuscrito comprobados; guía por sección e índice inverso amplían navegación.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Referenciar archivos de soporte desde los temas pertinentes.",
+    "prueba_original": "Cada referencia lleva al objeto y al localizador necesario."
+  },
+  {
+    "requisito": "RED08",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S001",
+      "REP01-S002",
+      "REP01-S003",
+      "REP01-S004",
+      "REP01-S005",
+      "REP01-S006",
+      "REP01-S007",
+      "REP01-S008",
+      "REP01-S009"
+    ],
+    "soportes": [
+      "editorial/registros/guia_por_seccion.md",
+      "editorial/controles/revision_figuras.json",
+      "editorial/controles/maquetacion_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "Word y PDF producidos; PDF de doce páginas totales con nueve de cuerpo. Tres figuras y cinco tablas inspeccionadas en página; fuentes completas preservadas en repositorio.",
+    "limite": "Cumplimiento de formato/legibilidad y extensión del archivo final; no acredita divergencias documentales, revisión humana independiente o pruebas de producto.",
+    "enunciado_original": "Incluir figuras o perfiles visuales con función analítica.",
+    "prueba_original": "Cada visual tiene explicación, procedencia y legibilidad."
+  },
+  {
+    "requisito": "RED09",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S001",
+      "REP01-S002",
+      "REP01-S003",
+      "REP01-S004",
+      "REP01-S005",
+      "REP01-S006",
+      "REP01-S007",
+      "REP01-S008",
+      "REP01-S009"
+    ],
+    "soportes": [
+      "editorial/registros/guia_por_seccion.md",
+      "editorial/controles/revision_figuras.json"
+    ],
+    "evidencia_cumplimiento": "S006 razona distribución/daño, hipótesis de integración y supuestos de capas sin clasificación mecánica.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Contrastar problema, hipótesis del cliente y supuestos sin verificar.",
+    "prueba_original": "Las categorías tienen fundamento y evidencia distinguibles."
+  },
+  {
+    "requisito": "RED10",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S001",
+      "REP01-S002",
+      "REP01-S003",
+      "REP01-S004",
+      "REP01-S005",
+      "REP01-S006",
+      "REP01-S007",
+      "REP01-S008",
+      "REP01-S009"
+    ],
+    "soportes": [
+      "editorial/registros/guia_por_seccion.md",
+      "editorial/controles/revision_figuras.json"
+    ],
+    "evidencia_cumplimiento": "S002 explica instrumentos/recodificación/alcance y muestra ejemplo de interpretación trazable.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Explicar el método brevemente y su relación con los soportes.",
+    "prueba_original": "El lector puede seguir el proceso sin leer todos los anexos."
+  },
+  {
+    "requisito": "RED11",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S001",
+      "REP01-S002",
+      "REP01-S003",
+      "REP01-S004",
+      "REP01-S005",
+      "REP01-S006",
+      "REP01-S007",
+      "REP01-S008",
+      "REP01-S009"
+    ],
+    "soportes": [
+      "editorial/registros/guia_por_seccion.md",
+      "editorial/controles/revision_figuras.json"
+    ],
+    "evidencia_cumplimiento": "S005 desarrolla N004/H003/M003/K004 y N009/H006/M006/K008 con restricciones.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Mostrar necesidades y user stories de forma concreta.",
+    "prueba_original": "Se conecta decisión, información, operación y producto."
+  },
+  {
+    "requisito": "RED12",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S001",
+      "REP01-S002",
+      "REP01-S003",
+      "REP01-S004",
+      "REP01-S005",
+      "REP01-S006",
+      "REP01-S007",
+      "REP01-S008",
+      "REP01-S009"
+    ],
+    "soportes": [
+      "editorial/registros/guia_por_seccion.md",
+      "editorial/controles/revision_figuras.json"
+    ],
+    "evidencia_cumplimiento": "No se justifica contenido porque lo pidió el profesor; el encargo se contrasta como planteamiento institucional.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Usar voz académica sin justificar con encargos del profesor.",
+    "prueba_original": "Se revisan expresiones de checklist escolar en el texto final."
+  },
+  {
+    "requisito": "RED13",
+    "estado": "PARCIAL",
+    "secciones": [
+      "REP01-S001",
+      "REP01-S002",
+      "REP01-S003",
+      "REP01-S004",
+      "REP01-S005",
+      "REP01-S006",
+      "REP01-S007",
+      "REP01-S008",
+      "REP01-S009"
+    ],
+    "soportes": [
+      "editorial/registros/guia_por_seccion.md",
+      "editorial/controles/revision_figuras.json"
+    ],
+    "evidencia_cumplimiento": "Cuerpo en presupuesto orientativo 2800–3400 palabras antes de enlaces; revisión humana de calidad pendiente.",
+    "limite": "Cumplimiento parcial con soporte y alcance en evidencia_cumplimiento; datos administrativos, aplicabilidad, ejecución o revisión humana/maquetación señalados no se acreditan.",
+    "enunciado_original": "Conservar claridad y profundidad sin divagación.",
+    "prueba_original": "Cada apartado aporta a una pregunta o decisión del reporte."
+  },
+  {
+    "requisito": "RED14",
+    "estado": "ATENDIDO_EN_MANUSCRITO",
+    "secciones": [
+      "REP01-S001",
+      "REP01-S002",
+      "REP01-S003",
+      "REP01-S004",
+      "REP01-S005",
+      "REP01-S006",
+      "REP01-S007",
+      "REP01-S008",
+      "REP01-S009"
+    ],
+    "soportes": [
+      "editorial/registros/guia_por_seccion.md",
+      "editorial/controles/revision_figuras.json"
+    ],
+    "evidencia_cumplimiento": "S001/S002 y declaración ampliada describen generación, análisis, organización y escritura con IA; no transcripción de audios aportados.",
+    "limite": "Atención editorial o diseño según el alcance indicado; no implica validación humana independiente ni implementación.",
+    "enunciado_original": "Declarar herramientas y usos reales de IA.",
+    "prueba_original": "La declaración corresponde a los registros del trabajo."
+  },
+  {
+    "requisito": "RED15",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S001",
+      "REP01-S002",
+      "REP01-S003",
+      "REP01-S004",
+      "REP01-S005",
+      "REP01-S006",
+      "REP01-S007",
+      "REP01-S008",
+      "REP01-S009"
+    ],
+    "soportes": [
+      "editorial/registros/guia_por_seccion.md",
+      "editorial/controles/revision_figuras.json",
+      "editorial/controles/maquetacion_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "Word y PDF producidos; PDF de doce páginas totales con nueve de cuerpo. Tres figuras y cinco tablas inspeccionadas en página; fuentes completas preservadas en repositorio.",
+    "limite": "Cumplimiento de formato/legibilidad y extensión del archivo final; no acredita divergencias documentales, revisión humana independiente o pruebas de producto.",
+    "enunciado_original": "Entregar Word o PDF con mapas legibles y anexos pertinentes.",
+    "prueba_original": "El archivo final y sus anexos se abren y pueden revisarse."
+  },
+  {
+    "requisito": "REP01",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S009"
+    ],
+    "soportes": [
+      "LEEME.md",
+      "editorial/registros/indice_inverso.json",
+      "editorial/registros/agenda_pendientes.md"
+    ],
+    "evidencia_cumplimiento": "LEEME raíz presenta pregunta, método, hallazgos y orden de lectura con regreso al manuscrito externo.",
+    "limite": "Paquete para revisión, sin publicación ni licencia abierta del corpus. Registros disponibles no equivalen a expediente histórico completo.",
+    "enunciado_original": "Incluir una guía inicial para recorrer el repositorio.",
+    "prueba_original": "El lector sabe por dónde empezar y cómo volver al reporte."
+  },
+  {
+    "requisito": "REP02",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S009"
+    ],
+    "soportes": [
+      "LEEME.md",
+      "editorial/registros/indice_inverso.json",
+      "editorial/registros/agenda_pendientes.md"
+    ],
+    "evidencia_cumplimiento": "Cada carpeta contiene LEEME/README; controles comprueban presencia y navegación editorial.",
+    "limite": "Paquete para revisión, sin publicación ni licencia abierta del corpus. Registros disponibles no equivalen a expediente histórico completo.",
+    "enunciado_original": "Explicar el contenido de cada carpeta relevante.",
+    "prueba_original": "Cada carpeta sustantiva contiene documentación humana."
+  },
+  {
+    "requisito": "REP03",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S009"
+    ],
+    "soportes": [
+      "LEEME.md",
+      "editorial/registros/indice_inverso.json",
+      "editorial/registros/agenda_pendientes.md"
+    ],
+    "evidencia_cumplimiento": "Cinco DOCX/vistas, guion, registro de corpus y metadatos disponibles preservados; ausencias administrativas explícitas.",
+    "limite": "Paquete para revisión, sin publicación ni licencia abierta del corpus. Registros disponibles no equivalen a expediente histórico completo.",
+    "enunciado_original": "Incluir transcripciones, guiones y registros pertinentes.",
+    "prueba_original": "El inventario coincide con los objetos disponibles."
+  },
+  {
+    "requisito": "REP04",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S009"
+    ],
+    "soportes": [
+      "LEEME.md",
+      "editorial/registros/indice_inverso.json",
+      "editorial/registros/agenda_pendientes.md"
+    ],
+    "evidencia_cumplimiento": "Libro, recodificaciones y S01 preferidos presentes con versiones y relaciones canónicas.",
+    "limite": "Paquete para revisión, sin publicación ni licencia abierta del corpus. Registros disponibles no equivalen a expediente histórico completo.",
+    "enunciado_original": "Incluir libro de códigos, segmentos y síntesis.",
+    "prueba_original": "Los archivos se relacionan y mantienen sus versiones."
+  },
+  {
+    "requisito": "REP05",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S009"
+    ],
+    "soportes": [
+      "LEEME.md",
+      "editorial/registros/indice_inverso.json",
+      "editorial/registros/agenda_pendientes.md"
+    ],
+    "evidencia_cumplimiento": "N01/HU01, 76 objetos locales, metadatos y criterios presentes con índices/huellas.",
+    "limite": "Paquete para revisión, sin publicación ni licencia abierta del corpus. Registros disponibles no equivalen a expediente histórico completo.",
+    "enunciado_original": "Incluir necesidades, historias y metadatos estructurados.",
+    "prueba_original": "Se comprueban campos y relaciones de los objetos."
+  },
+  {
+    "requisito": "REP06",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S009"
+    ],
+    "soportes": [
+      "LEEME.md",
+      "editorial/registros/indice_inverso.json",
+      "editorial/registros/agenda_pendientes.md"
+    ],
+    "evidencia_cumplimiento": "Scripts históricos y entradas/salidas recibidos, scripts editoriales y memo efectivo incluidos; no regeneración prometida.",
+    "limite": "Paquete para revisión, sin publicación ni licencia abierta del corpus. Registros disponibles no equivalen a expediente histórico completo.",
+    "enunciado_original": "Conservar código y registros utilizados para análisis e integración.",
+    "prueba_original": "Los scripts y prompts se distinguen de propuestas no ejecutadas."
+  },
+  {
+    "requisito": "REP07",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S009"
+    ],
+    "soportes": [
+      "LEEME.md",
+      "editorial/registros/indice_inverso.json",
+      "editorial/registros/agenda_pendientes.md"
+    ],
+    "evidencia_cumplimiento": "Base curada excluye prompts de desarrollo de entrevistas; no se reintroducen del expediente maestro.",
+    "limite": "Paquete para revisión, sin publicación ni licencia abierta del corpus. Registros disponibles no equivalen a expediente histórico completo.",
+    "enunciado_original": "No incluir prompts de desarrollo de entrevistas en el repo final solicitado.",
+    "prueba_original": "El alcance del paquete final respeta esa decisión expresa."
+  },
+  {
+    "requisito": "REP08",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S009"
+    ],
+    "soportes": [
+      "LEEME.md",
+      "editorial/registros/indice_inverso.json",
+      "editorial/registros/agenda_pendientes.md"
+    ],
+    "evidencia_cumplimiento": "No carpetas vacías ni anexos que aparenten audio/firmas; diseños y controles distinguen propuesta/ejecución.",
+    "limite": "Paquete para revisión, sin publicación ni licencia abierta del corpus. Registros disponibles no equivalen a expediente histórico completo.",
+    "enunciado_original": "Evitar carpetas y afirmaciones que aparenten trabajo inexistente.",
+    "prueba_original": "El inventario distingue entregables, plantillas y pendientes."
+  },
+  {
+    "requisito": "REP09",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S009"
+    ],
+    "soportes": [
+      "LEEME.md",
+      "editorial/registros/indice_inverso.json",
+      "editorial/registros/agenda_pendientes.md"
+    ],
+    "evidencia_cumplimiento": "Validador principal coteja rutas/huellas/citas/estructura y complementario navegación/objetos.",
+    "limite": "Paquete para revisión, sin publicación ni licencia abierta del corpus. Registros disponibles no equivalen a expediente histórico completo.",
+    "enunciado_original": "Comprobar rutas, citas y archivos referenciados.",
+    "prueba_original": "Los localizadores del reporte y los objetos resuelven."
+  },
+  {
+    "requisito": "REP10",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S009"
+    ],
+    "soportes": [
+      "LEEME.md",
+      "editorial/registros/indice_inverso.json",
+      "editorial/registros/agenda_pendientes.md"
+    ],
+    "evidencia_cumplimiento": "Agenda conserva diez preguntas, posturas no recabadas, dependencias de diseño y maquetación.",
+    "limite": "Paquete para revisión, sin publicación ni licencia abierta del corpus. Registros disponibles no equivalen a expediente histórico completo.",
+    "enunciado_original": "Conservar pendientes y decisiones para las fases siguientes.",
+    "prueba_original": "Otra persona puede identificar dependencias y continuar el trabajo."
+  },
+  {
+    "requisito": "CTX01",
+    "estado": "PARCIAL",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S009"
+    ],
+    "soportes": [
+      "registro/prompts_analisis/LEEME.md",
+      "registro/salidas_iniciales/LEEME.md",
+      "editorial/registros/memo_integracion.md"
+    ],
+    "evidencia_cumplimiento": "Se conservan instrucciones y registros de integración; no se dispone de conversación maestra completa para certificar su gestión previa.",
+    "limite": "Se conserva evidencia disponible de organización; no se certifican retrospectivamente todos los chats, configuraciones o aprobaciones.",
+    "enunciado_original": "Mantener esta conversación como coordinación y registro de requisitos.",
+    "prueba_original": "Las decisiones se incorporan a la versión vigente del expediente."
+  },
+  {
+    "requisito": "CTX02",
+    "estado": "PARCIAL",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S009"
+    ],
+    "soportes": [
+      "registro/prompts_analisis/LEEME.md",
+      "registro/salidas_iniciales/LEEME.md",
+      "editorial/registros/memo_integracion.md"
+    ],
+    "evidencia_cumplimiento": "La instrucción actual prohíbe reiniciar entrevistas; solo se preserva corpus y registro histórico, sin certificar cómo se abrieron sus chats.",
+    "limite": "Se conserva evidencia disponible de organización; no se certifican retrospectivamente todos los chats, configuraciones o aprobaciones.",
+    "enunciado_original": "Abrir una conversación nueva por entrevista con contexto limitado.",
+    "prueba_original": "Cada paquete es autosuficiente y excluye conclusiones ajenas."
+  },
+  {
+    "requisito": "CTX03",
+    "estado": "PARCIAL",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S009"
+    ],
+    "soportes": [
+      "registro/prompts_analisis/LEEME.md",
+      "registro/salidas_iniciales/LEEME.md",
+      "editorial/registros/memo_integracion.md"
+    ],
+    "evidencia_cumplimiento": "No se realizan nuevas entrevistas o ramas; aislamiento histórico no está acreditado con exportaciones.",
+    "limite": "Se conserva evidencia disponible de organización; no se certifican retrospectivamente todos los chats, configuraciones o aprobaciones.",
+    "enunciado_original": "No iniciar las entrevistas como ramas del contexto completo.",
+    "prueba_original": "La entrada contiene únicamente las instrucciones de su paquete."
+  },
+  {
+    "requisito": "CTX04",
+    "estado": "PENDIENTE",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S009"
+    ],
+    "soportes": [
+      "registro/prompts_analisis/LEEME.md",
+      "registro/salidas_iniciales/LEEME.md",
+      "editorial/registros/memo_integracion.md"
+    ],
+    "evidencia_cumplimiento": "No hay registro verificable de configuración de contexto antes de cada entrevista; no se reconstruye.",
+    "limite": "Falta comprobación efectiva; no se sustituye por estimación o reconstrucción de un registro.",
+    "enunciado_original": "Comprobar controles de contexto de la herramienta antes de cada entrevista.",
+    "prueba_original": "Se registra la configuración utilizada sin prometer aislamiento absoluto."
+  },
+  {
+    "requisito": "CTX05",
+    "estado": "PARCIAL",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S009"
+    ],
+    "soportes": [
+      "registro/prompts_analisis/LEEME.md",
+      "registro/salidas_iniciales/LEEME.md",
+      "editorial/registros/memo_integracion.md"
+    ],
+    "evidencia_cumplimiento": "Cinco transcripciones y salidas están disponibles; no se acreditan modalidad temporal o momento exacto de exportación.",
+    "limite": "Se conserva evidencia disponible de organización; no se certifican retrospectivamente todos los chats, configuraciones o aprobaciones.",
+    "enunciado_original": "Exportar contenido antes de cerrar una conversación temporal.",
+    "prueba_original": "El corpus queda disponible con versión y metadatos."
+  },
+  {
+    "requisito": "CTX06",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S009"
+    ],
+    "soportes": [
+      "registro/prompts_analisis/LEEME.md",
+      "registro/salidas_iniciales/LEEME.md",
+      "editorial/registros/memo_integracion.md",
+      "24_protocolo_analisis.md"
+    ],
+    "evidencia_cumplimiento": "Los paquetes explícitos de análisis A01–A05 y sus primeras lecturas preceden a la síntesis en los registros conservados. No se certifica una configuración histórica no registrada.",
+    "limite": "Estado referido al enunciado concreto; no certifica revisión humana independiente, conformidad FAIR/JANUS integral, configuración histórica ausente o implementación.",
+    "enunciado_original": "Analizar inicialmente cada entrevista con su paquete explícito.",
+    "prueba_original": "Se conservan análisis locales previos a la comparación."
+  },
+  {
+    "requisito": "CTX07",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S009"
+    ],
+    "soportes": [
+      "registro/prompts_analisis/LEEME.md",
+      "registro/salidas_iniciales/LEEME.md",
+      "editorial/registros/memo_integracion.md",
+      "63_sintesis_transversal_v1_1.json"
+    ],
+    "evidencia_cumplimiento": "S01 identifica corpus cerrado y libro común como entradas; se conservan las versiones preferidas sin reiniciar entrevistas.",
+    "limite": "Estado referido al enunciado concreto; no certifica revisión humana independiente, conformidad FAIR/JANUS integral, configuración histórica ausente o implementación.",
+    "enunciado_original": "Transferir corpus cerrado y libro común a la síntesis.",
+    "prueba_original": "La entrada del análisis transversal es identificable."
+  },
+  {
+    "requisito": "CTX08",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S009"
+    ],
+    "soportes": [
+      "registro/prompts_analisis/LEEME.md",
+      "registro/salidas_iniciales/LEEME.md",
+      "editorial/registros/memo_integracion.md",
+      "editorial/registros/cobertura_requisitos.json"
+    ],
+    "evidencia_cumplimiento": "La matriz editorial separa 208 requisitos especificados de los estados de ejecución y explica límites por requisito.",
+    "limite": "Estado referido al enunciado concreto; no certifica revisión humana independiente, conformidad FAIR/JANUS integral, configuración histórica ausente o implementación.",
+    "enunciado_original": "Separar requisitos especificados y entregables cumplidos.",
+    "prueba_original": "La matriz tiene estados de definición y ejecución distintos."
+  },
+  {
+    "requisito": "CTX09",
+    "estado": "PARCIAL",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S009"
+    ],
+    "soportes": [
+      "registro/prompts_analisis/LEEME.md",
+      "registro/salidas_iniciales/LEEME.md",
+      "editorial/registros/memo_integracion.md"
+    ],
+    "evidencia_cumplimiento": "Versiones/linajes y decisiones de coordinación preservados; incidencias editoriales explican desajustes históricos.",
+    "limite": "Se conserva evidencia disponible de organización; no se certifican retrospectivamente todos los chats, configuraciones o aprobaciones.",
+    "enunciado_original": "Mantener historial de cambios y criterios de aceptación por etapa.",
+    "prueba_original": "Una corrección no se pierde entre conversaciones."
+  },
+  {
+    "requisito": "CTX10",
+    "estado": "PARCIAL",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S009"
+    ],
+    "soportes": [
+      "registro/prompts_analisis/LEEME.md",
+      "registro/salidas_iniciales/LEEME.md",
+      "editorial/registros/memo_integracion.md"
+    ],
+    "evidencia_cumplimiento": "Cobertura reúne cuatro dimensiones y sus límites; sin divergencias demostradas, firmas, paginación o revisión humana integral no se acredita nivel Destacado.",
+    "limite": "Cumplimiento parcial con soporte y alcance en evidencia_cumplimiento; datos administrativos, aplicabilidad, ejecución o revisión humana/maquetación señalados no se acreditan.",
+    "enunciado_original": "Comprobar las cuatro dimensiones de nivel Destacado.",
+    "prueba_original": "La revisión final reúne evidencia de cada criterio."
+  },
+  {
+    "requisito": "CTX11",
+    "estado": "ATENDIDO_EN_SOPORTE",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S009"
+    ],
+    "soportes": [
+      "registro/prompts_analisis/LEEME.md",
+      "registro/salidas_iniciales/LEEME.md",
+      "editorial/registros/memo_integracion.md",
+      "editorial/registros/revision_coordinacion_v1_1.md"
+    ],
+    "evidencia_cumplimiento": "Revisión asistida efectiva de manuscrito, literalidad/contexto, trazabilidad, figuras y navegación además de controles estructurales.",
+    "limite": "Estado referido al enunciado concreto; no certifica revisión humana independiente, conformidad FAIR/JANUS integral, configuración histórica ausente o implementación.",
+    "enunciado_original": "Revisar archivos y narrativa además de pruebas estructurales.",
+    "prueba_original": "El cierre incluye lectura del reporte y comprobación de soportes."
+  },
+  {
+    "requisito": "CTX12",
+    "estado": "PARCIAL",
+    "secciones": [
+      "REP01-S002",
+      "REP01-S009"
+    ],
+    "soportes": [
+      "registro/prompts_analisis/LEEME.md",
+      "registro/salidas_iniciales/LEEME.md",
+      "editorial/registros/memo_integracion.md"
+    ],
+    "evidencia_cumplimiento": "No se abren espacios de entrevista en REP01; disponibilidad previa de paquetes históricos no completamente verificable.",
+    "limite": "Se conserva evidencia disponible de organización; no se certifican retrospectivamente todos los chats, configuraciones o aprobaciones.",
+    "enunciado_original": "No abrir espacios antes de disponer de sus paquetes de entrada.",
+    "prueba_original": "El plan proporciona al usuario una acción concreta por etapa."
+  }
+]

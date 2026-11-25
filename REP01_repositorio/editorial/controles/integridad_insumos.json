@@ -1,0 +1,2482 @@
+{
+  "archivos": 495,
+  "resultado": "COINCIDEN",
+  "detalle": [
+    {
+      "ruta": "LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/11_guion_base_y_adaptaciones.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/11_guiones_entrevistas.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/24_cobertura_corpus.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/24_protocolo_analisis.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/24_registro_corpus.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/55_libro_comun_v1_3.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/55_libro_comun_v1_3.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/63_sintesis_transversal_v1_1.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/63_sintesis_transversal_v1_1.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/67_procesos_descritos_v1_1.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/67_procesos_descritos_v1_1.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/72_contraste_documental_v1_1.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/72_contraste_documental_v1_1.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/76_actores_y_preferencias_v1_1.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/76_actores_y_preferencias_v1_1.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/81_revision_N01.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/82_necesidades_v1_1.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/82_necesidades_v1_1.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/83_soportes_N01_revisados_v1_1.zip",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/87_revision_HU01.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/88_historias_y_objetos_v1_1.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/88_historias_y_objetos_v1_1.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/92_revision_T01.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/93_diseno_y_fundamentos_v1_1.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/93_diseno_y_fundamentos_v1_1.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/ACT01_resultado_revisado_v1_1.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/actores.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/actores_por_ambito.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/cobertura_roles_p01.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/evidencias.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/excluidos_homologacion.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/excluidos_homologacion_1.png",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/excluidos_homologacion_1.svg",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/excluidos_homologacion_2.png",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/excluidos_homologacion_2.svg",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/excluidos_homologacion_3.png",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/excluidos_homologacion_3.svg",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/ficha_E01.png",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/ficha_E01.svg",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/ficha_E02.png",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/ficha_E02.svg",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/ficha_E03.png",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/ficha_E03.svg",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/ficha_E04.png",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/ficha_E04.svg",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/ficha_E05.png",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/ficha_E05.svg",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/fichas.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/ganancias_costes_condicionales.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/hipotesis.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/hipotesis_condicionales.dot",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/hipotesis_condicionales.png",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/hipotesis_condicionales.svg",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/manifest.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/poder_interes_homologacion.png",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/poder_interes_homologacion.svg",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/preferencias.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/red_E01.dot",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/red_E01.png",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/red_E01.svg",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/red_E02.dot",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/red_E02.png",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/red_E02.svg",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/red_E03.dot",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/red_E03.png",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/red_E03.svg",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/red_E04.dot",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/red_E04.png",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/red_E04.svg",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/red_E05.dot",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/red_E05.png",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/red_E05.svg",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/red_documental_PAOT.dot",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/red_documental_PAOT.png",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/red_documental_PAOT.svg",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/red_documental_encargo.dot",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/red_documental_encargo.png",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/red_documental_encargo.svg",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/red_documental_publicacion_consulta.dot",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/red_documental_publicacion_consulta.png",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/red_documental_publicacion_consulta.svg",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/registro_exportacion_coordinacion.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/registro_inspeccion_coordinacion.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/relaciones.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/actores/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/T01_resultado_revisado_v1_1.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/controles/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/controles/T01_control_validacion.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/controles/auditoria_coordinacion.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/controles/cambios_coordinacion.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/controles/comprobaciones_complementarias.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/controles/cotejo_citas.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/controles/cotejo_tablas.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/controles/figuras_exportacion.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/controles/integridad_entradas.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/controles/revision_visual.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/agenda_validacion.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/alternativas_agregacion.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/arquitectura.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/extension_fair_janus.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/fundamentos_criticos.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/herramientas.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/lentes.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/practicas_diseno.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/productos.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/desarrollo/seleccion_portafolio.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/diagramas/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/diagramas/arquitectura.dot",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/diagramas/arquitectura.pdf",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/diagramas/arquitectura.plain",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/diagramas/arquitectura.png",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/diagramas/arquitectura.svg",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/diagramas/productos.dot",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/diagramas/productos.pdf",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/diagramas/productos.plain",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/diagramas/productos.png",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/diagramas/productos.svg",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/esquemas/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/esquemas/contratos_propuestos.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/esquemas/contratos_propuestos.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/fuentes/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/fuentes/LICENSE_GeoInsights",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/fuentes/bibliografia.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/fuentes/citas_utilizadas.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/fuentes/consulta_corpus.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/fuentes/entradas_referenciadas.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/fuentes/registro_fuentes.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/manifest_sha256.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/matrices/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/matrices/historias_21.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/matrices/requisitos_39.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/matrices/trazabilidad_necesidades.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/matrices/trazabilidad_necesidades.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/registro/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/registro/instrucciones_T01.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/registro/prompt_analisis_integracion.txt",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/registro/revision_asistida.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/registro/salidas_principales.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/registro/seleccion_parrafos.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/scripts/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/scripts/empacar_t01.py",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/scripts/preparar_t01.py",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/scripts/validar_diseno.py",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/tablas/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/tablas/afirmaciones_tecnicas.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/tablas/agenda_validacion.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/tablas/alternativas_agregacion.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/tablas/arquitectura_conexiones.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/tablas/arquitectura_contratos.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/tablas/arquitectura_modulos.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/tablas/arquitectura_representaciones.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/tablas/campos_contratos.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/tablas/cobertura_historias.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/tablas/cobertura_requisitos.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/tablas/criterios_productos.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/tablas/datos_productos.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/tablas/decisiones_metodologicas.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/tablas/fuentes.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/tablas/fundamentos_criticos.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/tablas/herramientas.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/tablas/lectura_entradas.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/tablas/lentes.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/tablas/practicas_diseno.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/tablas/productos.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/diseno/T01/soportes_revisados_v1_1/tablas/trazabilidad_productos.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/documental/D01/D01_resultado_revisado_v1_1.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/documental/D01/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/documental/D01/soportes_recibidos/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/documental/D01/soportes_recibidos/figuras/D01-M001.dot",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/documental/D01/soportes_recibidos/figuras/D01-M001.svg",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/documental/D01/soportes_recibidos/figuras/D01-M002.dot",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/documental/D01/soportes_recibidos/figuras/D01-M002.svg",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/documental/D01/soportes_recibidos/figuras/D01-M003.dot",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/documental/D01/soportes_recibidos/figuras/D01-M003.svg",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/documental/D01/soportes_recibidos/figuras/D01-M004.dot",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/documental/D01/soportes_recibidos/figuras/D01-M004.svg",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/documental/D01/soportes_recibidos/figuras/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/documental/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/HU01_resultado_revisado_v1_1.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/control/HU01_control_validacion.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/control/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/control/cambios_coordinacion.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/control/figuras_inspeccion.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/control/integridad_entradas.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/control/validador_resumen.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/control/validador_salida_completa.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/control/validador_stdout.txt",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/control/validar_historias.py",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/control/verificacion_soportes.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/control/verificar_soportes.py",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/figuras/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/figuras/generar_figuras.py",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/figuras/perfiles.png",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/figuras/perfiles.svg",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/figuras/recorrido.png",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/figuras/recorrido.svg",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H001.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H002.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H003.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H004.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H005.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H006.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H007.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H008.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H009.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H010.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H011.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H012.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H013.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H014.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H015.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H016.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H017.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H018.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H019.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H020.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H021.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/manifiesto.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M001.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M002.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M003.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M004.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M005.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M006.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M007.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M008.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M009.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M010.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M011.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M012.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M013.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M014.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M015.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M016.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M017.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M018.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M019.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M020.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M021.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N001.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N002.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N003.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N004.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N005.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N006.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N007.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N008.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N009.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N010.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N011.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N012.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N013.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N014.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N015.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N016.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N017.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N018.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N019.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N020.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N021.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N022.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N023.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N024.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N025.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N026.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N027.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N028.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N029.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/perfiles/HU01-P001.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/perfiles/HU01-P002.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/perfiles/HU01-P003.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/perfiles/HU01-P004.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/perfiles/HU01-P005.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/perfiles/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/registro_objetos.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/procedencia/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/procedencia/catalogo_entradas.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/procedencia/enlaces_necesidades_codigos.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/procedencia/evidencias_N01.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/procedencia/lectura_entradas.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/procedencia/referencias_tecnicas.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/tablas/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/tablas/cobertura_necesidades.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/tablas/contextos_metadatos.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/tablas/criterios.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/tablas/estado_fair.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/tablas/historias.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/tablas/metadatos.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/tablas/operaciones.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/tablas/perfiles.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/tablas/registro_objetos.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/historias/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/insumos/E01_corpus_analisis_v1.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/insumos/E02_corpus_analisis_v1.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/insumos/E03_corpus_analisis_v1.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/insumos/E04_corpus_analisis_v1.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/insumos/E05_corpus_analisis_v1.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/insumos/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/necesidades/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/necesidades/N01/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/necesidades/N01/N01_resultado_revisado_v1_1.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/necesidades/N01/soportes_revisados_v1_1/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/necesidades/N01/soportes_revisados_v1_1/agenda_validacion.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/necesidades/N01/soportes_revisados_v1_1/cobertura.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/necesidades/N01/soportes_revisados_v1_1/cobertura_casos.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/necesidades/N01/soportes_revisados_v1_1/cobertura_hallazgos.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/necesidades/N01/soportes_revisados_v1_1/control/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/necesidades/N01/soportes_revisados_v1_1/control/N01_control_revisado_v1_1.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/necesidades/N01/soportes_revisados_v1_1/control/validar_necesidades_revisadas.py",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/necesidades/N01/soportes_revisados_v1_1/control_soportes_revisados.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/necesidades/N01/soportes_revisados_v1_1/criterios_priorizacion.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/necesidades/N01/soportes_revisados_v1_1/criterios_verificacion.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/necesidades/N01/soportes_revisados_v1_1/datos/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/necesidades/N01/soportes_revisados_v1_1/datos/N01_explicacion_revisada_v1_1.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/necesidades/N01/soportes_revisados_v1_1/datos/N01_necesidades_revisadas_v1_1.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/necesidades/N01/soportes_revisados_v1_1/decisiones_consolidacion.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/necesidades/N01/soportes_revisados_v1_1/enlaces_codigos.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/necesidades/N01/soportes_revisados_v1_1/evidencias.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/necesidades/N01/soportes_revisados_v1_1/figuras/E01_decisiones_necesidades.png",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/necesidades/N01/soportes_revisados_v1_1/figuras/E01_decisiones_necesidades.svg",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/necesidades/N01/soportes_revisados_v1_1/figuras/E02_decisiones_necesidades.png",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/necesidades/N01/soportes_revisados_v1_1/figuras/E02_decisiones_necesidades.svg",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/necesidades/N01/soportes_revisados_v1_1/figuras/E03_decisiones_necesidades.png",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/necesidades/N01/soportes_revisados_v1_1/figuras/E03_decisiones_necesidades.svg",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/necesidades/N01/soportes_revisados_v1_1/figuras/E04_decisiones_necesidades.png",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/necesidades/N01/soportes_revisados_v1_1/figuras/E04_decisiones_necesidades.svg",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/necesidades/N01/soportes_revisados_v1_1/figuras/E05_decisiones_necesidades.png",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/necesidades/N01/soportes_revisados_v1_1/figuras/E05_decisiones_necesidades.svg",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/necesidades/N01/soportes_revisados_v1_1/figuras/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/necesidades/N01/soportes_revisados_v1_1/fuentes/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/necesidades/N01/soportes_revisados_v1_1/fuentes/figuras_datos.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/necesidades/N01/soportes_revisados_v1_1/fuentes/generar_figuras.py",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/necesidades/N01/soportes_revisados_v1_1/integridad_detallada.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/necesidades/N01/soportes_revisados_v1_1/integridad_entradas.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/necesidades/N01/soportes_revisados_v1_1/lectura_entradas.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/necesidades/N01/soportes_revisados_v1_1/manifest.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/necesidades/N01/soportes_revisados_v1_1/necesidades.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/necesidades/N01/soportes_revisados_v1_1/notas_locales.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/necesidades/N01/soportes_revisados_v1_1/priorizacion.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/necesidades/N01/soportes_revisados_v1_1/trazabilidad.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/procesos/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/procesos/P01/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/procesos/P01/P01_resultado_revisado_v1_1.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/procesos/P01/figuras_revisadas_v1_1/E01_proceso.dot",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/procesos/P01/figuras_revisadas_v1_1/E01_proceso.svg",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/procesos/P01/figuras_revisadas_v1_1/E02_proceso.dot",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/procesos/P01/figuras_revisadas_v1_1/E02_proceso.svg",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/procesos/P01/figuras_revisadas_v1_1/E03_proceso.dot",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/procesos/P01/figuras_revisadas_v1_1/E03_proceso.svg",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/procesos/P01/figuras_revisadas_v1_1/E04_proceso.dot",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/procesos/P01/figuras_revisadas_v1_1/E04_proceso.svg",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/procesos/P01/figuras_revisadas_v1_1/E05_proceso.dot",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/procesos/P01/figuras_revisadas_v1_1/E05_proceso.svg",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/procesos/P01/figuras_revisadas_v1_1/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/procesos/P01/figuras_revisadas_v1_1/inspeccion_coordinacion.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/procesos/P01/figuras_revisadas_v1_1/manifest.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/procesos/P01/figuras_revisadas_v1_1/registro_renderizado.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/recodificacion/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/recodificacion/R01/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/recodificacion/R01/R01_resultado_revisado_v1_3.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/recodificacion/R02/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/recodificacion/R02/R02_resultado_revisado_v1_3.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/recodificacion/R03/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/recodificacion/R03/R03_resultado_revisado_v1_2.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/recodificacion/R04/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/recodificacion/R04/R04_resultado_revisado_v1_1.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/recodificacion/R05/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/recodificacion/R05/R05_resultado_revisado_v1_1.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/referencias/GeoInsights/GeoInsights_snapshot.zip",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/referencias/GeoInsights/LICENSE",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/referencias/GeoInsights/README.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/referencias/GeoInsights/guia_lectura.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/referencias/GeoInsights/procedencia_snapshot.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/referencias/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/sintesis/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/sintesis/S01/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/analisis/sintesis/S01/S01_resultado_revisado_v1_1.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/corpus/E01/E01_texto_con_localizadores.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/corpus/E01/E01_texto_con_localizadores.txt",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/corpus/E01/E01_transcripcion_v1.docx",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/corpus/E01/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/corpus/E02/E02_texto_con_localizadores.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/corpus/E02/E02_texto_con_localizadores.txt",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/corpus/E02/E02_transcripcion_v1.docx",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/corpus/E02/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/corpus/E03/E03_texto_con_localizadores.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/corpus/E03/E03_texto_con_localizadores.txt",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/corpus/E03/E03_transcripcion_v1.docx",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/corpus/E03/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/corpus/E04/E04_texto_con_localizadores.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/corpus/E04/E04_texto_con_localizadores.txt",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/corpus/E04/E04_transcripcion_v1.docx",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/corpus/E04/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/corpus/E05/E05_texto_con_localizadores.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/corpus/E05/E05_texto_con_localizadores.txt",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/corpus/E05/E05_transcripcion_v1.docx",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/corpus/E05/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/corpus/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/prompts_analisis/25_paquete_A01.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/prompts_analisis/27_paquete_A02.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/prompts_analisis/29_paquete_A03.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/prompts_analisis/31_paquete_A04.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/prompts_analisis/33_paquete_A05.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/prompts_analisis/35_instrucciones_C01.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/prompts_analisis/38_instrucciones_PC01.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/prompts_analisis/42_instrucciones_R01.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/prompts_analisis/45_instrucciones_R02.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/prompts_analisis/49_instrucciones_R03.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/prompts_analisis/52_instrucciones_R04.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/prompts_analisis/56_instrucciones_R05.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/prompts_analisis/60_instrucciones_S01.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/prompts_analisis/64_instrucciones_P01.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/prompts_analisis/69_instrucciones_D01.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/prompts_analisis/73_instrucciones_ACT01.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/prompts_analisis/78_instrucciones_N01.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/prompts_analisis/84_instrucciones_HU01.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/prompts_analisis/90_instrucciones_T01.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/prompts_analisis/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/consolidacion/C01/C01_consolidacion_v1(1).json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/consolidacion/C01/C01_consolidacion_v1.docx",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/consolidacion/C01/C01_control_inventario(1).json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/consolidacion/C01/C01_control_validacion(1).json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/consolidacion/C01/C01_correspondencias_v1.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/consolidacion/C01/C01_explicacion_v1(1).md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/consolidacion/C01/C01_libro_para_piloto_v1_0.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/consolidacion/C01/C01_registro_revision_coordinacion.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/consolidacion/C01/C01_validacion_repetida_coordinacion.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/consolidacion/C01/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/consolidacion/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/primeras_lecturas/A01/A01_analisis_E01_v1.docx",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/primeras_lecturas/A01/A01_registro_revision_coordinacion.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/primeras_lecturas/A01/A01_respuesta_extraida_con_tablas.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/primeras_lecturas/A01/A01_resultado_extraido_v1.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/primeras_lecturas/A01/A01_validacion_estructural_v1.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/primeras_lecturas/A01/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/primeras_lecturas/A02/A02_analisis_E02_v1.docx",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/primeras_lecturas/A02/A02_registro_revision_coordinacion.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/primeras_lecturas/A02/A02_respuesta_extraida_con_tablas.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/primeras_lecturas/A02/A02_resultado_extraido_v1.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/primeras_lecturas/A02/A02_validacion_estructural_v1.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/primeras_lecturas/A02/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/primeras_lecturas/A03/A03_analisis_E03_v1(1).docx",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/primeras_lecturas/A03/A03_registro_revision_coordinacion.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/primeras_lecturas/A03/A03_respuesta_extraida_con_tablas.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/primeras_lecturas/A03/A03_resultado_extraido_v1.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/primeras_lecturas/A03/A03_validacion_estructural_v1.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/primeras_lecturas/A03/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/primeras_lecturas/A04/A04_analisis_E04_v1.docx",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/primeras_lecturas/A04/A04_cambios_revision_v1_1.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/primeras_lecturas/A04/A04_registro_revision_coordinacion.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/primeras_lecturas/A04/A04_respuesta_extraida_con_tablas.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/primeras_lecturas/A04/A04_respuesta_revisada_v1_1.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/primeras_lecturas/A04/A04_resultado_extraido_v1.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/primeras_lecturas/A04/A04_resultado_revisado_v1_1.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/primeras_lecturas/A04/A04_validacion_estructural_v1.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/primeras_lecturas/A04/A04_validacion_estructural_v1_1.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/primeras_lecturas/A04/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/primeras_lecturas/A05/A05_analisis_E05_v1(1).docx",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/primeras_lecturas/A05/A05_cambios_revision_v1_1.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/primeras_lecturas/A05/A05_registro_revision_coordinacion.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/primeras_lecturas/A05/A05_respuesta_extraida_con_tablas.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/primeras_lecturas/A05/A05_respuesta_revisada_v1_1.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/primeras_lecturas/A05/A05_resultado_extraido_v1.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/primeras_lecturas/A05/A05_validacion_estructural_v1.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/primeras_lecturas/A05/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "base_repositorio/registro/salidas_iniciales/primeras_lecturas/LEEME.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "catalogo_base.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "comprobacion_validador.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "fuente_metodo_JANUS.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "instrucciones_REP01.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "registro_entradas.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "requisitos/01_expediente_maestro_extracto.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "requisitos/02_matriz_requisitos.csv",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "requisitos/02_matriz_requisitos.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "requisitos/03_fuentes_y_decisiones.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "requisitos/03_registro_fuentes.json",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "requisitos/06_canvas_rubrica_y_feedback.md",
+      "bytes_ok": true,
+      "sha256_ok": true
+    },
+    {
+      "ruta": "validar_reporte.py",
+      "bytes_ok": true,
+      "sha256_ok": true
+    }
+  ],
+  "limite": "Lectura de bytes y cotejo, sin acreditar comprensión del contenido."
+}

@@ -1,0 +1,2 @@
+# Registros de análisis e integración
+La guía por sección y el índice inverso permiten pasar del manuscrito al párrafo y del párrafo a necesidades e historias. La lectura identifica alcances reales, separando consulta de contenido y cotejo de integridad. Las incidencias no modifican las fuentes. El registro de integración es un memo de lo realizado; no una exportación completa de chats ni un consentimiento.

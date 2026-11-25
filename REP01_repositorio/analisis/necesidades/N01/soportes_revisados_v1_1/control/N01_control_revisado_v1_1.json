@@ -1,0 +1,30 @@
+{
+  "validador": "Necesidades N01 revisada 1.1",
+  "estado": "SIN_ERRORES_ESTRUCTURALES",
+  "errores": [],
+  "advertencias": [],
+  "conteos": {
+    "necesidades": 29,
+    "evidencias": 351,
+    "criterios_priorizacion": 5,
+    "criterios_verificacion": 29,
+    "casos": 5,
+    "hallazgos_cubiertos": 22,
+    "decisiones_consolidacion": 18
+  },
+  "alcance": "Control técnico de estructura, referencias, cobertura y citas. No valida interpretación, prioridad, aceptación, independencia, contenido web, figuras, aplicación normativa o revisión humana.",
+  "ejecucion": {
+    "estado": "EJECUTADO",
+    "fecha_utc": "2026-11-25T09:07:48.085062+00:00",
+    "comando_argumentos": [
+      "output/p3002b_expediente_v1/analisis/validar_necesidades_revisadas.py",
+      "tmp/review/N01_insumos_v1",
+      "output/p3002b_expediente_v1/analisis/necesidades/N01/N01_resultado_revisado_v1_1.json",
+      "--salida",
+      "output/p3002b_expediente_v1/analisis/necesidades/N01/N01_control_revisado_v1_1.json"
+    ],
+    "sha256_resultado_evaluado": "f94ffa4bd1986d26bd2142cd7184c411fb7688d1c036c591e4397e76f62982fc",
+    "sha256_validador": "9671c9a607d3e485c51248fbcf86c5d7c9f9a961968778b13f69a7ab55205e4d",
+    "codigo_salida": 0
+  }
+}

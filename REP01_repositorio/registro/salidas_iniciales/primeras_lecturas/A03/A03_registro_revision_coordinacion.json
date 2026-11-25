@@ -1,0 +1,77 @@
+{
+  "analisis": "A03",
+  "entrevista": "E03",
+  "fecha_revision": "2026-11-24",
+  "tipo_revision": "ASISTIDA_POR_LLM_MAS_VALIDACION_MECANICA",
+  "original_analisis": "A03_analisis_E03_v1(1).docx",
+  "library_file_id_original": "libfile_fde3_f-a15b182aac94819199e9ee75120ffb93_6c45573f28988191995a53873b532314",
+  "sha256_analisis_docx": "d1e14cf6c70a3dbc6aeee6c407f8960b8977c1e793f248d03db965c876f6ef64",
+  "sha256_transcripcion_docx_comprobado": "a9c883695bb2d5cbb8258ca76caedd885fb6db473423f48fe5157241999e3fb2",
+  "json_extraido_sin_cambios": true,
+  "validacion": {
+    "estado": "ESTRUCTURA_Y_CITAS_OK",
+    "citas_segmentos": 119,
+    "citas_ejemplos": 40,
+    "apariciones_citas_narrativa": 8,
+    "errores": [],
+    "advertencias": []
+  },
+  "estado": "PRIMERA_LECTURA_LOCAL_REVISADA_PARA_CONSOLIDACION_POSTERIOR",
+  "revision_humana_independiente": "PENDIENTE",
+  "notas": [
+    "Metáforas y pronombres requieren párrafos de desarrollo.",
+    "Acceso y escucha no se convierten en evaluación normativa o medición técnica.",
+    "Continuidad no implica asistencia obligatoria ni compromiso de nueva serie.",
+    "Se conserva distinción entre contenido cultural y datos necesarios para coordinar."
+  ],
+  "citas_narrativa": [
+    {
+      "cita": "No todo termina en un texto.",
+      "parrafos_coincidentes": [
+        "E03-P007"
+      ]
+    },
+    {
+      "cita": "ver si coincidimos",
+      "parrafos_coincidentes": [
+        "E03-P113"
+      ]
+    },
+    {
+      "cita": "aterrizar el encuentro",
+      "parrafos_coincidentes": [
+        "E03-P114"
+      ]
+    },
+    {
+      "cita": "hacer y ajustar",
+      "parrafos_coincidentes": [
+        "E03-P115"
+      ]
+    },
+    {
+      "cita": "cerrar y dejar claro qué sigue",
+      "parrafos_coincidentes": [
+        "E03-P116"
+      ]
+    },
+    {
+      "cita": "No significaba llevar una tarea de una semana a otra.",
+      "parrafos_coincidentes": [
+        "E03-P101"
+      ]
+    },
+    {
+      "cita": "Para este caso funcionó.",
+      "parrafos_coincidentes": [
+        "E03-P130"
+      ]
+    },
+    {
+      "cita": "No me corresponde completar esa explicación.",
+      "parrafos_coincidentes": [
+        "E03-P147"
+      ]
+    }
+  ]
+}

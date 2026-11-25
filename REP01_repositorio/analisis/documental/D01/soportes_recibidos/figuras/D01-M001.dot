@@ -1,0 +1,17 @@
+digraph D01 {
+  graph [rankdir=TB, bgcolor="white", pad="0.3", nodesep="0.35", ranksep="0.55", fontname="DejaVu Sans", fontsize=17, labelloc="t", label="D01-M001 · Vías publicadas de apertura y actualización en el Portal de Datos Abiertos (texto de 2020)\nÁmbito propio; sin atribución a entrevistas"];
+  node [shape=box, style="rounded,filled", fillcolor="#edf3f6", color="#3c6174", fontname="DejaVu Sans", fontsize=11, margin="0.16,0.12"];
+  edge [fontname="DejaVu Sans", fontsize=9, color="#536a73"];
+  "D01-M001-N001" [id="D01-M001-N001", label="Preparar conjunto y descripción\nD01-M001-N001\nD01-V022"];
+  "D01-M001-N002" [id="D01-M001-N002", label="Publicar con usuario\nD01-M001-N002\nD01-V022"];
+  "D01-M001-N003" [id="D01-M001-N003", label="Solicitar publicación\nD01-M001-N003\nD01-V022"];
+  "D01-M001-N004" [id="D01-M001-N004", label="Definir periodicidad\nD01-M001-N004\nD01-V023"];
+  "D01-M001-N005" [id="D01-M001-N005", label="Actualizar por una de tres vías\nD01-M001-N005\nD01-V023"];
+  "D01-M001-N006" [id="D01-M001-N006", label="Documentar y explicitar cambios\nD01-M001-N006\nD01-V024"];
+  "D01-M001-N007" [id="D01-M001-N007", label="Solicitar datos ante retraso\nD01-M001-N007\nD01-V024"];
+  "D01-M001-N001" -> "D01-M001-N002" [id="D01-M001-R001", label="CONDICION\nD01-M001-R001", color="#536a73", style="solid"];
+  "D01-M001-N001" -> "D01-M001-N003" [id="D01-M001-R002", label="CONDICION\nD01-M001-R002", color="#536a73", style="solid"];
+  "D01-M001-N004" -> "D01-M001-N005" [id="D01-M001-R003", label="CONDICION\nD01-M001-R003", color="#536a73", style="solid"];
+  "D01-M001-N005" -> "D01-M001-N006" [id="D01-M001-R004", label="CONDICION\nD01-M001-R004", color="#536a73", style="solid"];
+  "D01-M001-N004" -> "D01-M001-N007" [id="D01-M001-R005", label="CONDICION\nD01-M001-R005", color="#536a73", style="solid"];
+}

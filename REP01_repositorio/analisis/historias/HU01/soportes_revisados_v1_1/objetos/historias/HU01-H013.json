@@ -1,0 +1,138 @@
+{
+  "id": "HU01-H013",
+  "titulo": "Reponer el artículo conocido con comprobación suficiente",
+  "formulacion": "Como persona que atiende y compra para la mercería, quiero revisar remanente y movimiento e identificar la oferta con referencia, muestra y condiciones de compra, para decidir reponer el mismo artículo sin convertir una consulta en sustitución.",
+  "actores": [
+    "ACT01-A019"
+  ],
+  "perfil": "HU01-P004",
+  "necesidades": [
+    "N01-N018",
+    "N01-N019"
+  ],
+  "entrevistas": [
+    "E04"
+  ],
+  "tipo": "ACTUAL_A_PRESERVAR",
+  "contexto": "La reducción del rollo inició la compra; medir confirmó que convenía reponer sin urgencia. Referencia, muestra y examen parcial sustentaron comprar el conocido.",
+  "objetivo": "revisar remanente y movimiento e identificar la oferta con referencia, muestra y condiciones de compra",
+  "beneficio_o_decision": "decidir reponer el mismo artículo sin convertir una consulta en sustitución",
+  "restricciones": [
+    "No existe una cantidad igual para todos los artículos ni urgencia demostrada; la memoria orienta qué revisar y la medida precisa.",
+    "El precio y disponibilidad se supieron en el proveedor; fuentes distribuidas bastaron. No se examinó el rollo entero."
+  ],
+  "preservar": [
+    "Revisión física de lo que queda",
+    "Criterio situado por artículo",
+    "No reducir surtido a lo más vendido",
+    "Comparar físicamente",
+    "Revisar descripción concreta al pedir",
+    "Consultar ante diferencia"
+  ],
+  "evidencias": [
+    "N01-V0183",
+    "N01-V0184",
+    "N01-V0185",
+    "N01-V0186",
+    "N01-V0187",
+    "N01-V0188",
+    "N01-V0189",
+    "N01-V0190",
+    "N01-V0191",
+    "N01-V0192",
+    "N01-V0193",
+    "N01-V0194",
+    "N01-V0195",
+    "N01-V0196",
+    "N01-V0197",
+    "N01-V0198",
+    "N01-V0199",
+    "N01-V0200",
+    "N01-V0201",
+    "N01-V0202",
+    "N01-V0203",
+    "N01-V0204",
+    "N01-V0205",
+    "N01-V0206",
+    "N01-V0207",
+    "N01-V0208",
+    "N01-V0209"
+  ],
+  "limites": "No constan metros restantes, volúmenes de venta ni cantidades futuras.; No se aportan nota, muestra, precio o presentación exactos.. Las formulaciones son derivaciones analíticas, no citas ni compromisos de participantes. La pertinencia de un producto sigue por validar.",
+  "criterios": [
+    {
+      "id": "HU01-K017",
+      "dado": "se revisa físicamente remanente y movimiento del artículo",
+      "cuando": "se decide mantenerlo en la lista o esperar",
+      "entonces": "se explica la relación entre observación, medida y función de surtido sin inventar un umbral de reposición común",
+      "origen": "ADAPTADO_DE_CRITERIO_N01",
+      "criterios_n01": [
+        "N01-K018"
+      ],
+      "estado": "PROPUESTO_NO_EJECUTADO",
+      "limites": "Adaptación analítica de N01-K018. Observable N01 de origen PROPUESTA_ANALITICA; Dado/Cuando/Entonces y el cotejo son propuestas del análisis, no aceptación recabada. No existe una cantidad igual para todos los artículos ni urgencia demostrada; la memoria orienta qué revisar y la medida precisa. Soportes originales no aportados; no se ejecutó esta comprobación."
+    },
+    {
+      "id": "HU01-K018",
+      "dado": "referencia y muestra del conocido están disponibles para comparar",
+      "cuando": "se examina la oferta y sus condiciones de precio y cantidad",
+      "entonces": "se justifica comprar como mismo artículo o detenerlo por diferencia no aclarada, distinguiendo examen parcial de garantía completa",
+      "origen": "ADAPTADO_DE_CRITERIO_N01",
+      "criterios_n01": [
+        "N01-K019"
+      ],
+      "estado": "PROPUESTO_NO_EJECUTADO",
+      "limites": "Adaptación analítica de N01-K019. Observable N01 de origen PROPUESTA_ANALITICA; Dado/Cuando/Entonces y el cotejo son propuestas del análisis, no aceptación recabada. El precio y disponibilidad se supieron en el proveedor; fuentes distribuidas bastaron. No se examinó el rollo entero. Soportes originales no aportados; no se ejecutó esta comprobación."
+    }
+  ],
+  "prioridad": {
+    "nivel": "ALTA",
+    "ambito": "E04: actividad actual: Reponer el artículo conocido con comprobación suficiente",
+    "origen": "ANALISIS_CONDICIONAL",
+    "razon": "N018 decide cuándo reponer y N019 qué se compra como mismo artículo. Ambas altas en esta reposición; no son regla universal para todo surtido. Importancia expresada: E04-P020 distingue que la reposición sí debía decidirla y la otra opción era consulta en la misma vuelta; P176 dice que no puso la consulta al mismo nivel que reponer lo ya vendido. El orden no se extiende a todas las necesidades del negocio.",
+    "limites": "Orden local parcial y condicional al momento señalado. No ranking urbano, cartera implementable, aceptación ADIP ni factibilidad comprobada."
+  },
+  "perfil_metadatos": "HU01-M013",
+  "metaalgoritmo": [
+    {
+      "id": "HU01-OP053",
+      "nombre": "Revisar necesidad de reponer",
+      "entrada": "Rollo, notas y experiencia de ventas",
+      "operacion": "Propuesta: Observar y medir si hace falta, diferenciando otros artículos y función del surtido.",
+      "salida": "Reposición o espera argumentada",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP054",
+      "nombre": "Identificar artículo y oferta",
+      "entrada": "Color, ancho, referencia, muestra y parte ofrecida",
+      "operacion": "Propuesta: Comparar identidad y propiedades presentes sin exigir base única.",
+      "salida": "Coincidencia o discrepancia",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP055",
+      "nombre": "Comprobar condiciones de compra",
+      "entrada": "Oferta del proveedor",
+      "operacion": "Propuesta: Preguntar precio, cantidad y disponibilidad de esa ocasión sin inventar cifras.",
+      "salida": "Condiciones pertinentes",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    },
+    {
+      "id": "HU01-OP056",
+      "nombre": "Interpretar y decidir compra",
+      "entrada": "Necesidad, coincidencia y condiciones",
+      "operacion": "Propuesta: Decidir traer el mismo o dejar pendiente una diferencia; mostrar alcance parcial de revisión.",
+      "salida": "Reposición respaldada para la tarea",
+      "intervencion": "HUMANA",
+      "precondicion": "Disponer de los soportes pertinentes y acceso autorizado; si faltan, conservar pendiente. En historias ideales, acordar primero pertinencia y participación sin suponer disponibilidad.",
+      "limite": "No se ejecuta un producto en HU01. La salida es propuesta para esta decisión; no reemplaza criterio humano, conversación ni comprobación material cuando corresponde."
+    }
+  ]
+}

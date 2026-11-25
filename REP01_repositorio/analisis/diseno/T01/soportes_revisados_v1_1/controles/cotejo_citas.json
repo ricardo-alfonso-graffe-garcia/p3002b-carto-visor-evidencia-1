@@ -1,0 +1,1819 @@
+{
+  "canonicas": [
+    {
+      "id": "N01-V0001",
+      "referencia": "E01-P013",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0002",
+      "referencia": "E01-P019",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0003",
+      "referencia": "E01-P085",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0004",
+      "referencia": "E01-P087",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0005",
+      "referencia": "E01-P163",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0006",
+      "referencia": "E01-P031",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0007",
+      "referencia": "E01-P033",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0008",
+      "referencia": "E01-P063",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0009",
+      "referencia": "E01-P065",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0010",
+      "referencia": "E01-P067",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0011",
+      "referencia": "E01-P105",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0012",
+      "referencia": "E01-P107",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0013",
+      "referencia": "E01-P109",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0014",
+      "referencia": "E01-P049",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0015",
+      "referencia": "E01-P071",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0016",
+      "referencia": "E01-P111",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0017",
+      "referencia": "E01-P113",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0018",
+      "referencia": "E01-P119",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0019",
+      "referencia": "E01-P073",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0020",
+      "referencia": "E01-P075",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0021",
+      "referencia": "E01-P077",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0022",
+      "referencia": "E01-P079",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0023",
+      "referencia": "E01-P093",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0024",
+      "referencia": "E01-P095",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0025",
+      "referencia": "E01-P153",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0026",
+      "referencia": "E01-P081",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0027",
+      "referencia": "E01-P097",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0028",
+      "referencia": "E01-P121",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0029",
+      "referencia": "E01-P123",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0030",
+      "referencia": "E01-P125",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0031",
+      "referencia": "E01-P127",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0032",
+      "referencia": "E01-P129",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0033",
+      "referencia": "E01-P131",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0034",
+      "referencia": "E01-P133",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0035",
+      "referencia": "E01-P137",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0036",
+      "referencia": "E01-P139",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0037",
+      "referencia": "E01-P141",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0038",
+      "referencia": "E01-P145",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0039",
+      "referencia": "E01-P135",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0040",
+      "referencia": "E01-P143",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0041",
+      "referencia": "E01-P157",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0042",
+      "referencia": "E01-P147",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0043",
+      "referencia": "E01-P149",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0044",
+      "referencia": "E02-P028",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0045",
+      "referencia": "E02-P075",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0046",
+      "referencia": "E02-P076",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0047",
+      "referencia": "E02-P078",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0048",
+      "referencia": "E02-P079",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0049",
+      "referencia": "E02-P081",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0050",
+      "referencia": "E02-P082",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0051",
+      "referencia": "E02-P088",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0052",
+      "referencia": "E02-P092",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0053",
+      "referencia": "E02-P093",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0054",
+      "referencia": "E02-P097",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0055",
+      "referencia": "E02-P042",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0056",
+      "referencia": "E02-P056",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0057",
+      "referencia": "E02-P083",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0058",
+      "referencia": "E02-P164",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0059",
+      "referencia": "E02-P060",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0060",
+      "referencia": "E02-P061",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0061",
+      "referencia": "E02-P065",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0062",
+      "referencia": "E02-P066",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0063",
+      "referencia": "E02-P117",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0064",
+      "referencia": "E02-P119",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0065",
+      "referencia": "E02-P120",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0066",
+      "referencia": "E02-P122",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0067",
+      "referencia": "E02-P123",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0068",
+      "referencia": "E02-P125",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0069",
+      "referencia": "E02-P127",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0070",
+      "referencia": "E02-P160",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0071",
+      "referencia": "E02-P170",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0072",
+      "referencia": "E02-P171",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0073",
+      "referencia": "E02-P178",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0074",
+      "referencia": "E02-P153",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0075",
+      "referencia": "E02-P173",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0076",
+      "referencia": "E02-P174",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0077",
+      "referencia": "E02-P176",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0078",
+      "referencia": "E02-P070",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0079",
+      "referencia": "E02-P071",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0080",
+      "referencia": "E02-P131",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0081",
+      "referencia": "E02-P167",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0082",
+      "referencia": "E02-P168",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0083",
+      "referencia": "E02-P129",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0084",
+      "referencia": "E02-P130",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0085",
+      "referencia": "E02-P133",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0086",
+      "referencia": "E02-P134",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0087",
+      "referencia": "E02-P135",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0088",
+      "referencia": "E02-P137",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0089",
+      "referencia": "E02-P140",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0090",
+      "referencia": "E02-P141",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0091",
+      "referencia": "E02-P143",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0092",
+      "referencia": "E02-P145",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0093",
+      "referencia": "E02-P146",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0094",
+      "referencia": "E02-P148",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0095",
+      "referencia": "E02-P150",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0096",
+      "referencia": "E02-P159",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0097",
+      "referencia": "E02-P162",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0098",
+      "referencia": "E02-P152",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0099",
+      "referencia": "E03-P016",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0100",
+      "referencia": "E03-P018",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0101",
+      "referencia": "E03-P019",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0102",
+      "referencia": "E03-P037",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0103",
+      "referencia": "E03-P065",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0104",
+      "referencia": "E03-P066",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0105",
+      "referencia": "E03-P068",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0106",
+      "referencia": "E03-P069",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0107",
+      "referencia": "E03-P081",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0108",
+      "referencia": "E03-P123",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0109",
+      "referencia": "E03-P124",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0110",
+      "referencia": "E03-P126",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0111",
+      "referencia": "E03-P129",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0112",
+      "referencia": "E03-P132",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0113",
+      "referencia": "E03-P134",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0114",
+      "referencia": "E03-P135",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0115",
+      "referencia": "E03-P137",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0116",
+      "referencia": "E03-P139",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0117",
+      "referencia": "E03-P140",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0118",
+      "referencia": "E03-P189",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0119",
+      "referencia": "E03-P190",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0120",
+      "referencia": "E03-P056",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0121",
+      "referencia": "E03-P057",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0122",
+      "referencia": "E03-P059",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0123",
+      "referencia": "E03-P060",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0124",
+      "referencia": "E03-P062",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0125",
+      "referencia": "E03-P063",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0126",
+      "referencia": "E03-P085",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0127",
+      "referencia": "E03-P127",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0128",
+      "referencia": "E03-P120",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0129",
+      "referencia": "E03-P121",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0130",
+      "referencia": "E03-P075",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0131",
+      "referencia": "E03-P077",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0132",
+      "referencia": "E03-P078",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0133",
+      "referencia": "E03-P174",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0134",
+      "referencia": "E03-P175",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0135",
+      "referencia": "E03-P147",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0136",
+      "referencia": "E03-P074",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0137",
+      "referencia": "E03-P094",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0138",
+      "referencia": "E03-P096",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0139",
+      "referencia": "E03-P098",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0140",
+      "referencia": "E03-P099",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0141",
+      "referencia": "E03-P101",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0142",
+      "referencia": "E03-P102",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0143",
+      "referencia": "E03-P184",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0144",
+      "referencia": "E03-P187",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0145",
+      "referencia": "E03-P047",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0146",
+      "referencia": "E03-P145",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0147",
+      "referencia": "E03-P148",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0148",
+      "referencia": "E03-P033",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0149",
+      "referencia": "E03-P034",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0150",
+      "referencia": "E03-P088",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0151",
+      "referencia": "E03-P089",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0152",
+      "referencia": "E03-P091",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0153",
+      "referencia": "E03-P093",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0154",
+      "referencia": "E03-P179",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0155",
+      "referencia": "E03-P180",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0156",
+      "referencia": "E03-P194",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0157",
+      "referencia": "E03-P050",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0158",
+      "referencia": "E03-P106",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0159",
+      "referencia": "E03-P107",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0160",
+      "referencia": "E03-P108",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0161",
+      "referencia": "E03-P110",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0162",
+      "referencia": "E03-P111",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0163",
+      "referencia": "E03-P116",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0164",
+      "referencia": "E03-P195",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0165",
+      "referencia": "E03-P156",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0166",
+      "referencia": "E03-P158",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0167",
+      "referencia": "E03-P160",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0168",
+      "referencia": "E03-P161",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0169",
+      "referencia": "E03-P163",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0170",
+      "referencia": "E03-P164",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0171",
+      "referencia": "E03-P168",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0172",
+      "referencia": "E03-P169",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0173",
+      "referencia": "E03-P171",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0174",
+      "referencia": "E03-P172",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0175",
+      "referencia": "E03-P130",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0176",
+      "referencia": "E03-P166",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0177",
+      "referencia": "E03-P182",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0178",
+      "referencia": "E03-P150",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0179",
+      "referencia": "E03-P151",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0180",
+      "referencia": "E03-P153",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0181",
+      "referencia": "E03-P154",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0182",
+      "referencia": "E03-P157",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0183",
+      "referencia": "E04-P014",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0184",
+      "referencia": "E04-P051",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0185",
+      "referencia": "E04-P053",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0186",
+      "referencia": "E04-P054",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0187",
+      "referencia": "E04-P057",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0188",
+      "referencia": "E04-P058",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0189",
+      "referencia": "E04-P060",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0190",
+      "referencia": "E04-P124",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0191",
+      "referencia": "E04-P125",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0192",
+      "referencia": "E04-P130",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0193",
+      "referencia": "E04-P131",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0194",
+      "referencia": "E04-P185",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0195",
+      "referencia": "E04-P186",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0196",
+      "referencia": "E04-P188",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0197",
+      "referencia": "E04-P189",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0198",
+      "referencia": "E04-P128",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0199",
+      "referencia": "E04-P137",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0200",
+      "referencia": "E04-P062",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0201",
+      "referencia": "E04-P067",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0202",
+      "referencia": "E04-P069",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0203",
+      "referencia": "E04-P079",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0204",
+      "referencia": "E04-P080",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0205",
+      "referencia": "E04-P127",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0206",
+      "referencia": "E04-P133",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0207",
+      "referencia": "E04-P136",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0208",
+      "referencia": "E04-P134",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0209",
+      "referencia": "E04-P174",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0210",
+      "referencia": "E04-P017",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0211",
+      "referencia": "E04-P020",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0212",
+      "referencia": "E04-P070",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0213",
+      "referencia": "E04-P072",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0214",
+      "referencia": "E04-P073",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0215",
+      "referencia": "E04-P075",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0216",
+      "referencia": "E04-P077",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0217",
+      "referencia": "E04-P173",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0218",
+      "referencia": "E04-P032",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0219",
+      "referencia": "E04-P103",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0220",
+      "referencia": "E04-P105",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0221",
+      "referencia": "E04-P146",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0222",
+      "referencia": "E04-P065",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0223",
+      "referencia": "E04-P092",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0224",
+      "referencia": "E04-P093",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0225",
+      "referencia": "E04-P176",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0226",
+      "referencia": "E04-P177",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0227",
+      "referencia": "E04-P181",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0228",
+      "referencia": "E04-P191",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0229",
+      "referencia": "E04-P183",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0230",
+      "referencia": "E04-P095",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0231",
+      "referencia": "E04-P096",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0232",
+      "referencia": "E04-P098",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0233",
+      "referencia": "E04-P100",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0234",
+      "referencia": "E04-P101",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0235",
+      "referencia": "E04-P112",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0236",
+      "referencia": "E04-P009",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0237",
+      "referencia": "E04-P139",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0238",
+      "referencia": "E04-P140",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0239",
+      "referencia": "E04-P142",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0240",
+      "referencia": "E04-P143",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0241",
+      "referencia": "E04-P145",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0242",
+      "referencia": "E04-P148",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0243",
+      "referencia": "E04-P149",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0244",
+      "referencia": "E04-P151",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0245",
+      "referencia": "E04-P152",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0246",
+      "referencia": "E04-P154",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0247",
+      "referencia": "E04-P155",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0248",
+      "referencia": "E04-P157",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0249",
+      "referencia": "E04-P159",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0250",
+      "referencia": "E04-P162",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0251",
+      "referencia": "E04-P164",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0252",
+      "referencia": "E04-P165",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0253",
+      "referencia": "E04-P167",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0254",
+      "referencia": "E04-P168",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0255",
+      "referencia": "E04-P160",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0256",
+      "referencia": "E04-P012",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0257",
+      "referencia": "E04-P036",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0258",
+      "referencia": "E04-P037",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0259",
+      "referencia": "E04-P039",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0260",
+      "referencia": "E04-P055",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0261",
+      "referencia": "E04-P063",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0262",
+      "referencia": "E04-P082",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0263",
+      "referencia": "E04-P083",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0264",
+      "referencia": "E04-P085",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0265",
+      "referencia": "E04-P087",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0266",
+      "referencia": "E04-P114",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0267",
+      "referencia": "E04-P119",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0268",
+      "referencia": "E04-P089",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0269",
+      "referencia": "E04-P090",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0270",
+      "referencia": "E04-P118",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0271",
+      "referencia": "E05-P025",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0272",
+      "referencia": "E05-P050",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0273",
+      "referencia": "E05-P052",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0274",
+      "referencia": "E05-P054",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0275",
+      "referencia": "E05-P056",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0276",
+      "referencia": "E05-P058",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0277",
+      "referencia": "E05-P059",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0278",
+      "referencia": "E05-P061",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0279",
+      "referencia": "E05-P063",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0280",
+      "referencia": "E05-P065",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0281",
+      "referencia": "E05-P069",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0282",
+      "referencia": "E05-P071",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0283",
+      "referencia": "E05-P073",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0284",
+      "referencia": "E05-P074",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0285",
+      "referencia": "E05-P076",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0286",
+      "referencia": "E05-P078",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0287",
+      "referencia": "E05-P121",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0288",
+      "referencia": "E05-P124",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0289",
+      "referencia": "E05-P125",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0290",
+      "referencia": "E05-P180",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0291",
+      "referencia": "E05-P117",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0292",
+      "referencia": "E05-P128",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0293",
+      "referencia": "E05-P135",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0294",
+      "referencia": "E05-P177",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0295",
+      "referencia": "E05-P178",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0296",
+      "referencia": "E05-P012",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0297",
+      "referencia": "E05-P014",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0298",
+      "referencia": "E05-P081",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0299",
+      "referencia": "E05-P084",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0300",
+      "referencia": "E05-P085",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0301",
+      "referencia": "E05-P087",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0302",
+      "referencia": "E05-P089",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0303",
+      "referencia": "E05-P091",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0304",
+      "referencia": "E05-P102",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0305",
+      "referencia": "E05-P173",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0306",
+      "referencia": "E05-P119",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0307",
+      "referencia": "E05-P137",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0308",
+      "referencia": "E05-P171",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0309",
+      "referencia": "E05-P036",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0310",
+      "referencia": "E05-P038",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0311",
+      "referencia": "E05-P039",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0312",
+      "referencia": "E05-P041",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0313",
+      "referencia": "E05-P082",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0314",
+      "referencia": "E05-P133",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0315",
+      "referencia": "E05-P168",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0316",
+      "referencia": "E05-P043",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0317",
+      "referencia": "E05-P045",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0318",
+      "referencia": "E05-P092",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0319",
+      "referencia": "E05-P094",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0320",
+      "referencia": "E05-P095",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0321",
+      "referencia": "E05-P097",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0322",
+      "referencia": "E05-P098",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0323",
+      "referencia": "E05-P100",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0324",
+      "referencia": "E05-P143",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0325",
+      "referencia": "E05-P165",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0326",
+      "referencia": "E05-P167",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0327",
+      "referencia": "E05-P170",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0328",
+      "referencia": "E05-P138",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0329",
+      "referencia": "E05-P140",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0330",
+      "referencia": "E05-P141",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0331",
+      "referencia": "E05-P145",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0332",
+      "referencia": "E05-P146",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0333",
+      "referencia": "E05-P148",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0334",
+      "referencia": "E05-P149",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0335",
+      "referencia": "E05-P151",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0336",
+      "referencia": "E05-P152",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0337",
+      "referencia": "E05-P154",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0338",
+      "referencia": "E05-P156",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0339",
+      "referencia": "E05-P157",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0340",
+      "referencia": "E05-P159",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0341",
+      "referencia": "E05-P160",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0342",
+      "referencia": "E05-P162",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0343",
+      "referencia": "E05-P163",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0344",
+      "referencia": "E01-P007",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0345",
+      "referencia": "E02-P008",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0346",
+      "referencia": "E03-P007",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0347",
+      "referencia": "E04-P008",
+      "coincide": true
+    },
+    {
+      "id": "N01-V0348",
+      "referencia": "E05-P007",
+      "coincide": true
+    }
+  ],
+  "referencias_no_testimoniales": [
+    {
+      "id": "N01-V0349",
+      "tipo": "D01",
+      "razon": "No cita canónica de párrafo; referencia documental no comprobada aquí como testimonio."
+    },
+    {
+      "id": "N01-V0350",
+      "tipo": "D01",
+      "razon": "No cita canónica de párrafo; referencia documental no comprobada aquí como testimonio."
+    },
+    {
+      "id": "N01-V0351",
+      "tipo": "D01",
+      "razon": "No cita canónica de párrafo; referencia documental no comprobada aquí como testimonio."
+    }
+  ],
+  "ilustrativas": [
+    {
+      "cita": "No quisiera que pareciera que este caso quedó a medias por no tener esa carpeta que imaginamos.",
+      "evidencia": "N01-V0041",
+      "parrafo": "E01-P157",
+      "voz": "Participante",
+      "coincide": true,
+      "contexto_pregunta": [
+        "E01-P156"
+      ],
+      "nota_contextual": "Distinguir episodio atendido de ideal E01. Fuente: E01-P157, voz Participante."
+    },
+    {
+      "cita": "O explicar menos, pero mejor.",
+      "evidencia": "N01-V0094",
+      "parrafo": "E02-P148",
+      "voz": "Participante",
+      "coincide": true,
+      "contexto_pregunta": [
+        "E02-P147"
+      ],
+      "nota_contextual": "La utilidad del contraste E02 puede reducir alcance. Fuente: E02-P148, voz Participante."
+    },
+    {
+      "cita": "Con una nota clara, el calendario y mensajes directos nos entendemos.",
+      "evidencia": "N01-V0177",
+      "parrafo": "E03-P182",
+      "voz": "Participante",
+      "coincide": true,
+      "contexto_pregunta": [
+        "E03-P181"
+      ],
+      "nota_contextual": "Preservar comunicación suficiente de serie pequeña E03. Fuente: E03-P182, voz Participante."
+    },
+    {
+      "cita": "Pero para la suavidad preferiría tener el pedazo en la mano.",
+      "evidencia": "N01-V0245",
+      "parrafo": "E04-P152",
+      "voz": "Participante",
+      "coincide": true,
+      "contexto_pregunta": [
+        "E04-P150"
+      ],
+      "nota_contextual": "Conservar tangibilidad de muestras en ideal E04. Fuente: E04-P152, voz Participante."
+    },
+    {
+      "cita": "Encontré uno y lo compré, pero no era la condición para que funcionara.",
+      "evidencia": "N01-V0305",
+      "parrafo": "E05-P173",
+      "voz": "Participante",
+      "coincide": true,
+      "contexto_pregunta": [
+        "E05-P172"
+      ],
+      "nota_contextual": "Descubrimiento y encuentro no se reducen a compra E05. Fuente: E05-P173, voz Participante."
+    }
+  ],
+  "limite": "Coincidencia textual/voz/turno, no revisión independiente de la interpretación."
+}

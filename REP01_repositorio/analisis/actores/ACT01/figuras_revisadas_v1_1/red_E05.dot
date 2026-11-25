@@ -1,0 +1,16 @@
+digraph G {
+graph [rankdir=LR, bgcolor="white", pad="0.4", nodesep="0.45", ranksep="1.0", fontname="DejaVu Sans", fontsize=22, labelloc=t, label="Salida personal a librería y conversación\nACT01-AMB005\nVerde continuo: acción propia declarada · Azul continuo: tercero relatado\nVioleta discontinuo: atribución documental\nÁmbar punteado: hipótesis (solo en figura separada)"];
+node [shape=box, style="rounded,filled", fillcolor="#edf5f8", color="#467187", fontname="DejaVu Sans", fontsize=17, margin="0.18,0.12"];
+edge [fontname="DejaVu Sans", fontsize=13, arrowsize=0.8];
+"ACT01-A024" [label="Persona que propone la salida\n(ACT01-A024)", fillcolor="#e3f4ee"];
+"ACT01-A025" [label="Amistad acompañante\n(ACT01-A025)", fillcolor="#edf5f8"];
+"ACT01-A026" [label="Personal de la librería\n(ACT01-A026)", fillcolor="#edf5f8"];
+"ACT01-A027" [label="Persona que recibe en segundo\nlugar\n(ACT01-A027)", fillcolor="#edf5f8"];
+"ACT01-A031" [label="Librería como publicadora de su\nhorario\n(ACT01-A031)", fillcolor="#edf5f8"];
+"ACT01-A024" -> "ACT01-A025" [id="ACT01-R028", label="Propone y ajusta acuerdo\nrecíproco\nACT01-R028", color="#16785b", fontcolor="#146449", style="solid", tooltip="DECLARADA: voz entrevistada; contraparte sin voz independiente"];
+"ACT01-A025" -> "ACT01-A024" [id="ACT01-R029", label="Aporta disponibilidad y\nrenueva continuación\nACT01-R029", color="#176d9b", fontcolor="#175578", style="solid", tooltip="RELATADA_POR_TERCERO: voz entrevistada; contraparte sin voz independiente"];
+"ACT01-A025" -> "ACT01-A026" [id="ACT01-R030", label="Pregunta por sección\nACT01-R030", color="#176d9b", fontcolor="#175578", style="solid", tooltip="RELATADA_POR_TERCERO: voz entrevistada; contraparte sin voz independiente"];
+"ACT01-A026" -> "ACT01-A024" [id="ACT01-R031", label="Orienta ubicación de\nsección\nACT01-R031", color="#176d9b", fontcolor="#175578", style="solid", tooltip="RELATADA_POR_TERCERO: voz entrevistada; contraparte sin voz independiente"];
+"ACT01-A027" -> "ACT01-A024" [id="ACT01-R032", label="Confirma uso de mesa\nACT01-R032", color="#176d9b", fontcolor="#175578", style="solid", tooltip="RELATADA_POR_TERCERO: voz entrevistada; contraparte sin voz independiente"];
+"ACT01-A031" -> "ACT01-A024" [id="ACT01-R033", label="Publicación propia informa\nhorario consultado\nACT01-R033", color="#176d9b", fontcolor="#175578", style="solid", tooltip="RELATADA_POR_TERCERO: voz entrevistada; contraparte sin voz independiente"];
+}

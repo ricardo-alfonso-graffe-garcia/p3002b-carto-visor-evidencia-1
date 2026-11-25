@@ -1,0 +1,100 @@
+{
+  "analisis": "A01",
+  "entrevista": "E01",
+  "fecha_revision": "2026-11-24",
+  "tipo_revision": "ASISTIDA_POR_LLM_MAS_VALIDACION_MECANICA",
+  "original_analisis": "A01_analisis_E01_v1.docx",
+  "library_file_id_original": "libfile_fde3_f-1642d808f7b081919b3bb07551407c2d_6c45573f28988191995a53873b532314",
+  "sha256_analisis_docx": "5478caf5e68fb51c8d93a136f13965d9af7470b0a593fff54efa5ea3b74ede9f",
+  "sha256_transcripcion_docx_comprobado": "c8d26940efe307a3b040502f6065cf771ca9ec05240b602be4d02f2ba113096b",
+  "json_extraido_sin_cambios": true,
+  "validacion": {
+    "estado": "ESTRUCTURA_Y_CITAS_OK",
+    "citas_segmentos": 77,
+    "citas_ejemplos": 19,
+    "apariciones_citas_narrativa": 12,
+    "errores": [],
+    "advertencias": []
+  },
+  "estado": "PRIMERA_LECTURA_LOCAL_REVISADA_PARA_CONSOLIDACION_POSTERIOR",
+  "revision_humana_independiente": "PENDIENTE",
+  "notas": [
+    "Fronteras entre códigos se revisarán en consolidación; no se impone un libro común todavía.",
+    "Necesidades de personas mencionadas no se presentan como declaraciones directas adicionales.",
+    "La comprobación de hash se realiza ahora en coordinación; fecha no consignada."
+  ],
+  "citas_narrativa": [
+    {
+      "cita": "No todo mi trabajo es poner puntos en un mapa",
+      "parrafos_coincidentes": [
+        "E01-P007"
+      ]
+    },
+    {
+      "cita": "entender el encargo",
+      "parrafos_coincidentes": [
+        "E01-P083"
+      ]
+    },
+    {
+      "cita": "ponerlo junto a lo que tenemos",
+      "parrafos_coincidentes": [
+        "E01-P083"
+      ]
+    },
+    {
+      "cita": "resolver lo que no encaja",
+      "parrafos_coincidentes": [
+        "E01-P083"
+      ]
+    },
+    {
+      "cita": "devolver y dejar entendible",
+      "parrafos_coincidentes": [
+        "E01-P091"
+      ]
+    },
+    {
+      "cita": "dejarlo listo y explicarlo",
+      "parrafos_coincidentes": [
+        "E01-P083"
+      ]
+    },
+    {
+      "cita": "No fue que se me olvidara moverlo",
+      "parrafos_coincidentes": [
+        "E01-P161"
+      ]
+    },
+    {
+      "cita": "La decisión sobre la revisión que yo entregué fue mía",
+      "parrafos_coincidentes": [
+        "E01-P055"
+      ]
+    },
+    {
+      "cita": "La explicación del último cambio que afecta la identificación del lugar",
+      "parrafos_coincidentes": [
+        "E01-P137"
+      ]
+    },
+    {
+      "cita": "que me diga qué se cambió y por qué",
+      "parrafos_coincidentes": [
+        "E01-P137"
+      ]
+    },
+    {
+      "cita": "No comprobé que la otra entrada estuviera cerrada o que hubiera una indicación de dejar de usarla",
+      "parrafos_coincidentes": [
+        "E01-P071"
+      ]
+    },
+    {
+      "cita": "Lo pudimos atender",
+      "parrafos_coincidentes": [
+        "E01-P157"
+      ]
+    }
+  ]
+}

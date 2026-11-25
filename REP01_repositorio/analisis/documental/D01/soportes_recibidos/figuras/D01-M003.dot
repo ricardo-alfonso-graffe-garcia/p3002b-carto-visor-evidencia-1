@@ -1,0 +1,13 @@
+digraph D01 {
+  graph [rankdir=TB, bgcolor="white", pad="0.3", nodesep="0.35", ranksep="0.55", fontname="DejaVu Sans", fontsize=17, labelloc="t", label="D01-M003 · Relaciones de unidades y datos descritas por SIGCDMX\nÁmbito propio; sin atribución a entrevistas"];
+  node [shape=box, style="rounded,filled", fillcolor="#edf3f6", color="#3c6174", fontname="DejaVu Sans", fontsize=11, margin="0.16,0.12"];
+  edge [fontname="DejaVu Sans", fontsize=9, color="#536a73"];
+  "D01-M003-N001" [id="D01-M003-N001", label="Cuentas catastrales\nD01-M003-N001\nD01-V028"];
+  "D01-M003-N002" [id="D01-M003-N002", label="Polígonos de predios\nD01-M003-N002\nD01-V028"];
+  "D01-M003-N003" [id="D01-M003-N003", label="Clave FID\nD01-M003-N003\nD01-V028"];
+  "D01-M003-N004" [id="D01-M003-N004", label="Puntos con información normativa\nD01-M003-N004\nD01-V029"];
+  "D01-M003-N005" [id="D01-M003-N005", label="Predio representado\nD01-M003-N005\nD01-V029"];
+  "D01-M003-N001" -> "D01-M003-N003" [id="D01-M003-R001", label="ARTICULACION_ANALITICA\nD01-M003-R001", color="#895e32", style="dashed"];
+  "D01-M003-N003" -> "D01-M003-N002" [id="D01-M003-R002", label="ARTICULACION_ANALITICA\nD01-M003-R002", color="#895e32", style="dashed"];
+  "D01-M003-N004" -> "D01-M003-N005" [id="D01-M003-R003", label="ARTICULACION_ANALITICA\nD01-M003-R003", color="#895e32", style="dashed"];
+}

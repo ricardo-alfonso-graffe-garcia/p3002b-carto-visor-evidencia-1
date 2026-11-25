@@ -1,0 +1,2 @@
+# Controles ejecutados
+Integridad de las 495 entradas, literalidad/offsets de recodificación y ejemplos, navegación editorial y objetos locales se comprueban por separado. El control editorial principal se entrega fuera del ZIP y registra las huellas del manuscrito/trazabilidad y del validador. Ningún resultado equivale a revisión humana independiente, validación de utilidad, bibliografía exhaustiva o diez páginas. Los controles históricos no se presentan como reejecutados en esta etapa.
