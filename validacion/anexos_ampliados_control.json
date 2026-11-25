@@ -1,0 +1,1137 @@
+{
+  "id": "AG02",
+  "base_analitica": "REP01 1.3 / distribución GH01",
+  "commit_base_soportes": "e43da9e2b0a404998b0ceae732da08345c27e720",
+  "alcance": "Ampliación editorial de anexos; sin modificación de entrevistas, codificación, catálogos ni análisis de soporte. No equivale a revisión humana independiente o cierre empírico.",
+  "paginas": {
+    "pages": 204,
+    "new": 191,
+    "chapters": [
+      {
+        "heading": "Anexos ampliados de evidencia análisis y diseño",
+        "page_pdf": 14,
+        "page_annex": 1
+      },
+      {
+        "heading": "Anexo A Recuento de ampliaciones y pendientes",
+        "page_pdf": 15,
+        "page_annex": 2
+      },
+      {
+        "heading": "Anexo B Instrumentos perfiles y decisiones",
+        "page_pdf": 17,
+        "page_annex": 4
+      },
+      {
+        "heading": "Anexo C Códigos y síntesis transversal",
+        "page_pdf": 23,
+        "page_annex": 10
+      },
+      {
+        "heading": "Anexo D Procesos y contraste documental",
+        "page_pdf": 49,
+        "page_annex": 36
+      },
+      {
+        "heading": "Anexo E Actores preferencias y relaciones",
+        "page_pdf": 70,
+        "page_annex": 57
+      },
+      {
+        "heading": "Anexo F Necesidades verificables y prioridades",
+        "page_pdf": 93,
+        "page_annex": 80
+      },
+      {
+        "heading": "Anexo G Historias metadatos y trazabilidad",
+        "page_pdf": 108,
+        "page_annex": 95
+      },
+      {
+        "heading": "Anexo H Objetos digitales y principios FAIR",
+        "page_pdf": 139,
+        "page_annex": 126
+      },
+      {
+        "heading": "Anexo I Operaciones y contratos de información",
+        "page_pdf": 149,
+        "page_annex": 136
+      },
+      {
+        "heading": "Anexo J Geografía crítica agregación y cuatro lentes",
+        "page_pdf": 162,
+        "page_annex": 149
+      },
+      {
+        "heading": "Anexo K Arquitectura portafolio y validación",
+        "page_pdf": 175,
+        "page_annex": 162
+      },
+      {
+        "heading": "Anexo L Protocolo espacial futuro",
+        "page_pdf": 186,
+        "page_annex": 173
+      },
+      {
+        "heading": "Anexo M JANUS revisión y continuidad",
+        "page_pdf": 189,
+        "page_annex": 176
+      },
+      {
+        "heading": "Anexo N Auditoría y directorio de soportes",
+        "page_pdf": 191,
+        "page_annex": 178
+      }
+    ]
+  },
+  "cobertura": {
+    "perfiles": 5,
+    "codigos": 64,
+    "reglas_recodificacion": 18,
+    "fronteras_conceptuales": 22,
+    "temas": 7,
+    "hallazgos": 22,
+    "procesos": 5,
+    "modelos_documentales": 4,
+    "contrastes": 13,
+    "hipotesis_coordinacion": 3,
+    "actores": 46,
+    "relaciones_actores": 44,
+    "necesidades": 29,
+    "historias": 21,
+    "operaciones": 90,
+    "criterios_historias": 28,
+    "campos_metadatos": 21,
+    "objetos": 76,
+    "principios_fair": 15,
+    "contratos": 11,
+    "campos_contratos": 119,
+    "fundamentos": 9,
+    "agregaciones": 8,
+    "lentes": 4,
+    "productos": 3,
+    "modulos": 6,
+    "recomendaciones_auditoria": 175,
+    "fuentes_institucionales": 21,
+    "referentes_externos": 12
+  },
+  "comprobaciones": {
+    "prefijo": {
+      "local": {
+        "paginas": 204,
+        "prefijo_pdf_13_paginas_texto_y_pixeles_identicos": true,
+        "bloques_word_originales_identicos": 108,
+        "estilos_originales_identicos": true,
+        "indice_anexos_14_campos_con_resultado": 14,
+        "marcadores_pdf": 369
+      },
+      "en_linea": {
+        "paginas": 204,
+        "prefijo_pdf_13_paginas_texto_y_pixeles_identicos": true,
+        "bloques_word_originales_identicos": 108,
+        "estilos_originales_identicos": true,
+        "indice_anexos_14_campos_con_resultado": 14,
+        "marcadores_pdf": 369
+      }
+    },
+    "markdown_prefijo_bytes_identico": true,
+    "citas_literales_participantes": 85,
+    "cadenas_ilustrativas_relaciones_cotejadas": 21,
+    "objetos_payload_sha256_cotejados": 76,
+    "soportes_referidos_sin_cambios": 135,
+    "enlaces_nuevos": {
+      "locales": 443,
+      "github_archivado": 442,
+      "github_control_actual": 1,
+      "externos_no_sondeados": 74
+    },
+    "revision_visual": {
+      "pages": 204,
+      "reviewed_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204
+      ],
+      "status": "REALIZADA_ASISTIDA",
+      "original_word_blocks_identical": true,
+      "metodo": "Inspección visual de todas las páginas nuevas en láminas de contacto; cotejos automáticos de texto, prefijo y destinos complementarios. No revisión humana independiente.",
+      "incidencias_abiertas": []
+    }
+  },
+  "soportes": [
+    "REP01_repositorio/11_guion_base_y_adaptaciones.md",
+    "REP01_repositorio/24_protocolo_analisis.md",
+    "REP01_repositorio/55_libro_comun_v1_3.md",
+    "REP01_repositorio/63_sintesis_transversal_v1_1.md",
+    "REP01_repositorio/67_procesos_descritos_v1_1.md",
+    "REP01_repositorio/72_contraste_documental_v1_1.json",
+    "REP01_repositorio/72_contraste_documental_v1_1.md",
+    "REP01_repositorio/76_actores_y_preferencias_v1_1.md",
+    "REP01_repositorio/82_necesidades_v1_1.md",
+    "REP01_repositorio/88_historias_y_objetos_v1_1.md",
+    "REP01_repositorio/93_diseno_y_fundamentos_v1_1.json",
+    "REP01_repositorio/93_diseno_y_fundamentos_v1_1.md",
+    "REP01_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/red_E01.svg",
+    "REP01_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/red_E02.svg",
+    "REP01_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/red_E03.svg",
+    "REP01_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/red_E04.svg",
+    "REP01_repositorio/analisis/actores/ACT01/figuras_revisadas_v1_1/red_E05.svg",
+    "REP01_repositorio/analisis/documental/D01/soportes_recibidos/figuras/D01-M001.svg",
+    "REP01_repositorio/analisis/documental/D01/soportes_recibidos/figuras/D01-M002.svg",
+    "REP01_repositorio/analisis/documental/D01/soportes_recibidos/figuras/D01-M003.svg",
+    "REP01_repositorio/analisis/documental/D01/soportes_recibidos/figuras/D01-M004.svg",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H001.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H002.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H003.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H004.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H005.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H006.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H007.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H008.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H009.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H010.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H011.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H012.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H013.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H014.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H015.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H016.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H017.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H018.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H019.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H020.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/historias/HU01-H021.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M001.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M002.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M003.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M004.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M005.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M006.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M007.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M008.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M009.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M010.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M011.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M012.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M013.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M014.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M015.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M016.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M017.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M018.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M019.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M020.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/metadatos/HU01-M021.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N001.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N002.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N003.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N004.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N005.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N006.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N007.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N008.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N009.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N010.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N011.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N012.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N013.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N014.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N015.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N016.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N017.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N018.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N019.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N020.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N021.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N022.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N023.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N024.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N025.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N026.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N027.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N028.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/necesidades/N01-N029.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/perfiles/HU01-P001.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/perfiles/HU01-P002.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/perfiles/HU01-P003.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/perfiles/HU01-P004.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/perfiles/HU01-P005.json",
+    "REP01_repositorio/analisis/historias/HU01/soportes_revisados_v1_1/objetos/registro_objetos.json",
+    "REP01_repositorio/analisis/procesos/P01/P01_resultado_revisado_v1_1.json",
+    "REP01_repositorio/analisis/procesos/P01/figuras_revisadas_v1_1/E01_proceso.svg",
+    "REP01_repositorio/analisis/procesos/P01/figuras_revisadas_v1_1/E02_proceso.svg",
+    "REP01_repositorio/analisis/procesos/P01/figuras_revisadas_v1_1/E03_proceso.svg",
+    "REP01_repositorio/analisis/procesos/P01/figuras_revisadas_v1_1/E04_proceso.svg",
+    "REP01_repositorio/analisis/procesos/P01/figuras_revisadas_v1_1/E05_proceso.svg",
+    "REP01_repositorio/analisis/referencias/GeoInsights/guia_lectura.md",
+    "REP01_repositorio/corpus/E01/E01_texto_con_localizadores.txt",
+    "REP01_repositorio/corpus/E01/E01_transcripcion_v1.docx",
+    "REP01_repositorio/corpus/E02/E02_texto_con_localizadores.txt",
+    "REP01_repositorio/corpus/E02/E02_transcripcion_v1.docx",
+    "REP01_repositorio/corpus/E03/E03_texto_con_localizadores.txt",
+    "REP01_repositorio/corpus/E03/E03_transcripcion_v1.docx",
+    "REP01_repositorio/corpus/E04/E04_texto_con_localizadores.txt",
+    "REP01_repositorio/corpus/E04/E04_transcripcion_v1.docx",
+    "REP01_repositorio/corpus/E05/E05_texto_con_localizadores.txt",
+    "REP01_repositorio/corpus/E05/E05_transcripcion_v1.docx",
+    "REP01_repositorio/editorial/controles/LEEME.md",
+    "REP01_repositorio/editorial/figuras/REP01-F003.svg",
+    "REP01_repositorio/editorial/fuentes/06_canvas_rubrica_y_feedback.md",
+    "REP01_repositorio/editorial/registros/bibliografia_consultada.json",
+    "REP01_repositorio/editorial/registros/cobertura_requisitos.csv",
+    "REP01_repositorio/editorial/registros/incidencias_metodologicas.md",
+    "REP01_repositorio/editorial/revision_v1_2/contratos_y_metadatos.md",
+    "REP01_repositorio/editorial/revision_v1_2/fair_janus_y_controles.md",
+    "REP01_repositorio/editorial/revision_v1_2/fichas_historias.md",
+    "REP01_repositorio/editorial/revision_v1_2/lentes_y_antecedentes.md",
+    "REP01_repositorio/editorial/revision_v1_2/perfiles_y_sintesis.md",
+    "REP01_repositorio/editorial/revision_v1_2/portafolio_y_validacion.md",
+    "REP01_repositorio/editorial/revision_v1_2/procesos_y_gobernanza.md",
+    "REP01_repositorio/editorial/revision_v1_2/protocolo_espacial_futuro.md",
+    "REP01_repositorio/editorial/revision_v1_2/recorrido_institucional_propuesto.svg",
+    "REP01_repositorio/editorial/revision_v1_2/resolucion_175.md",
+    "REP01_repositorio/editorial/revision_v1_3/contraste_especificaciones_y_auditoria.md",
+    "REP01_repositorio/editorial/revision_v1_3/delta_sobre_175_recomendaciones.json",
+    "REP01_repositorio/editorial/revision_v1_3/ejemplo_objeto_local_orientado_a_fdo.json",
+    "REP01_repositorio/editorial/revision_v1_3/fair_fdo_y_janus.md"
+  ],
+  "trazas_ilustrativas": [
+    {
+      "historia": "HU01-H001",
+      "necesidad_ejemplo": "N01-N002",
+      "evidencia": "N01-V0006",
+      "parrafo": "E01-P031",
+      "segmento": "R01-S022",
+      "codigos_asignados": [
+        "C005"
+      ],
+      "hallazgo_ejemplo": "S01-H004",
+      "temas_ejemplo": [
+        "S01-T002"
+      ],
+      "metadatos": "HU01-M001",
+      "operaciones": [
+        "HU01-OP001",
+        "HU01-OP002",
+        "HU01-OP003",
+        "HU01-OP004"
+      ],
+      "criterios": [
+        "HU01-K001",
+        "HU01-K002"
+      ],
+      "productos": [
+        "T01-P001"
+      ],
+      "limite": "Ruta ilustrativa de un respaldo; no sustitución de todos los vínculos ni prueba de implementación."
+    },
+    {
+      "historia": "HU01-H002",
+      "necesidad_ejemplo": "N01-N003",
+      "evidencia": "N01-V0025",
+      "parrafo": "E01-P153",
+      "segmento": "R01-S115",
+      "codigos_asignados": [
+        "C010"
+      ],
+      "hallazgo_ejemplo": "S01-H020",
+      "temas_ejemplo": [
+        "S01-T007"
+      ],
+      "metadatos": "HU01-M002",
+      "operaciones": [
+        "HU01-OP005",
+        "HU01-OP006",
+        "HU01-OP007",
+        "HU01-OP008"
+      ],
+      "criterios": [
+        "HU01-K003"
+      ],
+      "productos": [
+        "T01-P001"
+      ],
+      "limite": "Ruta ilustrativa de un respaldo; no sustitución de todos los vínculos ni prueba de implementación."
+    },
+    {
+      "historia": "HU01-H003",
+      "necesidad_ejemplo": "N01-N004",
+      "evidencia": "N01-V0030",
+      "parrafo": "E01-P125",
+      "segmento": "R01-S093",
+      "codigos_asignados": [
+        "C017",
+        "C016"
+      ],
+      "hallazgo_ejemplo": "S01-H016",
+      "temas_ejemplo": [
+        "S01-T006"
+      ],
+      "metadatos": "HU01-M003",
+      "operaciones": [
+        "HU01-OP009",
+        "HU01-OP010",
+        "HU01-OP011",
+        "HU01-OP012",
+        "HU01-OP013"
+      ],
+      "criterios": [
+        "HU01-K004"
+      ],
+      "productos": [
+        "T01-P001"
+      ],
+      "limite": "Ruta ilustrativa de un respaldo; no sustitución de todos los vínculos ni prueba de implementación."
+    },
+    {
+      "historia": "HU01-H004",
+      "necesidad_ejemplo": "N01-N006",
+      "evidencia": "N01-V0044",
+      "parrafo": "E02-P028",
+      "segmento": "R02-S011",
+      "codigos_asignados": [
+        "C007",
+        "C024"
+      ],
+      "hallazgo_ejemplo": "S01-H003",
+      "temas_ejemplo": [
+        "S01-T001"
+      ],
+      "metadatos": "HU01-M004",
+      "operaciones": [
+        "HU01-OP014",
+        "HU01-OP015",
+        "HU01-OP016",
+        "HU01-OP017"
+      ],
+      "criterios": [
+        "HU01-K005"
+      ],
+      "productos": [
+        "T01-P002"
+      ],
+      "limite": "Ruta ilustrativa de un respaldo; no sustitución de todos los vínculos ni prueba de implementación."
+    },
+    {
+      "historia": "HU01-H005",
+      "necesidad_ejemplo": "N01-N007",
+      "evidencia": "N01-V0059",
+      "parrafo": "E02-P060",
+      "segmento": "R02-S032",
+      "codigos_asignados": [
+        "C009"
+      ],
+      "hallazgo_ejemplo": "S01-H017",
+      "temas_ejemplo": [
+        "S01-T006"
+      ],
+      "metadatos": "HU01-M005",
+      "operaciones": [
+        "HU01-OP018",
+        "HU01-OP019",
+        "HU01-OP020",
+        "HU01-OP021"
+      ],
+      "criterios": [
+        "HU01-K006",
+        "HU01-K007"
+      ],
+      "productos": [
+        "T01-P002"
+      ],
+      "limite": "Ruta ilustrativa de un respaldo; no sustitución de todos los vínculos ni prueba de implementación."
+    },
+    {
+      "historia": "HU01-H006",
+      "necesidad_ejemplo": "N01-N009",
+      "evidencia": "N01-V0083",
+      "parrafo": "E02-P129",
+      "segmento": "R02-S086",
+      "codigos_asignados": [
+        "C029"
+      ],
+      "hallazgo_ejemplo": "S01-H019",
+      "temas_ejemplo": [
+        "S01-T006"
+      ],
+      "metadatos": "HU01-M006",
+      "operaciones": [
+        "HU01-OP022",
+        "HU01-OP023",
+        "HU01-OP024",
+        "HU01-OP025",
+        "HU01-OP026"
+      ],
+      "criterios": [
+        "HU01-K008"
+      ],
+      "productos": [
+        "T01-P002"
+      ],
+      "limite": "Ruta ilustrativa de un respaldo; no sustitución de todos los vínculos ni prueba de implementación."
+    },
+    {
+      "historia": "HU01-H007",
+      "necesidad_ejemplo": "N01-N010",
+      "evidencia": "N01-V0102",
+      "parrafo": "E03-P037",
+      "segmento": "R03-S019",
+      "codigos_asignados": [
+        "C039",
+        "C034"
+      ],
+      "hallazgo_ejemplo": "S01-H006",
+      "temas_ejemplo": [
+        "S01-T002"
+      ],
+      "metadatos": "HU01-M007",
+      "operaciones": [
+        "HU01-OP027",
+        "HU01-OP028",
+        "HU01-OP029",
+        "HU01-OP030"
+      ],
+      "criterios": [
+        "HU01-K009",
+        "HU01-K010"
+      ],
+      "productos": [
+        "T01-P003"
+      ],
+      "limite": "Ruta ilustrativa de un respaldo; no sustitución de todos los vínculos ni prueba de implementación."
+    },
+    {
+      "historia": "HU01-H008",
+      "necesidad_ejemplo": "N01-N012",
+      "evidencia": "N01-V0131",
+      "parrafo": "E03-P077",
+      "segmento": "R03-S050",
+      "codigos_asignados": [
+        "C041",
+        "C037"
+      ],
+      "hallazgo_ejemplo": "S01-H011",
+      "temas_ejemplo": [
+        "S01-T004"
+      ],
+      "metadatos": "HU01-M008",
+      "operaciones": [
+        "HU01-OP031",
+        "HU01-OP032",
+        "HU01-OP033",
+        "HU01-OP034"
+      ],
+      "criterios": [
+        "HU01-K011",
+        "HU01-K012"
+      ],
+      "productos": [
+        "T01-P003"
+      ],
+      "limite": "Ruta ilustrativa de un respaldo; no sustitución de todos los vínculos ni prueba de implementación."
+    },
+    {
+      "historia": "HU01-H009",
+      "necesidad_ejemplo": "N01-N014",
+      "evidencia": "N01-V0148",
+      "parrafo": "E03-P033",
+      "segmento": "R03-S016",
+      "codigos_asignados": [
+        "C038"
+      ],
+      "hallazgo_ejemplo": "S01-H009",
+      "temas_ejemplo": [
+        "S01-T003"
+      ],
+      "metadatos": "HU01-M009",
+      "operaciones": [
+        "HU01-OP035",
+        "HU01-OP036",
+        "HU01-OP037",
+        "HU01-OP038"
+      ],
+      "criterios": [
+        "HU01-K013"
+      ],
+      "productos": [],
+      "limite": "Ruta ilustrativa de un respaldo; no sustitución de todos los vínculos ni prueba de implementación."
+    },
+    {
+      "historia": "HU01-H010",
+      "necesidad_ejemplo": "N01-N015",
+      "evidencia": "N01-V0160",
+      "parrafo": "E03-P108",
+      "segmento": "R03-S070",
+      "codigos_asignados": [
+        "C034",
+        "C045",
+        "C010"
+      ],
+      "hallazgo_ejemplo": "S01-H014",
+      "temas_ejemplo": [
+        "S01-T003"
+      ],
+      "metadatos": "HU01-M010",
+      "operaciones": [
+        "HU01-OP039",
+        "HU01-OP040",
+        "HU01-OP041",
+        "HU01-OP042"
+      ],
+      "criterios": [
+        "HU01-K014"
+      ],
+      "productos": [
+        "T01-P003"
+      ],
+      "limite": "Ruta ilustrativa de un respaldo; no sustitución de todos los vínculos ni prueba de implementación."
+    },
+    {
+      "historia": "HU01-H011",
+      "necesidad_ejemplo": "N01-N016",
+      "evidencia": "N01-V0165",
+      "parrafo": "E03-P156",
+      "segmento": "R03-S106",
+      "codigos_asignados": [
+        "C017"
+      ],
+      "hallazgo_ejemplo": "S01-H016",
+      "temas_ejemplo": [
+        "S01-T006"
+      ],
+      "metadatos": "HU01-M011",
+      "operaciones": [
+        "HU01-OP043",
+        "HU01-OP044",
+        "HU01-OP045",
+        "HU01-OP046",
+        "HU01-OP047"
+      ],
+      "criterios": [
+        "HU01-K015"
+      ],
+      "productos": [
+        "T01-P003"
+      ],
+      "limite": "Ruta ilustrativa de un respaldo; no sustitución de todos los vínculos ni prueba de implementación."
+    },
+    {
+      "historia": "HU01-H012",
+      "necesidad_ejemplo": "N01-N017",
+      "evidencia": "N01-V0178",
+      "parrafo": "E03-P150",
+      "segmento": "R03-S101",
+      "codigos_asignados": [
+        "C046"
+      ],
+      "hallazgo_ejemplo": "S01-H019",
+      "temas_ejemplo": [
+        "S01-T006"
+      ],
+      "metadatos": "HU01-M012",
+      "operaciones": [
+        "HU01-OP048",
+        "HU01-OP049",
+        "HU01-OP050",
+        "HU01-OP051",
+        "HU01-OP052"
+      ],
+      "criterios": [
+        "HU01-K016"
+      ],
+      "productos": [
+        "T01-P003"
+      ],
+      "limite": "Ruta ilustrativa de un respaldo; no sustitución de todos los vínculos ni prueba de implementación."
+    },
+    {
+      "historia": "HU01-H013",
+      "necesidad_ejemplo": "N01-N018",
+      "evidencia": "N01-V0188",
+      "parrafo": "E04-P058",
+      "segmento": "R04-S038",
+      "codigos_asignados": [
+        "C048",
+        "C014"
+      ],
+      "hallazgo_ejemplo": "S01-H013",
+      "temas_ejemplo": [
+        "S01-T005"
+      ],
+      "metadatos": "HU01-M013",
+      "operaciones": [
+        "HU01-OP053",
+        "HU01-OP054",
+        "HU01-OP055",
+        "HU01-OP056"
+      ],
+      "criterios": [
+        "HU01-K017",
+        "HU01-K018"
+      ],
+      "productos": [],
+      "limite": "Ruta ilustrativa de un respaldo; no sustitución de todos los vínculos ni prueba de implementación."
+    },
+    {
+      "historia": "HU01-H014",
+      "necesidad_ejemplo": "N01-N020",
+      "evidencia": "N01-V0210",
+      "parrafo": "E04-P017",
+      "segmento": "R04-S010",
+      "codigos_asignados": [
+        "C045",
+        "C054"
+      ],
+      "hallazgo_ejemplo": "S01-H014",
+      "temas_ejemplo": [
+        "S01-T003"
+      ],
+      "metadatos": "HU01-M014",
+      "operaciones": [
+        "HU01-OP057",
+        "HU01-OP058",
+        "HU01-OP059",
+        "HU01-OP060"
+      ],
+      "criterios": [
+        "HU01-K019",
+        "HU01-K020"
+      ],
+      "productos": [],
+      "limite": "Ruta ilustrativa de un respaldo; no sustitución de todos los vínculos ni prueba de implementación."
+    },
+    {
+      "historia": "HU01-H015",
+      "necesidad_ejemplo": "N01-N022",
+      "evidencia": "N01-V0230",
+      "parrafo": "E04-P095",
+      "segmento": "R04-S152",
+      "codigos_asignados": [
+        "C064"
+      ],
+      "hallazgo_ejemplo": "S01-H013",
+      "temas_ejemplo": [
+        "S01-T005"
+      ],
+      "metadatos": "HU01-M015",
+      "operaciones": [
+        "HU01-OP061",
+        "HU01-OP062",
+        "HU01-OP063",
+        "HU01-OP064"
+      ],
+      "criterios": [
+        "HU01-K021"
+      ],
+      "productos": [],
+      "limite": "Ruta ilustrativa de un respaldo; no sustitución de todos los vínculos ni prueba de implementación."
+    },
+    {
+      "historia": "HU01-H016",
+      "necesidad_ejemplo": "N01-N024",
+      "evidencia": "N01-V0258",
+      "parrafo": "E04-P037",
+      "segmento": "R04-S024",
+      "codigos_asignados": [
+        "C047"
+      ],
+      "hallazgo_ejemplo": "S01-H007",
+      "temas_ejemplo": [
+        "S01-T002"
+      ],
+      "metadatos": "HU01-M016",
+      "operaciones": [
+        "HU01-OP065",
+        "HU01-OP066",
+        "HU01-OP067",
+        "HU01-OP068"
+      ],
+      "criterios": [
+        "HU01-K022"
+      ],
+      "productos": [],
+      "limite": "Ruta ilustrativa de un respaldo; no sustitución de todos los vínculos ni prueba de implementación."
+    },
+    {
+      "historia": "HU01-H017",
+      "necesidad_ejemplo": "N01-N023",
+      "evidencia": "N01-V0237",
+      "parrafo": "E04-P139",
+      "segmento": "R04-S107",
+      "codigos_asignados": [
+        "C055"
+      ],
+      "hallazgo_ejemplo": "S01-H015",
+      "temas_ejemplo": [
+        "S01-T005"
+      ],
+      "metadatos": "HU01-M017",
+      "operaciones": [
+        "HU01-OP069",
+        "HU01-OP070",
+        "HU01-OP071",
+        "HU01-OP072",
+        "HU01-OP073"
+      ],
+      "criterios": [
+        "HU01-K023"
+      ],
+      "productos": [],
+      "limite": "Ruta ilustrativa de un respaldo; no sustitución de todos los vínculos ni prueba de implementación."
+    },
+    {
+      "historia": "HU01-H018",
+      "necesidad_ejemplo": "N01-N025",
+      "evidencia": "N01-V0271",
+      "parrafo": "E05-P025",
+      "segmento": "R05-S013",
+      "codigos_asignados": [
+        "C034",
+        "C059"
+      ],
+      "hallazgo_ejemplo": "S01-H008",
+      "temas_ejemplo": [
+        "S01-T003"
+      ],
+      "metadatos": "HU01-M018",
+      "operaciones": [
+        "HU01-OP074",
+        "HU01-OP075",
+        "HU01-OP076",
+        "HU01-OP077"
+      ],
+      "criterios": [
+        "HU01-K024"
+      ],
+      "productos": [],
+      "limite": "Ruta ilustrativa de un respaldo; no sustitución de todos los vínculos ni prueba de implementación."
+    },
+    {
+      "historia": "HU01-H019",
+      "necesidad_ejemplo": "N01-N026",
+      "evidencia": "N01-V0297",
+      "parrafo": "E05-P014",
+      "segmento": "R05-S008",
+      "codigos_asignados": [
+        "C056"
+      ],
+      "hallazgo_ejemplo": "S01-H010",
+      "temas_ejemplo": [
+        "S01-T003"
+      ],
+      "metadatos": "HU01-M019",
+      "operaciones": [
+        "HU01-OP078",
+        "HU01-OP079",
+        "HU01-OP080",
+        "HU01-OP081"
+      ],
+      "criterios": [
+        "HU01-K025",
+        "HU01-K026"
+      ],
+      "productos": [],
+      "limite": "Ruta ilustrativa de un respaldo; no sustitución de todos los vínculos ni prueba de implementación."
+    },
+    {
+      "historia": "HU01-H020",
+      "necesidad_ejemplo": "N01-N028",
+      "evidencia": "N01-V0319",
+      "parrafo": "E05-P094",
+      "segmento": "R05-S073",
+      "codigos_asignados": [
+        "C019"
+      ],
+      "hallazgo_ejemplo": "S01-H011",
+      "temas_ejemplo": [
+        "S01-T004"
+      ],
+      "metadatos": "HU01-M020",
+      "operaciones": [
+        "HU01-OP082",
+        "HU01-OP083",
+        "HU01-OP084",
+        "HU01-OP085"
+      ],
+      "criterios": [
+        "HU01-K027"
+      ],
+      "productos": [],
+      "limite": "Ruta ilustrativa de un respaldo; no sustitución de todos los vínculos ni prueba de implementación."
+    },
+    {
+      "historia": "HU01-H021",
+      "necesidad_ejemplo": "N01-N029",
+      "evidencia": "N01-V0328",
+      "parrafo": "E05-P138",
+      "segmento": "R05-S107",
+      "codigos_asignados": [
+        "C040"
+      ],
+      "hallazgo_ejemplo": "S01-H019",
+      "temas_ejemplo": [
+        "S01-T006"
+      ],
+      "metadatos": "HU01-M021",
+      "operaciones": [
+        "HU01-OP086",
+        "HU01-OP087",
+        "HU01-OP088",
+        "HU01-OP089",
+        "HU01-OP090"
+      ],
+      "criterios": [
+        "HU01-K028"
+      ],
+      "productos": [],
+      "limite": "Ruta ilustrativa de un respaldo; no sustitución de todos los vínculos ni prueba de implementación."
+    }
+  ],
+  "archivos_reporte": [
+    {
+      "ruta": "P3002B_Evidencia1_Ricardo_Graffe.docx",
+      "bytes": 2152402,
+      "sha256": "4a5ec34332523f57c5162cc4f301d21a01b15b797461172ab2267fbed4cb2b26"
+    },
+    {
+      "ruta": "P3002B_Evidencia1_Ricardo_Graffe.pdf",
+      "bytes": 3286713,
+      "sha256": "ef9cc9ae8c10a9b3df6c2c363826f049c3912b8cb59714296ecd98d5c38c35d8"
+    },
+    {
+      "ruta": "en_linea/P3002B_Evidencia1_Ricardo_Graffe.docx",
+      "bytes": 2152847,
+      "sha256": "e0c5d451f261993d973f0bdfd0d15d4f2eebb7f47b832a0f7a04c3b09d219511"
+    },
+    {
+      "ruta": "en_linea/P3002B_Evidencia1_Ricardo_Graffe.pdf",
+      "bytes": 3297836,
+      "sha256": "500c35759b64d16abf1b6f7c2083cb9ef6772f3511e5a9e9250ee23b1f82ae54"
+    },
+    {
+      "ruta": "REP01_reporte_v1_3.md",
+      "bytes": 673468,
+      "sha256": "3461fb54a7c4ddf08433e106e5df06281865d4165f9f1772787d3a7d8791d671"
+    }
+  ],
+  "lecturas_complementarias_nuevas": [
+    {
+      "fuente": "GeoNode documentación 4.4.x",
+      "alcance": "Metadatos de datasets y permisos de documentos; no auditoría integral ni selección tecnológica."
+    },
+    {
+      "fuente": "GIDA CARE Principles",
+      "alcance": "Gobernanza condicional; no aplicación atribuida al corpus."
+    }
+  ],
+  "limites_preservados": [
+    "Aplicabilidad formal de modelos documentales a episodios no acreditada.",
+    "Posiciones ante homologación no recabadas.",
+    "Revisión humana independiente y aceptación de productos pendientes.",
+    "PID, tipos y perfiles externos FDO sin registrar.",
+    "Datos de capas no aportados; análisis y protocolos espaciales futuros sin ejecutar.",
+    "175 tratamientos históricos no equivalen a 175 cierres.",
+    "Servidores externos no sondeados por el verificador de distribución."
+  ]
+}
